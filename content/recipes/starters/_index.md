@@ -1,8 +1,11 @@
 ---
 linktitle: Starters
-title: Starters
 menu:
   main:
     parent: starters
-weight: 1
+  after:
+    name: starters
+    weight: 1
+title: Starters
+bookCollapseSection: true
 ---

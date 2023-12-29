@@ -1,7 +1,8 @@
 ---
 menu:
-  after:
-    name: recipes
-    weight: 2
+  main:
+    parent: content
 title: Recipes
+bookCollapseSection: true
+bookHidden: true
 ---
