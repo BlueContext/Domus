@@ -9,7 +9,6 @@ weight: 4
 categories:
 - Mexican
 - Tex-Mex
-- Meatless
 - Main Dish
 ---
 *Serves 4*

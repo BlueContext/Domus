@@ -7,7 +7,7 @@ menu:
 title: Viennese Cucumber Salad
 weight: 4
 categories:
-- Salads
+
 ---
 *Makes 4 cups*
 

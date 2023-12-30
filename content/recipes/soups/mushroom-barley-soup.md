@@ -7,7 +7,7 @@ menu:
 title: Mushroom & Barley Soup with Wild Rice
 weight: 2
 categories:
-- Soups
+
 ---
 *Serves 4-6*
 

@@ -7,7 +7,6 @@ menu:
 title: Florentine Dip
 weight: 2
 categories:
-- Starters 
 - Hors d'oeuvres 
 - Dips
 ---

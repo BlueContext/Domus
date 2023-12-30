@@ -7,7 +7,6 @@ menu:
 title: Lamb & Apricot Tagine
 weight: 4
 categories:
-- Lamb
 - Moroccan
 - Main Dish
 ---

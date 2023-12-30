@@ -7,7 +7,6 @@ menu:
 title: Jalapeno Spread
 weight: 3
 categories:
-- Starters 
 - Hors d'oeuvres 
 - Dips
 ---

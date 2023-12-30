@@ -7,7 +7,7 @@ menu:
 title: Potato Salad for a Party
 weight: 4
 categories:
-- Salads
+
 ---
 *Serves 10-12*
 

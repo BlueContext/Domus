@@ -7,7 +7,6 @@ menu:
 title: Pepper-Glazed Warm Goat Cheese
 weight: 1
 categories:
-- Starters 
 - Hors d'oeuvres 
 - Dips
 ---

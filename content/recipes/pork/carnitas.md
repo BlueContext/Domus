@@ -7,7 +7,6 @@ menu:
 title: Carnitas
 weight: 4
 categories:
-- Pork
 - Mexican
 - Tacos
 - Main Dish

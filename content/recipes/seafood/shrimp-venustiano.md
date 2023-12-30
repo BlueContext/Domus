@@ -8,7 +8,6 @@ title: Shrimp Venustiano
 weight: 4
 categories:
 - Shrimp
-- Seafood
 - Main Dish
 - Appetizer
 ---

@@ -7,7 +7,6 @@ menu:
 title: Sesame Ginger Dressing
 weight: 4
 categories:
-- Sauces
 - Dressings
 ---
 *Makes about 2 1/4 cups*

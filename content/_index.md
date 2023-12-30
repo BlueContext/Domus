@@ -8,7 +8,7 @@ type: docs
 {{< columns >}}
 ## I like to cook
 
-I always have. Feeding myself and my loved ones has always seemed like more of a pleasure than a chore to me. Cooking has been a constant companion as well as a source of joy and and endless domain of inquiry.
+I always have. Feeding myself and my loved ones has always seemed like more of a pleasure than a chore to me. Cooking has been a constant companion as well as a source of joy and an endless domain of inquiry.
 
 <--->
 
