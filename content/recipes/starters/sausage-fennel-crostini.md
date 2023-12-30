@@ -5,16 +5,14 @@ menu:
   main:
     parent: starters
 title: Sausage & Fennel Crostini
+serves: "Makes 12 pieces"
+summary: "This unusual recipe is my favorite appetizers for entertaining. They come together in a snap, and they’re mouthwateringly good. This recipe highlights the sweet, delicious taste of fennel seed, which rarely sees much play in American kitchens. "
 categories:
 - Hors d'oeuvres 
 ---
-*Makes 12 pieces*
+I don’t find Robiola often, but while it’s wonderful if you can find it, the suggested substitutes work beautifully.
 
-## Introduction
-
-This unusual recipe is my favorite appetizers for entertaining. They come together in a snap, and they’re mouthwateringly good. This recipe highlights the sweet, delicious taste of fennel seed, which rarely sees much play in American kitchens. I don’t find Robiola often, but while it’s wonderful if you can find it, the suggested substitutes work beautifully.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -25,7 +23,7 @@ This unusual recipe is my favorite appetizers for entertaining. They come togeth
 
 </div>
 
-## Instructions
+### Instructions
 
 Preheat the oven to 350 F.
 

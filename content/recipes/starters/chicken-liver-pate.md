@@ -5,16 +5,14 @@ menu:
   main:
     parent: starters
 title: Chicken Liver Pâté
+serves: Serves 8
+summary: "Everybody should have a “fancy” appetizer up their sleeve – one that doesn’t break the bank or trap you in the kitchen away from your guests. This is one of mine: a silken, buttery French pâté that you can make ahead and requiring little more than inexpensive chicken livers. "
 categories:
 - Hors d'oeuvres 
 ---
-*Serves 8*
+It’s rich, so you’ll want something tart along with it. A jar of French cornichon does the trick, but a quick homemade pickle (like the pickled red onions or pickled apricots included in this book) can be done well in advance with hardly fifteen minutes more work, and is guaranteed to impress.
 
-## Introduction
-
-Everybody should have a “fancy” appetizer up their sleeve – one that doesn’t break the bank or trap you in the kitchen away from your guests. This is one of mine: a silken, buttery French pâté that you can make ahead and requiring little more than inexpensive chicken livers. It’s rich, so you’ll want something tart along with it. A jar of French cornichon does the trick, but a quick homemade pickle (like the pickled red onions or pickled apricots included in this book) can be done well in advance with hardly fifteen minutes more work, and is guaranteed to impress. 
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -29,7 +27,7 @@ A pinch of allspice
 
 </div>
 
-## Instructions
+### Instructions
 
 Trim the livers carefully, removing the tough tissue that connects the lobes as well as any fat you find.
 

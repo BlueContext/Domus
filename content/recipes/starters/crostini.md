@@ -5,16 +5,12 @@ menu:
   main:
     parent: starters
 title: Crostini
-categories:
+serves: Makes about 2 dozen toasts
+summary: "Crostini are merely toasted slices of baguette, but they’re infinitely variable as a platform for quick, elegant appetizers. Here are a few ideas for quick entertaining."
+categories: 
 - Hors d'oeuvres 
 ---
-*Makes about 2 dozen toasts*
-
-## Introduction
-
-Crostini are merely toasted slices of baguette, but they’re infinitely variable as a platform for quick, elegant appetizers.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -24,7 +20,7 @@ Kosher salt or coarse sea salt
 
 </div>
 
-## Instructions
+### Instructions
 
 Preheat oven to 300 F.  Brush both sides of each slice of bread with olive oil and arrange them on an ungreased baking sheet. (I sometimes just lay the slices on the pan and drizzle them with the thin stream of oil – they come out just fine.)  Sprinkle the bread with salt.  A little bit of Spanish smoked paprika adds both color and a hint of smoky flavor if you’ve got it on hand.
 

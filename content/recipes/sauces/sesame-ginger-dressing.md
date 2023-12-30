@@ -5,17 +5,12 @@ menu:
   main:
     parent: sauces
 title: Sesame Ginger Dressing
-weight: 4
+serves: "Makes about 2 1/4 cups"
+summary: "This bold dressing from Restaurant Biga in San Antonio also makes a great marinade for fish or chicken that is to be grilled. Which is great, because it makes a *lot* for salad dressing."
 categories:
 - Dressings
 ---
-*Makes about 2 1/4 cups*
-
-## Introduction
-
-This bold dressing from Restaurant Biga in San Antonio also makes a great marinade for fish or chicken that is to be grilled. Which is great, because it makes a *lot* for salad dressing.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -35,6 +30,6 @@ Salt and pepper to taste
 
 </div>
 
-## Instructions
+### Instructions
 
 Combine all ingredients except the oils, salt and pepper, and whisk to combine well. Slowly pour in the oils while continuing to whisk. Season with salt and pepper. Refrigerator for at least an hour to allow flavors to marry.

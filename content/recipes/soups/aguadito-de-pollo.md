@@ -5,14 +5,12 @@ menu:
   main:
     parent: soups
 title: Aguadito de Pollo
+serves: "Serves 4-6"
+summary: "This is a delicious, herbal, and fresh-tasting version of chicken soup. "
 categories:
 
 ---
-*Serves 4-6*
-
-### Introduction
-
-This is a delicious, herbal, and fresh-tasting version of chicken soup. The aji amarillo paste isn’t common in American supermarkets, and unfortunately there’s no real substitute for it. It can be hand very easily online.
+The aji amarillo paste isn’t common in American supermarkets, and unfortunately there’s no real substitute for it. It can be hand very easily online.
 
 ### Ingredients
 

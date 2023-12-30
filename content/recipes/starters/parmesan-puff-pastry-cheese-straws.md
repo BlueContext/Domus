@@ -5,16 +5,14 @@ menu:
   main:
     parent: starters
 title: Parmesan Puff-Pastry Cheese Straws
+serves: "Makes about 2 dozen"
+summary: "Serve these long and lovely cheese straws upright in a clear glass vase to add an element of dramatic height to an hors d'oeuvres table. "
 categories:
 - Hors d'oeuvres 
 ---
-*Makes about 2 dozen*
+These are a bit of a project, but they’re absolutely addictive. Use best-quality Parmigiano Reggiano, as there are few other flavors here and the rich nuttiness of the toasted cheese is a highlight.
 
-## Introduction
-
-Serve these long and lovely cheese straws upright in a clear glass vase to add an element of dramatic height to an hors d'oeuvres table. These are a bit of a project, but they’re absolutely addictive. Use best-quality Parmigiano Reggiano, as there are few other flavors here and the rich nuttiness of the toasted cheese is a highlight.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -28,7 +26,7 @@ Flour for work surface
 
 </div>
 
-## Instructions
+### Instructions
 
 Preheat oven to 425 F. Line 2 baking sheets with parchment paper.
 

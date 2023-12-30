@@ -5,15 +5,12 @@ menu:
   main:
     parent: starters
 title: Cheese Straws
+serves: 
+summary: An old southern classic for a reason – these are just plain good. The dough freezes beautifully when wrapped tightly in plastic wrap.  
 categories: 
 - Hors d'oeuvres
 ---
-
-## Introduction
-
-An old southern classic for a reason – these are just plain good. The dough freezes beautifully when wrapped tightly in plastic wrap.  
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -27,7 +24,7 @@ An old southern classic for a reason – these are just plain good. The dough fr
 
 </div>
 
-## Instructions
+### Instructions
 
 Sift the flour, salt, mustard and cayenne into a medium bowl.
 

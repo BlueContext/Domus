@@ -5,14 +5,12 @@ menu:
   main:
     parent: poultry
 title: Duck & Sausage Gumbo
+serves: "Serves 6-8"
+summary: "This is delicious any time of year, but makes a great buffet centerpiece for a holiday open house."
 categories:
 - Main Dish
 ---
-*Serves 6-8*
-
-### Introduction
-
-Duck is certainly delicious, but also expensive. Fortunately, this is a very flexible recipe. I almost always make it with chicken thighs and legs. I also almost always halve the recipe, since it makes enough gumbo for a small army (or a big party!). The full recipe makes a great buffet centerpiece for a holiday open house.
+Duck is certainly delicious, but also expensive. Fortunately, this is a very flexible recipe. I almost always make it with chicken thighs and legs. I also almost always halve the recipe, since it makes enough gumbo for a small army (or a big party!).
 
 ### Ingredients
 
@@ -46,6 +44,5 @@ Pour off all but 1/3 cup fat from skillet. Add flour and cook roux over moderate
 
 Simmer gumbo, uncovered, 2 hours and let cool completely. Bone duck, discarding skin and bones. Chill gumbo overnight. Gumbo may be made 2 days in advance and kept covered and chilled. Discard fat on surface and reheat gumbo with okra, cayenne, scallions, and salt to taste over moderate heat.
 
-**To prepare the rice:**
-
+#### To prepare the rice: 
 To a kettle of boiling salted water add brown rice, stirring, and boil 15 minutes. Drain rice in a large colander and rinse. Put colander over a kettle of boiling water and steam brown rice, covered with a kitchen towel and a lid, until fluffy and dry, about 25 minutes. Cook white rice in same manner, boiling 10 minutes and steaming 15 minutes. In a bowl toss brown and white rice together. Rice may be made 3 days in advance and kept chilled in resealable plastic bags. Steam rice to reheat.

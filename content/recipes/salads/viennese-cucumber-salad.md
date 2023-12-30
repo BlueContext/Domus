@@ -5,19 +5,16 @@ menu:
   main:
     parent: salads
 title: Viennese Cucumber Salad
-weight: 4
+serves: "Serves 6-8"
+summary: "This is a light, simple, and delicious Old World dish that’s somewhere between a salad and a light pickle. It's an ideal side-dish along with a rich stew or goulash. "
 categories:
 
 ---
-*Makes 4 cups*
-
-## Introduction
-
-This is a light, simple, and delicious Old World dish that’s somewhere between a pickle and a salad. You want the cucumbers sliced very thin and very consistently here, so either a mandolin or a food processor fitted with a slicing disk will work best.
+You want the cucumbers sliced very thin and very consistently here, so either a mandolin or a food processor fitted with a slicing disk will work best.
 
 For a crunchy variation, mix the finished salad with a handful of thinly sliced fennel bulb and a tablespoon or so of minced fennel fronds.
 
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -32,7 +29,7 @@ A pinch of celery seed
 
 </div>
 
-## Instructions
+### Instructions
 
 Score the cucumbers lengthwise with a fork and slice very thin. In a large bowl, toss the cucumbers with the salt and let stand for 1 hour.
 

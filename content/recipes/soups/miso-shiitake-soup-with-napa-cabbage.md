@@ -5,15 +5,11 @@ menu:
   main:
     parent: soups
 title: Miso-Shiitake Soup with Napa Cabbage
+serves: "Serves 6"
+summary: "Easy, filling, tasty, unusual and vegan! Some of these ingredients may be unfamiliar in your kitchen, but none are hard to find. Miso, in particular, should be in everyone’s fridge. It keeps forever, and a tiny bit can add so much flavor to sauces, soups, marinades, glazes, etc."
 categories:
 - Vegetarian
 ---
-*Serves 6*
-
-### Introduction
-
-Easy, filling, tasty, unusual and vegan! Some of these ingredients may be unfamiliar in your kitchen, but none are hard to find. Miso, in particular, should be in everyone’s fridge. It keeps forever, and a tiny bit can add so much flavor to sauces, soups, marinades, glazes, etc. 
-
 ### Ingredients
 
 <div class="ingredient-list">

@@ -5,17 +5,15 @@ menu:
   main:
     parent: starters
 title: Egg Rolls
+serves: Makes 24 rolls
+summary: "When you think of a delicious take-out egg rolls, this is what you’re thinking of. "
 categories:
 - Hors d'oeuvres 
 - Chinese
 ---
-*Makes 24 pieces*
+You can buy char siu (Chinese BBQ pork) at many chinese markets and restaurants, but it’s well worth making your own. These freeze beautifully before cooking, or after cooking (but leave them slightly undercooked, and drain well -- in this case, they can be warmed in a moderate oven).
 
-## Introduction
-
-When you think of a delicious take-out egg rolls, this is what you’re thinking of.  You can buy char siu (Chinese BBQ pork) at many chinese markets and restaurants, but it’s well worth making your own. These freeze beautifully before cooking, or after cooking (but leave them slightly undercooked, and drain well -- in this case, they can be warmed in a moderate oven).
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -37,7 +35,7 @@ When you think of a delicious take-out egg rolls, this is what you’re thinking
 
 </div>
 
-## Instructions
+### Instructions
 
 Bring a large pot of water to a boil. Put the cabbage, carrots, and celery into the boiling water and cook for about 2 minutes. Transfer to an ice bath and drain. Thoroughly squeeze out all the excess water from the vegetables (you can put the drained vegetables in a clean kitchen towel and squeeze out the water). This is a very important step — a wet filling will yield soggy, sodden egg rolls.
 

@@ -5,17 +5,16 @@ menu:
   main:
     parent: beef
 title: Carnitas
-weight: 4
+serves: "Serves 8"
+summary: "This is an extremely easy version of a Tex-Mex classic. "
 categories:
 - Mexican
 - Tacos
 - Main Dish
 ---
-*Serves 8*
+The mixture of oil and pork fat that you’ll skim off the meat after it cooks makes a delicious cooking fat — separate it carefully from any liquid and store it in a jar in the fridge. 
 
-### Introduction
-
-This is an extremely easy version of a Tex-Mex classic. The mixture of oil and pork fat that you’ll skim off the meat after it cooks makes a delicious cooking fat — separate it carefully from any liquid and store it in a jar in the fridge. 
+This makes a lot, and although it freezes very well, I usually halve this recipe.
 
 ### Ingredients
 

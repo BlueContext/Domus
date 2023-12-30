@@ -5,17 +5,14 @@ menu:
   main:
     parent: starters
 title: Crab & Pork Spring Rolls
+serves: Serves 12
+summary: These are a bit of a project, but you’ll be astonished at how good they are! The pork is critical in these crisp little rolls — the pork fat brings all of the other flavors together and provides an intensity and tenderness to the delicate crab.  Don’t skip the pungent, kicky dipping sauce; it’s key to the flavor profile of this dish. This recipe can easily be halved.
 categories:
 - Hors d'oeuvres 
 - Crab
 - Vietnamese
 ---
-*Serves 12*
-
-## Introduction
-These are a bit of a project, but you’ll be astonished at how good they are! The pork is critical in these crisp little rolls — the pork fat brings all of the other flavors together and provides an intensity and tenderness to the delicate crab.  Don’t skip the pungent, kicky dipping sauce; it’s key to the flavor profile of this dish. This recipe can easily be halved.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -44,7 +41,7 @@ Fresh Thai or Serrano chile (2 to 3 inches; preferably red) including seeds, thi
 
 </div>
 
-## Instructions
+### Instructions
 
 **Make the dipping sauce:**   
 

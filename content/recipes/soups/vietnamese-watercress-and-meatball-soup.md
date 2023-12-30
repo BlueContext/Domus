@@ -5,14 +5,12 @@ menu:
   main:
     parent: soups
 title: Vietnamese Watercress & Meatball Soup
+serves: "Serves 4"
+summary: "The tart, peppery taste of watercress is underused in American kitchens. Here, it's showcased set against the richness of pork and fragrant aromatics. "
 categories:
 - Vietnamese
 ---
-*Serves 4*
-
-### Introduction
-
-The tart, peppery taste of watercress is underused in American kitchens. Here, it's showcased set against the richness of pork and fragrant aromatics. As ever, don't be afraid of the fish sauce here -- it's essential, and delicious.
+As ever, don't be afraid of the fish sauce here -- it's essential, and delicious.
 
 ### Ingredients
 

@@ -5,16 +5,13 @@ menu:
   main:
     parent: seafood
 title: Grilled Salmon with Thai Vegetable Salad
-weight: 4
+serves: "Serves 6"
+summary: "This is a bright, attractive and flavorful dish from Restaurant Biga back in the early 90s. The salad isn't actually Thai in any discernable way, but it is crunchy and delicious. With the tangy grilled salmon, it makes a beautiful entree for a summer dinner."
 categories:
 - Salmon
 - Main Dish
 ---
-*Serves 6*
-
-### Introduction
-
-This is a bright, attractive and flavorful dish from Restaurant Biga back in the early 90s. The salad isn't actually "Thai" in any discernable way, but it is crunchy and delicious. The final dish comes together in a snap, but make sure you’ve done your prep work: blanch the asparagus, julienne the vegetables, make the dressing, fry the won-tons and noodles, etc. This makes a beautiful entree for a summer dinner.
+The final dish comes together in a snap, but make sure you’ve done your prep work: blanch the asparagus, julienne the vegetables, make the dressing, fry the won-tons and noodles, etc.
 
 ### Ingredients
 

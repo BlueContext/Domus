@@ -5,21 +5,15 @@ menu:
   main:
     parent: beef
 title: Beef Wellington
-weight: 4
+serves: "Serves 4"
+summary: "Here is a dish for a truly special occasion, when only the best will do. It's the work of a few days, so read the entire recipe and make your plan in advance."
 categories:
 - French
 - Holidays
 - Dinner Party
 - Main Dish
 ---
-*Serves 4*
-
-### Introduction
-
-Here is a dish for a truly special occasion, when only the very best will do. It's the work of a few days, so read the entire recipe and make your plan in advance.
-
 Serve this with a rich reduction of demiglace and Madeira enriched with a spoonful of butter at the end.
-
 
 ### Ingredients
 

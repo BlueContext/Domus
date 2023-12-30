@@ -5,17 +5,13 @@ menu:
   main:
     parent: starters
 title: Salmon Mousse with Salmon Caviar
+serves: "Serves 12-14"
+summary: "This is a bit of a production, but it’s lush, sophisticated, and makes a gorgeous center-piece for an hors d’oeuvre table at a special occasion. "
 categories:
 - Hors d'oeuvres 
 - Dips
 ---
-*Serves 12-14*
-
-## Introduction
-
-This is a bit of a production, but it’s lush, sophisticated, and makes a gorgeous center-piece for an hors d’oeuvre table at a special occasion. 
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -38,7 +34,7 @@ Assorted crudités such as cucumber, celery, jícama, daikon, and blanched snow 
 
 </div>
 
-## Instructions
+### Instructions
 
 Put the fresh salmon fillet in a buttered small heavy casserole just large enough to hold it, season with salt and pepper, top with 2 lemon slices and 4 tbsp butter (in 1 tbsp pats), and sprinkle the vermouth over the salmon. Cover the salmon and bake it in the middle of a preheated 350 F oven for 12-15 min, or until it just barely flakes when tested with a fork.
 

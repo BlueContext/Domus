@@ -8,12 +8,6 @@
   {{ end }}
 {{ end }}
 
-{{ if .Params.serves }}
-<div>
-  <p class="serves"> {{ .Params.serves }} </p>
-</div>
-{{ end }}
-
 {{ if .Params.image }}
 <p>
   {{ with .Resources.GetMatch .Params.image }}

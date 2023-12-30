@@ -5,14 +5,11 @@ menu:
   main:
     parent: soups
 title: Feel-Good Chicken Soup
+serves:
+summary: "Spicy, gingery and fresh-tasting — this is perfect to clear your sinuses and your head."
 categories:
 
 ---
-
-### Introduction
-
-Spicy, gingery and fresh-tasting — this is perfect to clear your sinuses and your head.
-
 ### Ingredients
 
 <div class="ingredient-list">

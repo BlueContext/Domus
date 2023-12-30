@@ -5,17 +5,13 @@ menu:
   main:
     parent: starters
 title: Smoked Salmon Pâté
+serves: Serves 15-18
+summary: "This classic recipe can be halved for a smaller crowd. It’s elegant, requires no cooking, and can be made the day before."
 categories:
 - Hors d'oeuvres 
 - Dips
 ---
-*Serves 15-18*
-
-## Introduction
-
-This classic recipe can be halved for a smaller crowd. It’s elegant, requires no cooking, and can be made the day before.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -30,7 +26,7 @@ Toast points or crackers to serve
 
 </div>
 
-## Instructions
+### Instructions
 
 In a food processor fitted with the standard blade, blend the salmon in  2 batches with the butter, lemon juice and cream until the mixture is smooth, transferring it to a bowl when blended.  Stir in the cayenne and drops of Tabasco sauce.  Taste and add lemon juice or Tabasco to correct seasoning.
 

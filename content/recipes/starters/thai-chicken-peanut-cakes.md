@@ -5,15 +5,12 @@ menu:
   main:
     parent: starters
 title: Crunchy Thai Chicken and Peanut Cakes
+serves: "Makes 24"
+summary: "Small cakes on toothpicks make a great finger food, or shape slightly larger cakes to serve over steamed rice with cilantro leaves, sliced scallions and chopped peanuts for a light supper."
 categories:
 - Thai
 ---
-*Makes 24*
-
-## Introduction  
-Small cakes on toothpicks make a great finger food, or shape slightly larger cakes to serve over steamed rice with cilantro leaves, sliced scallions and chopped peanuts for a light supper.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -35,7 +32,7 @@ Extra sweet chili sauce for serving.
 
 </div>
 
-## Instructions
+### Instructions
 
 Mix the sugar into the fish sauce and place in a bowl with the chicken, peanuts, breadcrumbs, curry paste, lime juice, kaffir lime leaves, sweet chili sauce and cilantro. Mix until thoroughly combined.
 

@@ -4,8 +4,8 @@
     <h2>
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
     </h2>
-    {{ partial "docs/recipe-meta" . }}
-    <p>
+    {{ partial "docs/recipe-list-meta" . }}
+    <p class="summary">
       {{- .Summary -}}
       {{ if .Truncated }}
         <a href="{{ .RelPermalink }}">...</a>

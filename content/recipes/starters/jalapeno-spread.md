@@ -5,17 +5,15 @@ menu:
   main:
     parent: starters
 title: Jalapeno Spread
+serves: "Makes enough for a party"
+summary: "An old Texas favorite, this simple spread is perfect with club crackers."
 categories:
 - Hors d'oeuvres 
 - Dips
 ---
-*Makes enough for a party.*
-
-## Introduction
-
 If you don’t have a food grinder, finely mince the jalapeños, onion, and garlic in a food processor, shred the cheese, and mix everything for 5 minutes or so in a stand mixer.  A combination of red and green jalapeños makes a nice-looking spread for a Christmas party.
 
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -27,6 +25,6 @@ If you don’t have a food grinder, finely mince the jalapeños, onion, and garl
 
 </div>
 
-## Instructions
+### Instructions
 
 Put the first four ingredients through a food grinder. Mix in the mayonnaise. Cover and refrigerate over night. Allow to warm up slightly before serving.

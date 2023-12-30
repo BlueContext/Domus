@@ -5,6 +5,11 @@
     {{ partial "docs/title.html" . }}
   </h1>
   {{ partial "docs/recipe-meta" . }}
+
+  {{ if .Params.summary }}
+    <p> {{ .Params.summary }} </p>
+  {{end }}
+
   {{- .Content -}}
 </article>
 {{ end }}

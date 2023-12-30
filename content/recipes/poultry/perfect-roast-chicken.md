@@ -5,14 +5,14 @@ menu:
   main:
     parent: poultry
 title: Perfect Roast Chicken with Warm Bread Salad
+serves: "Serves 4-6"
+summary: "Julia Child famously said that a perfect roast chicken requires a “greed for perfection”. This version requires a bit of forethought but could hardly be easier. And it’s nearly the perfect chicken meal — shatteringly crisp skin, moist and flavorful meat, and and light arugula salad studded with croutons of crusty bread flavored with chicken drippings and browned in chicken fat. "
 categories:
 - Main Dish
 ---
-*Serves 4-6*
+This is a dish that showcases the goodness of chicken itself, so you want the best bird you can get your hands on. If you’ve sprung for a pasture-raised chicken at the farmer’s market, this is a recipe that will highlight that kind of quality product.
 
-### Introduction
-
-Julia Child famously said that a perfect roast chicken requires a "greed for perfection". This requires a bit of forethought (you need to let the chicken dry-brine for 24 hours), but could hardly be easier. And it’s nearly the perfect chicken meal — shatteringly crisp skin, moist and flavorful meat, and and light arugula salad studded with croutons of crusty bread flavored with chicken drippings and browned in chicken fat. This is a dish that showcases the goodness of chicken itself, so you want the best bird you can get your hands on. If you’ve sprung for a pasture-raised chicken at the farmer’s market, this is a recipe that will highlight that kind of quality product.
+You need to let the chicken dry-brine for 24 hours, so plan ahead.
 
 ### Ingredients
 

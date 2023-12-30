@@ -5,15 +5,12 @@ menu:
   main:
     parent: starters
 title: Sausage Balls
+serves: "Makes 100 pieces"
+summary: "These aren’t winning any awards for elegance or culinary sophistication, but they’re rich, spicy and just plain good. It’s one of those hokey old recipes that’s been around forever…and there’s a reason for that!"
 categories:
 - Hors d'oeuvres
 ---
-*Makes 100 pieces*
-
-## Introduction
-These aren’t winning any awards for elegance or culinary sophistication, but they’re rich, spicy and just plain good. It’s one of those hokey old recipes that’s been around forever…and there’s a reason for that!
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -25,7 +22,7 @@ These aren’t winning any awards for elegance or culinary sophistication, but t
 
 </div>
 
-## Instructions
+### Instructions
 
 Let all ingredients come to room temperature for 30 minutes.  
 
