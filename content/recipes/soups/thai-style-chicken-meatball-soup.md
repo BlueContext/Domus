@@ -5,15 +5,11 @@ menu:
   main:
     parent: soups
 title: Thai-Style Chicken Meatball Soup
+serves: "Serves 4-6"
+summary: "This comes together in about 30 minutes, and makes a very fresh and satisfying weeknight dinner."
 categories:
 
 ---
-*Serves 4-6*
-
-### Introduction
-
-This comes together in about 30 minutes, and makes a very fresh and satisfying weeknight dinner.
-
 ### Ingredients
 
 <div class="ingredient-list">

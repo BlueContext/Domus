@@ -5,18 +5,13 @@ menu:
   main:
     parent: seafood
 title: Shrimp Pernod
-weight: 4
+serves: "Serves 6 as a first course, 4 as a main"
+summary: "Unusual, elegant and delicious. Can as an appetizer, or plated (over pasta or on its own) as a main dish."
 categories:
 - Shrimp
 - Main Dish
 - Appetizer
 ---
-*Serves 6 as first course, 4 as main course*
-
-### Introduction
-
-
-
 ### Ingredients
 
 <div class="ingredient-list">

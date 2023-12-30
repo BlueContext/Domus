@@ -5,16 +5,16 @@ menu:
   main:
     parent: starters
 title: Rillettes
+serves: Makes 4 cups
+summary: "Rillettes have variously been described as “pork butter” and “jam from the pig”, which should be sufficient to express just how delicious they are. This rich, old-fashioned French favorite is definitely worth a try."
+
 categories:
 - Hors d'oeuvres 
+- French
 ---
-*Makes 4 cups or 1 litre*
+This incredibly rich spread of braised pork and pork fat is a sort of pate and, like most such things, was a method for preserving animal protein in the days before refrigeration. We eat this today because our ancestors made something magnificent out of grim necessity. This recipe takes some time but most of it is unattended cooking time, and the whole thing can be done weeks in advance in any case. Serve your rillettes with toasted slices of French bread and something a bit sour to cut the richness of the pork. Cornichons or a bright chutney work well, as do the pickled apricots described in this book.
 
-## Introduction
-
-This incredibly rich spread of braised pork and pork fat is a sort of pate and, like most such things, was a method for preserving animal protein in the days before refrigeration. We eat this today because our ancestors made something magnificent out of grim necessity. Rillettes have variously been described as “pork butter” and “jam from the pig”, which should be sufficient to express just how delicious they are.  This recipe takes some time but most of it is unattended cooking time, and the whole thing can be done weeks in advance in any case. Serve your rillettes with toasted slices of French bread and something a bit sour to cut the richness of the pork. Cornichons or a bright chutney work well, as do the pickled apricots described in this book.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -35,7 +35,7 @@ Olive oil
 
 </div>
 
-## Instructions
+### Instructions
 
 Take a piece of cheesecloth and place on it the carrot, the onion, the thyme, the peppercorns, the garlic cloves and the bay leaf. Gather up the edges of the cheesecloth and tie it off with kitchen string to form a bundle or bag.
 

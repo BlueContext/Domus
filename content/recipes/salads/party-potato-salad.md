@@ -5,15 +5,12 @@ menu:
   main:
     parent: salads
 title: Potato Salad for a Party
-weight: 4
+serves: "Serves 10-12"
+summary: "It took me years to work out a potato salad recipe that I actually like, and here it is. If you’re not cooking for a crowd, cut this recipe in half. It can also be doubled for a big event, and made up to 2 days in advance. "
 categories:
 
 ---
-*Serves 10-12*
-
-### Introduction
-
-It took me years to work out a potato salad recipe that I actually like, and here it is. If you’re not cooking for a crowd, cut this recipe in half. It can also be doubled for a big event, and made up to 2 days in advance.  Sometimes, when you do the final mix you may find you want a couple more tablespoons of mayonnaise — simply add a tablespoon at a time until you have a consistency you like.
+Sometimes, when you do the final mix you may find you want a couple more tablespoons of mayonnaise — simply add a tablespoon at a time until you have a consistency you like.
 
 ### Ingredients
 
@@ -47,8 +44,11 @@ Meanwhile, stir together 1 cup of the mayonnaise with the celery, jalapeño, pic
 
 Using rubber spatula, gently fold the mayonnaise mixture and eggs (if using) into the potatoes.
 
-**To Store:** Cover tightly with plastic wrap and refrigerate for up to 2 days.
+#### To Store 
+Cover tightly with plastic wrap and refrigerate for up to 2 days.
 
-**To Serve:** Let the salad stand at room temperature about 1 hour. Gently fold in the remaining 1 cup mayonnaise and season with salt and pepper to taste.
+#### To Serve 
+Let the salad stand at room temperature about 1 hour. Gently fold in the remaining 1 cup mayonnaise and season with salt and pepper to taste.
 
-**To Serve Right Away:** Stir all of the mayonnaise into the potatoes in step 4, cover tightly with plastic wrap, and refrigerate until chilled, about 1 hour.
+#### To Serve Right Away 
+Stir all of the mayonnaise into the potatoes in step 4, cover tightly with plastic wrap, and refrigerate until chilled, about 1 hour.

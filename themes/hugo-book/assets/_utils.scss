@@ -85,6 +85,14 @@ input.toggle {
   overflow-y: auto;
 }
 
+@mixin relative {
+  position: relative;
+  top: 0;
+  bottom: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 @mixin outline {
   outline-style: auto;
   outline-color: currentColor;

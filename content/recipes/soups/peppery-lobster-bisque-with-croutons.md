@@ -5,15 +5,13 @@ menu:
   main:
     parent: soups
 title: Peppery Lobster Bisque with Star Croûtons
+serves: "Serves 4-6"
+summary: "This makes a very elegant first course for a Christmas or New Year’s dinner. It’s not a simple recipe, but it’s a lovely one and eminently do-able with a little planning."
 categories:
 - Holidays
 - Lobster
 ---
-*Serves 4-6*
-
-### Introduction
-
-This makes a very elegant first course for a Christmas or New Year’s dinner. It’s not a simple recipe, but it’s a lovely one and eminently do-able with a little planning. Guests will appreciate the luxury of lobster; by extracting as much flavor as possible from the single lobster’s shell you’ll make economical use of a premium product. I won’t lie to you: pretty much every step in the preparation of a live lobster will make you feel like Ellen Ripley if Alien had been set in your kitchen. The best advice I can give is to keep your good humor and power through it. The results are well worth it.
+Guests will appreciate the luxury of lobster; by extracting as much flavor as possible from the single lobster’s shell you’ll make economical use of a premium product. I won’t lie to you: pretty much every step in the preparation of a live lobster will make you feel like Ellen Ripley if Alien had been set in your kitchen. The best advice I can give is to keep your good humor and power through it. The results are well worth it.
 
 ### Ingredients
 
@@ -49,12 +47,12 @@ Tabasco sauce, to taste
 
 ### Instructions
 
-**For the star croûtons:**  
+#### For the star croûtons:  
 With a rolling pin, lightly flatten the bread between 2 sheets of waxed paper to a thickness of 1/8 inch. Using a small star cutter, cut out small stars from the bread, reserving the scraps for bread crumbs if desired. Brush each side of the stars with butter, season with salt and pepper, sprinkle very lightly with cayenne, arrange on a baking sheet and bake at 350 F, turning at least once, until golden on both sides. Transfer to a bowl or plate and set aside. 
 
-**To cook and shell lobster:**  
+#### To cook and shell lobster:  
 
-**For the soup:**  
+#### For the soup:  
 The steps up to this point can be completed 1 day in advance; cover the lobster meat tightly with plastic film and refrigerate. Do the same for the liquid exuded by the lobster. Put the chopped shells into a plastic freezer bag and put them in the freezer.
 
 To the lobster liquid, add enough water to make 6 cups of liquid. Melt the butter in a 4-quart saucepan or pot. When the foam subsides, add the lobster shells and cook, stirring occasionally, until they begin to blister and turn intensely red.  Add the liquid and 1 tsp salt, and bring to a boil over high heat. Reduce to medium-low and simmer for 30 minutes uncovered. Skim off any foam or scum that surfaces.

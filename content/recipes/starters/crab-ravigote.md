@@ -5,20 +5,16 @@ menu:
   main:
     parent: starters
 title: Crab “Ravigote”
+serves: Serves 6-10
+summary: "Ravigote generally refers to a zesty cold sauce with capers, herbs and shallots…which is nothing like the (deliciously rich) recipe below, but this warm dip is what they serve as “Crab Ravigote” at the venerable Galatoire’s on Bourbon Street in New Orleans, and who am I to argue? This is great for a party."
 categories:
 - Hors d'oeuvres 
 - Dips
 - Crab
 ---
-*Serves 6-10*
-
-## Introduction
-
-Ravigote generally refers to a zesty cold sauce with capers, herbs and shallots…which bears no resemblance to the (deliciously luxurious) recipe below, but this is what they serve as “Crab Ravigote” at the venerable Galatoire’s on Bourbon Street in New Orleans, and who am I to argue? This is great for a party.
-
 *Read this in advance, as it calls for two other sauces as ingredients.*
 
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -34,7 +30,7 @@ Olive oil or clarified butter
 
 </div>
 
-## Instructions
+### Instructions
 
 Heat the oven to 250 F. Brush the sliced bread lightly with olive oil or clarified butter and place on cookie sheets.  Bake until golden and crisp, about 10 minutes.  Set aside. These can be made early in the day; once they’re completely cool, seal them up in a large freezer bag.
 

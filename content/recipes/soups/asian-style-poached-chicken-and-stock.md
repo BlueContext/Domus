@@ -5,14 +5,11 @@ menu:
   main:
     parent: soups
 title: Asian-Style Poached Chicken & Stock
+serves:
+summary: "This fragrant, clean-tasting stock is great to have in the freezer."
 categories:
 
 ---
-
-### Introduction
-
-This fragrant, clean-tasting stock is great to have in the freezer.
-
 ### Ingredients
 
 <div class="ingredient-list">

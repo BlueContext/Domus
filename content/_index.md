@@ -1,6 +1,7 @@
 ---
 title: Introduction
 type: docs
+BookToC: false
 ---
 
 # It's Latin for 'home'...

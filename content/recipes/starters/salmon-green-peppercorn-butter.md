@@ -5,17 +5,13 @@ menu:
   main:
     parent: starters
 title: Salmon & Green Peppercorn Butter
+serves: "Serves 15-18"
+summary: "This buttery spread grains sophistication from the addition of Pernod and green peppercorns."
 categories:
 - Hors d'oeuvres 
 - Dips
 ---
-*Serves 15-18*
-
-## Introduction
-
-
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -27,14 +23,14 @@ categories:
 1/2 tsp finely grated lemon zest  
 2 tbsp Pernod  
 1/2 tsp salt  
-1 1/4 (10 tbsp) butter  
+1 1/4 sticks (10 tbsp) butter  
 2 tsp fresh lemon juice, or to taste  
 A decoratively cut lemon since and some fennel fronds for garnish if desired  
 Fennel crudite and crackers to serve    
 
 </div>
 
-## Instructions
+### Instructions
 
 Put the salmon in a buttered small heavy casserole just large enough to hold it and top with fennel seeds, the anchovy, the tomato paste, 2 tsp of the peppercorns, the lemon zest, the Pernod, and the salt. Cover the salmon with 4 tbsp of the butter, sliced thin, and bake it, covered, in the middle of a preheated 350 F oven for 12-15 min, or until it just barely flakes when tested with a fork.
 

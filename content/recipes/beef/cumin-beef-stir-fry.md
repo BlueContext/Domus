@@ -5,17 +5,12 @@ menu:
   main:
     parent: beef
 title: Stir-Fried Beef with Cumin & Chiles 
-weight: 4
+serves: "Serves 4"
+summary: "This is an easy weeknight stir-fry made much more interesting with toasted cumin seeds and dried chilies."
 categories:
 - Chinese
 - Main Dish
 ---
-*Serves 4*
-
-### Introduction
-
-This is an easy weeknight stir-fry made much more interesting with toasted cumin seeds and dried chilies.
-
 ### Ingredients
 
 <div class="ingredient-list">

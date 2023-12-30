@@ -5,37 +5,35 @@ menu:
   main:
     parent: soups
 title: Oyster Stew I
+serves: "Serves 6"
+summary: "My deeply Midwestern grandparents always served oyster stew at Christmas. In those days, fresh oysters weren’t to be found in rural Iowa, and I have no idea where this tradition came from. Canned oysters not withstanding, this dish captured my imagination. I have never stopped loving its buttery richness and simple elegance. This recipe, from the famed Antoine’s restaurant in New Orleans, is certainly richer than my grandmother’s. I think you’ll like it."
 categories:
 - Oysters
 - Holidays
 ---
-*Serves 6-8*
-
-### Introduction
-
-This is more like the Oyster Stew my grandparents served in Iowa, albeit with canned oysters when fresh are sorely wanted here. There's something truly appealing about the simplicity of it, though -- less a "stew" than hot buttery milk flavored with the lovely saline subtlety of oysters.
-
 ### Ingredients
 
 <div class="ingredient-list">
 
-1/2 gallon whole milk  
-2 to 3 8-ounce jars of fresh oysters (24 to 36 oysters, shucked)  
-3-4 tablespoons butter  
-1 teaspoon celery salt  
-1 teaspoon salt (or use more celery salt)  
-1/2 teaspoon freshly ground black pepper  
+50 medium oysters, shucked (about 1 1/2 lbs) with 1 cup of the liquor reserved  
+12 tbsp butter  
+5 tbsp flour  
+4 ribs celery, finely chopped  
+4 cloves garlic, finely minced  
+1 large onion, finely chopped  
+1/2 c. parsley, chopped  
+1 tbsp Kosher salt  
+1 1/2 tsp. freshly ground black pepper  
+1/4 tsp. cayenne  
+2 c. whole milk  
+2 c. heavy cream  
 
 </div>
 
 ### Instructions
 
-Heat milk in double boiler (or just on low heat).
+Combine oyster liquor with 1 cup water in a 2 quart saucepan. Bring to a simmer over medium heat. Add the oysters just simmer just until their edges begin to curl, about 2 minutes. Strain the oysters through a fine sieve set over a medium bowl. Reserve oysters and cooking liquid separately.
 
-Dice oysters and place in stew pan with 1 cup water, butter, celery salt, salt, and pepper.
+Heat butter in a 4-quart pot over medium high heat. Add flour and cook, whisking constantly, until golden brown (3-4 minutes). Reduce heat to medium. Add celery, garlic, onions, parsley, salt, pepper and cayenne. Cook, stirring frequently with a wooden spoon, until onions and celery are very soft, about 25 minutes.
 
-Bring to simmer and simmer gently for seven minutes.
-
-Add oyster mixture to milk in double boiler.
-
-Simmer gently at least two hours. The longer it simmers, the more flavorful it is, or if it sets overnight it becomes more flavorful. Stir well and season to taste.
+Stir in the milk, cream, and reserved oysters with their cooking liquid. Stir occasionally until the soup is just hot, about 5 minutes. Serve immediately.

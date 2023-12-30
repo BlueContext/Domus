@@ -5,16 +5,12 @@ menu:
   main:
     parent: poultry
 title: Chicken Fricassee with Lemon & Mustard
+serves: "Serves 4-6"
+summary: "Here’s a lovely and easy French recipe, straight from Paris and the (sadly now-closed) bistro A La Pomponnette in Monmartre. It makes a nice main dish for a dinner party. The sauce is lush and plentiful, so be sure to serve with potatoes, rice or buttered noodles (and some good bread to mop it up)."
 categories:
 - French
 - Main Dish
 ---
-*Serves 4-6*
-
-### Introduction
-
-Here’s a lovely and easy French recipe, straight from Paris and the (sadly now-closed) bistro A La Pomponnette in Monmartre. It makes a nice main dish for a dinner party. The sauce is lush and plentiful, so be sure to serve with potatoes, rice or buttered noodles (and some good bread to mop it up).
-
 ### Ingredients
 
 <div class="ingredient-list">

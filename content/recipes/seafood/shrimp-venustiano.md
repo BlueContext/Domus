@@ -5,18 +5,13 @@ menu:
   main:
     parent: seafood
 title: Shrimp Venustiano
-weight: 4
+serves: "Serves 4"
+summary: "This is my version of a delicious dish from the old Carranza Grocery & Market. It’s basically sauteed shrimp with a bright lemon beurre blanc sauce with sweet-and-spice Peppadew pickled peppers."
 categories:
 - Shrimp
 - Main Dish
 - Appetizer
 ---
-*Serves 4 as an appetizer, or atop pasta as a main*
-
-### Introduction
-
-This is my version of a delicious dish from the old Carranza Grocery & Market. It’s basically sauteed shrimp with a bright lemon beurre blanc sauce with sweet-and-spice Peppadew pickled peppers.
-
 ### Ingredients
 
 <div class="ingredient-list">

@@ -5,15 +5,11 @@ menu:
   main:
     parent: soups
 title: Corn Chowder with Bacon
+serves: "Serves 4"
+summary: "An old American favorite for good reason. It's a favorite in our house, too!"
 categories:
-- Vegetarian
+
 ---
-*Serves 4*
-
-### Introduction
-
-An old American favorite for good reason -- it's a favorite in our house, too!
-
 ### Ingredients
 
 <div class="ingredient-list">

@@ -5,16 +5,12 @@ menu:
   main:
     parent: poultry
 title: Poulet au Vinaigre a la Estragon
+serves: "Serves 6-8"
+summary: "This lovely old recipe is easy, delicious, and very French."
 categories:
 - French
 - Main Dish
 ---
-*Serves 6-8*
-
-### Introduction
-
-This lovely old recipe is easy, delicious, and very French.
-
 ### Ingredients
 
 <div class="ingredient-list">

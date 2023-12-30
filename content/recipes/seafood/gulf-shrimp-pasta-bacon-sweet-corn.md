@@ -5,16 +5,13 @@ menu:
   main:
     parent: seafood
 title: Gulf Shrimp Pasta with Bacon, Sweet Corn and Red Peppers
-weight: 4
+serves: "Serves 4"
+summary: "This is a recipe I clipped from some H-E-B circular years ago, which...may not sound promising, but I assure you it’s a winner. "
 categories:
 - Shrimp
 - Main Dish
 ---
-*Serves 4*
-
-### Introduction
-
-This is a recipe I clipped from some H-E-B circular years ago, which...may not sound promising, but it’s a winner. Grill the corn and roast the peppers over lump hardwood charcoal to add a delicious smoky dimension to this dish. It’s also great with scallops instead of shrimp.
+Grill the corn and roast the peppers over lump hardwood charcoal to add a delicious smoky dimension to this dish. It’s also great with scallops instead of shrimp.
 
 ### Ingredients
 

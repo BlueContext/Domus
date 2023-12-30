@@ -5,17 +5,15 @@ menu:
   main:
     parent: starters
 title: Florentine Dip
+serves: "Yields about 1 1/2 cups"
+summary: "This is my version of a 1959 recipe from Craig Claiborne of the New York Times, which has stood the test of time. It’s simply good, it comes together it about 10 minutes, and it can be made well in advance. "
 categories:
 - Hors d'oeuvres 
 - Dips
 ---
-*Yields about 1 1/2 cups*
+Serve with crunchy kettle-style potato chips or — for an occasion -- a colorful selection of raw vegetables for dipping.
 
-## Introduction
-
-This is my version of a 1959 recipe from Craig Claiborne of the New York Times, which has stood the test of time. It’s simply good, it comes together it about 10 minutes, and it can be made well in advance. Serve with crunchy kettle-style potato chips or — for an occasion -- a colorful selection of raw vegetables for dipping.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -32,7 +30,7 @@ Sliced vegetables or sturdy potato chips (or both) for serving
 
 </div>
 
-## Instructions
+### Instructions
 
 Place the cream cheese and anchovy in a medium bowl and mix well with a wooden spoon. Add the remaining ingredients and mix until well-combined. Season to taste with salt and pepper (I also like a few dashes of Tabasco Sauce). Cover and refrigerator for a few hours to let the flavors come together.
 

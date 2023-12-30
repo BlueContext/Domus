@@ -5,16 +5,12 @@ menu:
   main:
     parent: soups
 title: Leek & Parsnip Soup
+serves: "Serves 4-6"
+summary: "This recipe has a beautifully warm color and a nutty, rich flavor. The interesting combination of bay and turmeric save the soup from being overly simple. It it would make an elegant first-course soup for a dinner party, but it’s also a great supper with bread and a salad or some fruit and cheese."
 categories:
 
 ---
-*Serves 4-6*
-
-## Introduction
-
-This recipe has a beautifully warm color and a nutty, rich flavor. The interesting combination of bay and turmeric save the soup from being overly simple. It it would make an elegant first-course soup for a dinner party, but it’s also a great supper with bread and a salad or some fruit and cheese.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -31,7 +27,7 @@ Extra-virgin olive oil, crème fraîche or yogurt, for garnish (optional)
 
 </div>
 
-## Instructions
+### Instructions
 
 Put olive oil in a heavy-bottomed pot or Dutch oven over medium-high heat. Add leeks and parsnips, and stir to coat. Add the 2 teaspoons salt and pepper to taste. 
 

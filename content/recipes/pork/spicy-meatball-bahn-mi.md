@@ -5,18 +5,13 @@ menu:
   main:
     parent: beef
 title: Spicy Meatball Bahn Mi
-weight: 4
+serves: "Serves 4"
+summary: "This hot sandwich comes together quickly and makes a satisfying, summery weeknight supper."
 categories:
 - Sandwich
 - Vietnamese
 - Main Dish
 ---
-*Serves 4*
-
-### Introduction
-
-This hot sandwich comes together quickly and makes a satisfying, summery weeknight supper.
-
 ### Ingredients
 
 <div class="ingredient-list">

@@ -5,19 +5,18 @@ menu:
   main:
     parent: starters
 title: Spicy Karaage (Japanese Fried Chicken)
+serves: "Serves 4"
+summary: "Fragrant, tender and moist with a note of ginger and just enough heat. Excellent with cold beer as an appetizer or a casual meal.  This can easily be doubled or tripled for a crowd."
 categories:
 - Hors d'oeuvres 
 - Japanese
 ---
-*Serves 4*
 
-## Introduction
-
-Fragrant, tender and moist with a note of ginger and just enough heat. Excellent with cold beer as an appetizer or a casual meal.  This can easily be doubled or tripled for a crowd.  It’s worth seeking out the Japanese ingredients called for here – they’ll make excellent additions to your kitchen! 
+It’s worth seeking out the Japanese ingredients called for here – they’ll make excellent additions to your kitchen! 
 
 For some reason, people see “dark meat” and react like you’ve suggested they eat entrails. “Only the blandest and driest part of the chicken for me, thanks!” Well, I hope you’ll at least try this with thighs. That is how it would be prepared in Japan, and I do think you’ll like it. It’s really not possible to deep-fry small nuggets of white meat without drying them out, but dark thigh meat can withstand some overcooking and remain juicy.
 
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -35,7 +34,7 @@ Oil for deep frying
 
 </div>
 
-## Instructions
+### Instructions
 
 *If there’s a Japanese grocery store in your community I hope you’ll seek it out. You’ll find much more than just the ingredients you were shopping for. However, these Japanese ingredients can all be had from several online retailers, including Amazon.
 
@@ -49,7 +48,7 @@ Fry the chicken pieces in batches (don’t overcrowd the pot or let the oil temp
 
 Remove each batch to a wire rack and keep them warm in a 200 F oven (unless you’ve got company eating them as they’re done).  Serve with this dipping sauce:
 
-**Ginger Scallion Dipping Sauce**
+#### Ginger Scallion Dipping Sauce
 
 This is a recipe of my own devising, packing many intense flavors into a bright, thin sauce that’s perfect with karaage or pan-fried dumplings.
 

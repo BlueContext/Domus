@@ -5,16 +5,14 @@ menu:
   main:
     parent: soups
 title: Potato and Leek Soup
+serves: "Serves 6-8"
+summary: "This is as simple as it is good, which is to say: very. It’s one of my favorite dishes. "
 categories:
 
 ---
-*Serves 6-8*
+The novice cook could do worse than to master a hearty basic recipe that can serve as the foundation for many variations. This is such a recipe. You'll need no more than some crusty bread, a hunk of cheese and perhaps a salad for an excellent supper.
 
-## Introduction
-
-This is as simple as it is good, which is to say: very. It’s one of my favorite dishes. The novice cook could do worse than to master a hearty basic recipe that can serve as the foundation for many variations. This is such a recipe. You'll need no more than some crusty bread, a hunk of cheese and perhaps a salad for an excellent supper.
-
-## Ingredients
+### Ingredients
 
 <div class="ingredient-list">
 
@@ -28,7 +26,7 @@ Chopped parsley or minced chives
 
 </div>
 
-### Cook's Notes
+#### Cook's Notes
 
 \* I like Yukon Gold, but anything will work. 
 
@@ -36,7 +34,7 @@ Chopped parsley or minced chives
 
 *** Water makes for an earthier soup where the good taste of potatoes and onions is showcased; chicken stock gives a more savory result. It’s good either way.
 
-## Instructions
+### Instructions
 
 Place the vegetables, chicken stock (or water) and salt in a large heavy pot over medium high heat and simmer, partially covered, for 40 minutes.
 
@@ -45,5 +43,5 @@ Mash the vegetables with a fork for a chowder-like consistency; for a thicker, c
 Correct the seasoning with salt (if needed), plenty of black pepper, and dashes of Tabasco (if you like).
 Just before serving, stir in the cream and butter.  Sprinkle with herbs and serve hot. Some garlicky homemade croutons are great as well.
 
-## Variation: “Baked Potato Soup”
+### Variation: “Baked Potato Soup”
 While the soup is simmering, grate a cup or two of a good sharp cheddar cheese. Cook 4 slices of bacon until crisp.  After adding the cream to the soup, omit the butter and add the cheese a handful at a time, stirring until it’s completely melted and incorporated. Top each serving with a small dollop of sour cream, minced chives, and a crumbled slice of bacon.

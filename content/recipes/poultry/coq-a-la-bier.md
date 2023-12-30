@@ -5,15 +5,13 @@ menu:
   main:
     parent: poultry
 title: Coq a la Biere
+serves: "Serves 4"
+summary: "This unusual, hearty dish of chicken, beer, mushrooms and bacon from the north of France would originally have been made with a tough old rooster (coq), but you won’t find one of those anywhere. Never mind — a chicken works beautifully, and takes considerably less time to cook. "
 categories:
 - French
 - Main Dish
 ---
-*Serves 4*
-
-### Introduction
-
-This unusual, hearty dish of chicken, beer, mushrooms and bacon from the north of France would originally have been made with a tough old rooster (coq), but you won’t find one of those anywhere. Never mind — a chicken works beautifully, and takes considerably less time to cook. The beer you choose matters a great deal here, and an American lager simply won’t work well. Look for a Belgian ale; I’ve had good luck with beers labled “Trappist tripel”. 
+The beer you choose matters a great deal here, and an American lager simply won’t work well. Look for a Belgian ale; I’ve had good luck with beers labled “Trappist tripel”. 
 
 ### Ingredients
 

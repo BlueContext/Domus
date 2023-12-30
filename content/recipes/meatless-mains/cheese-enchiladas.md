@@ -5,17 +5,14 @@ menu:
   main:
     parent: meatless-mains
 title: Cheese Enchiladas
-weight: 4
+serves: "Serves 4"
+summary: "A simple and delicious rendition of a Tex-Mex classic. "
 categories:
 - Mexican
 - Tex-Mex
 - Main Dish
 ---
-*Serves 4*
-
-### Introduction
-
-A simple and delicious rendition of a Tex-Mex classic. Be sure to get Longhorn cheese, as it has the perfect melting qualities without being oily. Buy a block of cheese and grate it yourself — pre-grated cheese has anti-clumping additives that interfere with smooth melting.
+Be sure to get Longhorn cheese, as it has the perfect melting qualities without being oily. Buy a block of cheese and grate it yourself — pre-grated cheese has anti-clumping additives that interfere with smooth melting.
 
 ### Ingredients
 

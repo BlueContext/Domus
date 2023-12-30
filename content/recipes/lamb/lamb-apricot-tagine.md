@@ -5,17 +5,12 @@ menu:
   main:
     parent: lamb
 title: Lamb & Apricot Tagine
-weight: 4
+serves: "Serves 4-6"
+summary: "Incredibly fragrant with lamb and spices, this sweet and savory stew makes a truly memorable main dish. It needs only steamed couscous or rice to serve."
 categories:
 - Moroccan
 - Main Dish
 ---
-*Serves 4-6*
-
-### Introduction
-
-Incredibly fragrant with lamb and spices, this sweet and savory stew makes a truly memorable main dish. It needs only steamed couscous or rice to serve.
-
 ### Ingredients
 
 <div class="ingredient-list">
