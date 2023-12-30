@@ -7,7 +7,6 @@ menu:
 title: Carne Guisada
 weight: 4
 categories:
-- Beef
 - Mexican
 - Tex-Mex
 - Main Dish

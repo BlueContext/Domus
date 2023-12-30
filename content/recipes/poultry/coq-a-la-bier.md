@@ -7,7 +7,6 @@ menu:
 title: Coq a la Biere
 weight: 4
 categories:
-- Chicken
 - French
 - Main Dish
 ---

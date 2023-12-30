@@ -7,7 +7,6 @@ menu:
 title: Chicken Fricassee with Lemon & Mustard
 weight: 4
 categories:
-- Chicken
 - French
 - Main Dish
 ---

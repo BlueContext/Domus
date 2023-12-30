@@ -7,7 +7,6 @@ menu:
 title: Stir-Fried Beef with Cumin & Chiles 
 weight: 4
 categories:
-- Beef
 - Chinese
 - Main Dish
 ---

@@ -8,9 +8,7 @@ title: Grilled Salmon with Thai Vegetable Salad
 weight: 4
 categories:
 - Salmon
-- Seafood
 - Main Dish
-- Salad
 ---
 *Serves 6*
 

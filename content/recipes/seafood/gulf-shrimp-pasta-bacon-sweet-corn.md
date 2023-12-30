@@ -8,7 +8,6 @@ title: Gulf Shrimp Pasta with Bacon, Sweet Corn and Red Peppers
 weight: 4
 categories:
 - Shrimp
-- Seafood
 - Main Dish
 ---
 *Serves 4*

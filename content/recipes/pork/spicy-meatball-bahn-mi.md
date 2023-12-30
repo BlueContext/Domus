@@ -7,7 +7,6 @@ menu:
 title: Spicy Meatball Bahn Mi
 weight: 4
 categories:
-- Pork
 - Sandwich
 - Vietnamese
 - Main Dish

@@ -7,7 +7,7 @@ menu:
 title: Leek & Parsnip Soup
 weight: 3
 categories:
-- Soups
+
 ---
 *Serves 4-6*
 

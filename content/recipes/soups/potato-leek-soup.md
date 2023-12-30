@@ -7,7 +7,7 @@ menu:
 title: Potato and Leek Soup
 weight: 1
 categories:
-- Soups
+
 ---
 *Serves 6-8*
 

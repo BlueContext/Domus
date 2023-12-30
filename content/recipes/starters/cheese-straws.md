@@ -6,8 +6,7 @@ menu:
     parent: starters
 title: Cheese Straws
 weight: 4
-categories:
-- Starters 
+categories: 
 - Hors d'oeuvres
 ---
 

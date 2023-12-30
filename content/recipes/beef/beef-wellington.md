@@ -7,7 +7,6 @@ menu:
 title: Beef Wellington
 weight: 4
 categories:
-- Beef
 - French
 - Holidays
 - Dinner Party
