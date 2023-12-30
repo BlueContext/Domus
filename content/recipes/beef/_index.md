@@ -1,5 +1,5 @@
 ---
-linktitle: Beef & Veak
+linktitle: Beef & Veal
 menu:
   main:
     parent: beef

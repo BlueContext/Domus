@@ -5,7 +5,6 @@ menu:
   main:
     parent: soups
 title: Potato and Leek Soup
-weight: 1
 categories:
 
 ---

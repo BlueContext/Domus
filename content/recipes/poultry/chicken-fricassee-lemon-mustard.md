@@ -5,7 +5,6 @@ menu:
   main:
     parent: poultry
 title: Chicken Fricassee with Lemon & Mustard
-weight: 4
 categories:
 - French
 - Main Dish

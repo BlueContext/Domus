@@ -5,7 +5,6 @@ menu:
   main:
     parent: poultry
 title: Coq a la Biere
-weight: 4
 categories:
 - French
 - Main Dish

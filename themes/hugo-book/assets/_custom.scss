@@ -5,3 +5,13 @@
 .ingredient-list {
     padding-left: 30px;
 }
+
+h1>a, h1>a:visited, h1>a:active {
+    color: inherit !important;
+    text-decoration: dotted !important;
+}
+
+h2>a, h2>a:visited, h2>a:active {
+    color: inherit !important;
+    text-decoration: dotted !important;
+}

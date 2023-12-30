@@ -5,7 +5,6 @@ menu:
   main:
     parent: soups
 title: Leek & Parsnip Soup
-weight: 3
 categories:
 
 ---

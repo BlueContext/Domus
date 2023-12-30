@@ -5,7 +5,6 @@ menu:
   main:
     parent: soups
 title: Mushroom & Barley Soup with Wild Rice
-weight: 2
 categories:
 
 ---

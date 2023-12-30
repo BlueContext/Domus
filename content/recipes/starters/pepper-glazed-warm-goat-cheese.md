@@ -1,11 +1,10 @@
 ---
-author: "Kevin Baker"
+author: Kevin Baker
 linktitle: Pepper-Glazed Warm Goat Cheese
 menu:
   main:
     parent: starters
 title: Pepper-Glazed Warm Goat Cheese
-weight: 1
 categories:
 - Hors d'oeuvres 
 - Dips

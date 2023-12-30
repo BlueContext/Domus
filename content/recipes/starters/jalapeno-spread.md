@@ -1,11 +1,10 @@
 ---
-author: "Kevin Baker"
+author: Kevin Baker
 linktitle: Jalapeno Spread
 menu:
   main:
     parent: starters
 title: Jalapeno Spread
-weight: 3
 categories:
 - Hors d'oeuvres 
 - Dips
