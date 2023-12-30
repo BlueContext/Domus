@@ -1,11 +1,10 @@
 ---
-author: "Kevin Baker"
+author: Kevin Baker
 linktitle: Florentine Dip
 menu:
   main:
     parent: starters
 title: Florentine Dip
-weight: 2
 categories:
 - Hors d'oeuvres 
 - Dips

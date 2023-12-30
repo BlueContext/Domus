@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'domus'
 theme = 'hugo-book'
+summaryLength = 35
 
 [params]
     BookTheme = 'light'

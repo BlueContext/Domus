@@ -1,11 +1,10 @@
 ---
-author: "Kevin Baker"
+author: Kevin Baker
 linktitle: Cheese Straws
 menu:
   main:
     parent: starters
 title: Cheese Straws
-weight: 4
 categories: 
 - Hors d'oeuvres
 ---
