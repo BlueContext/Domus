@@ -4,5 +4,5 @@ menu:
     parent: content
 title: Recipes
 bookCollapseSection: true
-bookHidden: true
+BookHidden: true
 ---
