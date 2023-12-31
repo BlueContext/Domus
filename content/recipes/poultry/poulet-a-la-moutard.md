@@ -17,18 +17,18 @@ tags:
 
 <div class="ingredient-list">
 
-½ c + 3 tbsp Dijon mustard
-½ tsp sweet or smoked paprika
-4 chicken thighs (on the bone, with skin) 
-4 chicken drumsticks (with skin)
-1 c diced thick-cut bacon
-1 small onion, chopped 
-1 tsp fresh thyme leaves
-3 tbsp olive oil
-1 c white wine
-1 tbsp whole-grain mustard
-2-3 tbsp crème fraiche or heavy cream
-Chopped parsley for garnish 
+½ c + 3 tbsp Dijon mustard  
+½ tsp sweet or smoked paprika  
+4 chicken thighs (on the bone, with skin)   
+4 chicken drumsticks (with skin)  
+1 c diced thick-cut bacon  
+1 small onion, chopped   
+1 tsp fresh thyme leaves  
+3 tbsp olive oil  
+1 c white wine  
+1 tbsp whole-grain mustard  
+2-3 tbsp crème fraiche or heavy cream  
+Chopped parsley for garnish   
 
 </div>
 

@@ -12,7 +12,13 @@ categories:
 tags:
 - Main Dish
 ---
-Don’t skip the apple cider — it’s an odd ingredient, and you won’t taste it in the final dish, but it definitely adds something.  You can use the pieces of a single whole chicken, but I prefer a mix of thighs and legs. Dark meat is superior for long-simmered chicken dishes.  I often halve this recipe — it will still serve 4 generously. This hearty dish only needs a salad or some cheese and bread along with a bottle of cold white wine to make a magnificent dinner.
+Don’t skip the apple cider — it’s an odd ingredient, and you won’t taste it in the final dish, but it definitely adds something.  
+
+You can use the pieces of a single whole chicken, but I prefer a mix of thighs and legs. Dark meat is superior for long-simmered chicken dishes.  
+
+I often halve this recipe — it will still serve 4 generously. 
+
+This hearty dish only needs a salad or some cheese and bread along with a bottle of cold white wine to make a magnificent dinner.
 
 ### Ingredients
 

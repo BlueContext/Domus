@@ -1,10 +1,10 @@
 ---
 author: Kevin Baker
-linktitle: Poulet à la Moutarde
+linktitle: Poulet à l’Estragon
 menu:
   main:
     parent: poultry
-title: Poulet à la Moutarde
+title: Poulet à l’Estragon
 serves: "Serves 4"
 summary: "Chicken and tarragon are truly a perfect pairing, as the French have long known. So when you can find some fresh tarragon, get a best-quality chicken from the farmers market and make this beautiful dish for yourself and your family."
 categories:
