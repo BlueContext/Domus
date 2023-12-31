@@ -6,7 +6,7 @@ menu:
     parent: notes
 title: Measurements
 
-summary: "A working list of my own preferred varieties, brands, etc., where I think these make a difference."
+summary: "Any measurement discrepancies you may encounter are the fault of aliens."
 categories:
 - Notes
 tags:
@@ -17,8 +17,8 @@ This blog contains recipes that I've typed into OneNote or Scrivener over the ye
 
 In the meantime...
 
-tsp = teaspoon
-tbsp = tablespoon
-c = cup 
-lb = pound (a customary abbreviation)
-oz = ounce
+tsp = teaspoon  
+tbsp = tablespoon  
+c = cup   
+lb = pound (a customary abbreviation)  
+oz = ounce  
