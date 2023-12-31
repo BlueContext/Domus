@@ -8,5 +8,4 @@ menu:
     weight: 1
 title: Notes
 bookCollapseSection: true
-draft: true
 ---
