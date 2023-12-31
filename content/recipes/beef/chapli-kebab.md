@@ -14,8 +14,6 @@ tags:
 - Afghani
 - Main Dish
 ---
-This calls for grilling the meat, and grilling it over lump charcoal adds a real dimension of flavor. But it definitely can be seared to doneness in a cast-iron skillet over high heat. In fact, I suspect this is preferable to grilling over gas.
-
 ### Ingredients
 
 <div class="ingredient-list">
