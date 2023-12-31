@@ -8,6 +8,8 @@ title: Caramelized Onion Dip
 serves: "Makes about 3 cups"
 summary: "This is so easy, and turns out a million times better than anything you could buy. It’s delicious with kettle chips. "
 categories:
+- Starters
+tags: 
 - Dips
 ---
 Be sure to let it come to room temperature — the cream cheese means that this dip is quite stiff when cold.

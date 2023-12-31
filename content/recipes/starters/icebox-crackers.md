@@ -8,6 +8,8 @@ title: Icebox Crackers
 serves: "Makes roughly 40 crackers"
 summary: "Homemade crackers are a great trick to have up your sleeve. The doughs freeze beautifully, and need only be sliced and baked to produce a unique and impressive bite to serve along with drinks or before dinner."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres
 ---
 

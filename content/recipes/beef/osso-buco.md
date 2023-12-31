@@ -9,6 +9,9 @@ serves: "Serves 6"
 summary: "This is a great dish for an intimate dinner party — veal is always elegant, but this slow easy braise is mostly complete well in advance and requires little last-minute fiddling. The tomato, fennel, and citrus zests keep this sauce fragrant and bright-tasting. Serve this over mashed potatoes, steamed rice, or a plain risotto."
 categories:
 - Veal
+- Beef
+tags:
+- Veal
 - Italian
 - Dinner Party
 - Main Dish

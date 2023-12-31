@@ -8,6 +8,8 @@ title: Hot Artichoke Dip
 serves: "Serves 6-8"
 summary: "This is the original that gave rise to so many variations. Love it or hate it, it’s an American original."
 categories:
+- Starters
+tags: 
 - Dips
 ---
 ### Ingredients

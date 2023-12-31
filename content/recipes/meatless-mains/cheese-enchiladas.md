@@ -8,6 +8,8 @@ title: Cheese Enchiladas
 serves: "Serves 4"
 summary: "A simple and delicious rendition of a Tex-Mex classic. "
 categories:
+- Meatless Mains
+tags:
 - Mexican
 - Tex-Mex
 - Main Dish

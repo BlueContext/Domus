@@ -8,6 +8,9 @@ title: Oyster Stew I
 serves: "Serves 6"
 summary: "My deeply Midwestern grandparents always served oyster stew at Christmas. In those days, fresh oysters weren’t to be found in rural Iowa, and I have no idea where this tradition came from. Canned oysters not withstanding, this dish captured my imagination. I have never stopped loving its buttery richness and simple elegance. This recipe, from the famed Antoine’s restaurant in New Orleans, is certainly richer than my grandmother’s. I think you’ll like it."
 categories:
+- Soups
+- Seafood
+tags:
 - Oysters
 - Holidays
 ---

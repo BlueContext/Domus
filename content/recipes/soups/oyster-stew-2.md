@@ -7,7 +7,10 @@ menu:
 title: Oyster Stew II
 serves: "Serves 6-8"
 summary: "This is more like the Oyster Stew my grandparents served in Iowa, albeit with canned oysters when fresh are sorely wanted here. There's something truly appealing about the simplicity of it, though -- less a stew than hot buttery milk flavored with the lovely saline subtlety of oysters. "
-categories: 
+categories:
+- Soups
+- Seafood
+tags: 
 - Oysters
 - Holidays
 ---

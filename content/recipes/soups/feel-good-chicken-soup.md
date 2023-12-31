@@ -8,6 +8,8 @@ title: Feel-Good Chicken Soup
 serves:
 summary: "Spicy, gingery and fresh-tasting — this is perfect to clear your sinuses and your head."
 categories:
+- Soups
+tags:
 
 ---
 ### Ingredients

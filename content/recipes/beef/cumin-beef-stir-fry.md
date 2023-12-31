@@ -8,6 +8,8 @@ title: Stir-Fried Beef with Cumin & Chiles
 serves: "Serves 4"
 summary: "This is an easy weeknight stir-fry made much more interesting with toasted cumin seeds and dried chilies."
 categories:
+- Beef
+tags:
 - Chinese
 - Main Dish
 ---

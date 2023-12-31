@@ -1,5 +1,5 @@
 ---
-author: "Kevin Baker"
+author: Kevin Baker
 linktitle: Sesame Ginger Dressing
 menu:
   main:
@@ -8,7 +8,9 @@ title: Sesame Ginger Dressing
 serves: "Makes about 2 1/4 cups"
 summary: "This bold dressing from Restaurant Biga in San Antonio also makes a great marinade for fish or chicken that is to be grilled. Which is great, because it makes a *lot* for salad dressing."
 categories:
-- Dressings
+- Sauces
+tags:
+- Salad Dressing
 ---
 ### Ingredients
 

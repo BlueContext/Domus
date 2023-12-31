@@ -8,7 +8,9 @@ title: Smoked Salmon Christmas Tree Canapes
 serves: "Makes 10 pieces"
 summary: "A charming and tasty canape for an intimate Christmas dinner party or cocktail hour."
 categories:
-- Holiday
+- Starters
+tags: 
+- Holidays
 - Canapes
 - Hors d'oeuvres
 ---

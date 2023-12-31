@@ -8,7 +8,10 @@ title: Gougeres
 serves: "Makes 4-5 dozen puffs"
 summary: "These delicious, unassuming little puffs of cheese pastry are absolutely perfect with drinks before dinner with a small group of friends. "
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
+- French
 ---
 The batter can be prepared a bit in advance, but the puffs must be baked shortly before serving. The cheese is essentially the only flavoring here, so use the best quality — imported Swiss Gruyere and Italian Parmigiano Reggiano.
 

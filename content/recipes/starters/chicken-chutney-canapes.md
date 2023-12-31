@@ -8,6 +8,8 @@ title: Chicken Chutney
 serves: Makes 32
 summary: "You don't see this sort of composed canape much anymore, which is a bit of a shame. These are easy to make, and won't fail to impress."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres
 - Canapes
 ---

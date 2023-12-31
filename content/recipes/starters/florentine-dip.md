@@ -8,6 +8,8 @@ title: Florentine Dip
 serves: "Yields about 1 1/2 cups"
 summary: "This is my version of a 1959 recipe from Craig Claiborne of the New York Times, which has stood the test of time. It’s simply good, it comes together it about 10 minutes, and it can be made well in advance. "
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Dips
 ---

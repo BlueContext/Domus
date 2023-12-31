@@ -8,6 +8,10 @@ title: Leek & Parsnip Soup
 serves: "Serves 4-6"
 summary: "This recipe has a beautifully warm color and a nutty, rich flavor. The interesting combination of bay and turmeric save the soup from being overly simple. It it would make an elegant first-course soup for a dinner party, but it’s also a great supper with bread and a salad or some fruit and cheese."
 categories:
+- Soups
+tags:
+- Dinner Party
+- First Course
 
 ---
 ### Ingredients

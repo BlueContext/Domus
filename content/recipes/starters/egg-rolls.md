@@ -8,6 +8,8 @@ title: Egg Rolls
 serves: Makes 24 rolls
 summary: "When you think of a delicious take-out egg rolls, this is what you’re thinking of. "
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Chinese
 ---

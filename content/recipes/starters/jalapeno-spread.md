@@ -8,6 +8,8 @@ title: Jalapeno Spread
 serves: "Makes enough for a party"
 summary: "An old Texas favorite, this simple spread is perfect with club crackers."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Dips
 ---

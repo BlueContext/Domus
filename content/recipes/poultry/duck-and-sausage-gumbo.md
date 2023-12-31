@@ -8,6 +8,8 @@ title: Duck & Sausage Gumbo
 serves: "Serves 6-8"
 summary: "This is delicious any time of year, but makes a great buffet centerpiece for a holiday open house."
 categories:
+- Poultry
+tags: 
 - Main Dish
 ---
 Duck is certainly delicious, but also expensive. Fortunately, this is a very flexible recipe. I almost always make it with chicken thighs and legs. I also almost always halve the recipe, since it makes enough gumbo for a small army (or a big party!).

@@ -8,7 +8,10 @@ title: Sausage Balls
 serves: "Makes 100 pieces"
 summary: "These aren’t winning any awards for elegance or culinary sophistication, but they’re rich, spicy and just plain good. It’s one of those hokey old recipes that’s been around forever…and there’s a reason for that!"
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres
+- Party Food
 ---
 ### Ingredients
 

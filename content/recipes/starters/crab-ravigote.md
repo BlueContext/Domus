@@ -8,6 +8,8 @@ title: Crab “Ravigote”
 serves: Serves 6-10
 summary: "Ravigote generally refers to a zesty cold sauce with capers, herbs and shallots…which is nothing like the (deliciously rich) recipe below, but this warm dip is what they serve as “Crab Ravigote” at the venerable Galatoire’s on Bourbon Street in New Orleans, and who am I to argue? This is great for a party."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Dips
 - Crab

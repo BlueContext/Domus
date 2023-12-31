@@ -8,6 +8,8 @@ title: Perfect Roast Chicken with Warm Bread Salad
 serves: "Serves 4-6"
 summary: "Julia Child famously said that a perfect roast chicken requires a “greed for perfection”. This version requires a bit of forethought but could hardly be easier. And it’s nearly the perfect chicken meal — shatteringly crisp skin, moist and flavorful meat, and and light arugula salad studded with croutons of crusty bread flavored with chicken drippings and browned in chicken fat. "
 categories:
+- Poultry
+tags:
 - Main Dish
 ---
 This is a dish that showcases the goodness of chicken itself, so you want the best bird you can get your hands on. If you’ve sprung for a pasture-raised chicken at the farmer’s market, this is a recipe that will highlight that kind of quality product.

@@ -8,7 +8,9 @@ title: Mushroom & Barley Soup with Wild Rice
 serves: "Serves 4-6"
 summary: "Made with vegetable stock, this is fully vegetarian.  It’s also hearty, filling, and delicious — perfect with some bread and cheese on a cool autumn day.  "
 categories:
-- Meatless
+- Soups
+tags:
+- Vegetarian
 ---
 ### Ingredients
 
