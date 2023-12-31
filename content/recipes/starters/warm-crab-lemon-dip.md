@@ -8,8 +8,11 @@ title: Warm Crab & Lemon Dip
 serves: "Makes 2 1/2 cups"
 summary: "There are many variations on this sort of thing, but I like this one particularly -- the fresh tarragon saves this hot dip from drownding in its own richness."
 categories:
+- Starters
+tags: 
 - Dips
 - Crab
+- Party Food
 ---
 ### Ingredients
 

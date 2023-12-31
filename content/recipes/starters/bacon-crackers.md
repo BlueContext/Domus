@@ -8,6 +8,8 @@ title: Bacon Crackers
 serves: Serves 12 (48 crackers)
 summary: "These easy little bites have been popular across the south since the 1950’s. They’re not exactly fancy, but they’re addictively good.  "
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 ---
 You could omit the brown sugar and tuck a couple of needles of rosemary under each bacon “belt” if you feel the need to class it up, but the sweet-and-salty flavor profile of the original really is best.

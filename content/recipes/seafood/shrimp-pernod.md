@@ -8,6 +8,8 @@ title: Shrimp Pernod
 serves: "Serves 6 as a first course, 4 as a main"
 summary: "Unusual, elegant and delicious. Can as an appetizer, or plated (over pasta or on its own) as a main dish."
 categories:
+- Seafood
+tags:
 - Shrimp
 - Main Dish
 - Appetizer

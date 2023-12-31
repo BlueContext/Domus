@@ -8,6 +8,8 @@ title: Roquefort Toast
 serves: "Makes 16 pieces"
 summary: "This little canape is simple, rich and delicious."
 categories:
+- Starters
+tags: 
 - Canapes
 - Hors d'oeuvres
 ---

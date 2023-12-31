@@ -8,6 +8,8 @@ title: Salmon Mousse with Salmon Caviar
 serves: "Serves 12-14"
 summary: "This is a bit of a production, but it’s lush, sophisticated, and makes a gorgeous center-piece for an hors d’oeuvre table at a special occasion. "
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Dips
 ---

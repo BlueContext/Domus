@@ -8,6 +8,9 @@ title: Potato and Leek Soup
 serves: "Serves 6-8"
 summary: "This is as simple as it is good, which is to say: very. It’s one of my favorite dishes. "
 categories:
+- Soups
+tags:
+- French
 
 ---
 The novice cook could do worse than to master a hearty basic recipe that can serve as the foundation for many variations. This is such a recipe. You'll need no more than some crusty bread, a hunk of cheese and perhaps a salad for an excellent supper.

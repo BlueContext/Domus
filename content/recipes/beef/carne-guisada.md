@@ -8,6 +8,8 @@ title: Carne Guisada
 serves: "Serves 6"
 summary: "There’s nothing particularly unusual about my version of this Tex-Mex classic (which I think I got from a local Junior League cookbook), but it’s awfully good."
 categories:
+- Beef
+tags:
 - Mexican
 - Tex-Mex
 - Main Dish

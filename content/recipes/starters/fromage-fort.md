@@ -8,9 +8,12 @@ title: Fromage Fort
 serves: "Serves 6-8"
 summary: "If you’re a cheese-lover, this is the recipe you’ve been looking for to use up those odds and ends of various cheeses. "
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Dips
 - Cheese
+- French
 ---
 The character of the dish will vary according to the cheeses you’ve got on hand, but I’d always recommend using at least three different cheeses.
 

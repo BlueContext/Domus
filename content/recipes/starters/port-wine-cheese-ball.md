@@ -8,6 +8,8 @@ title: Port Wine Cheese Ball
 serves: "Serves 20"
 summary: "There’s nothing fancy about this holiday party staple, but my homemade version tastes better than store-bought, and it’s practically effortless."
 categories:
+- Starters
+tags: 
 - Dips
 ---
 Be sure to let it come to room temperature — the cream cheese means that this dip is quite stiff when cold.

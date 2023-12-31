@@ -8,6 +8,8 @@ title: potato Samosas
 serves: "Serves 42 pieces"
 summary: "These small samosas are terrific finger-food for a party, are easy to make using store-bought spring roll wrappers instead of rolling your own pastry."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Indian
 ---

@@ -1,13 +1,15 @@
 ---
 author: Kevin Baker
-linktitle: Ham Croquetas
+linktitle: Ribs with Honey, Mustard & Sherry Glaze
 menu:
   main:
     parent: starters
-title: Ham Croquetas
+title: Ribs with Honey, Mustard & Sherry Glaze
 serves: "Makes tapas for 4 to 6"
 summary: "These meaty, sticky little bites take some time, but it's mostly unattended. They're perfect party food."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres
 - Spanish
 - Tapas

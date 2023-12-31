@@ -8,6 +8,8 @@ title: Beef Wellington
 serves: "Serves 4"
 summary: "Here is a dish for a truly special occasion, when only the best will do. It's the work of a few days, so read the entire recipe and make your plan in advance."
 categories:
+- Beef
+tags:
 - French
 - Holidays
 - Dinner Party

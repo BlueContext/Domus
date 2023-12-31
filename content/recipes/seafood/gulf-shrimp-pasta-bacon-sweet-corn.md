@@ -8,6 +8,8 @@ title: Gulf Shrimp Pasta with Bacon, Sweet Corn and Red Peppers
 serves: "Serves 4"
 summary: "This is a recipe I clipped from some H-E-B circular years ago, which...may not sound promising, but I assure you it’s a winner. "
 categories:
+- Seafood
+tags:
 - Shrimp
 - Main Dish
 ---

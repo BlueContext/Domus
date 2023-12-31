@@ -7,7 +7,9 @@ menu:
 title: Crostini
 serves: Makes about 2 dozen toasts
 summary: "Crostini are merely toasted slices of baguette, but they’re infinitely variable as a platform for quick, elegant appetizers. Here are a few ideas for quick entertaining."
-categories: 
+categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 ---
 ### Ingredients

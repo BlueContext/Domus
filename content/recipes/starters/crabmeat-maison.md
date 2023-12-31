@@ -7,8 +7,12 @@ menu:
 title: Crabmeat Maison
 serves: Serves 6
 summary: "In most restaurants, this would be called Crab Ravigote, but Galatoire's of New Orleans (long accustomed to doing things their own way) already has another recipe called by that name. In any case, it's wonderful."
-categories: 
+categories:
+- Starters
+tags: 
 - Crab
+- First Course
+- Dinner Party
 ---
 ### Ingredients
 

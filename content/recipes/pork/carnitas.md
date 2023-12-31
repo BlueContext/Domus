@@ -8,6 +8,8 @@ title: Carnitas
 serves: "Serves 8"
 summary: "This is an extremely easy version of a Tex-Mex classic. "
 categories:
+- Pork
+tags:
 - Mexican
 - Tacos
 - Main Dish

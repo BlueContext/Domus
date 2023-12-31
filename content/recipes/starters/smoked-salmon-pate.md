@@ -8,6 +8,8 @@ title: Smoked Salmon Pâté
 serves: Serves 15-18
 summary: "This classic recipe can be halved for a smaller crowd. It’s elegant, requires no cooking, and can be made the day before."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres 
 - Dips
 ---

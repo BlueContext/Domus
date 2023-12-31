@@ -8,6 +8,8 @@ title: Ham Croquetas
 serves: "Makes tapas for 4"
 summary: "These are unspeakably luscious and rich. They’re also very delicate, and should be served piping hot, so make this little treat for a small crowd of close friends."
 categories:
+- Starters
+tags: 
 - Hors d'oeuvres
 - Spanish
 - Tapas

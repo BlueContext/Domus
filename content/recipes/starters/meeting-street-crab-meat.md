@@ -8,7 +8,11 @@ title: Meeting Street Crab Meat
 serves: "Serves 4"
 summary: "This is from “Charleston Receipts”, the famed 1950 cookbook by the Junior League of Charleston, SC. I’ve only made a few small changes to my own taste, but you’ll find this easy, quick and luxurious. "
 categories:
+- Starters
+tags: 
 - Crab
+- First Course
+- Dinner Party
 ---
 Baked in a single dish and served with toasts or crackers, it makes a pleasant appetizer for a party. Baked in individual ramekins, it’s an ideal first course for a dinner party.
 

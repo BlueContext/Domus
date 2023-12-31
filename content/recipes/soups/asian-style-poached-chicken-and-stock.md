@@ -8,6 +8,8 @@ title: Asian-Style Poached Chicken & Stock
 serves:
 summary: "This fragrant, clean-tasting stock is great to have in the freezer."
 categories:
+- Soups
+tags:
 
 ---
 ### Ingredients

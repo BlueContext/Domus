@@ -8,6 +8,9 @@ title: Thai-Style Chicken Meatball Soup
 serves: "Serves 4-6"
 summary: "This comes together in about 30 minutes, and makes a very fresh and satisfying weeknight dinner."
 categories:
+- Soups
+tags:
+- Thai
 
 ---
 ### Ingredients
