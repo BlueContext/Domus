@@ -11,7 +11,6 @@ categories:
 - Veal
 - Beef
 tags:
-- Veal
 - Italian
 - Dinner Party
 - Main Dish
