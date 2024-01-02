@@ -3,7 +3,7 @@ author: Kevin Baker
 linktitle: Carnitas
 menu:
   main:
-    parent: beef
+    parent: pork
 title: Carnitas
 serves: "Serves 8"
 summary: "This is an extremely easy version of a Tex-Mex classic. "
