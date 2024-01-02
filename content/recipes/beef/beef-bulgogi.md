@@ -6,7 +6,7 @@ menu:
     parent: beef
 title: Beef Bulgogi
 serves: "Serves 4"
-summary: "This is so delicious. It’s well worth seeking out a Korean market, where you can find convenient packages of thinly sliced beef perfect for this dish."
+summary: "This is so delicious. It's not particularly traditional, but it's easy to make and very, very good. It’s well worth seeking out a Korean market, where you can find convenient packages of thinly sliced beef perfect for this dish."
 categories:
 - Beef
 tags:
