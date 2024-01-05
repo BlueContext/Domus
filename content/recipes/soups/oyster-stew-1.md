@@ -20,7 +20,7 @@ tags:
 
 50 medium oysters, shucked (about 1 1/2 lbs) with 1 cup of the liquor reserved  
 12 tbsp butter  
-5 tbsp flour  
+3-4 tbsp flour  (depending on how thick you'd like your soup)  
 4 ribs celery, finely chopped  
 4 cloves garlic, finely minced  
 1 large onion, finely chopped  
