@@ -25,6 +25,7 @@ tags:
 6 tbsp white miso  
 1" chunk fresh ginger, grated  
 3 tsp toasted sesame oil  
+2 tbsp soy sauce
 4 c fresh baby spinach (4 oz)  
 6 scallions, trimmed and cut to 1" lengths  
 Hot chili oil to serve   
