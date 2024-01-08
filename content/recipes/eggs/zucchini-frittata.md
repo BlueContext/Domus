@@ -1,4 +1,3 @@
-
 ---
 author: "Kevin Baker"
 linktitle: Zucchini, Goat Cheese & Dill Frittata
@@ -25,7 +24,7 @@ tags:
 1 small shallot, minced  
 Salt and black pepper  
 8 large eggs  
-1 tablespoon heavy cream
+1 tablespoon heavy cream  
 2 oz chevre or other creamy goat cheese, crumbled (1/2 cup)  
 2 tablespoons chopped fresh dill  
 
