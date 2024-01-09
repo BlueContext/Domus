@@ -8,7 +8,7 @@ title: Duck Sauce
 serves: "Makes about 1/2 cup"
 summary: "No duck here! Rather, this is the sweet-tangy condiment sauce served in Chinese-American restaurants."
 categories:
-- Sauce
+- Sauces
 tags:
 - Condiments
 ---
