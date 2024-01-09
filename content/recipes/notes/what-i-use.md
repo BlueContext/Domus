@@ -31,6 +31,14 @@ Finally, you may have heard of flakey sea salts like Fleur de Sel or Maldon sea 
 
 Flakey sea salts can be a wonderful finishing element on a salad. I also like to sprinkle a pinch of flakey sea salt on peanut butter cookies before going in the oven. Pretty much anything where you want salt grains to be eaten undissolved.
 
+#### Oil
+I use olive oil for most of my day-to-day cooking.  For frying, use peanut oil.  There's simply no contest - it can withstand high heat, isn't overly spattery, gives beautiful results and (unlike the bizarrely popular canola oil) smells wonderful when heated.
+
+Since I buy this for frying, I also use it for anything that needs a neutral flavored oil (Asian recipes, some salad dressings, etc.)
+
+#### Parmesan Cheese
+When I say this, I mean imported Parmigiano-Reggiano if at all possible. It's one of those ingredients where the cheaper domestic replacements are only the palest shadow of the qualities of the real article. More than just something to shake on your spaghetti, real aged Parmigiano-Reggiano is one of the world's greatest cheeses, and only small quantities are needed to bring amazing complexity to any dish.
+
 ### Brands
 I'm not generally very particular about brands, but some firms simply make a better product. 
 
