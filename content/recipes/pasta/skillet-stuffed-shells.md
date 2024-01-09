@@ -1,10 +1,10 @@
 ---
 author: Kevin Baker
-linktitle: Orecchiette with Sausage & Roasted Peppers
+linktitle: Skillet Stuffed Shells
 menu:
   main:
     parent: pasta
-title:  Orecchiette with Sausage & Roasted Peppers
+title:  Skillet Stuffed Shells
 serves: "Serves 4-6"
 summary: "A classic of red-sauce Italian American cooking, this is rich, comforting and meatless."
 categories:
