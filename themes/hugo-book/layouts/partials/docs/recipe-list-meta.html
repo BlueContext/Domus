@@ -1,10 +1,18 @@
 {{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
-  <div class="taxonomy">
-    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
-      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
-    {{- end }}
-  </div>
+    {{ if eq $taxonomy "categories"  }}
+      <div class="taxonomy">
+        {{ range $n, $term := $terms }}{{ if gt $n 1 }}, {{ end }}
+          {{ if $n }}<a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>{{ end }}
+        {{- end }}
+      </div>
+    {{ else }}
+      <div class="taxonomy">
+        {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+          <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a> 
+        {{- end }}
+      </div>
+    {{ end }}
   {{ end }}
 {{ end }}
 
