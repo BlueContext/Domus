@@ -8,6 +8,7 @@ title: Celeri Remoulade (Celery Root Salad)
 serves: "Serves 6"
 summary: "An old bistro classic, this salad is crunchy, sharp with Dijon mustard, and utterly delicious. It's an invigorating start to a rich meal."
 categories:
+- All Recipes
 - Salads
 tags:
 - French

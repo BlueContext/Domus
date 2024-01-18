@@ -8,6 +8,7 @@ title: Enchiladas Suizas
 serves: "Serves 4-6"
 summary: "These wonderful enchiladas — as delicate and delicious as a French crepe dish — were invented in 1950 at Sanborn’s in the Casa de Aulejos in Mexico City. Suizas means Swiss, a reference to the unusual inclusion of dairy."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Mexican

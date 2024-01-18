@@ -8,6 +8,7 @@ title: Veal Chops with Ratatouille Stuffing  & Roasted Red Pepper Sauce
 serves: "Serves 2"
 summary: "Here’s a simple but delicious way to prepare what is undeniably a “special occasion” cut of meat. The brilliant vermilion-red sauce looks spectacular on the plate, and the whole dish is a show-stopper, but it’s not much harder than any weeknight meal."
 categories:
+- All Recipes
 - Beef
 - Veal
 tags:

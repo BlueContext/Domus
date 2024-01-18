@@ -8,6 +8,7 @@ title:  Baked Spinach-Artichoke Pasta
 serves: "Serves 4-6"
 summary: "This is both light and rich; baked in individual ovenproof dishes, it's elegant enough for a dinner party."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Meatless Mains
 tags: 

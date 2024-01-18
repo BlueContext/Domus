@@ -8,6 +8,7 @@ title: Mint Chili Chutney
 serves: "Makes about 3/4 cup"
 summary: "This is bright, tart, spicy, and delicious with any grilled meat. It’s also a bright modern alternative mint jelly as an accompaniment to roast lamb or lamb chops."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Condiments

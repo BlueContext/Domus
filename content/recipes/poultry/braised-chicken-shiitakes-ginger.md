@@ -8,6 +8,7 @@ title: Braised Chicken with Shiitakes & Ginger
 serves: "Serves 4"
 summary: "Savory and succulent. The juicy savoriness of shiitake mushrooms is unparalleled, and everyone should be cooking with oyster sauce. It's a great 'secret ingredient' that will add so much flavor to your cooking."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Japanese

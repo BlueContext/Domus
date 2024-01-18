@@ -8,6 +8,7 @@ title: Chicken Breasts Nanette
 serves: "Serves 6"
 summary: "No one seems to know who “Nanette” was, but this recipe has been floating around for years. It appears under this name in the 1959 Gourmet Cookbook, and as “Brandied Chicken Breasts” in the 1975 edition of Joy of Cooking. It disappeared from later editions, like so many other rich and lovely dishes. I think you'll like it."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

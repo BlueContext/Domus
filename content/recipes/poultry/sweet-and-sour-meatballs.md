@@ -8,6 +8,7 @@ title: Sweet & Sour Chicken Meatballs
 serves: "Serves 4"
 summary: "This is a quick, easy, and reasonably healthy dinner for a weeknight. This is an absolutely delicious sweet and sour sauce."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

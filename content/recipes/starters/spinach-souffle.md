@@ -8,6 +8,7 @@ title: Spinach Soufflé
 serves: "Serves 4-6"
 summary: "This recipe is for one large souffle in a standard 6 cup soufflé dish; it will serve 4-5 as a side dish or light supper. It could also be baked in ramekins for individual first course servings. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Crab

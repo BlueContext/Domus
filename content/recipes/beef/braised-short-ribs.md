@@ -8,6 +8,7 @@ title: Braised Short Ribs
 serves: "Serves 4"
 summary: "One of my favorite meals."
 categories:
+- All Recipes
 - Beef
 tags:
 - Dinner Party

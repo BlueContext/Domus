@@ -8,6 +8,7 @@ title: Vietnamese Watercress & Meatball Soup
 serves: "Serves 4"
 summary: "The tart, peppery taste of watercress is underused in American kitchens. Here, it's showcased set against the richness of pork and fragrant aromatics. "
 categories:
+- All Recipes
 - Soups
 tags:
 - Vietnamese

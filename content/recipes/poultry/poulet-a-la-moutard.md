@@ -8,6 +8,7 @@ title: Poulet à la Moutarde
 serves: "Serves 4-6"
 summary: "A generous quantity of Dijon mustard enlivens this winey, creamy chicken dish. Delicious on its own, or served with rice or pasta."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

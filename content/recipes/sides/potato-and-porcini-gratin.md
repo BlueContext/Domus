@@ -8,6 +8,7 @@ title: Potato & Porcini Gratin
 serves: "Serves 8"
 summary: "This is a truly luxurious dish that will be welcome at any festive occasion."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

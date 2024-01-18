@@ -1,13 +1,14 @@
 ---
 author: Kevin Baker
-linktitle: "“Jerusalem Mixed Grill” Chicken Pitas	"
+linktitle: "“Mixed Grill” Chicken Pitas	"
 menu:
   main:
     parent: poultry
-title: "“Jerusalem Mixed Grill” Chicken Pitas	"
+title: "“Mixed Grill” Chicken Pitas	"
 serves: "Serves 4"
 summary: "This is a really delicious, fresh, interesting and easy meal for weeknights or weekends."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

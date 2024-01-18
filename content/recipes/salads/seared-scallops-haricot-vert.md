@@ -8,6 +8,7 @@ title: Warm Salad of Seared Scallops & Haricots Verts in Walnut Vinaigrette
 serves: "Serves 8 as a first course"
 summary: "This makes a stunning first-course salad for a special occasion (th bright colors make it especially well-suited for the winter holidays), but it’s also a delicious light dinner. "
 categories:
+- All Recipes
 - Salads
 tags:
 - Scallops

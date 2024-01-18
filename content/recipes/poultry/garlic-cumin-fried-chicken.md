@@ -8,6 +8,7 @@ title: Garlic Cumin Fried Chicken
 serves: "Serves 6-8"
 summary: "This isn’t a last-minute sort of recipe, but you won’t believe how flavorful it is. I am of the opinion that dark meat is objectively better for fried chicken – it can stand up to a lot of heat before it even gets close to overcooked, so you can achieve a deep golden-brown crust and still have juicy chicken. So at my house, we use a whole chicken plus an extra pack of thighs or legs."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

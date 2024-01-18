@@ -8,6 +8,7 @@ title: Green Bean Casserole with Crispy Onions
 serves: "Serves 6"
 summary: "This is a holiday slam-dunk side dish. Literally any food would be improved with a topping of these delicious crispy onions, which can be made in advance."
 categories:
+- All Recipes
 - Sides
 tags:
 - Green Beans

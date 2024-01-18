@@ -8,6 +8,7 @@ title: Chestnut & Apple Christmas Stuffing
 serves: "Serves 8-10"
 summary: "This makes a great stuffing for a turkey or a couple of roasted ducks or chickens."
 categories:
+- All Recipes
 - Stuffings & Dressings
 tags:
 - Holidays

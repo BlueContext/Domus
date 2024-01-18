@@ -8,6 +8,7 @@ title: Leek & Potato Soufflé with Ham and Fontina
 serves: "Serves 6-8"
 summary: "This only needs a nice green salad and a cold bottle of wine to make a nice supper."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

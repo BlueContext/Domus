@@ -8,6 +8,7 @@ title: Tamarind Chili Dipping Sauce
 serves: "Makes about 2 cups"
 summary: "This Thai-style condiment is amazing with grilled meats and fried foods."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Condiments

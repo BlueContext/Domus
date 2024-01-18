@@ -8,6 +8,7 @@ title: Chicken Involtini with Prosciutto, Provolone & Sage
 serves: "Serves 4"
 summary: "This is a very pretty dish that looks much more complicated than it is. I developed this recipe, but it's based on a traditional Italian dish and can easily be adapted to various ingredients and tastes. If it's payday, try this with veal scallops instead of chicken."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

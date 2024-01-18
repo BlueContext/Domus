@@ -8,6 +8,7 @@ title: Pork Chops with Gingered Plum Sauce
 serves: "Serves 4"
 summary: "This is a delicious way to dress up the humble pork chop."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Main Dish

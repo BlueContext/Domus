@@ -8,6 +8,7 @@ title: Quick Coconut Curry Noodle Soup
 serves: "Serves 4"
 summary: "This comes together in about 30 minutes, and makes a very fresh and satisfying weeknight dinner."
 categories:
+- All Recipes
 - Soups
 tags:
 

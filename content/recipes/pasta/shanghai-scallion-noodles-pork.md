@@ -8,6 +8,7 @@ title:  Shanghai Scallion Noodles with Pork
 serves: "Serves 4"
 summary: "A quick and flavorful noodle stir-fry, perfect for weeknights."
 categories:
+- All Recipes
 - Pasta & Noodles
 
 tags: 

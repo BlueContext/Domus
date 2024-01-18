@@ -8,6 +8,7 @@ title: Sherry Walnut Dressing
 serves: "Makes about 1/2 cup"
 summary: "Perfect on a winter salad, with the mellow sweetness of sherry vinegar playing against the faint bitterness of walnuts."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Salad Dressing

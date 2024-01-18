@@ -8,6 +8,7 @@ title: Braised Radishes with Raspberry Vinegar
 serves: "Serves 4"
 summary: "If you’re looking for an interesting vegetable side-dish, this unusual recipe will fit the bill. And it’s good, I promise! Cooked radishes have a firm-tender texture something like a cooked turnip, but the flavor is much superior. Raspberry vinegar is worth seeking out for this, but red wine vinegar makes a reasonable substitute."
 categories:
+- All Recipes
 - Sides
 tags:
 - Radishes

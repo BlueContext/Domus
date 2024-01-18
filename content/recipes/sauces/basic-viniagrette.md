@@ -8,6 +8,7 @@ title: Basic Vinaigrette
 serves: "Makes about 1/2 cup"
 summary: "If you like vinaigrette-type dressings, always make your own. It’s absurdly easy, and your dressing will be fresher and brighter than anything you can get from a bottle."
 categories:
+- All Recipes
 - Sauces
 tags:
 - French

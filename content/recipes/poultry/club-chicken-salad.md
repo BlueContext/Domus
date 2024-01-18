@@ -8,6 +8,7 @@ title: “Club” Chicken Salad
 serves: "Serves 6-8"
 summary: "This easy salad starts with a rotisserie chicken from the grocery store. I improvised this, and you should too! You can’t really mess it up. "
 categories:
+- All Recipes
 - Poultry
 - Salad
 tags:

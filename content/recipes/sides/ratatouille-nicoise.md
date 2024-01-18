@@ -8,6 +8,7 @@ title: Ratatouille Nicoise
 serves: "Serves 6-8"
 summary: "As beautiful as it is delicious, this simple vegetable gratin tastes like summer itself."
 categories:
+- All Recipes
 - Sides
 tags:
 - French

@@ -8,6 +8,7 @@ title: Thai-Style Beef Salad
 serves: "Serves 4"
 summary: "This is a weeknight favorite at our house — it comes together quickly, and has a deeply complex flavor. Loaded with all the vegetables you care to add, it’s bright, crunchy, spicy, meaty and amazing."
 categories:
+- All Recipes
 - Salad
 - Beef
 tags:

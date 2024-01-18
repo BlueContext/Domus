@@ -8,6 +8,7 @@ title: Sweet Potato & Jarlsberg Galette
 serves: "Serves 4"
 summary: "This simple potato cake makes the humble sweet potato into something a little more elevated, and it looks great on the plate."
 categories:
+- All Recipes
 - Sides
 tags:
 - Sweet Potatoes

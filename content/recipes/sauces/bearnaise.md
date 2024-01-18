@@ -8,6 +8,7 @@ title: Béarnaise Sauce
 serves: "Makes 1 to 1 1/2 cups"
 summary: "Béarnaise is a variation on Hollandaise with the lemon juice replaced by a strongly flavored reduction of vinegar, shallots, peppercorns and tarragon. It goes beautifully with red meat, French fries, egg dishes, and just about anything else. "
 categories:
+- All Recipes
 - Sauces
 tags:
 - French

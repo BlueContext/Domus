@@ -8,6 +8,7 @@ title: Ravigote Sauce
 serves: "Makes about 2/3 cup"
 summary: "This piquant cold sauce is delicious with London broil or skirt steak."
 categories:
+- All Recipes
 - Sauces
 tags:
 ---

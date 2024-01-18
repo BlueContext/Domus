@@ -8,6 +8,7 @@ title: Turkish Eggs (Çılbır)
 serves: "Serves 2"
 summary: "Poached eggs with a garlicky yogurt and a drizzle of spiced oil and butter -- this is beautiful, delicious, unusual, and quite easy. Serve with toasted crusty bread."
 categories:
+- All Recipes
 - Eggs
 tags:
 - Brunch

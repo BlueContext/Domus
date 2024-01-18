@@ -8,6 +8,7 @@ title: Portuguese Caldo Verde
 serves: "Serves 4"
 summary: "Easy, comforting, deeply flavorful, and (relatively) healthy with a wealth of greens."
 categories:
+- All Recipes
 - Soups
 tags:
 - Portuguese

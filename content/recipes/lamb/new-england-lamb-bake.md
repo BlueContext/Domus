@@ -8,6 +8,7 @@ title: New England Lamb Bake
 serves: "Serves 8"
 summary: "This homey, comforting recipe has all the goodness of a shepherd’s pie, and the rich flavor of lamb makes it suitable for company."
 categories:
+- All Recipes
 - Lamb
 tags:
 - Main Dish

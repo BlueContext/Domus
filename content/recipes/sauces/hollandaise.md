@@ -8,6 +8,7 @@ title: Hollandaise Sauce
 serves: "Makes 1 to 1 1/2 cups"
 summary: "Famously good with poached eggs, this butter sauce is equally delicious with steamed asparagus or other green vegetables. It's also wonderful with almost any seafood. "
 categories:
+- All Recipes
 - Sauces
 tags:
 - French

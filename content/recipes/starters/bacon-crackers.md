@@ -8,6 +8,7 @@ title: Bacon Crackers
 serves: Serves 12 (48 crackers)
 summary: "These easy little bites have been popular across the south since the 1950’s. They’re not exactly fancy, but they’re addictively good.  "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

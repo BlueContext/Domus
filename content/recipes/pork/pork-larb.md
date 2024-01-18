@@ -8,6 +8,7 @@ title: Pork Larb
 serves: "Serves 4"
 summary: "This Laotian favorite is bright, fresh and bold, and makes a quick and delicious dinner for summer weeknights."
 categories:
+- All Recipes
 - Pork
 - Salads
 tags: 

@@ -8,6 +8,7 @@ title: Pork & Porcini Ragu
 serves: "Serves 8"
 summary: "Deeply flavorful while retaining a certain lightness, this sauce clings lightly to pasta and makes a very elegant dinner. "
 categories:
+- All Recipes
 - Pork
 tags: 
 - Italian

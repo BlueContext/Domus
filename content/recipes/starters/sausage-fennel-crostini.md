@@ -8,6 +8,7 @@ title: Sausage & Fennel Crostini
 serves: "Makes 12 pieces"
 summary: "This unusual recipe is my favorite appetizers for entertaining. They come together in a snap, and they’re mouthwateringly good. This recipe highlights the sweet, delicious taste of fennel seed, which rarely sees much play in American kitchens. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

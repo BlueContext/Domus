@@ -8,6 +8,7 @@ title: Apple, Celery Root & Fennel Salad with Hazelnuts
 serves: "Serves 6"
 summary: "A truly interesting salad perfect for winter meals. It requires a few less-common ingredients that are worth getting to know."
 categories:
+- All Recipes
 - Salads
 
 ---

@@ -8,6 +8,7 @@ title: Peppery Lobster Bisque with Star Croûtons
 serves: "Serves 4-6"
 summary: "This makes a very elegant first course for a Christmas or New Year’s dinner. It’s not a simple recipe, but it’s a lovely one and eminently do-able with a little planning."
 categories:
+- All Recipes
 - Soups
 - Seafood
 tags:

@@ -8,6 +8,7 @@ title: Smothered Steak
 serves: "Serves 4"
 summary: "My mom used to make this all the time. It’s a comforting and  filling meal that uses inexpensive cuts of beef to produce tender meat and a rich gravy."
 categories:
+- All Recipes
 - Beef
 tags:
 - Main Dish

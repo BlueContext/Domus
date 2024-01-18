@@ -8,6 +8,7 @@ title: Lemon Chicken
 serves: "Serves 4"
 summary: "Here’s an easy version of a beloved Chinese classic. Round out the meal with steamed rice and a steamed or stir-fried green vegetable."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Chinese

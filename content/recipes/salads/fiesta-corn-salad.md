@@ -8,6 +8,7 @@ title: Fiesta Corn Salad
 serves: "Serves 6-8"
 summary: "A colorful, cool, crunchy, spicy side that’s great for a barbecue. Other than some chopping, this is almost effortless and can be made well in advance."
 categories:
+- All Recipes
 - Salads
 tags:
 ---

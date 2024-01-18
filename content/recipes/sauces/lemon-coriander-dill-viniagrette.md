@@ -8,6 +8,7 @@ title: Lemon Coriander Dill Vinaigrette
 serves: "Makes about 1 cup"
 summary: "This is good on fish dishes, and great to serve with a platter of smoked salmon on a brunch buffet. You can use standard lemons, but Meyer lemons have a unique aroma that’s really lovely the the dill."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Salad Dressing

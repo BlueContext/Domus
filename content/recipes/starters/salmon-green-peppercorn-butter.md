@@ -8,6 +8,7 @@ title: Salmon & Green Peppercorn Butter
 serves: "Serves 15-18"
 summary: "This buttery spread grains sophistication from the addition of Pernod and green peppercorns."
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

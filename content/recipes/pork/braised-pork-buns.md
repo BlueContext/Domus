@@ -8,6 +8,7 @@ title: Braised Pork Buns
 serves: "Serves 4-6"
 summary: "These glossy, sticky shreds of pork are irresistible tucked into a fluffy steamed bun with a bit of cucumber, scallions, and herbs."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Main Dish

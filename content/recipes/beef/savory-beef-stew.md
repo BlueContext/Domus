@@ -8,6 +8,7 @@ title: Savory Beef Stew
 serves: "Serves 4-6"
 summary: "Here's a really excellent version of beef stew, savory and well-balanced, comforting but delicious enough for company."
 categories:
+- All Recipes
 - Beef
 tags:
 - Main Dish

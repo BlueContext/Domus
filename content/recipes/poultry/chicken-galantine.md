@@ -8,6 +8,7 @@ title: Chicken Galantine Stuffed with Sausage, Onion and Sage
 serves: "Serves 4-6"
 summary: "Boning a whole chicken may not seem like an everyday project, but I promise that once you’ve done it three or four times, you’ll find it easy. Or at least not intimidating. Once you reach that point, this makes an elegant (but not fussy) and delicious chicken dinner for a cool autumn evening."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

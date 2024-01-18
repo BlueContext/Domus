@@ -8,6 +8,7 @@ title: Chicken Ballotine
 serves: "Serves 4-6"
 summary: "You’d be hard pressed to present a more impressive main dish than this, served with a Bearnaise sauce you cooked while the ballotine was in the oven. Such a show-stopping dish doesn’t need fancy sides: some buttered peas, some potatoes browned carefully in butter. It’s delicious, rich and sophisticated: absolutely as elegant as beef Wellington or a lobster dish, and much less expensive."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

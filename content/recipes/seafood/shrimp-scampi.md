@@ -8,6 +8,7 @@ title: Shrimp Scampi
 serves: "Serves 4 as a starter, or 2 as a main course"
 summary: "The only real trick to this simple classic is to cook the shrimp just until the moment they're pink all over, but before they start to curl up. The delicious wine-garlic-butter sauce cries out for some crusty bread to mop it up."
 categories:
+- All Recipes
 - Seafood
 tags:
 - Shrimp

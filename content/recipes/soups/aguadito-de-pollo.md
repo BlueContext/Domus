@@ -8,6 +8,7 @@ title: Aguadito de Pollo
 serves: "Serves 4-6"
 summary: "This is a delicious, herbal, and fresh-tasting version of chicken soup. "
 categories:
+- All Recipes
 - Soups
 tags:
 ---

@@ -8,6 +8,7 @@ title: Spiced Saffron Rice
 serves: "Serves 6"
 summary: "It’s worth seeking out Basmati rice that’s been imported from India. The rice’s rich floral aroma is created by aging the dried grains for months; domestic producers don’t bother, resulting in bland and uninteresting rice."
 categories:
+- All Recipes
 - Sides
 tags:
 - Rice

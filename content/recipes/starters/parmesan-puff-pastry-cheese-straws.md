@@ -8,6 +8,7 @@ title: Parmesan Puff-Pastry Cheese Straws
 serves: "Makes about 2 dozen"
 summary: "Serve these long and lovely cheese straws upright in a clear glass vase to add an element of dramatic height to an hors d'oeuvres table. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

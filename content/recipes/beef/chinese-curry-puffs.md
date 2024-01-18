@@ -8,6 +8,7 @@ title: Chinese Curry Puffs
 serves: "Serves 8"
 summary: "These Chinese bakery favorites are filled with a highly seasoned curried beef mixture."
 categories:
+- All Recipes
 - Beef
 - Starters
 tags:

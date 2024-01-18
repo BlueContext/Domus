@@ -8,6 +8,7 @@ title: Palm Hearts & Red Peppers with Lettuce
 serves: "Serves 6"
 summary: "This is a quick, simple salad that is equally appropriate as the salad course of a dinner party or as a tossed salad alongside a weeknight supper of lasagna or soup. "
 categories:
+- All Recipes
 - Salads
 tags:
 - First Course

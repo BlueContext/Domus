@@ -8,6 +8,7 @@ title:  Baked Pasta with Sausage & Ricotta
 serves: "Serves 4"
 summary: "."
 categories:
+- All Recipes
 - Pasta & Noodles
 tags: 
 - Main Dish

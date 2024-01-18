@@ -8,6 +8,7 @@ title: French Fries
 serves: "Serves 4"
 summary: "Perfect French fries — crusty and golden on the outside with creamy interiors — can be produced at home, but it requires planning and careful attention to detail. The initial frying can be done early in the day, so that only the final flash-frying need be done right before serving."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

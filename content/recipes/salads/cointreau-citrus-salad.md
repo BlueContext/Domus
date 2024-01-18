@@ -8,6 +8,7 @@ title: Cointreau Citrus Salad
 serves: "Serves 4"
 summary: "This is more of a tip than a recipe – a simple, make-ahead fruit salad that is perfect for brunch. "
 categories:
+- All Recipes
 - Salads
 tags:
 - Brunch  

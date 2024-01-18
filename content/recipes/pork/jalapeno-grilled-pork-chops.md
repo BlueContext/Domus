@@ -8,6 +8,7 @@ title: Jalapeño Grilled Pork Chops
 serves: "Serves 4"
 summary: "."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Main Dish

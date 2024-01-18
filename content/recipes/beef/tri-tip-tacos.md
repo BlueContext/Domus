@@ -8,6 +8,7 @@ title: Tri-Tip Tacos
 serves: "Serves 4"
 summary: "Tri-tip is a great cut to have in the freezer, and few cuts of beef are better on the grill.  Here, it’s marinated, grilled, and sliced thinly for tacos."
 categories:
+- All Recipes
 - Beef
 tags:
 - Tacos

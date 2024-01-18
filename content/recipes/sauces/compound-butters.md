@@ -8,6 +8,7 @@ title: Compound Butters
 serves: "Various quantities"
 summary: "Delicious on steak or other grilled or roast meats, these easy flavored butters can be kept in the freezer and pulled out a moment’s notice. If you can find a good cultured butter to use as the base, all the better. "
 categories:
+- All Recipes
 - Sauces
 tags:
 - Compound Butter

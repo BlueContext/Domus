@@ -8,6 +8,7 @@ title: Spiced Roasted Eggplant with Fresh Herbs
 serves: "Serves 4-6"
 summary: "This is adapted from from an Egyptian street food snack where the eggplant is deep-fried. Broiling is much faster and easier. "
 categories:
+- All Recipes
 - Sides
 tags:
 - Eggplant

@@ -8,6 +8,7 @@ title: Shrimp Venustiano
 serves: "Serves 4"
 summary: "This is my version of a delicious dish from the old Carranza Grocery & Market. It’s basically sauteed shrimp with a bright lemon beurre blanc sauce with sweet-and-spice Peppadew pickled peppers."
 categories:
+- All Recipes
 - Seafood
 tags:
 - Shrimp

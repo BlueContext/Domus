@@ -8,6 +8,7 @@ title: Arugula Salad
 serves: "Serves 4"
 summary: "Quick and bright, the salad puts the peppery flavor of arugula front and center."
 categories:
+- All Recipes
 - Salads
 
 ---

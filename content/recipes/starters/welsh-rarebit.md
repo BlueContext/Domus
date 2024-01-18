@@ -8,6 +8,7 @@ title: Welsh Rarebit
 serves: "Serves 4"
 summary: "This makes a very casual and earthy first course, but is also an excellent (and easy) supper on cold night, perhaps served with nice, thick slices of bacon and a couple of broiled tomatoes. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - First Course

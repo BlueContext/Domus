@@ -8,6 +8,7 @@ title: Spoon Bread
 serves: "Serves 6"
 summary: "Imagine if corn bread was a soufflé — that’s this! It makes a great side-dish, but is also delicious drizzled with honey for breakfast or brunch."
 categories:
+- All Recipes
 - Sides
 tags:
 - Corn

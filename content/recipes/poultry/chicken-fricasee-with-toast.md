@@ -8,6 +8,7 @@ title: Chicken Fricassee on Toast
 serves: "Serves 4"
 summary: "HThis is an easy and elegant supper, needing only a green vegetable and a dry white wine to complete the meal."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

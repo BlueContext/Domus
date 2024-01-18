@@ -8,6 +8,7 @@ title: My Meatloaf
 serves: "Serves 6"
 summary: "There are countless versions of this American standard, but I think mine is particularly good. It's as well suited for company as for a weeknight supper."
 categories:
+- All Recipes
 - Beef
 tags:
 - Main Dish

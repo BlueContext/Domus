@@ -8,6 +8,7 @@ title: Northern Thai-Style Grilled Chicken (Kai Yang)
 serves: "Serves 4"
 summary: "A funky, flavorful marinade adds depth and interest to this grilled chicken, which is delicious with Chili-Lime Dipping Sauce and/or Tamarind Chili Dipping Sauce. If you’re going to grill, do it over charcoal!"
 categories:
+- All Recipes
 - Poultry
 tags:
 - Thai

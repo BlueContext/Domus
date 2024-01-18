@@ -8,6 +8,7 @@ title: Braised Stuff Flank Steak
 serves: "Serves 4-6"
 summary: ""
 categories:
+- All Recipes
 - Beef
 tags:
 - Main Dish

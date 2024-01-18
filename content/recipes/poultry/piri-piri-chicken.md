@@ -8,6 +8,7 @@ title: Piri-Piri Chicken
 serves: "Serves 4"
 summary: "Spicy, flavorful and delicious — this puts plain barbecue chicken to shame. "
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

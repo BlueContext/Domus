@@ -8,6 +8,7 @@ title: Green Bean Salad with Mint and Basil
 serves: "Serves 4"
 summary: "This is perfect with lunch on a hot summer day – the cool, crisp string beans and bright flavors of mint and basil are incredibly refreshing, and other than boiling a pot of water, there’s no cooking involved. "
 categories:
+- All Recipes
 - Salads
 
 ---

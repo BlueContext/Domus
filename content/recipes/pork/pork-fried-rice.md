@@ -8,6 +8,7 @@ title: Pork Fried Rice
 serves: "Serves 6"
 summary: "When you think of really good pork fried rice…this is what you’re thinking of."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Chinese

@@ -8,6 +8,7 @@ title: Enchiladas Suizas La Fonda
 serves: "Serves 4-6"
 summary: "This is how enchiladas Suizas are prepared at La Fonda on Main, one of San Antonio’s loveliest restaurants."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Tex-Mex

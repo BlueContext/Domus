@@ -8,6 +8,7 @@ title:  Skillet Stuffed Shells
 serves: "Serves 4-6"
 summary: "A classic of red-sauce Italian American cooking, this is rich, comforting and meatless."
 categories:
+- All Recipes
 - Pasta & Noodles
 tags: 
 - Main Dish

@@ -8,6 +8,7 @@ title: Carbonnades a la Flamande
 serves: "Serves 6"
 summary: "This rich braised beef gains dimension and complexity from being cooked in Belgian ale."
 categories:
+- All Recipes
 - Beef
 tags:
 - French

@@ -8,6 +8,7 @@ title: Pommes Anna (Sliced Potato Cake)
 serves: "Serves 6"
 summary: "Here is a justly-famous French potato dish that you will be proud to have mastered. It’s deceptively simple, but a truly memorable dish: a fine cake of beautifully arranged sliced potatoes, crusty and golden without, creamy and buttery within."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

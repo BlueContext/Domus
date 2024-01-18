@@ -8,6 +8,7 @@ title: Jamaican Beef Patties
 serves: "Serves 8"
 summary: "These savory hand-pies are a bit of a project, but the unbaked pies freeze beautifully. "
 categories:
+- All Recipes
 - Beef
 tags:
 - Jamaican

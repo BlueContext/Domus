@@ -8,6 +8,7 @@ title: Salad Shirazi
 serves: "Serves 4"
 summary: "Cool, bright, and crunchy, this Persian salad is typical of the Iranian table and goes very well with grilled meats and spicy main dishes."
 categories:
+- All Recipes
 - Salads
 tags:
 - Persian

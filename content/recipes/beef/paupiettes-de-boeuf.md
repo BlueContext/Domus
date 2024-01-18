@@ -8,6 +8,7 @@ title: Paupiettes de Boeuf a la Catalane
 serves: "Serves 4"
 summary: "These savory little packets are made up of thin slices of beef filled with onions, peppers, and savory bread crumbs, rolled tight and braised until tender. It’s an intensely flavorful and elegant dish made from inexpensive ingredients."
 categories:
+- All Recipes
 - Beef
 tags:
 - French

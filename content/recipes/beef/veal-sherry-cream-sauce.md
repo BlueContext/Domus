@@ -8,6 +8,7 @@ title: Veal with Sherry Cream Sauce
 serves: "Serves 4"
 summary: ""
 categories:
+- All Recipes
 - Beef
 - Veal
 tags:

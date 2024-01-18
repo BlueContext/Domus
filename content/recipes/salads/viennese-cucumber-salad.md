@@ -8,6 +8,7 @@ title: Viennese Cucumber Salad
 serves: "Serves 6-8"
 summary: "This is a light, simple, and delicious Old World dish that’s somewhere between a salad and a light pickle. It's an ideal side-dish along with a rich stew or goulash. "
 categories:
+- All Recipes
 - Salads
 
 ---

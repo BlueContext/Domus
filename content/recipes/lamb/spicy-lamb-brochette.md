@@ -8,6 +8,7 @@ title: Spicy Lamb Brochette
 serves: "Serves 4-6"
 summary: "This is another old recipe the long-gone Barcelona Cafe on Broadway. These benefit from being grilled over hardwood charcoal, but be careful not to overcook -- lamb should never be well-done."
 categories:
+- All Recipes
 - Lamb
 tags:
 - Spanish

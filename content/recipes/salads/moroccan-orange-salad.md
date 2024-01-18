@@ -8,6 +8,7 @@ title: Moroccan Orange Salad
 serves: "Serves 4-6"
 summary: "Fragrant and simple, this is perfect for breakfast or brunch. "
 categories:
+- All Recipes
 - Salads
 tags:
 - Brunch  

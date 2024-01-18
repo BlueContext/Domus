@@ -8,6 +8,7 @@ title: Roast Prime Rib with Pink & Green Peppercorn Crust
 serves: "Serves 8"
 summary: "This is a grand centerpiece for you Christmas dinner table. It's expensive, but you're buying yourself some peace of mind on a busy day. Prime rib is easy to cook, easy to carve, and almost universally popular."
 categories:
+- All Recipes
 - Beef
 tags:
 - Dinner Party

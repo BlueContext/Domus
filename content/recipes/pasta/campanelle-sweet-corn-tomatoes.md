@@ -8,6 +8,7 @@ title:  Campanelle Pasta with Sweet Corn, Tomatoes & Basil
 serves: "Serves 4"
 summary: "An unusual, summery pasta dish best made when sweet corn and tomatoes are at their best."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Meatless mains
 tags: 

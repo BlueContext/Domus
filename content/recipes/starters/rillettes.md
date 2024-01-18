@@ -9,6 +9,7 @@ serves: Makes 4 cups
 summary: "Rillettes have variously been described as “pork butter” and “jam from the pig”, which should be sufficient to express just how delicious they are. This rich, old-fashioned French favorite is definitely worth a try."
 
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

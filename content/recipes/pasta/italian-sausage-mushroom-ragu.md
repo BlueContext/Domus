@@ -8,6 +8,7 @@ title:  Italian Sausage & Mushroom Ragu with Pappardelle
 serves: "Serves 4-6"
 summary: "This rich and flavorful sauce tastes like it takes much longer to make."
 categories:
+- All Recipes
 - Pasta & Noodles
 tags: 
 - Main Dish

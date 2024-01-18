@@ -8,6 +8,7 @@ title: Spicy Braised Lamb & Spinach (East Indian Flavors)
 serves: "Serves 6-8"
 summary: "Fragrant and delicious. Perfect served over Spiced Saffron Rice."
 categories:
+- All Recipes
 - Lamb
 tags:
 - Main Dish

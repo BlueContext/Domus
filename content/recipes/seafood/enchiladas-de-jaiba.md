@@ -8,6 +8,7 @@ title: Enchiladas de Jaiba  (Crab and Sweet Corn Enchiladas in a Poblano Cream S
 serves: "Serves 6"
 summary: "Delicate, rich and fresh-tasting, this will remind you more of a French crepe dish than the red-sauce-and-yellow-cheese enchiladas you may be more familiar with. These make a great brunch or luncheon dish for company. Jumbo lump crab is a premium ingredient, but lesser grades should not be used here. "
 categories:
+- All Recipes
 - Seafood
 tags:
 - Crab

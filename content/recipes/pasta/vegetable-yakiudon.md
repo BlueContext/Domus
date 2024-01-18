@@ -8,6 +8,7 @@ title:  Vegetable Yakiudon
 serves: "Serves 4"
 summary: "This savory dish of plump Japanese udon noodles stir-fried with some sliced-up vegetables comes together in a snap"
 categories:
+- All Recipes
 - Pasta & Noodles
 - Meatless mains
 tags: 

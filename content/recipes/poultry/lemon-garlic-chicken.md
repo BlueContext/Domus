@@ -8,6 +8,7 @@ title: Lemon & Garlic Chicken
 serves: "Serves 4"
 summary: "This is a go-to recipe - a bright, garlicky and fresh-tasting dinner that you’ll have on the table in under an hour. The sauce has a lot of flavor, so you really just need some steamed rice and a simple vegetable to round out the plate."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

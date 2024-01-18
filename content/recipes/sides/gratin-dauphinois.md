@@ -8,6 +8,7 @@ title: Gratin Dauphinois
 serves: "Serves 6"
 summary: "I’m certain that this is the most delicious potato dish ever conceived."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

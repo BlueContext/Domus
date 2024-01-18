@@ -8,6 +8,7 @@ title: Fancy Green Bean Casserole
 serves: "Serves 6"
 summary: "This is a gussied-up version of the traditional green bean casserole: fresh green beans, crème fraîche and sauteed mushrooms instead of canned cream of mushroom soup, bacon and Gruyere for added savoriness, and buttered breadcrumbs instead of canned French fried onions."
 categories:
+- All Recipes
 - Sides
 tags:
 - Green Beans

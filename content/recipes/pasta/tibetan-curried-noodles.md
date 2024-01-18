@@ -8,6 +8,7 @@ title:  Tibetan Curried Noodles with Beef & Cabbage
 serves: "Serves 4"
 summary: "Easy, comforting, and a bit unusual, this hearty noodle dish needs nothing else to make a great weeknight meal."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Beef
 tags: 

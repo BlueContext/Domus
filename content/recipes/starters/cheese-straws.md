@@ -8,6 +8,7 @@ title: Cheese Straws
 serves: 
 summary: An old southern classic for a reason – these are just plain good. The dough freezes beautifully when wrapped tightly in plastic wrap.  
 categories:
+- All Recipes
 - Starters
 tags:  
 - Hors d'oeuvres

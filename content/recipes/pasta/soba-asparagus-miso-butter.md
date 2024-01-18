@@ -8,6 +8,7 @@ title:  Soba Noodles with Asparagus & Miso Butter
 serves: "Serves 4"
 summary: "Complex, fresh-tasting, and surprisingly rich, this simple noodle dish builds on the earthy goodness of Japanese buckwheat noodles (soba). The combination of miso and butter is reminiscent of good parmesan cheese."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Meatless mains
 tags: 

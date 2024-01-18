@@ -8,6 +8,7 @@ title: Spicy Meatball Bahn Mi
 serves: "Serves 4"
 summary: "This hot sandwich comes together quickly and makes a satisfying, summery weeknight supper."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Sandwich
