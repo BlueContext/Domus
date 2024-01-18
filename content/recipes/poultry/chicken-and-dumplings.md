@@ -12,6 +12,7 @@ categories:
 - Poultry
 tags:
 - Main Dish
+- Classics
 ---
 Don’t skip the apple cider — it’s an odd ingredient, and you won’t taste it in the final dish, but it definitely adds something.  
 
