@@ -9,6 +9,7 @@ serves: "Serves 4"
 summary: "Fragrant, tender and moist with a note of ginger and just enough heat. Excellent with cold beer as an appetizer or a casual meal.  This can easily be doubled or tripled for a crowd."
 categories:
 - All Recipes
+- Poultry
 - Starters
 tags: 
 - Hors d'oeuvres 
