@@ -11,7 +11,7 @@ categories:
 - All Recipes
 - Salads
 tags:
-- Classics
+
 ---
 Don’t skip ingredients just because you can't find them at your market! Zaatar, pomegranate molasses, and sumac can be found at a Middle Eastern market, or (more easily) online, and are all handy to have in the kitchen.
 
