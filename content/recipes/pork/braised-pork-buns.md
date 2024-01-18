@@ -28,7 +28,7 @@ Dark soy sauce is an ingredient worth seeking out to have on hand. Much darker a
 1/4 cup light soy sauce  
 1 tbsp dark soy sauce  
 1/2 cup water  
-6-8 bao (you can get them frozen, or make your own Lotus Leaf Buns)
+6-8 bao (you can get them frozen, or make your own Lotus Leaf Buns)  
 Fresh garnishes for serving — I like to pick at least two from the following: sliced cucumbers, sliced scallions, thinly sliced chili peppers, fresh cilantro leaves, fresh mint leaves  
 
 </div>
