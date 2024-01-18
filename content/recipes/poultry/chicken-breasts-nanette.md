@@ -14,6 +14,7 @@ tags:
 - French
 - Main Dish
 - Dinner Party
+- Classics
 ---
 The chicken breast is the most inexplicably overrated food in the American diet, but the delicate seasonings and silky cream sauce in this recipe turns them into something special. 
 

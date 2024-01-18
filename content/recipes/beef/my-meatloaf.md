@@ -12,6 +12,7 @@ categories:
 - Beef
 tags:
 - Main Dish
+- Classics
 ---
 It’s tender and flavorful enough that I generally bake it unglazed and serve without a sauce. If you like the traditional ketchup topping, feel free to add it. Alternately, this is delicious served with a brown gravy with mushrooms.
 

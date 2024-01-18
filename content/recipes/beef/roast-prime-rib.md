@@ -14,6 +14,7 @@ tags:
 - Dinner Party
 - Holidays
 - Main Dish
+- Classics
 ---
 The procedure described in the first paragraph below may seem strange, but this dry-brining operation allows the salty liquid to be drawn back into the meat, changing the structure of the proteins and creating a roast that is tender and juicy.  Meanwhile, the long period uncovered in the refrigerator creates a dry surface that will brown and crust beautifully.
 
