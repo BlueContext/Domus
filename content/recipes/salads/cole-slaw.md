@@ -12,6 +12,7 @@ categories:
 - Salads
 tags:
 - Party Food
+- Classics
 ---
 Salting the cabbage removes excess water and prevents watery slaw.
 
