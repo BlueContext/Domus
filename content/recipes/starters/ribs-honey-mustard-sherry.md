@@ -8,6 +8,7 @@ title: Ribs with Honey, Mustard & Sherry Glaze
 serves: "Makes tapas for 4 to 6"
 summary: "These meaty, sticky little bites take some time, but it's mostly unattended. They're perfect party food."
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres

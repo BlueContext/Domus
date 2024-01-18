@@ -8,6 +8,7 @@ title:  Herbed Cannelloni with Prosciutto & Artichoke Hearts
 serves: "Serves 4-6"
 summary: "This is a delicious stuffed pasta baked in a simple tomato sauce with a bit of cheese on top — very tasty, and both lighter and more interesting than it looks."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Pork
 tags: 

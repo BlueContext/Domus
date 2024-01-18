@@ -8,6 +8,7 @@ title: Twice Baked Potatoes
 serves: "Variable"
 summary: "These are an American classic and a personal childhood favorite.  The basic twice-baked potato is just a baked potato hollowed out, and then stuffed with mashed potatoes made from its own innards prepared in the usual way (butter, milk or cream, salt and pepper) and baked until the top is brown and crusty. This version is an easy and delicious. But from this simple beginning, one can arrive at a nearly infinite number of rich and delicious variations, suitable for the most festive occasions. The simplest embellishment is handful of grated cheese. From there, consider scallions…crisp crumbled bacon…minced pickled jalapeños.  You get the idea."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

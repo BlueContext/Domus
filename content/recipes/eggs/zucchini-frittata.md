@@ -8,6 +8,7 @@ title: Zucchini, Goat Cheese & Dill Frittata
 serves: "Serves 6"
 summary: "Green and lovely, with added creaminess and richness from the goat cheese. "
 categories:
+- All Recipes
 - Eggs
 tags:
 - Brunch

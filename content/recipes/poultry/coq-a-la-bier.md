@@ -8,6 +8,7 @@ title: Coq a la Biere
 serves: "Serves 4"
 summary: "This unusual, hearty dish of chicken, beer, mushrooms and bacon from the north of France would originally have been made with a tough old rooster (coq), but you won’t find one of those anywhere. Never mind — a chicken works beautifully, and takes considerably less time to cook. "
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

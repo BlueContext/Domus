@@ -8,6 +8,7 @@ title: Caramelized Onion Dip
 serves: "Makes about 3 cups"
 summary: "This is so easy, and turns out a million times better than anything you could buy. It’s delicious with kettle chips. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Dips

@@ -8,6 +8,7 @@ title: Potato Salad for a Party
 serves: "Serves 10-12"
 summary: "It took me years to work out a potato salad recipe that I actually like, and here it is. If you’re not cooking for a crowd, cut this recipe in half. It can also be doubled for a big event, and made up to 2 days in advance. "
 categories:
+- All Recipes
 - Salads
 tags:
 - Party Food

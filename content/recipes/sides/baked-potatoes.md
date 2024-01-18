@@ -8,6 +8,7 @@ title: Baked Potatoes
 serves: "Variable"
 summary: "A simple old classic that suffers from poor technique. A good baked potato is simply delicious, and serves as a base limitless variations. "
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

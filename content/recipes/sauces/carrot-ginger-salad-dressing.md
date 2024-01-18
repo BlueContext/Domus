@@ -8,6 +8,7 @@ title: Carrot Ginger Salad Dressing
 serves: "Makes roughly 1 1/2 cups, enough for 6-8 salads"
 summary: "This is the delicious, chunky orange salad dressing you may recognize from Japanese steak houses.  It’s not the prettiest dressing you’ll ever see, but it’s so good — my absolute favorite."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Salad Dressing

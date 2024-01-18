@@ -8,6 +8,7 @@ title: Salad de Carottes Rapees (French Grated Carrot Salad)
 serves: "Serves 4"
 summary: "If you use the grating disk on a food processor, this salad comes together in moments. It’s bright, crunchy, fresh and colorful."
 categories:
+- All Recipes
 - Salads
 tags:
 - French

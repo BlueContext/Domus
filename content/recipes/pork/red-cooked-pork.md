@@ -8,6 +8,7 @@ title: Red Cooked Pork (Hong Shao Rou)
 serves: "Serves 4"
 summary: "This takes some time, but is well worth it. You can serve this as-is with rice, but I like to then stir fry it over high heat to re-crisp it.  Add some fresh cabbage or spinach, scallions, and red bell pepper (the crunchy vegetables are a nice contrast to the fatty pork)."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Chinese

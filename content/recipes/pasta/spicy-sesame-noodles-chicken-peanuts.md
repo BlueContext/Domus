@@ -8,6 +8,7 @@ title:  Spicy Sesame Noodles w. Chicken and Peanuts
 serves: "Serves 4"
 summary: "."
 categories:
+- All Recipes
 - Pasta & Noodles
 
 tags: 

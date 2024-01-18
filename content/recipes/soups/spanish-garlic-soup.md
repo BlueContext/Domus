@@ -8,6 +8,7 @@ title: Spanish Garlic Soup (Sopa de ajo)
 serves: "Serves 4"
 summary: "This simple homey soup is a great way to use up stale bread and get a quick, inexpensive, and tasty dinner on the table. "
 categories:
+- All Recipes
 - Soups
 tags:
 - Spanish

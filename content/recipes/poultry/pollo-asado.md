@@ -8,6 +8,7 @@ title: Pollo Asado
 serves: "Serves 4"
 summary: "This is somewhat spicy and intensely flavorful, and makes a great filling for tacos or burritos."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Mexican

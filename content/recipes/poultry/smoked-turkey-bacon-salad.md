@@ -8,6 +8,7 @@ title: Smoked Turkey & Bacon Salad
 serves: "Serves 8"
 summary: "This simple and delicious salad was inspired by a recipe from the New Braunfels Smokehouse by way of Karen Haram’s beautiful 1994 “San Antonio Cuisine”. It can easily be halved for a smaller crowd."
 categories:
+- All Recipes
 - Poultry
 - Salad
 tags:

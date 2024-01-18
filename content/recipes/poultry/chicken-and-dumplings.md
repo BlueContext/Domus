@@ -8,6 +8,7 @@ title: Chicken & Dumplings
 serves: "Serves 6-8"
 summary: "This is my adaptation of an old recipe from Gourmet Magazine, and it’s the best version of chicken and dumplings that I know. The stew is rich and flavorful, and the dumplings are light and fluffy with a slight bite from the addition of cornmeal. It’s just perfect. "
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

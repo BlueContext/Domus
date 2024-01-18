@@ -8,6 +8,7 @@ title:  Pasta with Pesto, Potatoes & Green Beans
 serves: "Serves 4"
 summary: "Prepared carefully with best-quality ingredients, this unusual pasta dish is both delicate and filling."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Meatless Mains
 tags: 

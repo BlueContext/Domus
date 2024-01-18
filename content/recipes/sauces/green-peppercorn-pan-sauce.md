@@ -8,6 +8,7 @@ title: Green Peppercorn Pan Sauce
 serves: "Makes about 1 1/2 cups"
 summary: "A rich brown sauce for a roast, made piquant by the addition of brined green peppercorns. "
 categories:
+- All Recipes
 - Sauces
 tags:
 - Gravy

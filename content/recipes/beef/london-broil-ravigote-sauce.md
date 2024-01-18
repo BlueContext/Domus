@@ -8,6 +8,7 @@ title: London Broil with Ravigote Sauce
 serves: "Serves 6"
 summary: "This is great served warm, room temperature, or chilled (the latter being especially appealing on a hot day)."
 categories:
+- All Recipes
 - Beef
 tags:
 - Main Dish

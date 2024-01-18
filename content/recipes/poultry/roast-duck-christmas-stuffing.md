@@ -8,6 +8,7 @@ title: Roast Duck with Christmas Stuffing
 serves: "Serves 4-6"
 summary: "My husband and I like to have a quiet Christmas Eve dinner at home, as Christmas day is joyfully busy with visits to family and friends. Duck is what I made the first year we celebrated Christmas together at home, and we’ve stuck with it. Here, the duck is stuffed with a rich and festive dressing including chestnuts, sausage, apples and the livers from the ducks. A reduced pan sauce with port wine guilds the lily. With so spectacular a main dish, not much else is needed - steamed asparagus tossed in melted butter, and perhaps some fingerling potatoes roasted in duck fat until golden and crisp."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Holidays

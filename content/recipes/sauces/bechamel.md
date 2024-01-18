@@ -8,6 +8,7 @@ title: Béchamel Sauce
 serves: "Variable quantity"
 summary: "This is the basic white sauce of classical French cuisine. It’s also the basis for a great many other things. Cheese added to a well-seasoned béchamel yields a cheese sauce for a great baked macaroni and cheese. Lasagna traditionally includes a layer of béchamel. Any number of cream soups start with a béchamel, as do almost all savory soufflés. The technique of cooking a roux and blending in liquid is also used to make gravy, and doing it correctly is how you avoid lumps. In short, it’s a basic technique and mastering it will make you a better cook."
 categories:
+- All Recipes
 - Sauces
 tags:
 - French

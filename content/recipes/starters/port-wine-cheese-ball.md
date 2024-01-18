@@ -8,6 +8,7 @@ title: Port Wine Cheese Ball
 serves: "Serves 20"
 summary: "There’s nothing fancy about this holiday party staple, but my homemade version tastes better than store-bought, and it’s practically effortless."
 categories:
+- All Recipes
 - Starters
 tags: 
 - Dips

@@ -8,6 +8,7 @@ title: Crab Napoleons
 serves: "Serves 6"
 summary: "This is a treasure – elegant, delicious, bright-tasting, modern, and with all the components made in advance, it’s the perfect first course for a dinner party. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Crab

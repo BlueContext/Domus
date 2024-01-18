@@ -8,6 +8,7 @@ title: Parsnip & Hazelnut Gratin with Bacon
 serves: "Serves 8"
 summary: "This is an unusual gratin, but the nutty flavor of parsnips makes them an excellent stand-in for potatoes."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

@@ -8,6 +8,7 @@ title: Chicken with Green Sauce
 serves: "Serves 2-4"
 summary: "Serve this flavorful and colorful roast chicken with rice and black beans. Some warm flour tortillas are also nice.  Your beans will be incredible if you add the juices from the roasting pan!"
 categories:
+- All Recipes
 - Poultry
 tags:
 - Peruvian

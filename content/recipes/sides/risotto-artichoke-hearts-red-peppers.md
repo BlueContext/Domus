@@ -8,6 +8,7 @@ title: Risotto with Artichoke Hearts, Prosciutto and Red Bell Pepper
 serves: "Serves 2"
 summary: "This is my go-to risotto recipe. It’s simple, colorful, and delicious."
 categories:
+- All Recipes
 - Sides
 tags:
 - Risotto

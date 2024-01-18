@@ -8,6 +8,7 @@ title: Pommes Puree a la Robuchon
 serves: "Variable"
 summary: "Here is Joël Robuchon’s famed puree of 2 parts potato to 1 part butter, silken and lovely. This is the side you want for  your most elegant main dish, and you’ll only want a generous spoonful per serving."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

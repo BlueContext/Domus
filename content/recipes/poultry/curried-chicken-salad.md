@@ -8,6 +8,7 @@ title: Curried Chicken Salad
 serves: "Serves 6-8"
 summary: "This is my own recipe, but I can’t claim it’s an original idea. Curry chicken salad was a popular dish in the 80s and 90s, and I’ve seen many recipes over the years. It was tasty then, and it’s tasty now. Over the years, I’ve worked out the recipe that I like best. "
 categories:
+- All Recipes
 - Poultry
 - Salad
 tags:

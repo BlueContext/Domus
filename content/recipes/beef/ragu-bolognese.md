@@ -8,6 +8,7 @@ title: Ragu Bolognese
 serves: "Serves 6"
 summary: "Slow-cooked and deceptively simple, this classic meat sauce is mellower and richer than the tomato-heavy American version you may be more accustomed to.  Nothing about this recipe is incidental — don’t change or substitute anything until you’ve made it a few times and have a feel for it. Serve this with fresh tagliatelle for a truly sublime pasta dish."
 categories:
+- All Recipes
 - Beef
 tags:
 - Italian

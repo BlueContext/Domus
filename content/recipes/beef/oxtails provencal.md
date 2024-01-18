@@ -8,6 +8,7 @@ title: Oxtails Provençal
 serves: "Serves 4-6"
 summary: "Old-fashioned, rich, dark, fragrant and delicious."
 categories:
+- All Recipes
 - Beef
 tags:
 - French

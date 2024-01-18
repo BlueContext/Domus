@@ -8,6 +8,7 @@ title: Moroccan Carrot Salad
 serves: "Serves 4"
 summary: "This unusual variation on a simple carrot salad is tangy, colorful, and pretty as a picture."
 categories:
+- All Recipes
 - Salads
 tags:
 - Moroccan

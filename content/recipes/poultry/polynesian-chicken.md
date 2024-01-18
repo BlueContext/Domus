@@ -8,6 +8,7 @@ title: "“Polynesian”Chicken	"
 serves: "Serves 4"
 summary: "This has nothing to do with Polynesia — it originated in an American Chinese restaurant. I like it because it’s mostly vegetables (julienned into a crunchy, colorful stir-fry in a simple Chinese brown sauce), but it includes the richness and crunch of deep-fried chicken. "
 categories:
+- All Recipes
 - Poultry
 tags:
 - Chinese

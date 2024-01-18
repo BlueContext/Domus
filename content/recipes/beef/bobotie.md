@@ -8,6 +8,7 @@ title: Bobotie
 serves: "Serves 6"
 summary: "Bobotie is the national dish of South Africa. It's a delicious, unusual and easy dish. It’s traditionally served with yellow rice, although I think a salad of some sort is also a welcome counterpoint to such a rich main course.  This is exceptionally delicious made with lamb instead of beef, or a mixture of the two."
 categories:
+- All Recipes
 - Beef
 - Lamb
 tags:

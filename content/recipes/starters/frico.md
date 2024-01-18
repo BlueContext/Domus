@@ -8,6 +8,7 @@ title: Frico
 serves: "Makes 10 pieces"
 summary: "These are a quick and simple bite, but imported Italian Parmigiano-Reggiano makes them quite elegant with nothing more than a crisp, cold white wine or champagne. "
 categories:
+- All Recipes
 - Starters
 tags: 
 

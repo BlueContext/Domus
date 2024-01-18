@@ -8,6 +8,7 @@ title: Gougeres
 serves: "Makes 4-5 dozen puffs"
 summary: "These delicious, unassuming little puffs of cheese pastry are absolutely perfect with drinks before dinner with a small group of friends. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

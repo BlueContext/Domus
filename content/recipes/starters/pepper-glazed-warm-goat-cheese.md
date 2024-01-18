@@ -8,6 +8,7 @@ title: Pepper-Glazed Warm Goat Cheese
 serves: "Serves 8"
 summary: "A sweet-spicy warm goat cheese appetizer that comes together in a snap and makes an easy alternative to a cheese plate. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

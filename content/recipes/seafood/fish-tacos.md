@@ -8,6 +8,7 @@ title: Spicy New Orleans BBQ Shrimp
 serves: "Serves 4 as a starter, or 2 as a main course"
 summary: "There are many delicious versions of this southern California specialty. I think you'll like this one. Grilled fish tacos are also great, but the classic fried fish taco is all about contrasting textures. It’s hard to beat the combination of textures and flavors in every bite."
 categories:
+- All Recipes
 - Seafood
 tags:
 - Fish

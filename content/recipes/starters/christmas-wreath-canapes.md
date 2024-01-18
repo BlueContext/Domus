@@ -8,6 +8,7 @@ title: Christmas Wreath Canapes
 serves: "Makes 16 pieces"
 summary: "A nice combination of cute and fancy - perfect for Christmas."
 categories:
+- All Recipes
 - Starters
 tags:
 - Holidays

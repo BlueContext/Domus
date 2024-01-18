@@ -8,6 +8,7 @@ title: Smoked Swiss, Apple & Celery Salad
 serves: "Serves 4"
 summary: "This unique and attractive salad strikes a perfect balance of bright and rich flavors. It makes a beautiful course of a winter dinner party. "
 categories:
+- All Recipes
 - Salads
 tags:
 - First Course

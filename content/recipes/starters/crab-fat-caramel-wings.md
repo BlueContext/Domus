@@ -8,6 +8,7 @@ title: Crab Fat Caramel Wings
 serves: Serves 4
 summary: "These wings, a famous creation of San Antonio chef Quealy Watson that was featured in Bon Appetit magazine in September 2014, are as good-tasting as they are weird-sounding. Enjoying them in their native setting — with a craft cocktail at Hot Joy in Southtown — is perhaps ideal, but they’re easy enough to make at home. "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

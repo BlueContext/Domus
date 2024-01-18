@@ -8,6 +8,7 @@ title: Grilled Southwest Chicken with Jalapeño Butter
 serves: "Serves 4"
 summary: "This is an old recipe from Cappy’s Restaurant on Broadway, and makes an easy summer lunch or dinner. The jalapeño butter can be made well in advance and kept in the freezer, and would be good on any grilled food. "
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

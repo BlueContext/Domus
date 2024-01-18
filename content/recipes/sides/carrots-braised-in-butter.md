@@ -8,6 +8,7 @@ title: Carrots Braised in Butter
 serves: "Serves 6"
 summary: "This preparation couldn’t be more simple, but it perfectly highlights the goodness of carrots themselves. An easy side dish for almost anything."
 categories:
+- All Recipes
 - Sides
 tags:
 - Carrots

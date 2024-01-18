@@ -8,6 +8,7 @@ title: Hot Mustard
 serves: "Makes about 3 tablespoons"
 summary: "The real, sinus-clearing deal served with egg rolls in Chinese-American restaurants."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Condiments

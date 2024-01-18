@@ -8,6 +8,7 @@ title: No-Cook Pizza Sauce
 serves: "Makes about 2 1/2 cups"
 summary: "This pizza sauce comes together in a minute, so if you've got pizza dough on hand you can make a homemade pizza almost as quickly as you could make a sandwich."
 categories:
+- All Recipes
 - Sauces
 tags:
 ---

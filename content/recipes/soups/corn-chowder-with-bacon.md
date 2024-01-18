@@ -8,6 +8,7 @@ title: Corn Chowder with Bacon
 serves: "Serves 4"
 summary: "An old American favorite for good reason. It's a favorite in our house, too!"
 categories:
+- All Recipes
 - Soups
 tags:
 

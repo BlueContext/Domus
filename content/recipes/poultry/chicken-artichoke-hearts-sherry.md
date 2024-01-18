@@ -8,6 +8,7 @@ title: Chicken Paillards with Artichoke Hearts and Sherry
 serves: "Serves 4"
 summary: "In the 1990s, there was a great little Spanish restaurant called Barcelona Cafe down on Broadway. This is an elegant and easy chicken dish from that long-gone establishment."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Spanish

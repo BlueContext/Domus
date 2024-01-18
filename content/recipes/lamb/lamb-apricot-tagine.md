@@ -8,6 +8,7 @@ title: Lamb & Apricot Tagine
 serves: "Serves 4-6"
 summary: "Incredibly fragrant with lamb and spices, this sweet and savory stew makes a truly memorable main dish. It needs only steamed couscous or rice to serve."
 categories:
+- All Recipes
 - Lamb
 tags:
 - Moroccan

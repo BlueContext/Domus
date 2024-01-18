@@ -8,6 +8,7 @@ title: Steak Diane
 serves: "Serves 4"
 summary: "In former times, these savory (and simple) steaks were a popular dish to cook table-side in a chafing dish. When you ignite the cognac, the resulting pillar of fire makes for great drama in a darkened dining room. For a fun retro evening, you can replicate this trick with an electric skillet. "
 categories:
+- All Recipes
 - Beef
 tags:
 - Dinner Party

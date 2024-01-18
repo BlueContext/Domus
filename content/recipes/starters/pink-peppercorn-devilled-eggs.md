@@ -8,6 +8,7 @@ title: Pink Peppercorn Deviled Eggs
 serves: "Makes 24"
 summary: "This is my version of a dish Devon and I enjoyed on many slow and boozy summer afternoons at the Esquire Tavern on the Riverwalk in San Antonio.  It's also a fine basic recipe for deviled eggs dressed up however you like."
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

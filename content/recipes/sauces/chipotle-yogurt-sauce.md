@@ -8,6 +8,7 @@ title: Chipotle-Yogurt Sauce
 serves: "Makes about 1 1/2 cup"
 summary: "Another handy all-purpose sauce that's great to have in the fridge."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Salad Dressing

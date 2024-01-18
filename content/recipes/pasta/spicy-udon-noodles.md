@@ -8,6 +8,7 @@ title:  Spicy Udon Noodles
 serves: "Serves 2"
 summary: "This spicy (and meatless) noodle stir-fry comes together in minutes."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Meatless mains
 tags: 

@@ -8,6 +8,7 @@ title: Poulets Grilles a la Diable
 serves: "Serves 2-4"
 summary: "In the 50s and 60s there was an entire genre of recipes involving cooking with your broiler. In an earlier age, this was generally what was meant by 'grilled'. I love charcoal grilling, but I hope this recipe will convince you to reclaim the broiler as a primary cooking method."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

@@ -8,6 +8,7 @@ title: Spicy Butterflied Cornish Game Hen for Two
 serves: "Serves 2"
 summary: "This is a simple recipe requiring only a few ingredients and the forethought to marinate the hens the day before, but it produces an elegant meal that’s ideal for a special dinner for two."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Dinner Party

@@ -8,6 +8,7 @@ title: Potato and Leek Soup
 serves: "Serves 6-8"
 summary: "This is as simple as it is good, which is to say: very. It’s one of my favorite dishes. "
 categories:
+- All Recipes
 - Soups
 tags:
 - French

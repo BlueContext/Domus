@@ -8,6 +8,7 @@ title: Nashville Hot Fried Chicken
 serves: "Serves 6-8"
 summary: "This Nashville specialty was not well-known until recent years. You’ll be amazed at the deep, complex flavor. This is genuinely hot, however. You can adjust the quantity of cayenne to control the burn, but you’d miss something of the experience if this didn’t make you sweat."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

@@ -8,6 +8,7 @@ title: Gyudon (Beef Rice Bowl)
 serves: "Serves 4"
 summary: "This dish comes together in mere minutes, and is savory, homey, and just delicious. It’s one of my all-time favorites. The egg is optional, but makes the dish a very filling and complete meal."
 categories:
+- All Recipes
 - Beef
 tags:
 - Japanese

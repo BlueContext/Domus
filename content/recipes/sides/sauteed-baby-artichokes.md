@@ -8,6 +8,7 @@ title: Sautéed Baby Artichokes
 serves: "Serves 2"
 summary: "This makes a very quick and elegant side-dish."
 categories:
+- All Recipes
 - Sides
 tags:
 - Artichokes

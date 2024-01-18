@@ -8,6 +8,7 @@ title: Chapli Kebab
 serves: "Serves 4"
 summary: "Despite the name, this South Asian street food is not a skewer of grilled meat. These are patties of boldly seasoned ground meat, fried on a flat surface until brown and crisp on both sides. These make a delicious and easy meal slipped into warm pitas along with fresh garnishes and a tangy tzatziki."
 categories:
+- All Recipes
 - Salad
 - Beef
 tags:

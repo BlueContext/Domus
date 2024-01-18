@@ -8,6 +8,7 @@ title: Skirt Steak Salad
 serves: "Serves 4"
 summary: "This salad packs a punch with sweet-hot pickled peppers and peppery arugula. It's also incredibly easy."
 categories:
+- All Recipes
 - Beef
 - Salads
 tags:

@@ -8,6 +8,7 @@ title:  Five-Cheese Lasagna with Artichoke Hearts
 serves: "Serves 8"
 summary: "Elegant and unusual, this makes a wonderful main dish for company."
 categories:
+- All Recipes
 - Pasta & Noodles
 tags: 
 - Main Dish

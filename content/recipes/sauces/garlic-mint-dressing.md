@@ -8,6 +8,7 @@ title: Garlic Mint Dressing
 serves: "Makes about 1/2 cup"
 summary: "A very nice dressing on cold vegetables."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Salad Dressing

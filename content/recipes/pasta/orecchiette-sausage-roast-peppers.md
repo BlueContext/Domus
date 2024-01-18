@@ -8,6 +8,7 @@ title:  Orecchiette with Sausage & Roasted Peppers
 serves: "Serves 4-6"
 summary: "."
 categories:
+- All Recipes
 - Pasta & Noodles
 tags: 
 - Main Dish

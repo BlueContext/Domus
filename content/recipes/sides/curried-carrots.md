@@ -8,6 +8,7 @@ title: Curried Carrots
 serves: "Serves 4"
 summary: "Carrots and curry powder are an unexpectedly magical combination."
 categories:
+- All Recipes
 - Sides
 tags:
 - Carrots

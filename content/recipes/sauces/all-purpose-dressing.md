@@ -8,6 +8,7 @@ title: All-Purpose Green Dressing
 serves: "Makes about 1 1/2 cup"
 summary: "This is a very tasty all-purpose sauce or dressing, great to have in your fridge for eveyrday meals."
 categories:
+- All Recipes
 - Sauces
 tags:
 - Salad Dressing

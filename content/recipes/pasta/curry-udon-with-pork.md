@@ -8,6 +8,7 @@ title:  Curry Udon with Pork
 serves: "Serves 4"
 summary: "A mild, comforting Japanese curry full of tasty pork and plump udon noodles."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Pork
 tags: 

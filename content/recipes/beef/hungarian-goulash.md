@@ -8,6 +8,7 @@ title: Hungarian Goulash
 serves: "Serves 6"
 summary: "This rich, simple stew is perfect for a cold winter night. Pair it with something fresh-tasting, such as Viennese Cucumber Salad, and some good bread for mopping up the delicious broth."
 categories:
+- All Recipes
 - Beef
 tags:
 - Hungarian

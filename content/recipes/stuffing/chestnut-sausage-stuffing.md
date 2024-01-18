@@ -8,6 +8,7 @@ title: Chestnut & Sausage Stuffing
 serves: "Serves 8-10"
 summary: "This is the best stuffing recipe I’ve ever found. Gourmet Magazine is long gone, but this recipe is still on the Epicurious web site, sitting above hundreds of comments attesting to this stuffing’s perennial place on their family holiday table. To which I can only add: we, too, make this every single year."
 categories:
+- All Recipes
 - Stuffings & Dressings
 tags:
 - Holidays

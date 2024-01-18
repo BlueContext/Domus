@@ -8,6 +8,7 @@ title: Green Bean Salad with Mustard Caper Vinaigrette
 serves: "Serves 6"
 summary: "Fresh, unusual, and very easy."
 categories:
+- All Recipes
 - Salads
 
 ---

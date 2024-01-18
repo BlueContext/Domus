@@ -8,6 +8,7 @@ title: Bacon & Shallot Warm Potato Salad
 serves: "Serves 10-12"
 summary: "This warm German-style potato salad makes an easy side-dish."
 categories:
+- All Recipes
 - Salads
 tags:
 - German

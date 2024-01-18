@@ -8,6 +8,7 @@ title: Tacos al Pastor
 serves: "Serves 4-6"
 summary: "These delicious tacos have an interesting history — the product of Lebanese migration into Latin America in the 19th century, it’s essentially shawarma gone to ground in Mexico."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Mexican

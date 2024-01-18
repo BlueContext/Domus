@@ -8,6 +8,7 @@ title: Caesar Salad
 serves: "Serves 6"
 summary: "Every cook should be able to produce this simple and delicious dressing. I like to use whole leaves of romaine for my Caesar salad.  It preserves the crispness of the lettuce and gives the dish a dramatic, structural appearance."
 categories:
+- All Recipes
 - Salads
 tags:
 - Classics

@@ -8,6 +8,7 @@ title: Asparagus Citrus Salad
 serves: "Serves 4"
 summary: "This makes a very nice brunch salad or first course for a dinner party."
 categories:
+- All Recipes
 - Salads
 tags:
 - Brunch

@@ -8,6 +8,7 @@ title: Turkish Chili Red-Pepper Chicken Kebabs
 serves: "Serves 4"
 summary: "It takes the same amount of work to prepare your charcoal grill no matter what you’re going to cook. So why go to all that trouble just to produce boring, dried out chicken breasts when you could make…well, when you could make this? These chicken skewers are spicy, deeply flavorful, beautifully colored, and unfailingly moist."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Turkish

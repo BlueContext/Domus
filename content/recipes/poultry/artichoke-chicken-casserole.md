@@ -8,6 +8,7 @@ title: Artichoke & Chicken Casserole
 serves: "Serves 4"
 summary: "Uncomplicated and sophisticated, this is a wonderful French-style dish."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

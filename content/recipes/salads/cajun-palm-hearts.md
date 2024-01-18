@@ -8,6 +8,7 @@ title: Cajun Hearts of Palm Salad
 serves: "Serves 6"
 summary: "This vinaigrette also makes a nice marinade for any number of cold vegetables. "
 categories:
+- All Recipes
 - Salads
 
 ---

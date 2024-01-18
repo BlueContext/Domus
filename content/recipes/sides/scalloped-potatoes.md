@@ -8,6 +8,7 @@ title: Scalloped Potatoes
 serves: "Serves 4-6"
 summary: "Here is a more typically American potato gratin, made with cheddar cheese and topped with crispy crumbs."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

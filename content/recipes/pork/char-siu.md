@@ -8,6 +8,7 @@ title: Char Siu (Chinese BBQ Pork)
 serves: "Serves 6-8"
 summary: "This is so well-worth the effort — just unbelievably delicious. With this pork in hand, you can make absolutely amazing fried rice."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Chinese

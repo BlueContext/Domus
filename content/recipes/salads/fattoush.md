@@ -8,6 +8,7 @@ title: Fattoush
 serves: "Serves 6"
 summary: "This Middle Eastern salad is unusual and insanely good, with crunchy “croutons” made of shards of pita bread."
 categories:
+- All Recipes
 - Salads
 tags:
 - Classics

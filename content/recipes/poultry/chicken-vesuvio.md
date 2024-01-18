@@ -8,6 +8,7 @@ title: Chicken Vesuvio
 serves: "Serves 4-6"
 summary: "This is a Chicago-land restaurant classic. But the version below is also an easy and exceptionally delicious single-dish chicken dinner. If you use 4 thighs and half the rest of the recipe, this is a perfect dinner for 2."
 categories:
+- All Recipes
 - Poultry
 tags:
 - Main Dish

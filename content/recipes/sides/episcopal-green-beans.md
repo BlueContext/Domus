@@ -8,6 +8,7 @@ title: Episcopal Green Beans
 serves: "Serves 6-8"
 summary: "Despite their name, you need not be a bishop or even an Episcopalian to enjoy these. This is my version of a dish that was served annually at the parish Thanksgiving dinner of the Episcopal Church in Brenham, Texas. I found it years ago in an old community cookbook."
 categories:
+- All Recipes
 - Sides
 tags:
 - Green Beans

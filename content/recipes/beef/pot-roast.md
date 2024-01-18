@@ -8,6 +8,7 @@ title: Pot Roast
 serves: "Serves 6-8"
 summary: "There are so many excellent versions of the venerable pot roast. This recipe is one of them."
 categories:
+- All Recipes
 - Beef
 tags:
 - Main Dish

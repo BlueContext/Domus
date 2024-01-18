@@ -8,6 +8,7 @@ title:  Tagliatelle with Prosciutto and Peas
 serves: "Serves 4"
 summary: "When made with fresh pasta, this is delicate in both flavor and texture."
 categories:
+- All Recipes
 - Pasta & Noodles
 tags: 
 - Main Dish

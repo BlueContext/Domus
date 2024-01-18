@@ -8,6 +8,7 @@ title: Coleslaw
 serves: "Serves 10-12"
 summary: "Coleslaw has never been my favorite thing, although I like it fine. This is very nice version, though - perfect for a summer barbecue."
 categories:
+- All Recipes
 - Salads
 tags:
 - Party Food

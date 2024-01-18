@@ -8,6 +8,7 @@ title: Shakshuka
 serves: "Serves 6"
 summary: "A dish of eggs cooked in a spicy tomato-pepper sauce, this North African favorite is great anytime but perfect hangover fare."
 categories:
+- All Recipes
 - Eggs
 tags:
 - Brunch

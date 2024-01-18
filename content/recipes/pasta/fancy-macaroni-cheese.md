@@ -8,6 +8,7 @@ title:  Fancy Macaroni & Cheese
 serves: "Serves 4-6"
 summary: "An old childhood favorite, grown up and dressed up. This makes a luxurious first course baked in individual ramekins; you wouldn't need more than a salad and a bottle of wine to make it a very fine meal on its own."
 categories:
+- All Recipes
 - Pasta & Noodles
 - Meatless mains
 tags: 

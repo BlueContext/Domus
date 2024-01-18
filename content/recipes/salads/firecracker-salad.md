@@ -8,6 +8,7 @@ title: Firecracker Salad
 serves: "Serves 6"
 summary: "Crunchy and cool, spicy and bright, and pretty as a picture -- this easy salad makes a perfect side for summer grilling."
 categories:
+- All Recipes
 - Salads
 
 ---

@@ -8,6 +8,7 @@ title: Spicy New Orleans BBQ Shrimp
 serves: "Serves 4 as a starter, or 2 as a main course"
 summary: "No BBQ involved in this buttery, spicy and utterly delicious shrimp dish. This is my own take on a New Orleans classic."
 categories:
+- All Recipes
 - Seafood
 tags:
 - Shrimp

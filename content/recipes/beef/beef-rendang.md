@@ -8,6 +8,7 @@ title: Beef Rendang
 serves: "Serves 6"
 summary: "This tastes unlike any other beef dish I’ve ever had. "
 categories:
+- All Recipes
 - Beef
 tags:
 - Indonesian

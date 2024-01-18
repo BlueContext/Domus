@@ -8,6 +8,7 @@ title: Sizzling Expensive Mushrooms
 serves: "Makes 12 pieces"
 summary: "A memorable and delicious starter from the halcyon days of San Antonio’s Restaurant Biga. Yes, it said “expensive mushrooms” on the menu - as I suppose they were in the mid-90s! "
 categories:
+- All Recipes
 - Starters
 tags: 
 - Hors d'oeuvres 

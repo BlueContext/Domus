@@ -8,6 +8,7 @@ title: Herbed Potato & Sweet Potato Gratin
 serves: "Serves 10-12"
 summary: "This gratin makes a great Thanksgiving side dish if you want a more savory sweet potato dish that even sweet potato haters will love."
 categories:
+- All Recipes
 - Sides
 tags:
 - Potatoes

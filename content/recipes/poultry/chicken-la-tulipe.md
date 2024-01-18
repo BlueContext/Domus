@@ -8,6 +8,7 @@ title: Chicken La Tulipe
 serves: "Serves 2-4"
 summary: "This is a very fine “special occasion” dish for an intimate dinner. It comes from the famed La Tulipe of New York City (by way of the New York Times)."
 categories:
+- All Recipes
 - Poultry
 tags:
 - French

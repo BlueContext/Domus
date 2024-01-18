@@ -8,6 +8,7 @@ title: Pâte à Choux, Savory & Sweet
 serves: "Serves 4 in most applications"
 summary: "This dough is used to make cream puffs, profiteroles, éclairs, and any number of other preparations — it’s a great basic French pastry to master. "
 categories:
+- All Recipes
 - Basic Doughs & Batters
 tags:
 - French

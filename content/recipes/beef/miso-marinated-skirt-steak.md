@@ -8,6 +8,7 @@ title: Miso-Marinated Skirt Steak
 serves: "Serves 4"
 summary: "This is quick and easy, and is delicious grilled instead of pan-seared."
 categories:
+- All Recipes
 - Beef
 tags:
 - Main Dish

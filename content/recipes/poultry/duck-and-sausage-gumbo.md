@@ -8,6 +8,7 @@ title: Duck & Sausage Gumbo
 serves: "Serves 6-8"
 summary: "This is delicious any time of year, but makes a great buffet centerpiece for a holiday open house."
 categories:
+- All Recipes
 - Poultry
 tags: 
 - Main Dish

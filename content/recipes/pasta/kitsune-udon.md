@@ -8,6 +8,7 @@ title:  Fox Noodles (Kitsune Udon)
 serves: "Serves 4"
 summary: "Simple and comforting, this classic Japanese noodle dish is perfect on a cool autumn day. The golden tofu pouches are reminiscent of the color of a fox."
 categories:
+- All Recipes
 - Pasta & Noodles
 tags: 
 - Main Dish

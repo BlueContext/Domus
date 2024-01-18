@@ -8,6 +8,7 @@ title: Crispy Sweet & Sour Pork (Dongbei Guo Bao Rou)
 serves: "Serves 4"
 summary: "This is a far cry of the goopy red mess from the Chinese place at the mall food court."
 categories:
+- All Recipes
 - Pork
 tags: 
 - Chinese
