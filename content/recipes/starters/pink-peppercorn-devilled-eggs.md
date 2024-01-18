@@ -10,9 +10,11 @@ summary: "This is my version of a dish Devon and I enjoyed on many slow and booz
 categories:
 - All Recipes
 - Starters
+- Eggs
 tags: 
 - Hors d'oeuvres 
 - Eggs
+- Party Food
 ---
 Everybody likes deviled eggs, and once you master hard-boiling the eggs they’re a snap to make (see my note below). 
 
