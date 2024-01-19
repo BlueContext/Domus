@@ -18,10 +18,10 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 cup fresh lime juice (4-6 limes)  
-3 tbsp fish sauce  
-2 tbsp packed light brown sugar  
-1 tbsp chili-garlic paste    
+* 1/2 cup fresh lime juice (4-6 limes)  
+* 3 tbsp fish sauce  
+* 2 tbsp packed light brown sugar  
+* 1 tbsp chili-garlic paste    
 
 </div>
 

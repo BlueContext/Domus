@@ -18,19 +18,19 @@ tags:
 
 <div class="ingredient-list">
 
-2 lemon grass stalks, trimmed, bottom 8" chopped  
-1 large shallot, chopped  
-3 tbs vegetable oil  
-1 serrano chili, chopped  
-1 tbsp tomato paste  
-1 tbsp grated fresh ginger  
-2 ½ c water  
-2 oz tamarind pulp  
-5 tbsp packed light brown sugar  
-¼ c fish sauce  
-1 tbsp soy sauce   
-3 tbsp lime juice (1-2 limes)  
-Ground black pepper   
+* 2 lemon grass stalks, trimmed, bottom 8" chopped  
+* 1 large shallot, chopped  
+* 3 tbs vegetable oil  
+* 1 serrano chili, chopped  
+* 1 tbsp tomato paste  
+* 1 tbsp grated fresh ginger  
+* 2 ½ c water  
+* 2 oz tamarind pulp  
+* 5 tbsp packed light brown sugar  
+* ¼ c fish sauce  
+* 1 tbsp soy sauce   
+* 3 tbsp lime juice (1-2 limes)  
+* Ground black pepper   
 
 </div>
 

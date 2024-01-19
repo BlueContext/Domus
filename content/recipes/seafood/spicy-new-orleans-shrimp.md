@@ -19,20 +19,20 @@ tags:
 
 <div class="ingredient-list">
 
-1 lbs large shrimp, peeled and deveined
-2 tbsp butter 
-2 tbsp olive oil 
-2 tbsp sweet chili sauce 
-1 tbsp Worcestershire 
-1 tsp chili powder  
-1 tsp smoked paprika 
-1 tsp dried oregano 
-1 tsp sriracha hot sauce or tabasco 
-4 cloves garlic, minced 
-Juice from 1/2 lemon 
-Salt and pepper to taste 
-2 tbsp chopped parsley 
-Crusty French bread and lemon wedges for serving
+* 1 lbs large shrimp, peeled and deveined
+* 2 tbsp butter 
+* 2 tbsp olive oil 
+* 2 tbsp sweet chili sauce 
+* 1 tbsp Worcestershire 
+* 1 tsp chili powder  
+* 1 tsp smoked paprika 
+* 1 tsp dried oregano 
+* 1 tsp sriracha hot sauce or tabasco 
+* 4 cloves garlic, minced 
+* Juice from 1/2 lemon 
+* Salt and pepper to taste 
+* 2 tbsp chopped parsley 
+* Crusty French bread and lemon wedges for serving
 
 </div>
 Experience says this will serve 4-6 as an appetizer, and 2-4 as a main (depending on appetite, other dishes, etc.)

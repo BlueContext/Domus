@@ -16,11 +16,11 @@ categories:
 
 <div class="ingredient-list">
 
-1 tsp Dijon mustard  
-1 1/2 tbsp balsamic vinegar  
-Freshly ground black pepper to taste  
-1/3 c Extra-Virgin olive oil  
-2 bunches of arugula (stems discarded if using mature arugula), rinsed and dried  
+* 1 tsp Dijon mustard  
+* 1 1/2 tbsp balsamic vinegar  
+* Freshly ground black pepper to taste  
+* 1/3 c Extra-Virgin olive oil  
+* 2 bunches of arugula (stems discarded if using mature arugula), rinsed and dried  
 
 </div>
 

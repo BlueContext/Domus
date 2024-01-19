@@ -20,28 +20,28 @@ Once frozen, store them in a freezer bag — they can go straight from the freez
 
 <div class="ingredient-list">
 
-*Crust:*  
-2/3 cup sour cream   
-1 large egg, lightly beaten   
-3 cups flour   
-1 tbsp sugar   
-1 1/2 tsp salt  
-1 tsp ground tumeric  
-16 tbsp butter, cut into 1/2" pieces and chilled  
-  
-*Filling:*  
-1 tsp salt  
-1/4 tsp baking soda  
-1 lb ground beef  
-1 tbsp vegetable oil  
-12 scallions, chopped fine  
-4 garlic cloves, minced  
-1 habanero chili, stemmed, seeded, minced  
-1 tsp dried thyme  
-1 tsp curry powder  
-1 scant tsp allspice   
-1/2 tsp black pepper  
-1 slice white sandwich bread, torn into piece   
+* #### For Crust:
+  * 2/3 cup sour cream   
+  * 1 large egg, lightly beaten   
+  * 3 cups flour   
+  * 1 tbsp sugar   
+  * 1 1/2 tsp salt  
+  * 1 tsp ground tumeric  
+  * 16 tbsp butter, cut into 1/2" pieces and chilled  
+  *   
+* #### For Filling:
+  * 1 tsp salt  
+  * 1/4 tsp baking soda  
+  * 1 lb ground beef  
+  * 1 tbsp vegetable oil  
+  * 12 scallions, chopped fine  
+  * 4 garlic cloves, minced  
+  * 1 habanero chili, stemmed, seeded, minced  
+  * 1 tsp dried thyme  
+  * 1 tsp curry powder  
+  * 1 scant tsp allspice   
+  * 1/2 tsp black pepper  
+  * 1 slice white sandwich bread, torn into piece   
 
 </div>
 

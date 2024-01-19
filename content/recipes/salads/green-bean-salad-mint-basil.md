@@ -16,14 +16,14 @@ categories:
 
 <div class="ingredient-list">
 
-¾ lb. green beans, trimmed  
-2 tbsp. white wine vinegar  
-1 tbsp. lemon juice  
-1 clove garlic minced fine and mashed to a paste with a pinch of salt  
-2 tbsp. olive oil   
-1 tbsp. minced fresh mint  
-½ tbsp. minced fresh Thai basil (regular sweet basil is fine too)  
-¼ cup very thinly sliced red onion   
+* ¾ lb. green beans, trimmed  
+* 2 tbsp. white wine vinegar  
+* 1 tbsp. lemon juice  
+* 1 clove garlic minced fine and mashed to a paste with a pinch of salt  
+* 2 tbsp. olive oil   
+* 1 tbsp. minced fresh mint  
+* ½ tbsp. minced fresh Thai basil (regular sweet basil is fine too)  
+* ¼ cup very thinly sliced red onion   
 
 </div>
 

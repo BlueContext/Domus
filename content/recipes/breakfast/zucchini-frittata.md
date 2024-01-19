@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Zucchini, Goat Cheese & Dill Frittata
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Zucchini, Goat Cheese & Dill Frittata
 serves: "Serves 6"
 summary: "Green and lovely, with added creaminess and richness from the goat cheese. "
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -19,15 +20,15 @@ tags:
 
 <div class="ingredient-list">
 
-2 tablespoons olive oil  
-1 lb zucchini, grated (about a quart)  
-2 garlic cloves, minced  
-1 small shallot, minced  
-Salt and black pepper  
-8 large eggs  
-1 tablespoon heavy cream  
-2 oz chevre or other creamy goat cheese, crumbled (1/2 cup)  
-2 tablespoons chopped fresh dill  
+* 2 tablespoons olive oil  
+* 1 lb zucchini, grated (about a quart)  
+* 2 garlic cloves, minced  
+* 1 small shallot, minced  
+* Salt and black pepper  
+* 8 large eggs  
+* 1 tablespoon heavy cream  
+* 2 oz chevre or other creamy goat cheese, crumbled (1/2 cup)  
+* 2 tablespoons chopped fresh dill  
 
 </div>
 

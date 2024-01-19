@@ -17,13 +17,13 @@ tags:
 
 <div class="ingredient-list">
 
-2 quarts stock from [Asian-Style Poached Chicken and Stock]({{< ref "/recipes/soups/asian-style-poached-chicken-and-stock.md" >}} "Asian-Style Poached Chicken and Stock")  
-1 quantity shredded chicken from [Asian-Style Poached Chicken and Stock]({{< ref "/recipes/soups/asian-style-poached-chicken-and-stock.md" >}} "Asian-Style Poached Chicken and Stock")  
-1 tablespoon finely shredded ginger  
-2 tablespoons soy sauce  
-1 bunch Chinese broccoli, trimmed  
-3 scallions, sliced  
-2 Jalapeños or Serrano peppers, thinly sliced  
+* 2 quarts stock from [Asian-Style Poached Chicken and Stock]({{< ref "/recipes/soups/asian-style-poached-chicken-and-stock.md" >}} "Asian-Style Poached Chicken and Stock")  
+* 1 quantity shredded chicken from [Asian-Style Poached Chicken and Stock]({{< ref "/recipes/soups/asian-style-poached-chicken-and-stock.md" >}} "Asian-Style Poached Chicken and Stock")  
+* 1 tablespoon finely shredded ginger  
+* 2 tablespoons soy sauce  
+* 1 bunch Chinese broccoli, trimmed  
+* 3 scallions, sliced  
+* 2 Jalapeños or Serrano peppers, thinly sliced  
 
 </div>
 

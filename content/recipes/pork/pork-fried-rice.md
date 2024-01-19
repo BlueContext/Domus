@@ -21,21 +21,21 @@ If you cook the rice the day before, this recipe will be foolproof — spread th
 
 <div class="ingredient-list">
 
-1 tablespoon hot water  
-1 teaspoon honey  
-1 teaspoon sesame oil  
-1 teaspoon Shaoxing wine dry sherry  
-1 tablespoon soy sauce   
-1 teaspoon dark soy sauce   
-1/4 teaspoon white pepper   
-5 cups cooked Jasmine rice (add 1 teaspoon oil to rice when cooking)   
-1 tablespoon oil   
-1 medium onion, chopped  
-1 pound Chinese BBQ pork, cut into 1/2 inch chunks  
-1 teaspoon salt   
-1/2 cup bean sprouts (optional)  
-2 eggs, lightly beaten  
-2 scallions, sliced   
+* 1 tablespoon hot water  
+* 1 teaspoon honey  
+* 1 teaspoon sesame oil  
+* 1 teaspoon Shaoxing wine dry sherry  
+* 1 tablespoon soy sauce   
+* 1 teaspoon dark soy sauce   
+* 1/4 teaspoon white pepper   
+* 5 cups cooked Jasmine rice (add 1 teaspoon oil to rice when cooking)   
+* 1 tablespoon oil   
+* 1 medium onion, chopped  
+* 1 pound Chinese BBQ pork, cut into 1/2 inch chunks  
+* 1 teaspoon salt   
+* 1/2 cup bean sprouts (optional)  
+* 2 eggs, lightly beaten  
+* 2 scallions, sliced   
 
 </div>
 

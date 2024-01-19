@@ -19,23 +19,23 @@ tags:
 
 <div class="ingredient-list">
 
-*For the Maison dressing:*  
-1/2 cup white wine vinegar  
-2 tablespoons Creole mustard (you may substitute Dijon, or a course, seeded country-style mustard)  
-1-1/2 cups high quality olive oil  
-1/2 teaspoon salt  
-1/8 teaspoon freshly ground white pepper  
-
-*For the rest:*  
-1/2 cup real mayonnaise  
-3 tablespoons Maison dressing  
-3 green onions, finely chopped  
-1 teaspoon small capers, rinsed and drained  
-1/2 teaspoon chopped flat-leaf parsley  
-1 pound lump crabmeat  
-12 large leaves butter lettuce  
-12 slices tomato  
-Lemons  
+* #### For the Maison dressing:
+  * 1/2 cup white wine vinegar  
+  * 2 tablespoons Creole mustard (you may substitute Dijon, or a course, seeded country-style mustard)  
+  * 1-1/2 cups high quality olive oil  
+  * 1/2 teaspoon salt  
+  * 1/8 teaspoon freshly ground white pepper  
+  * 
+* #### For the rest:
+  * 1/2 cup real mayonnaise  
+  * 3 tablespoons Maison dressing  
+  * 3 green onions, finely chopped  
+  * 1 teaspoon small capers, rinsed and drained  
+  * 1/2 teaspoon chopped flat-leaf parsley  
+  * 1 pound lump crabmeat  
+  * 12 large leaves butter lettuce  
+  * 12 slices tomato  
+  * Lemons  
 
 </div>
 

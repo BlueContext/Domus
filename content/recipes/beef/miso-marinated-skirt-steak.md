@@ -17,17 +17,17 @@ tags:
 
 <div class="ingredient-list">
 
-3 tbsp. white or red miso  
-1 tbsp soy sauce  
-1 tbsp chili-garlic paste  
-1 tbsp white sugar  
-2 tsp toasted sesame oil  
-2 tsp finely grated fresh ginger  
-2 cloves garlic, finely grated or very finely minced  
-1.5 lbs skirt steak or sirloin flap steak, trimmed and cut crosswise into 5-6" pieces, patted dry  
-2 tbsp rice wine vinegar  
-Vegetable oil (5 tsp total)  
-3 scallions, sliced thinly (green and white parts)  
+* 3 tbsp. white or red miso  
+* 1 tbsp soy sauce  
+* 1 tbsp chili-garlic paste  
+* 1 tbsp white sugar  
+* 2 tsp toasted sesame oil  
+* 2 tsp finely grated fresh ginger  
+* 2 cloves garlic, finely grated or very finely minced  
+* 1.5 lbs skirt steak or sirloin flap steak, trimmed and cut crosswise into 5-6" pieces, patted dry  
+* 2 tbsp rice wine vinegar  
+* Vegetable oil (5 tsp total)  
+* 3 scallions, sliced thinly (green and white parts)  
 
 </div>
 

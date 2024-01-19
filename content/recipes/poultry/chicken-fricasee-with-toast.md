@@ -20,21 +20,21 @@ However, you’ll want to seek out the best-quality pasture-raised, slow-growth 
 
 <div class="ingredient-list">
   
-6-8 large button mushrooms, sliced thin  
-1 yellow onion, minced finely  
-1 small clove garlic, minced very finely  
-1 scant tsp dried fines herbes  
-1/4 tsp dried marjoram  
-6 tbsp butter (divided)  
-1/2 cup dry sherry (divided)  
-2 1/2 cups half-and-half or light cream (divided)  
-Cayenne pepper to taste  
-2 boneless skinless chicken breasts  
-2 egg yolks  
-Salt and black pepper  
-1 tbsp minced flat-leaf parsley  
-1 tbsp capers  
-4 large slices from a rustic round loaf of crusty bread  
+* 6-8 large button mushrooms, sliced thin  
+* 1 yellow onion, minced finely  
+* 1 small clove garlic, minced very finely  
+* 1 scant tsp dried fines herbes  
+* 1/4 tsp dried marjoram  
+* 6 tbsp butter (divided)  
+* 1/2 cup dry sherry (divided)  
+* 2 1/2 cups half-and-half or light cream (divided)  
+* Cayenne pepper to taste  
+* 2 boneless skinless chicken breasts  
+* 2 egg yolks  
+* Salt and black pepper  
+* 1 tbsp minced flat-leaf parsley  
+* 1 tbsp capers  
+* 4 large slices from a rustic round loaf of crusty bread  
 
 </div>
 

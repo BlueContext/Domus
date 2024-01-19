@@ -17,14 +17,14 @@ tags:
 
 <div class="ingredient-list">
 
-3 thick slices bacon, cut into lardons  
-1 onion, chopped  
-5 large Yukon Gold potatoes, diced  
-3 cup sweet corn (cut from 4 ears)  
-1 quart whole milk  
-3 tbsp butter  
-Salt and black pepper  
-1 sleeve Saltine crackers   
+* 3 thick slices bacon, cut into lardons  
+* 1 onion, chopped  
+* 5 large Yukon Gold potatoes, diced  
+* 3 cup sweet corn (cut from 4 ears)  
+* 1 quart whole milk  
+* 3 tbsp butter  
+* Salt and black pepper  
+* 1 sleeve Saltine crackers   
 
 </div>
 

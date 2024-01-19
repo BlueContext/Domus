@@ -18,30 +18,30 @@ tags:
 
 <div class="ingredient-list">
 
-2 ½ - 3 lbs. meaty oxtails, trimmed of excess fat  
-2 tbsp. flour  
-Salt and pepper  
-Olive oil  
-2 yellow onions, peeled and chopped  
-3 large carrots, peeled and chopped  
-3 ribs celery, trimmed and chopped  
-5 cloves garlic, peeled and smashed  
-3 tbsp Cognac or brandy  
-1 heaping tbsp. tomato paste  
-3 cups red wine  
-3 cups beef stock  
-1 bay leaf  
-1 tsp. Provencal herbs  
-1 tsp. marjoram  
-½ tsp. savory  
-½ tsp. thyme  
-¼ tsp. ground ginger  
-1 bay leaf  
-3 strips tangerine peel  
-5-6 dried shiitake mushrooms  
-1/3 cup white vermouth  
-(1 small dash Fee Brothers orange bitters, optional)  
-Tabasco sauce  
+* 2 ½ - 3 lbs. meaty oxtails, trimmed of excess fat  
+* 2 tbsp. flour  
+* Salt and pepper  
+* Olive oil  
+* 2 yellow onions, peeled and chopped  
+* 3 large carrots, peeled and chopped  
+* 3 ribs celery, trimmed and chopped  
+* 5 cloves garlic, peeled and smashed  
+* 3 tbsp Cognac or brandy  
+* 1 heaping tbsp. tomato paste  
+* 3 cups red wine  
+* 3 cups beef stock  
+* 1 bay leaf  
+* 1 tsp. Provencal herbs  
+* 1 tsp. marjoram  
+* ½ tsp. savory  
+* ½ tsp. thyme  
+* ¼ tsp. ground ginger  
+* 1 bay leaf  
+* 3 strips tangerine peel  
+* 5-6 dried shiitake mushrooms  
+* 1/3 cup white vermouth  
+* (1 small dash Fee Brothers orange bitters, optional)  
+* Tabasco sauce  
 
 </div>
 

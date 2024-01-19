@@ -10,7 +10,7 @@ summary: "This easy salad starts with a rotisserie chicken from the grocery stor
 categories:
 - All Recipes
 - Poultry
-- Salad
+- Salads
 tags:
 - Main Dish
 - Party Food
@@ -21,24 +21,24 @@ Serve this at or near room temperature -- neither bacon nor cheese are their bes
 
 <div class="ingredient-list">
 
-4 tbsp white wine vinegar  
-1 scant tbsp Dijon mustard  
-1 tsp sugar  
-1 scant tsp salt  
-1 tsp freshly ground black pepper  
-1/4 cup olive oil  
-Breasts from a grocery store rotisserie chicken (cooled), cut into 3/4” cubes  
-6 slices thick-cut bacon, cooked until crisp and crumbled  
-1 cup of Jarlsberg or Swiss cheese, cut into 1/2” cubes  
-1 avocado, cut into 3/4” cubes (optional)  
-1 red bell pepper, diced  
-6 scallions, sliced (white and green parts)  
-2 ribs celery, diced  
-1/2 can water chestnuts, rinsed and diced  
-1 jalapeño, minced   
-1/4 cup sliced Peppadew peppers  
-1 cup cherry tomatoes, halved  
-2/3 cups good quality mayonnaise (Duke’s is excellent)  
+* 4 tbsp white wine vinegar  
+* 1 scant tbsp Dijon mustard  
+* 1 tsp sugar  
+* 1 scant tsp salt  
+* 1 tsp freshly ground black pepper  
+* 1/4 cup olive oil  
+* Breasts from a grocery store rotisserie chicken (cooled), cut into 3/4” cubes  
+* 6 slices thick-cut bacon, cooked until crisp and crumbled  
+* 1 cup of Jarlsberg or Swiss cheese, cut into 1/2” cubes  
+* 1 avocado, cut into 3/4” cubes (optional)  
+* 1 red bell pepper, diced  
+* 6 scallions, sliced (white and green parts)  
+* 2 ribs celery, diced  
+* 1/2 can water chestnuts, rinsed and diced  
+* 1 jalapeño, minced   
+* 1/4 cup sliced Peppadew peppers  
+* 1 cup cherry tomatoes, halved  
+* 2/3 cups good quality mayonnaise (Duke’s is excellent)  
 
 </div>
 

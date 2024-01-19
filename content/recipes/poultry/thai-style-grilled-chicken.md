@@ -20,17 +20,17 @@ Use lump hardwood charcoal, and none of that terrible starter fluid. Your reward
 
 <div class="ingredient-list">
   
-1 cup lightly packed cilantro leaves and tender stems  
-1/2 cup fish sauce  
-1/2 cup soy sauce  
-1/4 cup packed light brown sugar  
-1 lemon grass stalk, ends trimmed, bottom 8" chopped  
-4 garlic cloves, peeled and smashed  
-1 tbsp coriander seeds  
-1 tbsp black peppercorns   
-1 tsp white peppercorns  
-1 whole chicken  
-Lime wedges to serve  
+* 1 cup lightly packed cilantro leaves and tender stems  
+* 1/2 cup fish sauce  
+* 1/2 cup soy sauce  
+* 1/4 cup packed light brown sugar  
+* 1 lemon grass stalk, ends trimmed, bottom 8" chopped  
+* 4 garlic cloves, peeled and smashed  
+* 1 tbsp coriander seeds  
+* 1 tbsp black peppercorns   
+* 1 tsp white peppercorns  
+* 1 whole chicken  
+* Lime wedges to serve  
 
 </div>
 

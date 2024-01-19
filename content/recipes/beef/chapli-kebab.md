@@ -9,7 +9,6 @@ serves: "Serves 4"
 summary: "Despite the name, this South Asian street food is not a skewer of grilled meat. These are patties of boldly seasoned ground meat, fried on a flat surface until brown and crisp on both sides. These make a delicious and easy meal slipped into warm pitas along with fresh garnishes and a tangy tzatziki."
 categories:
 - All Recipes
-- Salad
 - Beef
 tags:
 - Afghani
@@ -19,24 +18,24 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb 80% ground beef  
-1 med red onion, half finely chopped, half thinly sliced and reserved separately.  
-1/2 chopped fresh cilantro, plus 1/4 cup lightly packed leaves  
-3 med garlic cloves, minced finely  
-2 Fresno or jalapeño chilies, stemmed, seeded and minced  
-1 tsp ground coriander  
-1 tsp Garam Masala  
-1 tsp Kashmiri chili powder  
-1/2 tsp ground cumin  
-3 tbsp all-purpose flour or chickpea flour  
-1 large egg, beated   
-Kosher salt and black pepper  
-3 tbsp olive oil, divided  
-1 Persian or small English cucumber   
-1/2 cup Greek yogurt  
-2 tbsp fresh lemon juice  
-Pitas or other flatbread to serve  
-Sliced tomatoes or other fresh vegetables to serve  
+* 1 lb 80% ground beef  
+* 1 med red onion, half finely chopped, half thinly sliced and reserved separately.  
+* 1/2 chopped fresh cilantro, plus 1/4 cup lightly packed leaves  
+* 3 med garlic cloves, minced finely  
+* 2 Fresno or jalapeño chilies, stemmed, seeded and minced  
+* 1 tsp ground coriander  
+* 1 tsp Garam Masala  
+* 1 tsp Kashmiri chili powder  
+* 1/2 tsp ground cumin  
+* 3 tbsp all-purpose flour or chickpea flour  
+* 1 large egg, beated   
+* Kosher salt and black pepper  
+* 3 tbsp olive oil, divided  
+* 1 Persian or small English cucumber   
+* 1/2 cup Greek yogurt  
+* 2 tbsp fresh lemon juice  
+* Pitas or other flatbread to serve  
+* Sliced tomatoes or other fresh vegetables to serve  
 
 </div>
 

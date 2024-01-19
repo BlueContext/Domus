@@ -23,22 +23,22 @@ The procedure described in the first paragraph below may seem strange, but this 
 
 4-rib standing rib roast (8-10 lbs), trimmed and tied
 
-*For crust:*  
-2 tsp whole allspice berries, crushed  
-3 tbsp pink peppercorns, crushed lightly  
-3 tbsp dried green peppercorns, crushed lightly  
-3 tbsp unsalted butter, softened  
-2 tbsp flour  
-1 tbsp firmly packed brown sugar  
-1 tbsp Dijon mustard  
-1 tsp salt  
-  
-*For sauce:*  
-1 cup Madeira (or a dry red wine)  
-1 2/3 cups beef stock  
-1 1/2 tbsp cornstarch     
-1-2 tsp Worcestershire sauce (to taste)  
-1 tbsp water  
+* #### For Crust: 
+  * 2 tsp whole allspice berries, crushed  
+  * 3 tbsp pink peppercorns, crushed lightly  
+  * 3 tbsp dried green peppercorns, crushed lightly  
+  * 3 tbsp unsalted butter, softened  
+  * 2 tbsp flour  
+  * 1 tbsp firmly packed brown sugar  
+  * 1 tbsp Dijon mustard  
+  * 1 tsp salt  
+  *   
+* #### For Sauce:
+  * 1 cup Madeira (or a dry red wine)  
+  * 1 2/3 cups beef stock  
+  * 1 1/2 tbsp cornstarch     
+  * 1-2 tsp Worcestershire sauce (to taste)  
+  * 1 tbsp water  
 
 </div>
 

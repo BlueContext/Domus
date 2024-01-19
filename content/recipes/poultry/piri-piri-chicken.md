@@ -19,20 +19,20 @@ This is also a killer recipe for grilled chicken wings. Instead of rubbing the s
 
 <div class="ingredient-list">
   
-3 tbsp chili powder (New Mexico chili powder if you can find it)  
-1 tbsp ground cumin  
-1 tbsp ground coriander   
-1 tbsp sweet paprika  
-1 1/2 tbsp kosher salt  
-1 tsp ground Aleppo pepper (worth seeking out!) or 1/2 tsp cayenne pepper  
-1 tsp piri-piri spice mix (optional)   
-1 (4ish lbs) whole chicken, spatchcocked or split   
-2 tbsp white sugar   
-8 medium Fresno chilies, stemmed and quartered   
-3 medium cloves garlic   
-1/3 cup lemon juice  
-1/3 cup red wine vinegar  
-1 cup fresh cilantro leaves, finely chopped   
+* 3 tbsp chili powder (New Mexico chili powder if you can find it)  
+* 1 tbsp ground cumin  
+* 1 tbsp ground coriander   
+* 1 tbsp sweet paprika  
+* 1 1/2 tbsp kosher salt  
+* 1 tsp ground Aleppo pepper (worth seeking out!) or 1/2 tsp cayenne pepper  
+* 1 tsp piri-piri spice mix (optional)   
+* 1 (4ish lbs) whole chicken, spatchcocked or split   
+* 2 tbsp white sugar   
+* 8 medium Fresno chilies, stemmed and quartered   
+* 3 medium cloves garlic   
+* 1/3 cup lemon juice  
+* 1/3 cup red wine vinegar  
+* 1 cup fresh cilantro leaves, finely chopped   
 
 </div>
 

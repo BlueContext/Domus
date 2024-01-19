@@ -22,15 +22,15 @@ Frozen udon and ramen noodles are worth dedicating some freezer space to, as the
 
 <div class="ingredient-list">
 
-5-6 cups dashi (Japanese sea stock)  
-2 tablespoons oil  
-1 onion, sliced  
-1 lb thinly sliced pork  
-3 tablespoons sake  
-3-4 blocks Japanese curry roux  
-1 tablespoon soy sauce  
-4 packages frozen udon  
-3 scallions, thinly sliced  
+* 5-6 cups dashi (Japanese sea stock)  
+* 2 tablespoons oil  
+* 1 onion, sliced  
+* 1 lb thinly sliced pork  
+* 3 tablespoons sake  
+* 3-4 blocks Japanese curry roux  
+* 1 tablespoon soy sauce  
+* 4 packages frozen udon  
+* 3 scallions, thinly sliced  
 
 </div>
 

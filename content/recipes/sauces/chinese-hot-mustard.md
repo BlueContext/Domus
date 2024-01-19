@@ -19,12 +19,12 @@ This makes very little, but I think you'll find it's enough.
 
 <div class="ingredient-list">
 
-2 tbsp dry mustard powder (I like Coleman’s)  
-1/4 tsp salt (a pinch)  
-1/4 tsp white pepper  
-1 tbsp hot water  
-1 tsp vegetable oil  
-1 tsp rice vinegar  
+* 2 tbsp dry mustard powder (I like Coleman’s)  
+* 1/4 tsp salt (a pinch)  
+* 1/4 tsp white pepper  
+* 1 tbsp hot water  
+* 1 tsp vegetable oil  
+* 1 tsp rice vinegar  
 
 </div>
 

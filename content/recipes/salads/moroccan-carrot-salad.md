@@ -18,16 +18,16 @@ tags:
 
 <div class="ingredient-list">
 
-2 tablespoons lemon juice  
-1 tablespoon pomegranate molasses  
-1/2 teaspoon ground turmeric  
-Kosher salt and ground black pepper  
-1/4 cup extra-virgin olive oil  
-1/3 cup dried apricots, thinly sliced  
-1 1/2 teaspoons cumin seeds, toasted  
-1 pound carrots, peeled and shredded  
-1/2 cup shelled roasted pistachios, toasted and chopped  
-1/2 cup roughly chopped fresh mint, plus more to serve  
+* 2 tablespoons lemon juice  
+* 1 tablespoon pomegranate molasses  
+* 1/2 teaspoon ground turmeric  
+* Kosher salt and ground black pepper  
+* 1/4 cup extra-virgin olive oil  
+* 1/3 cup dried apricots, thinly sliced  
+* 1 1/2 teaspoons cumin seeds, toasted  
+* 1 pound carrots, peeled and shredded  
+* 1/2 cup shelled roasted pistachios, toasted and chopped  
+* 1/2 cup roughly chopped fresh mint, plus more to serve  
 
 </div>
 

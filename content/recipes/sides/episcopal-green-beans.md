@@ -19,11 +19,11 @@ tags:
 
 <div class="ingredient-list">
 
-2 lbs frozen whole green beans, thawed  
-Garlic salt to taste   
-1 stick butter, melted  
-2 tbsp Dijon mustard  
-1 tbsp Worcestershire sauce  
+* 2 lbs frozen whole green beans, thawed  
+* Garlic salt to taste   
+* 1 stick butter, melted  
+* 2 tbsp Dijon mustard  
+* 1 tbsp Worcestershire sauce  
 
 </div>
 

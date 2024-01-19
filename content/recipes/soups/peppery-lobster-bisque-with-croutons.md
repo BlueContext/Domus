@@ -21,31 +21,31 @@ Guests will appreciate the luxury of lobster; by extracting as much flavor as po
 
 <div class="ingredient-list">
 
-*Star Croutons:*  
-4 slices of white bread  
-2 tablespoons butter, melted  
-Salt and pepper  
-Cayenne  
-  
-*Lobster Broth:*  
-1 1½ - 2 lb. live lobster, rinsed  
-3 tbsp. butter  
-  
-*Bisque:*  
-5 tbsp. butter  
-1 medium yellow onion, chopped  
-1 small carrot, peeled and finely chopped  
-1 large clove garlic, finely minced  
-¼ cup flour  
-1 cup dry white wine  
-2 tbsp. tomato paste  
-1 tbsp. chopped fresh thyme  
-1 dried bay leaf  
-1 cup heavy cream  
-2 tbsp. cream sherry  
-1 tbsp. cognac  
-Paprika, optional and to taste  
-Tabasco sauce, to taste  
+* #### Star Croutons:
+  * 4 slices of white bread  
+  * 2 tablespoons butter, melted  
+  * Salt and pepper  
+  * Cayenne  
+  *   
+* #### Lobster Broth:
+  * 1 1½ - 2 lb. live lobster, rinsed  
+  * 3 tbsp. butter  
+  *   
+* #### Bisque:
+  * 5 tbsp. butter  
+  * 1 medium yellow onion, chopped  
+  * 1 small carrot, peeled and finely chopped  
+  * 1 large clove garlic, finely minced  
+  * ¼ cup flour  
+  * 1 cup dry white wine  
+  * 2 tbsp. tomato paste  
+  * 1 tbsp. chopped fresh thyme  
+  * 1 dried bay leaf  
+  * 1 cup heavy cream  
+  * 2 tbsp. cream sherry  
+  * 1 tbsp. cognac  
+  * Paprika, optional and to taste  
+  * Tabasco sauce, to taste  
 
 </div>
 

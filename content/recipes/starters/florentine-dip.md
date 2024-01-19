@@ -20,16 +20,16 @@ Serve with crunchy kettle-style potato chips or — for an occasion -- a colorfu
 
 <div class="ingredient-list">
 
-3 oz cream cheese, at room temperature  
-2 tsp mashed or finely chopped anchovies  
-1 cup sour cream  
-1/4 cup chopped flat-leaf parsley  
-3 tbsp chopped chives or scallions  
-2 tsp chopped capers  
-1 tbsp fresh lemon juice  
-1/2 of a large garlic clove, minced  
-Salt and black pepper to taste  
-Sliced vegetables or sturdy potato chips (or both) for serving  
+* 3 oz cream cheese, at room temperature  
+* 2 tsp mashed or finely chopped anchovies  
+* 1 cup sour cream  
+* 1/4 cup chopped flat-leaf parsley  
+* 3 tbsp chopped chives or scallions  
+* 2 tsp chopped capers  
+* 1 tbsp fresh lemon juice  
+* 1/2 of a large garlic clove, minced  
+* Salt and black pepper to taste  
+* Sliced vegetables or sturdy potato chips (or both) for serving  
 
 </div>
 

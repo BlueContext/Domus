@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Easy Swiss & Bacon Quiche 
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Easy Swiss & Bacon Quiche 
 serves: "Serves 4"
 summary: "This quiche from the San Antonio Junior Forum’s 1986 “Celebrate San Antonio” cookbook has a simple cracker-crumb crust — no pastry, no rolling, no blind baking. The sour cream yields a very tender custard."
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Main Dish
@@ -20,18 +21,18 @@ This is on the small side; you’ll need a 9” tart tin or an 8” pie plate.
 
 <div class="ingredient-list">
 
-1 cup cracker crumbs, finely crushed  
-1/4 cup butter, melted  
-8 large spears of asparagus, trimmed (optional)  
-6 sliced of bacon, fried (reserve drippings), drained, and crumbled  
-1 cup chopped onions  
-8 ounces shredded swiss cheese, plus an additional 1/2 cup for topping  
-2 eggs, lightly beaten  
-3/4 cups sour cream  
-1/2 tsp salt  
-Black pepper  
-Tabasco sauce  
-Nutmeg  
+* 1 cup cracker crumbs, finely crushed  
+* 1/4 cup butter, melted  
+* 8 large spears of asparagus, trimmed (optional)  
+* 6 sliced of bacon, fried (reserve drippings), drained, and crumbled  
+* 1 cup chopped onions  
+* 8 ounces shredded swiss cheese, plus an additional 1/2 cup for topping  
+* 2 eggs, lightly beaten  
+* 3/4 cups sour cream  
+* 1/2 tsp salt  
+* Black pepper  
+* Tabasco sauce  
+* Nutmeg  
 
 </div>
 

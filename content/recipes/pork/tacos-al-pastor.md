@@ -19,19 +19,19 @@ tags:
 
 <div class="ingredient-list">
 
-1 pineapple, peeled  
-1/4 cup grapeseed or other neutral oil, plus more for baking sheet  
-8 medium garlic cloves, peeled  
-4 chipotle chilies in adobo and the sauce clinging to them  
-4 teaspoons ground cumin  
-4 teaspoons ancho chili powder  
-1/4 cup packed dark brown sugar  
-Kosher salt and ground black pepper  
-1 1¼-pound pork tenderloin, trimmed of silver skin  
-2 tablespoons lime juice, divided, plus lime wedges, to serve  
-1 small white or red onion, peeled and cut into ½-inch-thick rounds  
-1/2 cup chopped fresh cilantro  
-8 corn tortillas, warmed  
+* 1 pineapple, peeled  
+* 1/4 cup grapeseed or other neutral oil, plus more for baking sheet  
+* 8 medium garlic cloves, peeled  
+* 4 chipotle chilies in adobo and the sauce clinging to them  
+* 4 teaspoons ground cumin  
+* 4 teaspoons ancho chili powder  
+* 1/4 cup packed dark brown sugar  
+* Kosher salt and ground black pepper  
+* 1 1¼-pound pork tenderloin, trimmed of silver skin  
+* 2 tablespoons lime juice, divided, plus lime wedges, to serve  
+* 1 small white or red onion, peeled and cut into ½-inch-thick rounds  
+* 1/2 cup chopped fresh cilantro  
+* 8 corn tortillas, warmed  
 
 </div>
 

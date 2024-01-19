@@ -20,15 +20,15 @@ I like to include a bell pepper, which as far as I know isn't traditional at all
 
 <div class="ingredient-list">
 
-4 small Persian cucumbers (or 1 English), diced  
-3 Roma tomatoes, seeded and diced  
-½ of a medium red onion, diced, soaked briefly in cold water, and drained  
-4 red radishes, trimmed and diced  
-1 yellow bell pepper, seeded and diced  
-1 small handful fresh mint leaves, roughly chopped, or 2 tsp dried mint  
-3 tbsp fresh lemon or lime juice  
-1 tbsp olive oil  
-Salt and pepper   
+* 4 small Persian cucumbers (or 1 English), diced  
+* 3 Roma tomatoes, seeded and diced  
+* ½ of a medium red onion, diced, soaked briefly in cold water, and drained  
+* 4 red radishes, trimmed and diced  
+* 1 yellow bell pepper, seeded and diced  
+* 1 small handful fresh mint leaves, roughly chopped, or 2 tsp dried mint  
+* 3 tbsp fresh lemon or lime juice  
+* 1 tbsp olive oil  
+* Salt and pepper   
 
 </div>
 

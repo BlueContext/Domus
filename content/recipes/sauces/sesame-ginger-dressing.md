@@ -17,19 +17,19 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 cup unseasoned rice vinegar  
-1/2 cup sugar  
-1/4 cup soy sauce  
-1 tbsp grated fresh ginger  
-1 tbsp finely chopped shallots  
-2 tbsp minced garlic  
-2 tbsp chopped scallions  
-1 tbsp toasted sesame seeds  
-1 tbsp Sambal Olek or similar hot chili sauce  
-Juice of one lime  
-1/4 cup peanut oil  
-2 tbsp toasted sesame oil  
-Salt and pepper to taste  
+* 1/2 cup unseasoned rice vinegar  
+* 1/2 cup sugar  
+* 1/4 cup soy sauce  
+* 1 tbsp grated fresh ginger  
+* 1 tbsp finely chopped shallots  
+* 2 tbsp minced garlic  
+* 2 tbsp chopped scallions  
+* 1 tbsp toasted sesame seeds  
+* 1 tbsp Sambal Olek or similar hot chili sauce  
+* Juice of one lime  
+* 1/4 cup peanut oil  
+* 2 tbsp toasted sesame oil  
+* Salt and pepper to taste  
 
 </div>
 

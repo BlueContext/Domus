@@ -18,19 +18,19 @@ tags:
 
 <div class="ingredient-list">
 
-1 1/2 lbs Yukon Gold or Yellow Finn potatoes, peeled & chopped  
-1 1/2 cups half-and-half or whole milk  
-Salt and pepper  
-2 tbsp butter, plus extra for greasing the dish  
-2 medium leeks, white and tender green parts diced (about 2 cups)  
-1 tsp chopped fresh thyme  
-2 garlic cloves, minced  
-Cayenne to taste  
-Grated nutmeg to taste  
-4 oz cooked ham steak, cut into a dice  
-4 oz grated fontina or Gruyère  
-3 eggs, separated  
-1 oz finely grated Parmesan  
+* 1 1/2 lbs Yukon Gold or Yellow Finn potatoes, peeled & chopped  
+* 1 1/2 cups half-and-half or whole milk  
+* Salt and pepper  
+* 2 tbsp butter, plus extra for greasing the dish  
+* 2 medium leeks, white and tender green parts diced (about 2 cups)  
+* 1 tsp chopped fresh thyme  
+* 2 garlic cloves, minced  
+* Cayenne to taste  
+* Grated nutmeg to taste  
+* 4 oz cooked ham steak, cut into a dice  
+* 4 oz grated fontina or Gruyère  
+* 3 eggs, separated  
+* 1 oz finely grated Parmesan  
 
 </div>
 

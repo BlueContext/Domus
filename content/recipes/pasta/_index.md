@@ -5,7 +5,7 @@ menu:
     parent: recipes
   after:
     name: recipes
-    weight: 10
+    weight: 11
 title: Pasta & Noodles
 bookCollapseSection: true
 ---

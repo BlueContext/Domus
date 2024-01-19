@@ -19,18 +19,18 @@ Salting the cabbage removes excess water and prevents watery slaw.
 
 <div class="ingredient-list">
 
-1 medium head green cabbage, cored and shredded  
-1 green or red bell pepper, seeded and sliced thinly  
-1 celery rib, sliced thin  
-1/2 of a small white onion, grated on a box grater  
-2 tsp salt  
-1/2 cup mayonnaise   
-1/4 cup sour cream  
-1 tbsp cider vinegar  
-2 tsp sugar  
-1/8 tsp cayenne pepper  
-Creole seasoning (optional)  
-1 garlic clove, very finely minced  
+* 1 medium head green cabbage, cored and shredded  
+* 1 green or red bell pepper, seeded and sliced thinly  
+* 1 celery rib, sliced thin  
+* 1/2 of a small white onion, grated on a box grater  
+* 2 tsp salt  
+* 1/2 cup mayonnaise   
+* 1/4 cup sour cream  
+* 1 tbsp cider vinegar  
+* 2 tsp sugar  
+* 1/8 tsp cayenne pepper  
+* Creole seasoning (optional)  
+* 1 garlic clove, very finely minced  
 
 </div>
 

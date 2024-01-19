@@ -21,25 +21,25 @@ In my experience, the ducklings we get at the grocery store only serve 2-3 peopl
 
 <div class="ingredient-list">
 
-*For the ducks:*  
-1 recipe [Chestnut & Apple Christmas Stuffing]({{< ref "/recipes/stuffing/christmas-stuffing.md" >}} "Chestnut & Apple Christmas Stuffing"), uncooked  
-2 4-5 lb. ducks, thawed  
-Dried thyme  
-Dried marjoram  
-A lemon  
-  
-*For the sauce:*  
-Necks, wings and other (non-fat) trimmings from the ducks  
-1 small white onion, roughly chopped  
-1 carrot, roughly chopped  
-1 stalk of celery, roughly chopped  
-2 cups low-sodium chicken stock  
-Olive oil  
-1 large shallot, finely minced  
-1 tbsp. cognac  
-1 ½ cup port wine  
-Corn starch  
-Tabasco sauce  
+* #### For the ducks:
+  * 1 recipe [Chestnut & Apple Christmas Stuffing]({{< ref "/recipes/stuffing/christmas-stuffing.md" >}} "Chestnut & Apple Christmas Stuffing"), uncooked  
+  * 2 4-5 lb. ducks, thawed  
+  * Dried thyme  
+  * Dried marjoram  
+  * A lemon  
+  *   
+* #### For the sauce:
+  * Necks, wings and other (non-fat) trimmings from the ducks  
+  * 1 small white onion, roughly chopped  
+  * 1 carrot, roughly chopped  
+  * 1 stalk of celery, roughly chopped  
+  * 2 cups low-sodium chicken stock  
+  * Olive oil  
+  * 1 large shallot, finely minced  
+  * 1 tbsp. cognac  
+  * 1 ½ cup port wine  
+  * Corn starch  
+  * Tabasco sauce  
 
 </div>
 

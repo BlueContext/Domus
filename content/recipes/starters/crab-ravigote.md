@@ -21,15 +21,15 @@ tags:
 
 <div class="ingredient-list">
 
-1 16” French baguette, sliced into 1/4” rounds  
-Olive oil or clarified butter  
-2 tbsp. butter  
-¼ cup finely chopped scallions (white and green parts)  
-1 lb. jumbo lump crab meat, picked over to remove any bits of cartilage or shell  
-1 tsp. salt  
-½ tsp. cayenne pepper  
-3/4 cup béchamel sauce (made with 2 tbsp of flour and butter and 1 cup milk)  
-3/4 cup hollandaise sauce    
+* 1 16” French baguette, sliced into 1/4” rounds  
+* Olive oil or clarified butter  
+* 2 tbsp. butter  
+* ¼ cup finely chopped scallions (white and green parts)  
+* 1 lb. jumbo lump crab meat, picked over to remove any bits of cartilage or shell  
+* 1 tsp. salt  
+* ½ tsp. cayenne pepper  
+* 3/4 cup béchamel sauce (made with 2 tbsp of flour and butter and 1 cup milk)  
+* 3/4 cup hollandaise sauce    
 
 </div>
 

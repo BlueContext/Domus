@@ -17,18 +17,18 @@ tags:
 
 <div class="ingredient-list">
 
-3 lb beef shoulder or chuck roast, tied  
-3 tbsp olive oil  
-2 cups beef stock  
-2 cups dry red wine  
-1 bunch parsley, chopped fine  
-7 whole cloves  
-1 bay leaf  
-2 1/2 cups coarsely chopped yellow onions  
-2 cups  peeled 1” carrot chunks  
-8 medium potatoes, scrubbed and cut into thirds  
-2 cups canned San Marzano tomatoes   
-1 cup diced celery   
+* 3 lb beef shoulder or chuck roast, tied  
+* 3 tbsp olive oil  
+* 2 cups beef stock  
+* 2 cups dry red wine  
+* 1 bunch parsley, chopped fine  
+* 7 whole cloves  
+* 1 bay leaf  
+* 2 1/2 cups coarsely chopped yellow onions  
+* 2 cups  peeled 1” carrot chunks  
+* 8 medium potatoes, scrubbed and cut into thirds  
+* 2 cups canned San Marzano tomatoes   
+* 1 cup diced celery   
 
 </div>
 

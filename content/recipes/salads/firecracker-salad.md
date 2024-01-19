@@ -17,19 +17,19 @@ You can make this ahead of time, but you'll need to reserve the blanched and jul
 
 <div class="ingredient-list">
 
-3/4 lb snow peas, trimmed and stringed  
-1 large red bell pepper, cut into 1 1/2 inch long julienne  
-1 large yellow bell pepper, cut into 1 1/2 inch long julienne  
-1 large jalapeño pepper, seeded and julienned  
-1 1/3 cups of jicama that has been peeled and cut into 1 1/2 inch long julienne  
-2 tbsp lemon juice  
-2 tbsp rice wine vinegar  
-2 tsp finely grated ginger  
-1 tsp honey  
-1/3 c olive oil  
-Pinch of crushed red pepper or Aleppo pepper (optional)  
-Pinch of ground sumac (optional)  
-Salt and pepper to taste  
+* 3/4 lb snow peas, trimmed and stringed  
+* 1 large red bell pepper, cut into 1 1/2 inch long julienne  
+* 1 large yellow bell pepper, cut into 1 1/2 inch long julienne  
+* 1 large jalapeño pepper, seeded and julienned  
+* 1 1/3 cups of jicama that has been peeled and cut into 1 1/2 inch long julienne  
+* 2 tbsp lemon juice  
+* 2 tbsp rice wine vinegar  
+* 2 tsp finely grated ginger  
+* 1 tsp honey  
+* 1/3 c olive oil  
+* Pinch of crushed red pepper or Aleppo pepper (optional)  
+* Pinch of ground sumac (optional)  
+* Salt and pepper to taste  
 
 </div>
 

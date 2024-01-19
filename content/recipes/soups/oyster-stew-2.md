@@ -19,13 +19,13 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 gallon whole milk  
-2 to 3 8-ounce jars of fresh oysters (24 to 36 oysters, shucked)  
-3-4 tablespoons butter  
-1 teaspoon celery salt  
-1 teaspoon salt (or use more celery salt)  
-1/2 teaspoon freshly ground black pepper 
-Oyster crackers to serve  
+* 1/2 gallon whole milk  
+* 2 to 3 8-ounce jars of fresh oysters (24 to 36 oysters, shucked)  
+* 3-4 tablespoons butter  
+* 1 teaspoon celery salt  
+* 1 teaspoon salt (or use more celery salt)  
+* 1/2 teaspoon freshly ground black pepper 
+* Oyster crackers to serve  
 
 </div>
 

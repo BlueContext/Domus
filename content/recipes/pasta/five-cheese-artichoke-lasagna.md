@@ -17,27 +17,27 @@ tags:
 
 <div class="ingredient-list">
 
-2 (9-ounce) packages frozen artichoke hearts,thawed  
-1 teaspoon olive oil  
-1 teaspoon table salt  
-½ teaspoon ground black pepper  
-6 ounces Gruyère cheese, shredded (about 1 1/2 cups)  
-2 ounces Parmesan cheese, finely grated (about 1 cup)  
-1 ½ cups part-skim ricotta cheese  
-1 large egg, lightly beaten  
-2 tablespoons minced fresh parsley leaves plus an additional 2 teaspoons  
-3 tablespoons unsalted butter  
-1 medium shallot, minced (about 3 tablespoons)  
-1 medium clove garlic, minced or pressed through garlic press (about 1 teaspoon)  
-⅓ cup all-purpose flour  
-2 ½ cups whole milk  
-1 ½ cups low-sodium chicken broth  
-Pinch cayenne pepper  
-1 bay leaf  
-15 no-boil lasagna noodles (1 box Barilla, 2 boxes other brands)  
-8 ounces fontina cheese, rind removed, shredded (about 2 cups)  
-3 ounces Gorgonzola cheese, finely crumbled (about 3/4 cup)  
-4 ounces thinly sliced prosciutto, cut into thin strips  
+* 2 (9-ounce) packages frozen artichoke hearts,thawed  
+* 1 teaspoon olive oil  
+* 1 teaspoon table salt  
+* ½ teaspoon ground black pepper  
+* 6 ounces Gruyère cheese, shredded (about 1 1/2 cups)  
+* 2 ounces Parmesan cheese, finely grated (about 1 cup)  
+* 1 ½ cups part-skim ricotta cheese  
+* 1 large egg, lightly beaten  
+* 2 tablespoons minced fresh parsley leaves plus an additional 2 teaspoons  
+* 3 tablespoons unsalted butter  
+* 1 medium shallot, minced (about 3 tablespoons)  
+* 1 medium clove garlic, minced or pressed through garlic press (about 1 teaspoon)  
+* ⅓ cup all-purpose flour  
+* 2 ½ cups whole milk  
+* 1 ½ cups low-sodium chicken broth  
+* Pinch cayenne pepper  
+* 1 bay leaf  
+* 15 no-boil lasagna noodles (1 box Barilla, 2 boxes other brands)  
+* 8 ounces fontina cheese, rind removed, shredded (about 2 cups)  
+* 3 ounces Gorgonzola cheese, finely crumbled (about 3/4 cup)  
+* 4 ounces thinly sliced prosciutto, cut into thin strips  
 
 </div>
 Notes: It’s important to not overbake this lasagna. Once the sauce starts bubbling around the edges, turn the oven to broil. If your lasagna pan is not broiler-safe, brown the lasagna at 500 degrees for about 10 minutes.

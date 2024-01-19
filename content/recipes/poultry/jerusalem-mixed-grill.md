@@ -21,23 +21,23 @@ You can add whichever fresh or pickled vegetables to you’d like to pack into y
 
 <div class="ingredient-list">
   
-1/2 cup white vinegar, divided  
-1 tsp sugar, divided  
-Salt and black pepper  
-1 large red onion, halved and sliced thin  
-1 Persian or small English cucumber  
-1/3 cup tahini  
-1/3 cup Greek yogurt  
-6 tbsp of lemon juice, divided  
-3 tbsp olive oil, divided  
-1 1/2 tsp ground coriander  
-1 tsp ground allspice  
-1 tsp ground turmeric  
-1/2 tsp ground cinnamon  
-1/2 tsp ground cumin  
-1 tsp crushed Aleppo pepper  
-2 lbs boneless, skinless chicken thighs, trimmed and cut into 1.5” chunks  
-4-6 pitas  
+* 1/2 cup white vinegar, divided  
+* 1 tsp sugar, divided  
+* Salt and black pepper  
+* 1 large red onion, halved and sliced thin  
+* 1 Persian or small English cucumber  
+* 1/3 cup tahini  
+* 1/3 cup Greek yogurt  
+* 6 tbsp of lemon juice, divided  
+* 3 tbsp olive oil, divided  
+* 1 1/2 tsp ground coriander  
+* 1 tsp ground allspice  
+* 1 tsp ground turmeric  
+* 1/2 tsp ground cinnamon  
+* 1/2 tsp ground cumin  
+* 1 tsp crushed Aleppo pepper  
+* 2 lbs boneless, skinless chicken thighs, trimmed and cut into 1.5” chunks  
+* 4-6 pitas  
 
 </div>
 

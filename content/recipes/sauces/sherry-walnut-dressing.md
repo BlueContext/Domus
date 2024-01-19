@@ -17,11 +17,11 @@ tags:
 
 <div class="ingredient-list">
 
-2 tbsp walnut pieces, toasted  
-1 1/2 tbsp Sherry vinegar  
-1 tbsp medium-dry Sherry  
-1 tbsp blue cheese  
-1/3 to 1/2 c salad oil   
+* 2 tbsp walnut pieces, toasted  
+* 1 1/2 tbsp Sherry vinegar  
+* 1 tbsp medium-dry Sherry  
+* 1 tbsp blue cheese  
+* 1/3 to 1/2 c salad oil   
 
 </div>
 

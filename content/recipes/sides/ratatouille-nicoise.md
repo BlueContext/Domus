@@ -17,19 +17,19 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb. eggplant  
-1 lb. small zucchini  
-1 medium green bell pepper  
-1 medium red bell pepper  
-9 tbsp. olive oil   
-2 large onions, sliced  
-3 cloves garlic, chopped fine  
-1 bay leaf  
-1 sprig fresh thyme (or ¼ tsp. dried thyme)  
-2 tbsp. chopped fresh basil  
-1 tbsp. fresh rosemary leaves  
-1 lb. tomatoes, peeled, seeded and diced  
-1 tbsp. tomato paste    
+* 1 lb. eggplant  
+* 1 lb. small zucchini  
+* 1 medium green bell pepper  
+* 1 medium red bell pepper  
+* 9 tbsp. olive oil   
+* 2 large onions, sliced  
+* 3 cloves garlic, chopped fine  
+* 1 bay leaf  
+* 1 sprig fresh thyme (or ¼ tsp. dried thyme)  
+* 2 tbsp. chopped fresh basil  
+* 1 tbsp. fresh rosemary leaves  
+* 1 lb. tomatoes, peeled, seeded and diced  
+* 1 tbsp. tomato paste    
 
 </div>
 

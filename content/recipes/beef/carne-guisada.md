@@ -19,18 +19,18 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 cup oil  
-2 lbs round steak, cut into 1” pieces   
-1 bell pepper, chopped  
-1 small onion, chopped  
-2 tbsp flour  
-3/4 tsp garlic powder  
-1/2 tbsp black pepper  
-3/4 tbsp ground cumin  
-1 8 oz can tomato sauce  
-Salt to taste  
-2 cup water  
-Warm flour tortillas to serve  
+* 1/2 cup oil  
+* 2 lbs round steak, cut into 1” pieces   
+* 1 bell pepper, chopped  
+* 1 small onion, chopped  
+* 2 tbsp flour  
+* 3/4 tsp garlic powder  
+* 1/2 tbsp black pepper  
+* 3/4 tbsp ground cumin  
+* 1 8 oz can tomato sauce  
+* Salt to taste  
+* 2 cup water  
+* Warm flour tortillas to serve  
 
 </div>
 

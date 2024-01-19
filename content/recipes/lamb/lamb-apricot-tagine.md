@@ -18,24 +18,24 @@ tags:
 
 <div class="ingredient-list">
 
-2 teaspoons + 1 teaspoon ras-al-hanout (this really makes the dish -- you can find it at World Market or online)  
-2 teaspoons salt  
-¾ teaspoon black pepper  
-¼ teaspoon white pepper  
-¾ teaspoon ground ginger  
-¼ crumbled saffron threads (or add a bit of turmeric instead)  
-3 cups chicken stock  
-3 lbs lamb stew meat (boneless shoulder cut into 1” cubes)  
-1 large onion, finely chopped or coarsely grated  
-2 garlic cloves, minced  
-2 three-inch cinnamon sticks  
-½ stick (1/4 cup) of unsalted butter  
-3 stems of cilantro  
-½ cup golden raisins  
-1 cup dried pitted apricots, cut into quarters  
-½ cup slivered almonds  
-2 tablespoons honey  
-½ teaspoon ground cinnamon      
+* 2 teaspoons + 1 teaspoon ras-al-hanout (this really makes the dish -- you can find it at World Market or online)  
+* 2 teaspoons salt  
+* ¾ teaspoon black pepper  
+* ¼ teaspoon white pepper  
+* ¾ teaspoon ground ginger  
+* ¼ crumbled saffron threads (or add a bit of turmeric instead)  
+* 3 cups chicken stock  
+* 3 lbs lamb stew meat (boneless shoulder cut into 1” cubes)  
+* 1 large onion, finely chopped or coarsely grated  
+* 2 garlic cloves, minced  
+* 2 three-inch cinnamon sticks  
+* ½ stick (1/4 cup) of unsalted butter  
+* 3 stems of cilantro  
+* ½ cup golden raisins  
+* 1 cup dried pitted apricots, cut into quarters  
+* ½ cup slivered almonds  
+* 2 tablespoons honey  
+* ½ teaspoon ground cinnamon      
 
 </div>
 

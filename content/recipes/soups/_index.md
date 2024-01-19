@@ -5,7 +5,7 @@ menu:
     parent: recipes
   after:
     name: soups
-    weight: 2
+    weight: 3
 title: Soups
 bookCollapseSection: true
 ---

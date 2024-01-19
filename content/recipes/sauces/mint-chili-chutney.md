@@ -18,15 +18,15 @@ tags:
 
 <div class="ingredient-list">
 
-1 cup packed chopped fresh cilantro  
-1/3 cup packed chopped fresh mint leaves  
-1 fresh jalapeño, minced  
-1/2 teaspoon minced garlic   
-1 teaspoon minced peeled fresh ginger root  
-2 tablespoons fresh lemon juice  
-1/8 teaspoon ground cumin  
-1 teaspoon honey or sugar, or to taste  
-1/4 cup plain yogurt    
+* 1 cup packed chopped fresh cilantro  
+* 1/3 cup packed chopped fresh mint leaves  
+* 1 fresh jalapeño, minced  
+* 1/2 teaspoon minced garlic   
+* 1 teaspoon minced peeled fresh ginger root  
+* 2 tablespoons fresh lemon juice  
+* 1/8 teaspoon ground cumin  
+* 1 teaspoon honey or sugar, or to taste  
+* 1/4 cup plain yogurt    
 
 </div>
 

@@ -18,28 +18,28 @@ tags:
 
 <div class="ingredient-list">
   
-*For the chicken:*  
-3 cloves garlic, minced  
-1 tbsp ground cumin  
-1 tbsp paprika  
-2 tsp kosher salt  
-1/2 tsp black pepper  
-1/2 tsp dried oregano  
-1 tbsp olive oil  
-1 tbsp white vinegar  
-Juice and zest of 1 lemon  
-1 fryer chicken (around 4 lbs), whole, rinsed and spatchcocked   
-1 medium onion, sliced  
-  
-*For the green sauce:*  
-2 whole jalapenos, stemmed and roughly chopped  
-1 cup fresh cilantro leaves and stems  
-2 cloves garlic  
-1/3 cup mayonnaise   
-Juice of 1 lime  
-1 tsp white vinegar  
-2 tbsp olive oil  
-Salt and black pepper  
+* #### For the chicken:
+  * 3 cloves garlic, minced  
+  * 1 tbsp ground cumin  
+  * 1 tbsp paprika  
+  * 2 tsp kosher salt  
+  * 1/2 tsp black pepper  
+  * 1/2 tsp dried oregano  
+  * 1 tbsp olive oil  
+  * 1 tbsp white vinegar  
+  * Juice and zest of 1 lemon  
+  * 1 fryer chicken (around 4 lbs), whole, rinsed and spatchcocked   
+  * 1 medium onion, sliced  
+  *   
+* #### For the green sauce:
+  * 2 whole jalapenos, stemmed and roughly chopped  
+  * 1 cup fresh cilantro leaves and stems  
+  * 2 cloves garlic  
+  * 1/3 cup mayonnaise   
+  * Juice of 1 lime  
+  * 1 tsp white vinegar  
+  * 2 tbsp olive oil  
+  * Salt and black pepper  
 
 </div>
 

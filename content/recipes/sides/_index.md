@@ -5,7 +5,7 @@ menu:
     parent: sides
   after:
     name: sides
-    weight: 13
+    weight: 12
 title: Sides
 bookCollapseSection: true
 ---

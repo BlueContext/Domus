@@ -21,30 +21,30 @@ You need to let the chicken dry-brine for 24 hours, so plan ahead.
 
 <div class="ingredient-list">
 
-1 (approx. 4 lb) whole chicken, giblets removed and discarded  
-4 1”-thick slices of country-style bread (a crusty, round loaf), bottom crust removed, cut into cubes (about 5 cups)  
-1/2 cup chicken broth  
-7 tbsp olive oil (divided)  
-2 tbsp champagne vinegar or white wine vinegar  
-1 tbsp Dijon mustard  
-3 scallions, sliced thin  
-2 tbsp dried currants or golden raisins  
-5 cups baby arugula  
-  
-*Equipment:*  
-Sharp kitchen shears or poultry shears  
+* 1 (approx. 4 lb) whole chicken, giblets removed and discarded  
+* 4 1”-thick slices of country-style bread (a crusty, round loaf), bottom crust removed, cut into cubes (about 5 cups)  
+* 1/2 cup chicken broth  
+* 7 tbsp olive oil (divided)  
+* 2 tbsp champagne vinegar or white wine vinegar  
+* 1 tbsp Dijon mustard  
+* 3 scallions, sliced thin  
+* 2 tbsp dried currants or golden raisins  
+* 5 cups baby arugula  
+*   
+* #### Equipment:
+  * Sharp kitchen shears or poultry shears  
 
 </div>
 
 ### Instructions
 
-**For the dry-brine process:**
+#### For the dry-brine process:
 
 Place chicken, breast side down, on cutting board. Using kitchen shears, cut through bones on either side of backbone; discard backbone. Do not trim off any excess fat or skin. Flip chicken over and press on breastbone to flatten. 
 
 Using your fingers, carefully loosen skin covering breast and legs. Rub ½ teaspoon salt under skin of each breast, ½ teaspoon under skin of each leg, and 1 teaspoon salt onto bird's cavity. Tuck wings behind back and turn legs so drumsticks face inward toward breasts. Place chicken on wire rack set in rimmed baking sheet or on large plate and refrigerate, uncovered, for 24 hours. The salt working under the skin will brine the meat, while the bare skin will dry in the cool air.
 
-**For Cooking:**
+#### For Cooking:
 
 Adjust oven rack to middle position and heat oven to 475 degrees. Spray 12-inch skillet with vegetable oil spray. 
 

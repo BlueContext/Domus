@@ -16,29 +16,29 @@ categories:
 
 <div class="ingredient-list">
 
-*For the salad:*  
-1 large can hearts of palm  
-2 cups of green beans, cooked to crisp-tender and cooled thoroughly  
-1 cup chopped celery  
-2 tbsp minced fresh parsley  
-1 bunch scallions, pale bottom parts only, chopped  
-2 hard-cooked eggs, sliced  
-1 tbsp capers  
-Lettuce  
-Slices of tomato for garnish   
-
-*For the vinaigrette:*  
-1/4 cup cider vinegar  
-2 tbsp tarragon vinegar  
-1/3 cup olive oil  
-1 tbsp sugar (to taste)  
-1/2 tsp hot mustard  
-1/4 cup sweet pickle relish  
-1 hard-cooked egg, chopped  
-1/2 cup finely sliced scallions  
-1 tbsp dried basil  
-1 tbsp chopped pimiento  
-Salt and pepper to taste  
+* #### For the salad:
+  * 1 large can hearts of palm  
+  * 2 cups of green beans, cooked to crisp-tender and cooled thoroughly  
+  * 1 cup chopped celery  
+  * 2 tbsp minced fresh parsley  
+  * 1 bunch scallions, pale bottom parts only, chopped  
+  * 2 hard-cooked eggs, sliced  
+  * 1 tbsp capers  
+  * Lettuce  
+  * Slices of tomato for garnish   
+  * 
+* #### For the vinaigrette:
+  * 1/4 cup cider vinegar  
+  * 2 tbsp tarragon vinegar  
+  * 1/3 cup olive oil  
+  * 1 tbsp sugar (to taste)  
+  * 1/2 tsp hot mustard  
+  * 1/4 cup sweet pickle relish  
+  * 1 hard-cooked egg, chopped  
+  * 1/2 cup finely sliced scallions  
+  * 1 tbsp dried basil  
+  * 1 tbsp chopped pimiento  
+  * Salt and pepper to taste  
 
 </div>
 

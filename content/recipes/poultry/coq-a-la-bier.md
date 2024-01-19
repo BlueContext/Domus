@@ -20,23 +20,23 @@ The beer you choose matters a great deal here, and an American lager simply wonâ
 
 <div class="ingredient-list">
 
-1 whole fryer chicken, cut into serving pieces (or 3-4 lbs chicken parts)  
-3 tbsp flour  
-2 tbsp lard or bacon fat (or oil)  
-2 shallots, thinly sliced  
-2 tbsp butter  
-1/4 cup cognac  
-8 oz. button mushrooms, stemmed and quartered  
-6 oz thick-cut bacon, sliced crosswise into lardons  
-Salt and pepper  
-1 tsp dried juniper berries  
-3-4 whole cloves  
-1/4 cup brown sugar  
-3 bay leaves  
-A few sprigs of fresh thyme  
-750 ml (3 cups) Belgian amber ale such as a Trappist tripel  
-2-4 tbsp heavy cream  
-2 tbsp minced parsley to serve  
+* 1 whole fryer chicken, cut into serving pieces (or 3-4 lbs chicken parts)  
+* 3 tbsp flour  
+* 2 tbsp lard or bacon fat (or oil)  
+* 2 shallots, thinly sliced  
+* 2 tbsp butter  
+* 1/4 cup cognac  
+* 8 oz. button mushrooms, stemmed and quartered  
+* 6 oz thick-cut bacon, sliced crosswise into lardons  
+* Salt and pepper  
+* 1 tsp dried juniper berries  
+* 3-4 whole cloves  
+* 1/4 cup brown sugar  
+* 3 bay leaves  
+* A few sprigs of fresh thyme  
+* 750 ml (3 cups) Belgian amber ale such as a Trappist tripel  
+* 2-4 tbsp heavy cream  
+* 2 tbsp minced parsley to serve  
 
 </div>
 

@@ -20,20 +20,20 @@ If you’ve ever been to a really good dim sum place, you might have had these w
 
 <div class="ingredient-list">
 
-3 tablespoons vegetable oil  
-1 large onion, finely diced  
-2 cloves garlic, minced  
-1 pound ground beef  
-2 tablespoons curry powder  
-1½ teaspoons turmeric  
-½ teaspoon cumin  
-¼ teaspoon sugar  
-¼ teaspoon black pepper  
-1 teaspoon salt  
-2/3 cup beef broth  
-1 tablespoon cornstarch  
-2 sheets of puff pastry  
-Egg wash: 1 egg beaten with 1 tablespoon water  
+* 3 tablespoons vegetable oil  
+* 1 large onion, finely diced  
+* 2 cloves garlic, minced  
+* 1 pound ground beef  
+* 2 tablespoons curry powder  
+* 1½ teaspoons turmeric  
+* ½ teaspoon cumin  
+* ¼ teaspoon sugar  
+* ¼ teaspoon black pepper  
+* 1 teaspoon salt  
+* 2/3 cup beef broth  
+* 1 tablespoon cornstarch  
+* 2 sheets of puff pastry  
+* Egg wash: 1 egg beaten with 1 tablespoon water  
 
 </div>
 

@@ -17,14 +17,14 @@ tags:
 
 <div class="ingredient-list">
 
-1/4 cup extra-virgin olive oil, divided  
-1/2 pound chouriço or linguiça or kielbasa, cut into 1/2-inch pieces  
-1 medium onion, chopped  
-2 garlic cloves, minced  
-1 pound russet (baking) potatoes, peeled and cut into 1-inch pieces  
-6 cups water  
-1 pound kale, stems and center ribs discarded and leaves very thinly sliced  
-Accompaniment: piri-piri sauce or other hot sauce  
+* 1/4 cup extra-virgin olive oil, divided  
+* 1/2 pound chouriço or linguiça or kielbasa, cut into 1/2-inch pieces  
+* 1 medium onion, chopped  
+* 2 garlic cloves, minced  
+* 1 pound russet (baking) potatoes, peeled and cut into 1-inch pieces  
+* 6 cups water  
+* 1 pound kale, stems and center ribs discarded and leaves very thinly sliced  
+* Accompaniment: piri-piri sauce or other hot sauce  
 
 </div>
 

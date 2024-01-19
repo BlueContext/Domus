@@ -19,19 +19,20 @@ If you have a KitchenAid stand mixer and any interest in making homemade pasta, 
 
 <div class="ingredient-list">
 
-*For the sauce:*  
-2 cups finely chopped onion  
-1/4 cup olive oil  
-3 cloves garlic, minced  
-1 28-oz can San Marzano tomatoes, chopped, with their juices  
-*For the filling:*  
-1/2 lb whole milk ricotta  
-1/2 lb whole milk mozzarella, grated   
-1/2 cup freshly grated Parmesan   
-1 6-oz jar marinated artichoke hearts, drained (with liquid reserved) and chopped  
-1/4 lb thinly sliced prosciutto, chopped  
-Extra grated Parmesan and mozzarella, for topping  
-Herbed Pasta Dough (recipe below)  
+* #### For the sauce:
+  * 2 cups finely chopped onion  
+  * 1/4 cup olive oil  
+  * 3 cloves garlic, minced  
+  * 1 28-oz can San Marzano tomatoes, chopped, with their juices 
+  * 
+* #### For the filling:
+  * 1/2 lb whole milk ricotta  
+  * 1/2 lb whole milk mozzarella, grated   
+  * 1/2 cup freshly grated Parmesan   
+  * 1 6-oz jar marinated artichoke hearts, drained (with liquid reserved) and chopped  
+  * 1/4 lb thinly sliced prosciutto, chopped  
+  * Extra grated Parmesan and mozzarella, for topping  
+  * Herbed Pasta Dough (recipe below)  
 
 </div>
 

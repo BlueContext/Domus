@@ -21,9 +21,9 @@ You’ll need a heavy, oven-safe 9” skillet that’s either nonstick or of ver
 
 <div class="ingredient-list">
 
-1/2 stick of unsalted butter  
-2 lbs Yukon Gold or Russet potatoes  
-Salt and black pepper, near at hand.   
+* 1/2 stick of unsalted butter  
+* 2 lbs Yukon Gold or Russet potatoes  
+* Salt and black pepper, near at hand.   
 
 </div>
 

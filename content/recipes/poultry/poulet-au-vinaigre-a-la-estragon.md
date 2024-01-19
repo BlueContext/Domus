@@ -18,17 +18,17 @@ tags:
 
 <div class="ingredient-list">
 
-2 cups frozen pearl onions, thawed  
-2 tbsp olive oil  
-1 tbsp unsalted butter   
-3 1/2 lbs chicken pieces  
-1 cup tarragon white-wine vinegar (or plain white wine vinegar)  
-1/2 cup dry white vermouth or wine  
-1 1/2 cups chicken stock  
-1 cup chopped canned tomatoes, drained  
-1/2 tsp dried tarragon (IF you are not using tarragon vinegar)  
-1 tbsp finely chopped fresh tarragon, plus sprigs of fresh tarragon for serving (if desired)  
-4 tsp arrowroot powder or 1 1/2 tbsp cornstarch, either dissolved in 2 tbsp cold water  
+* 2 cups frozen pearl onions, thawed  
+* 2 tbsp olive oil  
+* 1 tbsp unsalted butter   
+* 3 1/2 lbs chicken pieces  
+* 1 cup tarragon white-wine vinegar (or plain white wine vinegar)  
+* 1/2 cup dry white vermouth or wine  
+* 1 1/2 cups chicken stock  
+* 1 cup chopped canned tomatoes, drained  
+* 1/2 tsp dried tarragon (IF you are not using tarragon vinegar)  
+* 1 tbsp finely chopped fresh tarragon, plus sprigs of fresh tarragon for serving (if desired)  
+* 4 tsp arrowroot powder or 1 1/2 tbsp cornstarch, either dissolved in 2 tbsp cold water  
 
 </div>
 

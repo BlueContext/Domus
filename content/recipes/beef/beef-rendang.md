@@ -20,29 +20,28 @@ You’ll need to visit an Asian market with a produce section for a couple of th
 
 <div class="ingredient-list">
 
-1/4 cup shredded coconut (unsweetened)  
-1 tbsp tamarind paste   
+* 1/4 cup shredded coconut (unsweetened)  
+* 1 tbsp tamarind paste   
   
-#### Curry Paste:
-3 shallots (or 1 yellow onion)  
-1 1/2 inch (5 cm) galangal  
-1 1/2 inch (5 cm) ginger  
-2 lemongrass stalks , white part (reserve upper portions)  
-6 cloves garlic  
-10 chili peppers , dried  
+#### For Curry Paste:
+* 3 shallots (or 1 yellow onion)  
+* 1 1/2 inch (5 cm) galangal  
+* 1 1/2 inch (5 cm) ginger  
+* 2 lemongrass stalks , white part (reserve upper portions)  
+* 6 cloves garlic  
+* 10 chili peppers , dried  
   
-#### Braise:
-1/4 cup vegetable oil  
-4 cardamom pods , smashed  
-4 cloves  
-2 star anise pods  
-1 cinnamon stick  
-2 lbs (900 g) beef chuck , cut into 2 in chunks  
-1 can (14 oz / 400 g) coconut milk  
-4 kaffir lime leaves , split in half and cores removed  
-2 tbsp palm sugar, piloncillo, or brown sugar  
-2 teaspoons salt , plus more to taste  
-
+#### For the Braise:
+* 1/4 cup vegetable oil  
+* 4 cardamom pods , smashed  
+* 4 cloves  
+* 2 star anise pods  
+* 1 cinnamon stick  
+* 2 lbs (900 g) beef chuck , cut into 2 in chunks  
+* 1 can (14 oz / 400 g) coconut milk  
+* 4 kaffir lime leaves , split in half and cores removed  
+* 2 tbsp palm sugar, piloncillo, or brown sugar  
+* 2 teaspoons salt , plus more to taste  
 
 </div>
 

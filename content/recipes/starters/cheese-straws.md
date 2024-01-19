@@ -17,13 +17,13 @@ tags:
 
 <div class="ingredient-list">
 
-½ lb. sharp cheddar (or other hard cheese), grated and  room temperature  
-1 stick butter, room temperature   
-1 scant tsp. salt  
-1 tsp. dry mustard  
-¼ tsp. cayenne pepper  
-1 ½ c. flour  
-2 tbsp. cold water   
+* ½ lb. sharp cheddar (or other hard cheese), grated and  room temperature  
+* 1 stick butter, room temperature   
+* 1 scant tsp. salt  
+* 1 tsp. dry mustard  
+* ¼ tsp. cayenne pepper  
+* 1 ½ c. flour  
+* 2 tbsp. cold water   
 
 </div>
 

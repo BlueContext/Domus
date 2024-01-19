@@ -16,17 +16,17 @@ categories:
 
 <div class="ingredient-list">
 
-1 shallot, finely minced  
-1 1/2 tbsp cider or sherry vinegar   
-3 tbsp grated fresh horseradish   
-3 tbsp olive oil   
-1 tsp honey  
-1 granny smith apple, peeled, cored, sliced, and cut into matchsticks  
-1/2 small celery root (about 8oz), peeled, sliced, and cut into matchsticks  
-1 medium fennel bulb, trimmed and thinly sliced  
-1/2 cup chopped fresh parsley leaves  
-1/4 cup chopped fresh mint leaves  
-1/2 cup hazelnuts, toasted and roughly chopped   
+* 1 shallot, finely minced  
+* 1 1/2 tbsp cider or sherry vinegar   
+* 3 tbsp grated fresh horseradish   
+* 3 tbsp olive oil   
+* 1 tsp honey  
+* 1 granny smith apple, peeled, cored, sliced, and cut into matchsticks  
+* 1/2 small celery root (about 8oz), peeled, sliced, and cut into matchsticks  
+* 1 medium fennel bulb, trimmed and thinly sliced  
+* 1/2 cup chopped fresh parsley leaves  
+* 1/4 cup chopped fresh mint leaves  
+* 1/2 cup hazelnuts, toasted and roughly chopped   
 
 </div>
 

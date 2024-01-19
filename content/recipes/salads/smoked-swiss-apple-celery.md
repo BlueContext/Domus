@@ -17,15 +17,15 @@ tags:
 
 <div class="ingredient-list">
 
-1 tsp caraway seeds  
-2 tsp Dijon mustard  
-2 tbsp sherry vinegar  
-1/2 c vegetable oil  
-2 tbsp minced fresh parsley  
-1/4 lb smoked Swiss cheese, cut into matchsticks  
-4 ribs celery, cut into matchsticks  
-2 granny smith apples  
-Celery leaves for garnish  
+* 1 tsp caraway seeds  
+* 2 tsp Dijon mustard  
+* 2 tbsp sherry vinegar  
+* 1/2 c vegetable oil  
+* 2 tbsp minced fresh parsley  
+* 1/4 lb smoked Swiss cheese, cut into matchsticks  
+* 4 ribs celery, cut into matchsticks  
+* 2 granny smith apples  
+* Celery leaves for garnish  
 
 </div>
 

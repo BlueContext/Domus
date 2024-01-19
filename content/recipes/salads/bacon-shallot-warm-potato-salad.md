@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-2 lbs small yellow potatoes, roughly the same size  
-6 oz thick-cut bacon, cut into batons  
-1/2 cup thinly sliced shallots  
-3 tbsp whole grain mustard  
-1 tbsp Dijon mustard  
-2 or 3 tbsp Sherry vinegar or red wine vinegar  
-Salt and black pepper  
-Chopped parsley or sliced scallion, for garnish  
+* 2 lbs small yellow potatoes, roughly the same size  
+* 6 oz thick-cut bacon, cut into batons  
+* 1/2 cup thinly sliced shallots  
+* 3 tbsp whole grain mustard  
+* 1 tbsp Dijon mustard  
+* 2 or 3 tbsp Sherry vinegar or red wine vinegar  
+* Salt and black pepper  
+* Chopped parsley or sliced scallion, for garnish  
 
 </div>
 

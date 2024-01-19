@@ -19,28 +19,28 @@ tags:
 
 <div class="ingredient-list">
 
-*For the spring rolls:*  
-1 oz dried shitake mushrooms  
-1 lb ground pork  
-1/2 lb jumbo lump crabmeat, picked over  
-2 whole large eggs, lightly beaten  
-1/2 cup chopped fresh cilantro  
-3 tablespoon finely grated peeled fresh ginger  
-3 scallion, finely chopped  
-4 garlic cloves, finely chopped  
-Rounded 1/2 teaspoon salt  
-30 Vietnamese rice-paper  wedges*  
-Peanut oil for deep frying  
-Special equipment: a deep-fat thermometer for deep frying  
-  
-*For the dipping sauce:*  
-1 tablespoon sugar  
-1/4 cup warm water  
-1/4 cup fish sauce, preferably Red Boat  
-2 tablespoons rice vinegar (not seasoned)  
-3 tablespoons fresh lime juice  
-1 garlic clove, minced  
-Fresh Thai or Serrano chile (2 to 3 inches; preferably red) including seeds, thinly sliced   
+* #### For the spring rolls:
+  * 1 oz dried shitake mushrooms  
+  * 1 lb ground pork  
+  * 1/2 lb jumbo lump crabmeat, picked over  
+  * 2 whole large eggs, lightly beaten  
+  * 1/2 cup chopped fresh cilantro  
+  * 3 tablespoon finely grated peeled fresh ginger  
+  * 3 scallion, finely chopped  
+  * 4 garlic cloves, finely chopped  
+  * Rounded 1/2 teaspoon salt  
+  * 30 Vietnamese rice-paper  wedges*  
+  * Peanut oil for deep frying  
+  * Special equipment: a deep-fat thermometer for deep frying  
+  *   
+* #### For the dipping sauce:
+  * 1 tablespoon sugar  
+  * 1/4 cup warm water  
+  * 1/4 cup fish sauce, preferably Red Boat  
+  * 2 tablespoons rice vinegar (not seasoned)  
+  * 3 tablespoons fresh lime juice  
+  * 1 garlic clove, minced  
+  * Fresh Thai or Serrano chile (2 to 3 inches; preferably red) including seeds, thinly sliced   
 
 </div>
 

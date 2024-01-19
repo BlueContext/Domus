@@ -21,19 +21,19 @@ Frozen udon and ramen noodles are worth dedicating some freezer space to, as the
 
 <div class="ingredient-list">
 
-2 packages frozen Udon noodles  
-2 tablespoons soy sauce, divided  
-1 tablespoon sugar, divided  
-8 ounces flank steak  
-2 tablespoons oil, divided  
-6 scallions, whites finely chopped, greens cut into 1" pieces, reserved separately  
-4 garlic cloves, minced  
-1 tbsp grated fresh ginger  
-1/2 tablespoon curry powder  
-1 lb napa cabbage, cut lengthwise into 3" wedges, then crosswise into thin strips (about 7 cups)  
-1 red or yellow bell pepper, cut into thin strips  
-Salt and pepper  
-Lime wedges to serve  
+* 2 packages frozen Udon noodles  
+* 2 tablespoons soy sauce, divided  
+* 1 tablespoon sugar, divided  
+* 8 ounces flank steak  
+* 2 tablespoons oil, divided  
+* 6 scallions, whites finely chopped, greens cut into 1" pieces, reserved separately  
+* 4 garlic cloves, minced  
+* 1 tbsp grated fresh ginger  
+* 1/2 tablespoon curry powder  
+* 1 lb napa cabbage, cut lengthwise into 3" wedges, then crosswise into thin strips (about 7 cups)  
+* 1 red or yellow bell pepper, cut into thin strips  
+* Salt and pepper  
+* Lime wedges to serve  
 
 </div>
 

@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-1 1/2 c. Flour  
-1 tsp. Salt  
-A pinch of white pepper  
-A pinch of cayenne pepper  
-1 heaping tablespoon of very finely minced fresh rosemary  
-6 tbsp. Butter, chilled and cut into small pieces  
-2 c. (5 oz.) finely grated Parmesan cheese, plus extra for topping  
-1/2 c. + 2 tbsp sour cream   
+* 1 1/2 c. Flour  
+* 1 tsp. Salt  
+* A pinch of white pepper  
+* A pinch of cayenne pepper  
+* 1 heaping tablespoon of very finely minced fresh rosemary  
+* 6 tbsp. Butter, chilled and cut into small pieces  
+* 2 c. (5 oz.) finely grated Parmesan cheese, plus extra for topping  
+* 1/2 c. + 2 tbsp sour cream   
 
 </div>
 
@@ -41,16 +41,16 @@ These can be made the day before and stored, after cooling, in an airtight conta
 
 <div class="ingredient-list">
 
-2 c. Flour  
-2 tsp. Salt  
-A pinch of cayenne pepper  
-1/2 tsp. Freshly ground black pepper  
-3 tsp. Finely chopped fresh thyme, plus additional for garnish  
-6 tbsp. Butter, cut into pieces and chilled until very cold  
-2 c. Finely grated Gruyere  
-1/2 c. + 2 tbsp. Milk  
-2 egg whites, lightly beaten  
-A pinch of cayenne pepper  
+* 2 c. Flour  
+* 2 tsp. Salt  
+* A pinch of cayenne pepper  
+* 1/2 tsp. Freshly ground black pepper  
+* 3 tsp. Finely chopped fresh thyme, plus additional for garnish  
+* 6 tbsp. Butter, cut into pieces and chilled until very cold  
+* 2 c. Finely grated Gruyere  
+* 1/2 c. + 2 tbsp. Milk  
+* 2 egg whites, lightly beaten  
+* A pinch of cayenne pepper  
 
 </div>
 
@@ -66,11 +66,11 @@ These can be made the day before and stored, after cooling, in an airtight conta
 
 <div class="ingredient-list">
 
-4 oz. (or 1 1/2 cups) hazelnuts, toasted and skinned.  
-1 1/2 c. Flour  
-8 tbsp. Butter, cut into pieces and chilled until very cold  
-6 oz. Blue cheese (Stilton or Roquefort)  
-A pinch of cayenne pepper  
+* 4 oz. (or 1 1/2 cups) hazelnuts, toasted and skinned.  
+* 1 1/2 c. Flour  
+* 8 tbsp. Butter, cut into pieces and chilled until very cold  
+* 6 oz. Blue cheese (Stilton or Roquefort)  
+* A pinch of cayenne pepper  
 
 </div>
 
@@ -86,14 +86,14 @@ These can be made the day before and stored, after cooling, in an airtight conta
 
 <div class="ingredient-list">
 
-1 1/2 c. Flour  
-1 tsp. Curry powder  
-A pinch of cayenne pepper  
-8 tbsp. Butter, cut into pieces and chilled until very cold  
-1/2 cup finely grated Parmesan, plus extra for topping  
-2/3 cup finely grated white cheddar  
-1 tbsp. Blue cheese (Stilton or Roquefort)  
-1 tbsp. Lemon juice  
+* 1 1/2 c. Flour  
+* 1 tsp. Curry powder  
+* A pinch of cayenne pepper  
+* 8 tbsp. Butter, cut into pieces and chilled until very cold  
+* 1/2 cup finely grated Parmesan, plus extra for topping  
+* 2/3 cup finely grated white cheddar  
+* 1 tbsp. Blue cheese (Stilton or Roquefort)  
+* 1 tbsp. Lemon juice  
 
 </div>
 

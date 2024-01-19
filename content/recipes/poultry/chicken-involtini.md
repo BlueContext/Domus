@@ -17,19 +17,19 @@ tags:
 
 <div class="ingredient-list">
 
-4 boneless skinless chicken breasts  
-4 thin slices prosciutto  
-4 slices provolone cheese  
-1 roasted red bell pepper, cut into strips  
-4 whole sage leaves + 2 minced sage leaves  
-2 tbsp. olive oil  
-4 tbsp. + 2 tbsp. Butter  
-1 tablespoon cognac  
-½ cup white vermouth or white wine  
-½ cup chicken broth  
-2 chopped shallots (or half of 1 white onion, minced)  
-Lemon juice to taste  
-1-2 tbsp chopped flat-leaf parsley   
+* 4 boneless skinless chicken breasts  
+* 4 thin slices prosciutto  
+* 4 slices provolone cheese  
+* 1 roasted red bell pepper, cut into strips  
+* 4 whole sage leaves + 2 minced sage leaves  
+* 2 tbsp. olive oil  
+* 4 tbsp. + 2 tbsp. Butter  
+* 1 tablespoon cognac  
+* ½ cup white vermouth or white wine  
+* ½ cup chicken broth  
+* 2 chopped shallots (or half of 1 white onion, minced)  
+* Lemon juice to taste  
+* 1-2 tbsp chopped flat-leaf parsley   
 
 </div>
 

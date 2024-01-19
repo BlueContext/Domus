@@ -9,7 +9,7 @@ serves: "Serves 4"
 summary: "This is a weeknight favorite at our house — it comes together quickly, and has a deeply complex flavor. Loaded with all the vegetables you care to add, it’s bright, crunchy, spicy, meaty and amazing."
 categories:
 - All Recipes
-- Salad
+- Salads
 - Beef
 tags:
 - Thai
@@ -21,20 +21,20 @@ This calls for grilling the meat, and grilling it over lump charcoal adds a real
 
 <div class="ingredient-list">
 
-1 large shallot, sliced thin  
-1 Serrano or jalapeno, sliced very thin (optional)  
-3 tbsp lime juice (from two limes)  
-4 tsp (packed) brown sugar   
-1 ½ tsp salt  
-½ tsp white pepper  
-1.5 lbs skirt steak, trimmed and cut into 2 or 3 pieces   
-3 tbsp fish sauce  
-1 tsp (or more) red pepper flakes (or a couple of tsp of Sambal Oelek)  
-1 ½ cups (~7oz) cherry tomatoes, halved  
-1 red or yellow bell pepper, sliced thin and cut in half crosswise  
-3-4 cups sliced romaine lettuce  
-½ cup coarsely chopped fresh cilantro  
-½ cup coarsely chopped fresh mint  
+* 1 large shallot, sliced thin  
+* 1 Serrano or jalapeno, sliced very thin (optional)  
+* 3 tbsp lime juice (from two limes)  
+* 4 tsp (packed) brown sugar   
+* 1 ½ tsp salt  
+* ½ tsp white pepper  
+* 1.5 lbs skirt steak, trimmed and cut into 2 or 3 pieces   
+* 3 tbsp fish sauce  
+* 1 tsp (or more) red pepper flakes (or a couple of tsp of Sambal Oelek)  
+* 1 ½ cups (~7oz) cherry tomatoes, halved  
+* 1 red or yellow bell pepper, sliced thin and cut in half crosswise  
+* 3-4 cups sliced romaine lettuce  
+* ½ cup coarsely chopped fresh cilantro  
+* ½ cup coarsely chopped fresh mint  
 
 </div>
 

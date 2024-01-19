@@ -20,14 +20,14 @@ It’s rich, so you’ll want something tart along with it. A jar of French corn
 
 <div class="ingredient-list">
 
-½ lb. chicken livers  
-½ white onion, thinly sliced  
-1 small clove garlic, smashed and peeled  
-1 bay leaf  
-A pinch of allspice  
-¼ tsp thyme leaves  
-2 tbsp. cognac or brandy  
-1 ½ sticks + 2 tbsp. unsalted butter, room temperature   
+* ½ lb. chicken livers  
+* ½ white onion, thinly sliced  
+* 1 small clove garlic, smashed and peeled  
+* 1 bay leaf  
+* A pinch of allspice  
+* ¼ tsp thyme leaves  
+* 2 tbsp. cognac or brandy  
+* 1 ½ sticks + 2 tbsp. unsalted butter, room temperature   
 
 </div>
 

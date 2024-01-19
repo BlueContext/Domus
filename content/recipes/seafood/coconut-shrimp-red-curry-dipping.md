@@ -20,21 +20,21 @@ tags:
 
 <div class="ingredient-list">
 
-*For the Shrimp*  
-Peanut or vegetable oil, for frying  
-1/4 c cornstarch  
-3 large egg whites  
-Kosher salt and freshly ground black pepper  
-2 c flaked coconut  
-1 1/2 lbs jumbo shrimp, peeled with tails on  
-1 green onion, white and green part, chopped  
-1 handful fresh mint leaves, hand-torn  
-
-*For the Red Curry Dipping Sauce*  
-2 tbsp vegetable oil  
-2 tbsp Thai red curry paste  
-1 c unsweetened coconut milk  
-Juice of 1 large or 2 small limes  
+* #### For the Shrimp:
+  * Peanut or vegetable oil, for frying  
+  * 1/4 c cornstarch  
+  * 3 large egg whites  
+  * Kosher salt and freshly ground black pepper  
+  * 2 c flaked coconut  
+  * 1 1/2 lbs jumbo shrimp, peeled with tails on  
+  * 1 green onion, white and green part, chopped  
+  * 1 handful fresh mint leaves, hand-torn  
+  * 
+* #### For the Red Curry Dipping Sauce:
+  * 2 tbsp vegetable oil  
+  * 2 tbsp Thai red curry paste  
+  * 1 c unsweetened coconut milk  
+  * Juice of 1 large or 2 small limes  
 
 </div>
 

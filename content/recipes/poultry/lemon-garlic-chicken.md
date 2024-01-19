@@ -17,16 +17,16 @@ tags:
 
 <div class="ingredient-list">
 
-¼ c olive oil  
-9 cloves garlic, chopped  
-1/3 c vermouth  
-Grated zest of 2 lemons  
-2 tbsp freshly squeezed lemon juice  
-1 whole lemon (in addition to the lemons used for juice and zest)  
-1 ½ tsp dried oregano  
-1 tsp fresh thyme leaves  
-1 tsp ground coriander  
-4 boneless chicken breasts with skin on, or 6 chicken thighs or drumsticks (or some combination)  
+* ¼ c olive oil  
+* 9 cloves garlic, chopped  
+* 1/3 c vermouth  
+* Grated zest of 2 lemons  
+* 2 tbsp freshly squeezed lemon juice  
+* 1 whole lemon (in addition to the lemons used for juice and zest)  
+* 1 ½ tsp dried oregano  
+* 1 tsp fresh thyme leaves  
+* 1 tsp ground coriander  
+* 4 boneless chicken breasts with skin on, or 6 chicken thighs or drumsticks (or some combination)  
 
 </div>
 

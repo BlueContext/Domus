@@ -21,13 +21,13 @@ You can use tenderized (or 'cubed') steaks for this. I find their texture odd.
 
 <div class="ingredient-list">
 
-3 slices bacon, sliced into match-sticks  
-Peanut oil   
-Bolner's Fiesta Fajita Seasoning (OR black pepper, garlic powder and onion powder)   
-2 lbs bottom round, chuck eye, or blade steaks.  They should be 1/2" thick   
-Flour   
-2-3 yellow onions, sliced   
-2-3 cups beef stock, chicken stock or water   
+* 3 slices bacon, sliced into match-sticks  
+* Peanut oil   
+* Bolner's Fiesta Fajita Seasoning (OR black pepper, garlic powder and onion powder)   
+* 2 lbs bottom round, chuck eye, or blade steaks.  They should be 1/2" thick   
+* Flour   
+* 2-3 yellow onions, sliced   
+* 2-3 cups beef stock, chicken stock or water   
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
-linktitle: Sauces & Dressings
+linktitle: Stocks, Sauces & Dressings
 menu:
   main:
     parent: sauces
   after:
     name: sauces
-    weight: 3
-title: Sauces & Dressings
+    weight: 20
+title: Stocks, Sauces & Dressings
 bookCollapseSection: true
 ---

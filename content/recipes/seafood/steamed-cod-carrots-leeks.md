@@ -19,20 +19,20 @@ tags:
 
 <div class="ingredient-list">
 
-6 tbsp unsalted butter, softened  
-Finely grated zest of 1 large lemon (cut the lemon itself into wedges)  
-2 medium garlic cloves, minced finely  
-1 small shallot, minced finely  
-1 tsp fresh tyme leaves, minced  
-1/2 tsp dried dill (optional)  
-1/2 tsp dried Fines Herbes blend (optional)  
-Salt and freshly cracked black pepper  
-2 tbsp minced fresh parsley leaves  
-3 medium carrots, peeled and cut into matchstick julienne  
-2 medium leeks, white and light green parts, halved, cut into matchstick julienne, and washed thoroughly  
-8 tbsp French dry vermouth  
-4 skinless cod fillets, about 1” thick, about 6 oz each  
-12” wide aluminum foil  
+* 6 tbsp unsalted butter, softened  
+* Finely grated zest of 1 large lemon (cut the lemon itself into wedges)  
+* 2 medium garlic cloves, minced finely  
+* 1 small shallot, minced finely  
+* 1 tsp fresh tyme leaves, minced  
+* 1/2 tsp dried dill (optional)  
+* 1/2 tsp dried Fines Herbes blend (optional)  
+* Salt and freshly cracked black pepper  
+* 2 tbsp minced fresh parsley leaves  
+* 3 medium carrots, peeled and cut into matchstick julienne  
+* 2 medium leeks, white and light green parts, halved, cut into matchstick julienne, and washed thoroughly  
+* 8 tbsp French dry vermouth  
+* 4 skinless cod fillets, about 1” thick, about 6 oz each  
+* 12” wide aluminum foil  
 
 </div>
 

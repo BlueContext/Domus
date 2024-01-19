@@ -16,11 +16,11 @@ categories:
 
 <div class="ingredient-list">
 
-2 lbs green beans, trimmed (haricot vert are very nice here)  
-2 tbsp drained capers  
-1 tbsp fresh lemon juice  
-1 tbsp Dijon mustard (or to taste — I like a bit more)  
-1/2 cup olive oil   
+* 2 lbs green beans, trimmed (haricot vert are very nice here)  
+* 2 tbsp drained capers  
+* 1 tbsp fresh lemon juice  
+* 1 tbsp Dijon mustard (or to taste — I like a bit more)  
+* 1/2 cup olive oil   
 
 </div>
 

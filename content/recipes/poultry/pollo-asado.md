@@ -20,15 +20,15 @@ Here in San Antonio, I can normally find Goya-brand achiote paste at H-E-B, but 
 
 <div class="ingredient-list">
   
-2 lbs boneless, skinless chicken thighs  
-Salt  
-30 g (2 tbsp) Achiote paste  
-1 habanero (or Fresno, or Serrano)   
-2 garlic cloves  
-1/2 red onion  
-Juice from 1/2 orange  
-Juice from 1/2 lime  
-Peanut oil for the pan  
+* 2 lbs boneless, skinless chicken thighs  
+* Salt  
+* 30 g (2 tbsp) Achiote paste  
+* 1 habanero (or Fresno, or Serrano)   
+* 2 garlic cloves  
+* 1/2 red onion  
+* Juice from 1/2 orange  
+* Juice from 1/2 lime  
+* Peanut oil for the pan  
 
 </div>
 

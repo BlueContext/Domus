@@ -21,21 +21,20 @@ This will seem too wet when you’re pouring it into the baking dish, but there�
 
 <div class="ingredient-list">
 
-½ c. Panko bread crumbs
-1 tbsp. butter
-3 c. elbow macaroni
-1 qt. heavy cream
-2 cloves garlic, peeled and crushed
-2 tbsp. Dijon mustard
-3 ½ c. grated Gruyère
-Freshly ground white pepper
-½ c. finely grated Parmigiano-Reggiano
-½ c. grated sharp white cheddar
-A small pinch of nutmeg
-A small pinch of cayenne pepper
-Worcestershire sauce
-Tabasco sauce
-
+* ½ c. Panko bread crumbs
+* 1 tbsp. butter
+* 3 c. elbow macaroni
+* 1 qt. heavy cream
+* 2 cloves garlic, peeled and crushed
+* 2 tbsp. Dijon mustard
+* 3 ½ c. grated Gruyère
+* Freshly ground white pepper
+* ½ c. finely grated Parmigiano-Reggiano
+* ½ c. grated sharp white cheddar
+* A small pinch of nutmeg
+* A small pinch of cayenne pepper
+* Worcestershire sauce
+* Tabasco sauce
 
 </div>
 

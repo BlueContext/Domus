@@ -20,25 +20,25 @@ This recipe makes quite a lot, but the ragu freezes beautifully. I invented this
 
 <div class="ingredient-list">
 
-5 lb bone-in pork shoulder, cut into 2" chunks  
-1 oz dried porcini mushrooms  
-1/2 diced pancetta  
-2 large yellow onions  
-3 medium carrots, peeled and sliced  
-2 stalks celery, sliced  
-3 cloves of garlic  
-Rubbed sage  
-Marjoram  
-Thyme  
-Oregano  
-Ground coriander  
-Ground cloves  
-Crushed red pepper  
-2 tbsp tomato paste  
-2 cups chicken stock  
-1 cup dry white vermouth  
-Orecchiette  
-2-3 tbsp finely minced parsley  
+* 5 lb bone-in pork shoulder, cut into 2" chunks  
+* 1 oz dried porcini mushrooms  
+* 1/2 diced pancetta  
+* 2 large yellow onions  
+* 3 medium carrots, peeled and sliced  
+* 2 stalks celery, sliced  
+* 3 cloves of garlic  
+* Rubbed sage  
+* Marjoram  
+* Thyme  
+* Oregano  
+* Ground coriander  
+* Ground cloves  
+* Crushed red pepper  
+* 2 tbsp tomato paste  
+* 2 cups chicken stock  
+* 1 cup dry white vermouth  
+* Orecchiette  
+* 2-3 tbsp finely minced parsley  
 
 </div>
 

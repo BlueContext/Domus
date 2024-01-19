@@ -19,14 +19,14 @@ tags:
 
 <div class="ingredient-list">
 
-1 pint grape or cherry tomatoes, halved  
-Kosher salt and ground black pepper  
-4 ears sweet corn, kernels cut off, cobs reserved separately    
-4 tbsp salted butter, divided  
-2 medium shallots, minced  
-1 red jalapeno or Fresno chili, stemmed, seeded and minced  
-12 oz campanelle or other short pasta  
-1 cup chopped fresh basil  
+* 1 pint grape or cherry tomatoes, halved  
+* Kosher salt and ground black pepper  
+* 4 ears sweet corn, kernels cut off, cobs reserved separately    
+* 4 tbsp salted butter, divided  
+* 2 medium shallots, minced  
+* 1 red jalapeno or Fresno chili, stemmed, seeded and minced  
+* 12 oz campanelle or other short pasta  
+* 1 cup chopped fresh basil  
 
 </div>
 

@@ -17,18 +17,18 @@ tags:
 
 <div class="ingredient-list">
 
-6 bone-in chicken thighs  
-1 lbs Yukon Gold potatoes, 2-3" in diameter, halved crosswise   
-Olive oil  
-14 garlic cloves, peeled (2 whole, 12 halved lengthwise)  
-1 tbsp lemon juice  
-1 1/2 tsp dried oregano  
-1/2 tsp dried thyme  
-1 1/2 cup dry white wine or dry vermouth  
-2 tbsp minced parsley    
-  
-*Equipment:*   
-A roasting pan or a very large skillet — you need to be able to arrange the chicken pieces and potatoes without them touching each other. If you use a roasting pan, use two burners and move the food around as you cook it to compensate for the uneven heat.
+* 6 bone-in chicken thighs  
+* 1 lbs Yukon Gold potatoes, 2-3" in diameter, halved crosswise   
+* Olive oil  
+* 14 garlic cloves, peeled (2 whole, 12 halved lengthwise)  
+* 1 tbsp lemon juice  
+* 1 1/2 tsp dried oregano  
+* 1/2 tsp dried thyme  
+* 1 1/2 cup dry white wine or dry vermouth  
+* 2 tbsp minced parsley    
+*   
+* #### Equipment:*   
+  * A roasting pan or a very large skillet — you need to be able to arrange the chicken pieces and potatoes without them touching each other. If you use a roasting pan, use two burners and move the food around as you cook it to compensate for the uneven heat.
 
 </div>
 

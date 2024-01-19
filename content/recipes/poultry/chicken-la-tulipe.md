@@ -19,13 +19,13 @@ tags:
 
 <div class="ingredient-list">
   
-1 1/2 ounce dried morels  
-4 tbsp Cognac  
-2 tbsp butter, divided  
-1 1/4 cup cream  
-1 whole chicken (on the small side, 3 1/2 lbs), neck and giblets removed  
-Cayenne pepper  
-1/4 cup dry white wine or dry vermouth  
+* 1 1/2 ounce dried morels  
+* 4 tbsp Cognac  
+* 2 tbsp butter, divided  
+* 1 1/4 cup cream  
+* 1 whole chicken (on the small side, 3 1/2 lbs), neck and giblets removed  
+* Cayenne pepper  
+* 1/4 cup dry white wine or dry vermouth  
 
 </div>
 

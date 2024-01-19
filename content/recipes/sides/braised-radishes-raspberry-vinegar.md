@@ -17,12 +17,12 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb trimmed radishes, rinsed and dried  
-2 1/2 tbsp sugar  
-1/3 cup raspberry vinegar  
-1 tbsp butter  
-1/2 tsp salt  
-1 tbsp minced fresh parsley or chives  
+* 1 lb trimmed radishes, rinsed and dried  
+* 2 1/2 tbsp sugar  
+* 1/3 cup raspberry vinegar  
+* 1 tbsp butter  
+* 1/2 tsp salt  
+* 1 tbsp minced fresh parsley or chives  
 
 </div>
 

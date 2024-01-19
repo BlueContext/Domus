@@ -20,13 +20,13 @@ The novice cook could do worse than to master a hearty basic recipe that can ser
 
 <div class="ingredient-list">
 
-4 cups diced peeled potatoes (about 1 lb. whole potatoes)*  
-3 cups thinly sliced leeks (about 1 lb. whole leeks)** or yellow onions  
-2 quarts chicken stock or water***  
-1 tbsp. kosher salt  
-½ cup heavy cream  
-2 tbsp. butter (room temperature)  
-Chopped parsley or minced chives  
+* 4 cups diced peeled potatoes (about 1 lb. whole potatoes)*  
+* 3 cups thinly sliced leeks (about 1 lb. whole leeks)** or yellow onions  
+* 2 quarts chicken stock or water***  
+* 1 tbsp. kosher salt  
+* ½ cup heavy cream  
+* 2 tbsp. butter (room temperature)  
+* Chopped parsley or minced chives  
 
 </div>
 

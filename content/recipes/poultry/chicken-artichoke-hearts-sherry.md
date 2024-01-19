@@ -20,14 +20,14 @@ You should be able to find an Oloroso sherry at a good liquor store, and it’s 
 
 <div class="ingredient-list">
   
-1 lb boneless, skinless chicken breasts, cut into 1 1/2-inch pieces  
-1/2 cup flour  
-2 tbsp olive oil  
-3 cloves garlic, peeled and crushed  
-1 14-ounce can artichoke hearts (10-14 pieces)  
-3/4 cup Oloroso-style sherry  
-1 stick butter, cut into pieces  
-1-2 tbsp chopped parsley  
+* 1 lb boneless, skinless chicken breasts, cut into 1 1/2-inch pieces  
+* 1/2 cup flour  
+* 2 tbsp olive oil  
+* 3 cloves garlic, peeled and crushed  
+* 1 14-ounce can artichoke hearts (10-14 pieces)  
+* 3/4 cup Oloroso-style sherry  
+* 1 stick butter, cut into pieces  
+* 1-2 tbsp chopped parsley  
 
 </div>
 

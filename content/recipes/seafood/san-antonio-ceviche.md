@@ -21,17 +21,17 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb medium Gulf shrimp, peeled and deveined  
-3/4 lb sea scallops (good quality bay scallops will serve as well)  
-2/3 cup freshly squeezed lime juice  
-1 large tomato, chopped  
-1 small yellow onion, chopped finely  
-1 jalapeño, seeded and minced  
-2 tbsp cilantro, chopped  
-1 tbsp ketchup  
-Tabasco sauce to taste  
-Lettuce leaves and sliced avocado for garnish  
-Tortilla chips for serving   
+* 1 lb medium Gulf shrimp, peeled and deveined  
+* 3/4 lb sea scallops (good quality bay scallops will serve as well)  
+* 2/3 cup freshly squeezed lime juice  
+* 1 large tomato, chopped  
+* 1 small yellow onion, chopped finely  
+* 1 jalapeño, seeded and minced  
+* 2 tbsp cilantro, chopped  
+* 1 tbsp ketchup  
+* Tabasco sauce to taste  
+* Lettuce leaves and sliced avocado for garnish  
+* Tortilla chips for serving   
 
 </div>
 

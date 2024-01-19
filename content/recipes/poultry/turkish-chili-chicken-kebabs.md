@@ -20,17 +20,17 @@ Aleppo pepper is a spice you can easily find online, and it's well work keeping 
 
 <div class="ingredient-list">
   
-1/2 cup drained roasted red peppers, patted try  
-6 medium garlic cloves, smashed  
-2 Fresno or red jalapeno peppers  
-1/4 cup olive oil  
-2 tbsp dried mint  
-2 tbsp Aleppo pepper  
-1 tbsp honey  
-1 tbsp tomato paste  
-1 1/2 tbsp lemon juice (from 1 lemon)  
-2 lbs boneless, skinless chicken thighs, trimmed and cut crosswise into 1” strips  
-3 tbsp chopped fresh mint  
+* 1/2 cup drained roasted red peppers, patted try  
+* 6 medium garlic cloves, smashed  
+* 2 Fresno or red jalapeno peppers  
+* 1/4 cup olive oil  
+* 2 tbsp dried mint  
+* 2 tbsp Aleppo pepper  
+* 1 tbsp honey  
+* 1 tbsp tomato paste  
+* 1 1/2 tbsp lemon juice (from 1 lemon)  
+* 2 lbs boneless, skinless chicken thighs, trimmed and cut crosswise into 1” strips  
+* 3 tbsp chopped fresh mint  
 
 </div>
 

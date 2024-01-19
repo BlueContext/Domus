@@ -19,17 +19,17 @@ Harissa can sometimes be found at the grocery store, but it’s easily found onl
 
 <div class="ingredient-list">
 
-1 tbsp. coriander seeds  
-1 tbsp. cumin seeds  
-2 tbsp. vegetable oil   
-2 eggplants (1 lb. each)  
-6 tbsp. olive oil  
-1/4 cup harissa paste  
-1/4 cup cider vinegar  
-3 tbsp. honey  
-1 medium garlic clove, grated finely  
-1/4 cup finely chopped fresh mint  
-3 tbsp finely chopped fresh dill, divided  
+* 1 tbsp. coriander seeds  
+* 1 tbsp. cumin seeds  
+* 2 tbsp. vegetable oil   
+* 2 eggplants (1 lb. each)  
+* 6 tbsp. olive oil  
+* 1/4 cup harissa paste  
+* 1/4 cup cider vinegar  
+* 3 tbsp. honey  
+* 1 medium garlic clove, grated finely  
+* 1/4 cup finely chopped fresh mint  
+* 3 tbsp finely chopped fresh dill, divided  
 
 </div>
 

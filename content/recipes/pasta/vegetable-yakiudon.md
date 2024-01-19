@@ -25,27 +25,26 @@ Frozen udon and ramen noodles are worth dedicating some freezer space to, as the
 
 2 packages frozen Udon noodles  
 
-*For the sauce:*  
-1 tablespoon oyster sauce (or vegetarian oyster sauce)  
-1 tablespoon soy sauce  
-1 teaspoon Shaoxing wine (or dry sherry)  
-1 teaspoon sugar  
-/home/kbaker/source/repos/Domus/content/recipes/lamb1 teaspoon sesame oil  
-1 teaspoon Sambal Olek or chili-garlic sauce  
-  
-*For the stir-fry:*  
-2 tablespoons peanut oil (or vegetable oil)  
-2 cloves garlic, minced  
-3 tbsp minced ginger  
-2 scallions, minced  
-1/2 onion, diced  
-1 bell pepper, sliced  
-Handful of haricot vert, cut into 1" lengths (optional)  
-1 Jalapeno, seeded and cut into matchsticks  
-1/2 cup carrot, cut into matchsticks  
-1/2 cup snow peas, sliced      
-1 can (5 oz) water chestnuts, sliced   
-
+* #### For the sauce:
+  * 1 tablespoon oyster sauce (or vegetarian oyster sauce)  
+  * 1 tablespoon soy sauce  
+  * 1 teaspoon Shaoxing wine (or dry sherry)  
+  * 1 teaspoon sugar  
+  * /home/kbaker/source/repos/Domus/content/recipes/lamb1 teaspoon sesame oil  
+  * 1 teaspoon Sambal Olek or chili-garlic sauce  
+  *   
+* #### For the stir-fry:
+  * 2 tablespoons peanut oil (or vegetable oil)  
+  * 2 cloves garlic, minced  
+  * 3 tbsp minced ginger  
+  * 2 scallions, minced  
+  * 1/2 onion, diced  
+  * 1 bell pepper, sliced  
+  * Handful of haricot vert, cut into 1" lengths (optional)  
+  * 1 Jalapeno, seeded and cut into matchsticks  
+  * 1/2 cup carrot, cut into matchsticks  
+  * 1/2 cup snow peas, sliced      
+  * 1 can (5 oz) water chestnuts, sliced   
 
 </div>
 

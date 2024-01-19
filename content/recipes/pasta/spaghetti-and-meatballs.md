@@ -21,37 +21,36 @@ tags:
 
 <div class="ingredient-list">
 
-*For the meatballs:*
-2/3 pound ground veal  
-2/3 pound ground pork  
-2/3 pound ground beef  
-1 cup fresh white bread crumbs (4 slices, crusts removed)  
-1/4 cup seasoned dry bread crumbs  
-2 tablespoons chopped fresh flat-leaf parsley  
-1/2 cup freshly grated Parmesan cheese  
-2 teaspoons kosher salt  
-1/2 teaspoon freshly ground black pepper  
-1/4 teaspoon ground nutmeg  
-1 extra-large egg, beaten  
-3/4 c warm water  
-Vegetable oil  
-Olive oil  
-  
-*For the sauce:*  
-1 tablespoon good olive oil  
-1 cup chopped yellow onion (1 onion)  
-1 1/2 teaspoons minced garlic  
-1 cup Chianti  
-1 (28-ounce) can crushed tomatoes, or plum tomatoes in puree, chopped  
-1 tablespoon chopped fresh flat-leaf parsley  
-½ tablespoon chopped fresh oregano or basil  
-1 1/2 teaspoons kosher salt  
-1/2 teaspoon freshly ground black pepper  
-  
-*For serving:*  
-1 1/2 lbs spaghetti, cooked  
-Freshly grated Parmesan  
-
+* #### For the meatballs:
+  * 2/3 pound ground veal  
+  * 2/3 pound ground pork  
+  * 2/3 pound ground beef  
+  * 1 cup fresh white bread crumbs (4 slices, crusts removed)  
+  * 1/4 cup seasoned dry bread crumbs  
+  * 2 tablespoons chopped fresh flat-leaf parsley  
+  * 1/2 cup freshly grated Parmesan cheese  
+  * 2 teaspoons kosher salt  
+  * 1/2 teaspoon freshly ground black pepper  
+  * 1/4 teaspoon ground nutmeg  
+  * 1 extra-large egg, beaten  
+  * 3/4 c warm water  
+  * Vegetable oil  
+  * Olive oil  
+  *   
+* #### For the sauce:  
+  * 1 tablespoon good olive oil  
+  * 1 cup chopped yellow onion (1 onion)  
+  * 1 1/2 teaspoons minced garlic  
+  * 1 cup Chianti  
+  * 1 (28-ounce) can crushed tomatoes, or plum tomatoes in puree, chopped  
+  * 1 tablespoon chopped fresh flat-leaf parsley  
+  * ½ tablespoon chopped fresh oregano or basil  
+  * 1 1/2 teaspoons kosher salt  
+  * 1/2 teaspoon freshly ground black pepper  
+  *   
+* #### For serving: 
+  * 1 1/2 lbs spaghetti, cooked  
+  * Freshly grated Parmesan  
 
 </div>
 

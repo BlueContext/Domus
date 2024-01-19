@@ -19,19 +19,19 @@ As ever, don't be afraid of the fish sauce here -- it's essential, and delicious
 
 <div class="ingredient-list">
 
-1 lb ground pork  
-6-8 scallions, whites minced, greens sliced  
-1 large egg white  
-3 tbsp fish sauce  
-4 tsp grated ginger   
-White pepper  
-2 tbsp vegetable oil  
-1 medium onion, chopped  
-4 cloves garlic, thinly sliced  
-2 quarts chicken stock (two 32 oz boxes)  
-1-2 bunches watercress, chopped into 1.5” lengths (4 cups)  
-Juice of 2-3 limes  
-Thin slices of a red chili, optional and to taste  
+* 1 lb ground pork  
+* 6-8 scallions, whites minced, greens sliced  
+* 1 large egg white  
+* 3 tbsp fish sauce  
+* 4 tsp grated ginger   
+* White pepper  
+* 2 tbsp vegetable oil  
+* 1 medium onion, chopped  
+* 4 cloves garlic, thinly sliced  
+* 2 quarts chicken stock (two 32 oz boxes)  
+* 1-2 bunches watercress, chopped into 1.5” lengths (4 cups)  
+* Juice of 2-3 limes  
+* Thin slices of a red chili, optional and to taste  
 
 </div>
 

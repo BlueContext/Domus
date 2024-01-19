@@ -21,12 +21,12 @@ You’ll need a new cutter to shape these correctly — it needs to be nice and 
 
 <div class="ingredient-list">
 
-1 stick (1/2 c) + 1/4 stick butter, softened  
-1 tsp lemon juice  
-1 tbsp shallot  
-1/2 c packed parsley leaves  
-1/2 lb thinly sliced prosciutto  
-16 sliced very thin bread  
+* 1 stick (1/2 c) + 1/4 stick butter, softened  
+* 1 tsp lemon juice  
+* 1 tbsp shallot  
+* 1/2 c packed parsley leaves  
+* 1/2 lb thinly sliced prosciutto  
+* 16 sliced very thin bread  
 
 </div>
 

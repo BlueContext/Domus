@@ -19,15 +19,15 @@ Peppadew is a specific brand of sweet and spicy pickled peppers from South Afric
 
 <div class="ingredient-list">
 
-2 tsp. ground fennel seed   
-Kosher salt, black pepper   
-1 lb skirt or flank steak, trimmed   
-7 tbsp olive oil   
-3 tbsp fresh lemon juice   
-1/3 drained and chopped Peppadew peppers (or sweet pepperoncini)   
-1 large clove garlic, thinly sliced   
-8 oz. baby arugula   
-1.5 oz parmesan, shaved (about 1/2 cup)   
+* 2 tsp. ground fennel seed   
+* Kosher salt, black pepper   
+* 1 lb skirt or flank steak, trimmed   
+* 7 tbsp olive oil   
+* 3 tbsp fresh lemon juice   
+* 1/3 drained and chopped Peppadew peppers (or sweet pepperoncini)   
+* 1 large clove garlic, thinly sliced   
+* 8 oz. baby arugula   
+* 1.5 oz parmesan, shaved (about 1/2 cup)   
 
 </div>
 

@@ -17,14 +17,14 @@ tags:
 
 <div class="ingredient-list">
 
-1 cup stone-ground cornmeal (Lamb’s is best)  
-3 cups milk  
-1 tsp salt  
-1 tsp sugar  
-1/4 tsp cayenne pepper (or to taste)  
-1 tbsp butter, melted, plus extra for greasing the pan  
-4 egg yolks, beaten  
-4 egg whites, whipped to stiff peaks  
+* 1 cup stone-ground cornmeal (Lamb’s is best)  
+* 3 cups milk  
+* 1 tsp salt  
+* 1 tsp sugar  
+* 1/4 tsp cayenne pepper (or to taste)  
+* 1 tbsp butter, melted, plus extra for greasing the pan  
+* 4 egg yolks, beaten  
+* 4 egg whites, whipped to stiff peaks  
 
 </div>
 

@@ -22,20 +22,20 @@ If you can reserve some of the fennel fronds, mince them to use as a garnish on 
 
 <div class="ingredient-list">
 
-4 meaty veal shanks (1 1/2 - 2 inches thick)  
-Flour for dredging  
-Olive oil  
-1 large or 2 small onions, sliced thin  
-2-3 carrots, peeled and sliced  
-1 large or 2 small fennel bulbs, sliced  
-1 cup dry white wine or dry vermouth  
-2 cups good veal stock or chicken stock  
-1 cup canned peeled San Marzano tomatoes  
-2 cloves garlic, smashed  
-1 tsp dried basil  
-1/2 tsp dried fines herbes (optional)  
-Zest of one naval orange  
-Zest of one lemon  
+* 4 meaty veal shanks (1 1/2 - 2 inches thick)  
+* Flour for dredging  
+* Olive oil  
+* 1 large or 2 small onions, sliced thin  
+* 2-3 carrots, peeled and sliced  
+* 1 large or 2 small fennel bulbs, sliced  
+* 1 cup dry white wine or dry vermouth  
+* 2 cups good veal stock or chicken stock  
+* 1 cup canned peeled San Marzano tomatoes  
+* 2 cloves garlic, smashed  
+* 1 tsp dried basil  
+* 1/2 tsp dried fines herbes (optional)  
+* Zest of one naval orange  
+* Zest of one lemon  
 
 </div>
 

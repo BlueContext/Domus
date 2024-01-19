@@ -18,24 +18,25 @@ tags:
 
 <div class="ingredient-list">
 
-1 tri-tip roast
-  
-#### For Marinade:
-1/4 cup olive oil  
-4 tbsp lime juice  
-2 tsp cumin  
-2 tsp Worcestershire sauce  
-2 tsp onion powder  
-2 tsp chili powder  
-2 tsp paprika  
-1 tsp oregano  
-1/2 tsp garlic powder  
-2 tsp salt  
-1 tsp black pepper  
-  
-#### For Tacos: 
-Corn or flour tortillas  
-Fresh salsa, and/or pico de gallo, as you like  
+* #### The Beef:
+  * 1 tri-tip roast
+  *   
+* #### For Marinade:
+  * 1/4 cup olive oil  
+  * 4 tbsp lime juice  
+  * 2 tsp cumin  
+  * 2 tsp Worcestershire sauce  
+  * 2 tsp onion powder  
+  * 2 tsp chili powder  
+  * 2 tsp paprika  
+  * 1 tsp oregano  
+  * 1/2 tsp garlic powder  
+  * 2 tsp salt  
+  * 1 tsp black pepper  
+  *   
+* #### For Tacos: 
+  * Corn or flour tortillas  
+  * Fresh salsa, and/or pico de gallo, as you like  
 
 </div>
 

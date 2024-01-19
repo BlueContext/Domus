@@ -17,12 +17,12 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb. fresh tagliatelle
-1 1/2 cups frozen peas
-1 stick butter
-6 oz prosciutto, thinly sliced (about 12 slices)
-16 fresh sage leaves
-About a cup of finely grated Parmesan, plus more for serving
+* 1 lb. fresh tagliatelle
+* 1 1/2 cups frozen peas
+* 1 stick butter
+* 6 oz prosciutto, thinly sliced (about 12 slices)
+* 16 fresh sage leaves
+* About a cup of finely grated Parmesan, plus more for serving
 
 </div>
 

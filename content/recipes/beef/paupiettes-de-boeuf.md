@@ -19,31 +19,32 @@ The meat counter at my grocery store sometimes has beef cut specifically for “
 
 <div class="ingredient-list">
 
-4 slices top round of beef, 10-12” by 6-7” and 3/8” thick  
-Salt and pepper  
-1/2 tsp thyme or oregano  
-  
-*For the stuffing:*  
-1 1/2 cups finely chopped onions  
-1 tsp mixture of ground thyme, bay leaf and oregano OR mixed herbs such as Provençal or Italian  
-Olive oil  
-1 1/2 cups diced red and green bell peppers  
-3 slices rye bread  
-5 tbsp Dijon mustard  
-3 cloves of garlic, smashed and minced  
-1 egg, lightly beaten  
-  
-*For braising:*  
-1 medium onion, sliced  
-1 medium carrot, sliced  
-1 1/2 cup dry white wine or dry vermouth  
-1 1/2 cup beef stock  
-  
-*For serving:*  
-1 tbsp cornstarch   
-2 tbsp white wine or dry vermouth  
-2 tbsp soft butter  
-1 tbsp minced parsley   
+* #### For the Beef:
+  * 4 slices top round of beef, 10-12” by 6-7” and 3/8” thick  
+  * Salt and pepper  
+  * 1/2 tsp thyme or oregano  
+  *   
+* #### For the Stuffing:
+  * 1 1/2 cups finely chopped onions  
+  * 1 tsp mixture of ground thyme, bay leaf and oregano OR mixed herbs such as Provençal or Italian  
+  * Olive oil  
+  * 1 1/2 cups diced red and green bell peppers  
+  * 3 slices rye bread  
+  * 5 tbsp Dijon mustard  
+  * 3 cloves of garlic, smashed and minced  
+  * 1 egg, lightly beaten  
+  *   
+* #### For Braising:  
+  * 1 medium onion, sliced  
+  * 1 medium carrot, sliced  
+  * 1 1/2 cup dry white wine or dry vermouth  
+  * 1 1/2 cup beef stock  
+  *   
+* #### For Serving:
+  * 1 tbsp cornstarch   
+  * 2 tbsp white wine or dry vermouth  
+  * 2 tbsp soft butter  
+  * 1 tbsp minced parsley   
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
-linktitle: Breakfast
+linktitle: Breakfast & Brunch
 menu:
   main:
     parent: breakfast
   after:
     name: breakfast
-    weight: 13
-title: Breakfast
+    weight: 14
+title: Breakfast & Brunch
 bookCollapseSection: true
 ---

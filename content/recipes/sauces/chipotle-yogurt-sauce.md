@@ -17,14 +17,14 @@ tags:
 
 <div class="ingredient-list">
 
-3 cloves garlic  
-2-3 tbsp chipotle en adobo  
-1 tsp ground cumin  
-1 tsp ground coriander  
-1 tsp smoked paprika   
-1/2 tsp salt  
-1 cup Greek yogurt  
-1/4 cup mayonnaise  
+* 3 cloves garlic  
+* 2-3 tbsp chipotle en adobo  
+* 1 tsp ground cumin  
+* 1 tsp ground coriander  
+* 1 tsp smoked paprika   
+* 1/2 tsp salt  
+* 1 cup Greek yogurt  
+* 1/4 cup mayonnaise  
 
 </div>
 

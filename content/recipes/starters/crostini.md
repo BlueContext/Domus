@@ -17,9 +17,9 @@ tags:
 
 <div class="ingredient-list">
 
-1 baguette, sliced 1/3” – 1/2” on the diagonal (use a serrated bread knife)  
-Olive oil  
-Kosher salt or coarse sea salt  
+* 1 baguette, sliced 1/3” – 1/2” on the diagonal (use a serrated bread knife)  
+* Olive oil  
+* Kosher salt or coarse sea salt  
 
 </div>
 

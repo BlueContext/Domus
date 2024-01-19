@@ -19,19 +19,19 @@ tags:
 
 <div class="ingredient-list">
 
-1 1/2 lbs medium Yukon Gold potatoes  
-1 1/2 lbs medium sweet potatoes  
-2 cups heavy cream  
-1/4 cup butter  
-2 garlic cloves, minced  
-1 tbsp minced fresh parsley  
-1 tbsp minced fresh rosemary  
-1 tbsp minced fresh sage  
-1 tbsp minced fresh thyme  
-1 1/2 tsp salt  
-3/4 tsp freshly ground black pepper  
-1 1/4 cup (5 ounces) grated Gruyere cheese  
-1/3 cup grated Parmeggiano Regiano (optional)  
+* 1 1/2 lbs medium Yukon Gold potatoes  
+* 1 1/2 lbs medium sweet potatoes  
+* 2 cups heavy cream  
+* 1/4 cup butter  
+* 2 garlic cloves, minced  
+* 1 tbsp minced fresh parsley  
+* 1 tbsp minced fresh rosemary  
+* 1 tbsp minced fresh sage  
+* 1 tbsp minced fresh thyme  
+* 1 1/2 tsp salt  
+* 3/4 tsp freshly ground black pepper  
+* 1 1/4 cup (5 ounces) grated Gruyere cheese  
+* 1/3 cup grated Parmeggiano Regiano (optional)  
 
 </div>
 

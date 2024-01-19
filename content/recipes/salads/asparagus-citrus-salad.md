@@ -18,10 +18,10 @@ tags:
 
 <div class="ingredient-list">
 
-3/4 lb fresh asparagus, cleaned and tough ends removed  
-1/4 cup olive oil  
-1/4 cup freshly squeezed orange juice  
-1 medium orange, peeled and cut into supremes  
+* 3/4 lb fresh asparagus, cleaned and tough ends removed  
+* 1/4 cup olive oil  
+* 1/4 cup freshly squeezed orange juice  
+* 1 medium orange, peeled and cut into supremes  
 
 </div>
 

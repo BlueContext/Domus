@@ -20,10 +20,10 @@ This recipe can easily be halved for four people.
 
 <div class="ingredient-list">
 
-2 lbs Yukon Gold or Yellow Finn potatoes, scrubbed clean but unpeeled  
-Kosher salt to taste  
-1/4 cup milk, hot  
-1 lb. Butter, cubed and chilled  
+* 2 lbs Yukon Gold or Yellow Finn potatoes, scrubbed clean but unpeeled  
+* Kosher salt to taste  
+* 1/4 cup milk, hot  
+* 1 lb. Butter, cubed and chilled  
 
 </div>
 

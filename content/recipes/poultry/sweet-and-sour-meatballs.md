@@ -17,33 +17,33 @@ tags:
 
 <div class="ingredient-list">
   
-For Meatballs:  
-1 lb (450 g) ground chicken  
-2 tablespoons Shaoxing wine (or dry sherry)  
-2 teaspoons soy sauce   
-1/2 teaspoon brown sugar   
-1/4 teaspoon white pepper  
-1/4 yellow onion , minced  
-1/2 carrot , minced  
-2 garlic , minced  
-1 egg  
-1 cup panko breadcrumbs (or regular breadcrumbs)  
-  
-For Stir-Fry:  
-1 tablespoon vegetable oil  
-1/4 yellow onion , chopped  
-1 red or yellow pepper , chopped (I used half red and half yellow pepper but you can use either)  
-2 carrots, peeled and cut into small wedges (Japanese "turn" cut)  
-  
-For Sauce:  
-3 tablespoons sriracha and/or chili garlic sauce  
-3 tablespoons rice vinegar   
-2 tablespoons Shaoxing wine (or dry sherry)   
-2 tablespoons soy sauce   
-3 tablespoons brown sugar   
-4 tablespoons water  
-1 clove garlic , grated  
-2 teaspoons cornstarch  
+* #### For Meatballs:  
+  * 1 lb (450 g) ground chicken  
+  * 2 tablespoons Shaoxing wine (or dry sherry)  
+  * 2 teaspoons soy sauce   
+  * 1/2 teaspoon brown sugar   
+  * 1/4 teaspoon white pepper  
+  * 1/4 yellow onion , minced  
+  * 1/2 carrot , minced  
+  * 2 garlic , minced  
+  * 1 egg  
+  * 1 cup panko breadcrumbs (or regular breadcrumbs)  
+  *   
+* #### For Stir-Fry:  
+  * 1 tablespoon vegetable oil  
+  * 1/4 yellow onion , chopped  
+  * 1 red or yellow pepper , chopped (I used half red and half yellow pepper but you can use either)  
+  * 2 carrots, peeled and cut into small wedges (Japanese "turn" cut)  
+  *   
+* #### For Sauce:  
+  * 3 tablespoons sriracha and/or chili garlic sauce  
+  * 3 tablespoons rice vinegar   
+  * 2 tablespoons Shaoxing wine (or dry sherry)   
+  * 2 tablespoons soy sauce   
+  * 3 tablespoons brown sugar   
+  * 4 tablespoons water  
+  * 1 clove garlic , grated  
+  * 2 teaspoons cornstarch  
 
 </div>
 

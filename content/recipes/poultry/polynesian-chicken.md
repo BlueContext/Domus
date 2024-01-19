@@ -22,42 +22,42 @@ And of course, you can vary the stir-fry to suit your tastes. Serve family-style
 
 <div class="ingredient-list">
   
-*For the chicken:*  
-1 boneless chicken breast or 2 chicken breast cutlets (thin)  
-1/8 tsp white pepper  
-1/8 tsp onion powder  
-1/8 tsp garlic powder  
-  
-^For the batter:*   
-1/2 cup flour  
-1/4 tsp baking powder  
-1/8 tsp salt  
-1/8 tsp paprika   
-1/8 tsp turmeric  
-1/2 cold club soda  
-  
-*For the rest:* 
-Oil for frying  
-2 cloves garlic, minced  
-1/2 cup shiitake mushrooms, sliced  
-1/4 cup bamboo shoots, julienned  
-1 jalapeño or Fresno chili, julienned  
-1/2 cup red bell pepper, julienned  
-1 tbsp Shaoxing wine or dry sherry  
-4 cups napa cabbage, shredded  
-1 tbsp soy sauce  
-1 tsp dark soy sauce  
-1/4 tsp salt  
-1 tsp sugar  
-1/2 tsp sesame oil  
-1 tsp oyster sauce  
-1 tbsp rice vinegar  
-1 tbsp Sriracha  
-White pepper to taste  
-1 cup snow peas, ends trimmed and cut in half lengthwise  
-3/4 cup hot chicken stock  
-1 tbsp cornstarch mixed with 1 tbsp water  
-White rice to serve  
+* #### For the chicken:
+  * 1 boneless chicken breast or 2 chicken breast cutlets (thin)  
+  * 1/8 tsp white pepper  
+  * 1/8 tsp onion powder  
+  * 1/8 tsp garlic powder  
+  *   
+* #### For the batter:
+  * 1/2 cup flour  
+  * 1/4 tsp baking powder  
+  * 1/8 tsp salt  
+  * 1/8 tsp paprika   
+  * 1/8 tsp turmeric  
+  * 1/2 cold club soda  
+  *   
+* #### For the rest:
+  * Oil for frying  
+  * 2 cloves garlic, minced  
+  * 1/2 cup shiitake mushrooms, sliced  
+  * 1/4 cup bamboo shoots, julienned  
+  * 1 jalapeño or Fresno chili, julienned  
+  * 1/2 cup red bell pepper, julienned  
+  * 1 tbsp Shaoxing wine or dry sherry  
+  * 4 cups napa cabbage, shredded  
+  * 1 tbsp soy sauce  
+  * 1 tsp dark soy sauce  
+  * 1/4 tsp salt  
+  * 1 tsp sugar  
+  * 1/2 tsp sesame oil  
+  * 1 tsp oyster sauce  
+  * 1 tbsp rice vinegar  
+  * 1 tbsp Sriracha  
+  * White pepper to taste  
+  * 1 cup snow peas, ends trimmed and cut in half lengthwise  
+  * 3/4 cup hot chicken stock  
+  * 1 tbsp cornstarch mixed with 1 tbsp water  
+  * White rice to serve  
 
 </div>
 

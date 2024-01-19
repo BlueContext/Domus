@@ -19,17 +19,17 @@ tags:
 
 <div class="ingredient-list">
 
-2 tablespoons unsalted butter  
-2 pounds green beans, trimmed and cut into 2 to 3 inch pieces  
-Salt, to taste  
-6 slices bacon  
-2 shallots, finely chopped (about 1/2 cup)  
-½ pound mushrooms, sliced  
-1 cup crème fraîche  
-⅓ cup heavy cream  
-6 ounces Gruyère, shredded (1 1/2 cups)  
-2 teaspoons chopped fresh marjoram or 1 teaspoon fresh thyme leaves (optional)  
-½ cup bread crumbs (or crumbled Ritz crackers)  
+* 2 tablespoons unsalted butter  
+* 2 pounds green beans, trimmed and cut into 2 to 3 inch pieces  
+* Salt, to taste  
+* 6 slices bacon  
+* 2 shallots, finely chopped (about 1/2 cup)  
+* ½ pound mushrooms, sliced  
+* 1 cup crème fraîche  
+* ⅓ cup heavy cream  
+* 6 ounces Gruyère, shredded (1 1/2 cups)  
+* 2 teaspoons chopped fresh marjoram or 1 teaspoon fresh thyme leaves (optional)  
+* ½ cup bread crumbs (or crumbled Ritz crackers)  
 
 </div>
 

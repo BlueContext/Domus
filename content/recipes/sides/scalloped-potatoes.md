@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-3 tbsp butter  
-1/4 cup flour  
-2 cups chicken stock  
-Ground nutmeg  
-Ground cayenne pepper  
-1 1/2 cups coarsely grated extra-sharp cheddar cheese  
-2 lbs boiling potatoes (such as Yukon Gold), peeled and sliced 1/8 inch thick  
-1/2 cup panko bread crumbs  
+* 3 tbsp butter  
+* 1/4 cup flour  
+* 2 cups chicken stock  
+* Ground nutmeg  
+* Ground cayenne pepper  
+* 1 1/2 cups coarsely grated extra-sharp cheddar cheese  
+* 2 lbs boiling potatoes (such as Yukon Gold), peeled and sliced 1/8 inch thick  
+* 1/2 cup panko bread crumbs  
 
 </div>
 

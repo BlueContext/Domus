@@ -19,18 +19,18 @@ tags:
 
 <div class="ingredient-list">
 
-50 medium oysters, shucked (about 1 1/2 lbs) with 1 cup of the liquor reserved  
-12 tbsp butter  
-3-4 tbsp flour  (depending on how thick you'd like your soup)  
-4 ribs celery, finely chopped  
-4 cloves garlic, finely minced  
-1 large onion, finely chopped  
-1/2 c. parsley, chopped  
-1 tbsp Kosher salt  
-1 1/2 tsp. freshly ground black pepper  
-1/4 tsp. cayenne  
-2 c. whole milk  
-2 c. heavy cream  
+* 50 medium oysters, shucked (about 1 1/2 lbs) with 1 cup of the liquor reserved  
+* 12 tbsp butter  
+* 3-4 tbsp flour  (depending on how thick you'd like your soup)  
+* 4 ribs celery, finely chopped  
+* 4 cloves garlic, finely minced  
+* 1 large onion, finely chopped  
+* 1/2 c. parsley, chopped  
+* 1 tbsp Kosher salt  
+* 1 1/2 tsp. freshly ground black pepper  
+* 1/4 tsp. cayenne  
+* 2 c. whole milk  
+* 2 c. heavy cream  
 
 </div>
 

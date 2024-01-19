@@ -19,10 +19,10 @@ You could omit the brown sugar and tuck a couple of needles of rosemary under ea
 
 <div class="ingredient-list">
 
-12 slices bacon (important: not thick cut)  
-48 Club crackers or saltines  
-6 tablespoon dark brown sugar  
-1/4 teaspoon cayenne pepper  
+* 12 slices bacon (important: not thick cut)  
+* 48 Club crackers or saltines  
+* 6 tablespoon dark brown sugar  
+* 1/4 teaspoon cayenne pepper  
 
 </div>
 

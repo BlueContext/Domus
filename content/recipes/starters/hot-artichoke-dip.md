@@ -17,10 +17,10 @@ tags:
 
 <div class="ingredient-list">
 
-1 cup grated Parmesan cheese  
-1 cup mayonnaise  
-14 oz. artichoke hearts, drained and chopped
-Salt, Tabasco Sauce, crushed red pepper flakes, garlic salt, etc., to taste
+* 1 cup grated Parmesan cheese  
+* 1 cup mayonnaise  
+* 14 oz. artichoke hearts, drained and chopped
+* Salt, Tabasco Sauce, crushed red pepper flakes, garlic salt, etc., to taste
 
 </div>
 

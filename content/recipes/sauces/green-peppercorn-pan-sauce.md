@@ -17,13 +17,13 @@ tags:
 
 <div class="ingredient-list">
 
-Pan juices from a roast beef  
-2 shallots, finely minced  
-1/2 c Cognac   
-2 c brown veal or beef stock  
-Beurre manié made by kneading 2 tbsp flour into 2 tbsp softened butter  
-2 tbsp drained green peppercorns  
-1/3 c heavy cream  
+* Pan juices from a roast beef  
+* 2 shallots, finely minced  
+* 1/2 c Cognac   
+* 2 c brown veal or beef stock  
+* Beurre manié made by kneading 2 tbsp flour into 2 tbsp softened butter  
+* 2 tbsp drained green peppercorns  
+* 1/3 c heavy cream  
 
 </div>
 

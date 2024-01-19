@@ -22,18 +22,18 @@ It’s trivially easy, but you need to have absolutely everything prepared, port
 
 <div class="ingredient-list">
 
-2 flat iron or top blade steaks  
-2 tbsp. butter  
-2 tbsp. minced shallots  
-2 tsp. minced garlic  
-½ cup Cognac or brandy  
-1 ½ tbsp. Dijon mustard  
-½ cup heavy cream  
-½ cup reduced veal or beef stock  
-1 ¼ tbsp. Worcestershire sauce  
-4 drops Tabasco sauce  
-2 tbsp. finely chopped scallions   
-1 tbsp. minced parsley  
+* 2 flat iron or top blade steaks  
+* 2 tbsp. butter  
+* 2 tbsp. minced shallots  
+* 2 tsp. minced garlic  
+* ½ cup Cognac or brandy  
+* 1 ½ tbsp. Dijon mustard  
+* ½ cup heavy cream  
+* ½ cup reduced veal or beef stock  
+* 1 ¼ tbsp. Worcestershire sauce  
+* 4 drops Tabasco sauce  
+* 2 tbsp. finely chopped scallions   
+* 1 tbsp. minced parsley  
 
 </div>
 

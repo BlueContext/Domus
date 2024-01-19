@@ -20,10 +20,10 @@ The batter can be prepared a bit in advance, but the puffs must be baked shortly
 
 <div class="ingredient-list">
 
-1 recipe savory [Pate a Choux]({{< ref "/recipes/basic-doughs-and-batters/pate-a-choux.md" >}} "Pâte à Choux, Savory & Sweet"), about 2 cups, still warm  
-Cayenne pepper  
-5 oz. Shredded Gruyere cheese  
-1/3 cup grated Parmigiano Reggiano   
+* 1 recipe savory [Pate a Choux]({{< ref "/recipes/basic-doughs-and-batters/pate-a-choux.md" >}} "Pâte à Choux, Savory & Sweet"), * about 2 cups, still warm  
+* Cayenne pepper  
+* 5 oz. Shredded Gruyere cheese  
+* 1/3 cup grated Parmigiano Reggiano   
 
 </div>
 

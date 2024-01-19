@@ -19,15 +19,15 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb veal cutlets, pounded between sheets of wax paper until 1/4 inch thick  
-Flour for dredging  
-1/4 c clarified butter  
-2 shallots, minced  
-A pinch of caraway seeds  
-1/4 c dry Sherry  
-1/2 c white vermouth  
-2 c heavy cream  
-1 tbsp parsley, minced  
+* 1 lb veal cutlets, pounded between sheets of wax paper until 1/4 inch thick  
+* Flour for dredging  
+* 1/4 c clarified butter  
+* 2 shallots, minced  
+* A pinch of caraway seeds  
+* 1/4 c dry Sherry  
+* 1/2 c white vermouth  
+* 2 c heavy cream  
+* 1 tbsp parsley, minced  
 
 </div>
 

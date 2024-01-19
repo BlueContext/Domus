@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Leek, Potato & Fontina Soufflé 
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Leek, Potato & Fontina Soufflé
 serves: "Serves 4"
 summary: "This easy soufflé made with mashed potatoes is surprisingly light and tender, but rich and substantial enough to need nothing more than a green salad and a bottle of wine to make a lovely supper. "
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Main Dish
@@ -23,18 +24,18 @@ Imported Fontina Val D’Aosta can be hard to find, but domestic Fontina is unfo
 
 <div class="ingredient-list">
 
-1 1/2 lbs Yukon Gold or other yellow potatoes, peeled and cut into 1” chunks  
-1 1/2 cups half-and-half or whole milk  
-Salt & pepper  
-3 tbsp softened butter  
-2 medium leeks, white and tender green parts sliced and rinsed carefully  
-1 tsp chopped fresh thyme  
-2 cloves garlic, minced  
-Cayenne and freshly grated nutmeg to taste  
-4 oz ham steak, diced  
-4 oz Fontina Val D’Aosta or Gruyère, coarsely grated  
-3 eggs, separated  
-1 oz Parmesan, finely grated  
+* 1 1/2 lbs Yukon Gold or other yellow potatoes, peeled and cut into 1” chunks  
+* 1 1/2 cups half-and-half or whole milk  
+* Salt & pepper  
+* 3 tbsp softened butter  
+* 2 medium leeks, white and tender green parts sliced and rinsed carefully  
+* 1 tsp chopped fresh thyme  
+* 2 cloves garlic, minced  
+* Cayenne and freshly grated nutmeg to taste  
+* 4 oz ham steak, diced  
+* 4 oz Fontina Val D’Aosta or Gruyère, coarsely grated  
+* 3 eggs, separated  
+* 1 oz Parmesan, finely grated  
 
 </div>
 

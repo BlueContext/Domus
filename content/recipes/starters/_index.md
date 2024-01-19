@@ -5,7 +5,7 @@ menu:
     parent: starters
   after:
     name: starters
-    weight: 1
+    weight: 2
 title: Starters
 bookCollapseSection: true
 ---

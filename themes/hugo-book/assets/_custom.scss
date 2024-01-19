@@ -2,8 +2,10 @@
 
 // @import "plugins/numbered";
 
-.ingredient-list {
-    padding-left: 30px;
+div.ingredient-list>ul, div.ingredient-list>ul>li>ul {
+    text-indent: -20px !important;
+    padding-left: 30px !important;
+    list-style-type: none !important;
 }
 
 h1>a, h1>a:visited, h1>a:active {
@@ -21,6 +23,11 @@ p.serves {
     font-size: small;
     margin-block-start: 4px;
     margin-block-end: 0px;
+}
+
+h4 {
+  font-weight: bold !important;
+  font-style: italic;
 }
 
 div.taxonomy {

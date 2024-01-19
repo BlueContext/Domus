@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-10 oz dried Asian wheat noodles   
-2 bunches scallions  
-1/3 cup neutral oil   
-8 oz ground pork   
-1/3 cup soy sauce   
-3 tbsp white sugar  
-Salt  
-1-2 large Fresno or jalapeno chilies, stemmed and sliced into thin rounds  
+* 10 oz dried Asian wheat noodles   
+* 2 bunches scallions  
+* 1/3 cup neutral oil   
+* 8 oz ground pork   
+* 1/3 cup soy sauce   
+* 3 tbsp white sugar  
+* Salt  
+* 1-2 large Fresno or jalapeno chilies, stemmed and sliced into thin rounds  
 
 </div>
 
