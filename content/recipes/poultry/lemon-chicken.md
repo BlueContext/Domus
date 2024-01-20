@@ -13,6 +13,7 @@ categories:
 tags:
 - Chinese
 - Main Dish
+- Classics
 ---
 ### Ingredients
 

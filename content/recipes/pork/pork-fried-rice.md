@@ -14,6 +14,7 @@ tags:
 - Chinese
 - Main Dish
 - Party Food
+- Classics
 ---
 If you cook the rice the day before, this recipe will be foolproof — spread the steamed rice on a baking sheet, cover it lightly and refrigerate it overnight. The rice will be firmer and dryer, making it less likely to clump or break up when you make the fried rice.
 

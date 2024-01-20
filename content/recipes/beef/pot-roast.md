@@ -12,6 +12,7 @@ categories:
 - Beef
 tags:
 - Main Dish
+- Classics
 ---
 ### Ingredients
 

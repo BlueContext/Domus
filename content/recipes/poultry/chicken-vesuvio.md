@@ -12,6 +12,7 @@ categories:
 - Poultry
 tags:
 - Main Dish
+- Classics
 ---
 ### Ingredients
 

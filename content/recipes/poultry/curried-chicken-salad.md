@@ -14,6 +14,7 @@ categories:
 tags:
 - Main Dish
 - Party Food
+- Classics
 ---
 Needless to say, you can add, subtract or substitute any ingredient you like - this is a very adaptable sort of thing.
 

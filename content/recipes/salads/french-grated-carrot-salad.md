@@ -12,7 +12,7 @@ categories:
 - Salads
 tags:
 - French
-
+- Classics
 ---
 ### Ingredients
 

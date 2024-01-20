@@ -12,6 +12,7 @@ categories:
 - Salads
 tags:
 - Party Food
+- Classics
 ---
 Sometimes, when you do the final mix you may find you want a couple more tablespoons of mayonnaise — simply add a tablespoon at a time until you have a consistency you like.
 

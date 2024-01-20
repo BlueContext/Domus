@@ -15,6 +15,7 @@ tags:
 - Italian
 - Dinner Party
 - Main Dish
+- Classics
 ---
 If you can reserve some of the fennel fronds, mince them to use as a garnish on the final dish.
 

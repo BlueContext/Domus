@@ -13,6 +13,7 @@ categories:
 tags:
 - Dinner Party
 - Main Dish
+- Classics
 ---
 It’s trivially easy, but you need to have absolutely everything prepared, portioned, measured out, and arranged at hand before you start. The cooking itself is simple and goes very quickly.  
 
