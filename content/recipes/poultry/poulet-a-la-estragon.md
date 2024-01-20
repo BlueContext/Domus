@@ -19,19 +19,19 @@ You don't need more than a simple green vegetable, a crispy baguette and a cold 
 
 <div class="ingredient-list">
 
-1 chicken, cut into pieces, skin removed  
-1/2 c flour  
-2 tbsp olive oil  
-4 tbsp butter  
-3 shallots, finely minced  
-1/2 c frozen pearl onions  
-1/4 c Cognac  
-1/4 c dry Vermouth   
-1/2 c dry white wine  
-3 large sprigs + 1 tbsp. chopped fresh tarragon  
-1/4 tsp dried marjoram  
-1 tsp minced fresh chervil or parsley  
-3/4 c heavy cream  
+* 1 chicken, cut into pieces, skin removed  
+* 1/2 c flour  
+* 2 tbsp olive oil  
+* 4 tbsp butter  
+* 3 shallots, finely minced  
+* 1/2 c frozen pearl onions  
+* 1/4 c Cognac  
+* 1/4 c dry Vermouth   
+* 1/2 c dry white wine  
+* 3 large sprigs + 1 tbsp. chopped fresh tarragon  
+* 1/4 tsp dried marjoram  
+* 1 tsp minced fresh chervil or parsley  
+* 3/4 c heavy cream  
 
 </div>
 

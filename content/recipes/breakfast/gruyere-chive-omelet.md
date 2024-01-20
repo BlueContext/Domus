@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Gruyere & Chive Omelet
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Gruyere & Chive Omelet
 serves: "Serves 4"
 summary: "Every bite of this omelet full of crunchy, mustardy croutons is a masterpiece of texture and flavor."
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -20,14 +21,14 @@ tags:
 
 <div class="ingredient-list">
 
-8 large eggs  
-4 tbsp finely chopped chives or scallions, divided  
-Salt and black pepper  
-6 tbsp salted butter, divided  
-1/3 c. dry white wine or vermouth  
-¼ c. whole grain mustard  
-2 oz. crusty white bread, cut into rough ½" cubes (2 cups)  
-4 oz (1 c) shredded Gruyere    
+* 8 large eggs  
+* 4 tbsp finely chopped chives or scallions, divided  
+* Salt and black pepper  
+* 6 tbsp salted butter, divided  
+* 1/3 c. dry white wine or vermouth  
+* ¼ c. whole grain mustard  
+* 2 oz. crusty white bread, cut into rough ½" cubes (2 cups)  
+* 4 oz (1 c) shredded Gruyere    
 
 </div>
 

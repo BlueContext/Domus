@@ -19,20 +19,20 @@ tags:
 
 <div class="ingredient-list">
   
-*For the chicken:*  
-2 chicken breasts (boneless and skinless)  
-1 egg, lightly beaten  
-4 tbsp cornstarch  
-Peanut oil for deep frying  
-  
-*For the sauce:*  
-3 tbsp fresh lemon juice  
-1/2 tsp ground turmeric  
-1 tbsp sugar  
-1 tbsp plum sauce   
-A small pinch of white pepper  
-6 oz water  
-1 tbsp cornstarch   
+* #### For the chicken:
+  * 2 chicken breasts (boneless and skinless)  
+  * 1 egg, lightly beaten  
+  * 4 tbsp cornstarch  
+  * Peanut oil for deep frying  
+  *   
+* #### For the sauce:
+  * 3 tbsp fresh lemon juice  
+  * 1/2 tsp ground turmeric  
+  * 1 tbsp sugar  
+  * 1 tbsp plum sauce   
+  * A small pinch of white pepper  
+  * 6 oz water  
+  * 1 tbsp cornstarch   
 
 </div>
 

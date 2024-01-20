@@ -18,18 +18,18 @@ The aji amarillo paste isn’t common in American supermarkets, and unfortunatel
 
 <div class="ingredient-list">
 
-1 tbsp oil  
-4 medium garlic cloves, minced  
-1 medium white onion, finely chopped  
-1 bunch fresh cilantro, stems minced, leaves left whole and reserved separately  
-1/4 cup aji amarillo paste  
-Salt and black pepper  
-1 1/2 pounds bone-in, skin-on chicken thighs or legs  
-1 cup white rice, rinsed and drained  
-3-4 medium carrots, peeled and cut into 1/2-inch chunks  
-1 medium red bell pepper, stemmed and cut into 1/2-inch chunks  
-1 cup frozen peas  
-2 tbsp fresh lime juice  
+* 1 tbsp oil  
+* 4 medium garlic cloves, minced  
+* 1 medium white onion, finely chopped  
+* 1 bunch fresh cilantro, stems minced, leaves left whole and reserved separately  
+* 1/4 cup aji amarillo paste  
+* Salt and black pepper  
+* 1 1/2 pounds bone-in, skin-on chicken thighs or legs  
+* 1 cup white rice, rinsed and drained  
+* 3-4 medium carrots, peeled and cut into 1/2-inch chunks  
+* 1 medium red bell pepper, stemmed and cut into 1/2-inch chunks  
+* 1 cup frozen peas  
+* 2 tbsp fresh lime juice  
 
 </div>
 

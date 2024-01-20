@@ -27,38 +27,39 @@ Read this entire recipe before you begin, and make sure you have a clear plan of
 
 <div class="ingredient-list">
 
-A 6- to 7-pound (2 ¾- to 3 1/4- kg) roasting chicken or capon  
-  
-For the stuffing (to make about 5 cups):  
-4 cups ground chicken meat – salvaged from the boned chicken, plus 1 or more skinless and boneless chicken-breast if needed  
-1 whole egg plus 1 egg white  
-1 ½ tsp. salt  
-9 grinds of the pepper mill  
-2 tbsp. minced shallots or scallions  
-1/8 tsp. freshly ground nutmeg  
-½ tsp. fragrant dried tarragon  
-2 to 3 tbsp. Cognac  
-1 cup chilled heavy cream  
-  
-Garniture for the stuffing:  
-1 chicken breast, cut into ¼ -inch dice  
-2/3 cup boiled ham, diced as above  
-5 tbsp. shelled pistachio nuts   
-Salt and pepper  
-1 tbsp. finely minced shallots or scallions  
-1 tbsp. Cognac  
-Pinch fragrant dried tarragon  
-  
-Other ingredients:  
-Salt and pepper  
-Drops of Cognac  
-Several Tb melted butter  
-  
-Equipment:  
-A sharp boning knife  
-a large ball of plain white string (butcher’s twine)  
-a trussing needle  
-a square of washed cheesecloth about 20 inches to a side
+* #### The Chicken:
+  * A 6- to 7-pound (2 ¾- to 3 1/4- kg) roasting chicken or capon  
+  *   
+* #### For the stuffing (to make about 5 cups):  
+  * 4 cups ground chicken meat – salvaged from the boned chicken, plus 1 or more skinless and boneless chicken-breast if needed  
+  * 1 whole egg plus 1 egg white  
+  * 1 ½ tsp. salt  
+  * 9 grinds of the pepper mill  
+  * 2 tbsp. minced shallots or scallions  
+  * 1/8 tsp. freshly ground nutmeg  
+  * ½ tsp. fragrant dried tarragon  
+  * 2 to 3 tbsp. Cognac  
+  * 1 cup chilled heavy cream  
+  *   
+* #### Garniture for the stuffing:  
+  * 1 chicken breast, cut into ¼ -inch dice  
+  * 2/3 cup boiled ham, diced as above  
+  * 5 tbsp. shelled pistachio nuts   
+  * Salt and pepper  
+  * 1 tbsp. finely minced shallots or scallions  
+  * 1 tbsp. Cognac  
+  * Pinch fragrant dried tarragon  
+  *   
+* #### Other ingredients:  
+  * Salt and pepper  
+  * Drops of Cognac  
+  * Several Tb melted butter  
+  *   
+* #### Equipment:  
+  * A sharp boning knife  
+  * a large ball of plain white string (butcher’s twine)  
+  * a trussing needle  
+  * a square of washed cheesecloth about 20 inches to a side
 
 </div>
 

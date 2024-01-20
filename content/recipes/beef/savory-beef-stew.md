@@ -18,26 +18,27 @@ tags:
 
 <div class="ingredient-list">
 
-1 tri-tip roast
-  
-#### For Marinade:
-2 ½ lbs. chuck or other beef for stew, cut into 1 – 1 ½" cubes  
-¼ cup olive oil  
-1 leek, washed thoroughly and sliced  
-½ of a large yellow onion, chopped  
-4 cloves of garlic, minced  
-1 carrot, chopped  
-2 celery ribs, chopped  
-2 oz. white mushrooms, chopped  
-1/8 cup tomato paste  
-1 canned anchovy, minced  
-¼ cup red wine vinegar   
-1 cup red wine  
-2 cups beef stock  
-½ cup canned crushed tomatoes with juice  
-2 bay leaves  
-½ tsp. dried thyme   
-4 tbsp. chopped parsley  
+* #### The Beef:
+  * 1 tri-tip roast
+  *   
+* #### For Marinade:
+  * 2 ½ lbs. chuck or other beef for stew, cut into 1 – 1 ½" cubes  
+  * ¼ cup olive oil  
+  * 1 leek, washed thoroughly and sliced  
+  * ½ of a large yellow onion, chopped  
+  * 4 cloves of garlic, minced  
+  * 1 carrot, chopped  
+  * 2 celery ribs, chopped  
+  * 2 oz. white mushrooms, chopped  
+  * 1/8 cup tomato paste  
+  * 1 canned anchovy, minced  
+  * ¼ cup red wine vinegar   
+  * 1 cup red wine  
+  * 2 cups beef stock  
+  * ½ cup canned crushed tomatoes with juice  
+  * 2 bay leaves  
+  * ½ tsp. dried thyme   
+  * 4 tbsp. chopped parsley  
 
 </div>
 

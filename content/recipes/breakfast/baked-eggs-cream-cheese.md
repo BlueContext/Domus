@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Baked Eggs in Cream & Cheese
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Baked Eggs in Cream & Cheese
 serves: "Serves 4"
 summary: "This is perfect for a brunch or breakfast with guests – the sort of occasion where you want an egg dish rather than just eggs, but you’d rather not spend your Saturday morning making Hollandaise sauce. It’s also just absurdly good. Be sure to serve with plenty of buttered toast for dipping in the delicious amalgam of egg yolks, cream and cheese."
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -20,10 +21,10 @@ A drop of white truffle oil added to the cream mixture is lovely. Or, if you sho
 
 <div class="ingredient-list">
 
-½ c. heavy cream  
-4tbsp. grated Parmigiano-Reggiano (or 2 tbsp. Parmigiano and 2 tbsp. Gruyere)  
-Tabasco sauce (optional)  
-4 large eggs  
+* ½ c. heavy cream  
+* 4tbsp. grated Parmigiano-Reggiano (or 2 tbsp. Parmigiano and 2 tbsp. Gruyere)  
+* Tabasco sauce (optional)  
+* 4 large eggs  
 
 </div>
 

@@ -17,12 +17,12 @@ tags:
 
 <div class="ingredient-list">
 
-1 small clove garlic  
-1 can whole palm hearts  
-1 red bell pepper  
-1/3 cup very thinly sliced red onion  
-1 head green Boston lettuce, thoroughly washed and dried  
-1 recipe Basic Vinaigrette  
+* 1 small clove garlic  
+* 1 can whole palm hearts  
+* 1 red bell pepper  
+* 1/3 cup very thinly sliced red onion  
+* 1 head green Boston lettuce, thoroughly washed and dried  
+* 1 recipe Basic Vinaigrette  
 
 </div>
 

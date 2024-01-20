@@ -20,11 +20,11 @@ If you don’t have a food grinder, finely mince the jalapeños, onion, and garl
 
 <div class="ingredient-list">
 
-5 jalapeño peppers, stemmed and seeded  
-1 lb sharp cheddar cheese  
-1 sweet yellow onion  
-8 cloves garlic  
-1 1/4 cup mayonnaise  
+* 5 jalapeño peppers, stemmed and seeded  
+* 1 lb sharp cheddar cheese  
+* 1 sweet yellow onion  
+* 8 cloves garlic  
+* 1 1/4 cup mayonnaise  
 
 </div>
 

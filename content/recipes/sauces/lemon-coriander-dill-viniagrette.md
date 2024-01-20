@@ -17,15 +17,15 @@ tags:
 
 <div class="ingredient-list">
 
-Juice from 2 Meyer lemons (about ¼ cup)  
-Finely grated zest from one Meyer lemon (about 1 tsp.)  
-1 tbsp. finely chopped fresh dill  
-¾ tsp. kosher salt  
-½ tsp. Dijon mustard  
-1 tsp. ground coriander seed  
-½ tsp. sugar  
-Freshly cracked black pepper  
-6 tablespoons of a mild olive oil or vegetable oil  
+* Juice from 2 Meyer lemons (about ¼ cup)  
+* Finely grated zest from one Meyer lemon (about 1 tsp.)  
+* 1 tbsp. finely chopped fresh dill  
+* ¾ tsp. kosher salt  
+* ½ tsp. Dijon mustard  
+* 1 tsp. ground coriander seed  
+* ½ tsp. sugar  
+* Freshly cracked black pepper  
+* 6 tablespoons of a mild olive oil or vegetable oil  
 
 </div>
 

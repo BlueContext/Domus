@@ -17,19 +17,19 @@ tags:
 
 <div class="ingredient-list">
 
-1 tbsp butter  
-1 tbsp olive oil  
-5 cloves garlic, finely chopped  
-1 lb "baby bella" mushrooms, cleaned, trimmed and chopped (cut them into quarters and then use a food processor to chop them up, or chop by hand)  
-2 large shallots or 1 medium onion, thinly sliced  
-1 lb bulk Italian sausage (sweet or hot, to your own taste)  
-1 cup dry red wine  
-1 1/2 chicken broth  
-1/2 tsp cinnamon  
-A pinch of crushed red pepper (optional)  
-1 14 1/2 oz. can crushed tomatoes  
-1 lb dried pappardelle or tagliatelle pasta  
-Salt and freshly ground black pepper  
+* 1 tbsp butter  
+* 1 tbsp olive oil  
+* 5 cloves garlic, finely chopped  
+* 1 lb "baby bella" mushrooms, cleaned, trimmed and chopped (cut them into quarters and then use a food processor to chop them up, or chop by hand)  
+* 2 large shallots or 1 medium onion, thinly sliced  
+* 1 lb bulk Italian sausage (sweet or hot, to your own taste)  
+* 1 cup dry red wine  
+* 1 1/2 chicken broth  
+* 1/2 tsp cinnamon  
+* A pinch of crushed red pepper (optional)  
+* 1 14 1/2 oz. can crushed tomatoes  
+* 1 lb dried pappardelle or tagliatelle pasta  
+* Salt and freshly ground black pepper  
 
 </div>
 

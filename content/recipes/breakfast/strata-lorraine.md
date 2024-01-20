@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Strata Lorraine (Strata with Spinach, Bacon and Gruyere)
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Strata Lorraine (Strata with Spinach, Bacon and Gruyere)
 serves: "Serves 6-8"
 summary: "I think this may be the perfect brunch or breakfast dish.  It’s simply delicious, and you can make it the night before."
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -21,21 +22,21 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb. fresh spinach, washed thoroughly  
-1 lb. thick-cut bacon  
-1 large yellow onion, finely chopped  
-1 clove garlic, finely minced  
-3 tbsp. butter  
-½ tsp. salt  
-½ tsp. fresh ground black pepper, plus more to taste  
-Tabasco sauce  
-¼ tsp. freshly grated nutmeg  
-8 cups 1”-cubed French or Italian bread (any good crusty, chewy white bread will work here)  
-6 oz. grated Gruyere (2 cups)  
-2 oz. grated Parmigiano-Reggiano (1 cup)  
-2 ¾ cups milk  
-9 large eggs  
-2 tbsp. Dijon mustard  
+* 1 lb. fresh spinach, washed thoroughly  
+* 1 lb. thick-cut bacon  
+* 1 large yellow onion, finely chopped  
+* 1 clove garlic, finely minced  
+* 3 tbsp. butter  
+* ½ tsp. salt  
+* ½ tsp. fresh ground black pepper, plus more to taste  
+* Tabasco sauce  
+* ¼ tsp. freshly grated nutmeg  
+* 8 cups 1”-cubed French or Italian bread (any good crusty, chewy white bread will work here)  
+* 6 oz. grated Gruyere (2 cups)  
+* 2 oz. grated Parmigiano-Reggiano (1 cup)  
+* 2 ¾ cups milk  
+* 9 large eggs  
+* 2 tbsp. Dijon mustard  
 
 </div>
 

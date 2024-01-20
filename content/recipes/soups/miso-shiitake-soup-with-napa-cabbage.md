@@ -17,19 +17,19 @@ tags:
 
 <div class="ingredient-list">
 
-7 cups water  
-½ lb carrots (2-3 medium), peeled, halved lengthwise, cut crosswise into ½" pieces  
-2 tbsp dried wakame seaweed  
-8 oz soft tofu (not firm), drained and cut into ½" cubes  
-5 oz fresh shiitake mushrooms, stems discarded, caps thinly sliced  
-4 cups chopped napa cabbage  
-6 tbsp white miso  
-1" chunk fresh ginger, grated  
-3 tsp toasted sesame oil  
-2 tbsp soy sauce
-4 c fresh baby spinach (4 oz)  
-6 scallions, trimmed and cut to 1" lengths  
-Hot chili oil to serve   
+* 7 cups water  
+* ½ lb carrots (2-3 medium), peeled, halved lengthwise, cut crosswise into ½" pieces  
+* 2 tbsp dried wakame seaweed  
+* 8 oz soft tofu (not firm), drained and cut into ½" cubes  
+* 5 oz fresh shiitake mushrooms, stems discarded, caps thinly sliced  
+* 4 cups chopped napa cabbage  
+* 6 tbsp white miso  
+* 1" chunk fresh ginger, grated  
+* 3 tsp toasted sesame oil  
+* 2 tbsp soy sauce
+* 4 c fresh baby spinach (4 oz)  
+* 6 scallions, trimmed and cut to 1" lengths  
+* Hot chili oil to serve   
 
 </div>
 

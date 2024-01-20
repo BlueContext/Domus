@@ -23,21 +23,22 @@ This makes a lot, and although it freezes very well, I usually halve this recipe
 
 <div class="ingredient-list">
 
-5-6 lbs boneless pork butt, not trimmed, cut into 2" cubes  
-1 large yellow onion, halved and thinly sliced  
-10 medium garlic cloves, peeled and smashed  
-2 tbsp ground cumin  
-2 tbsp ground coriander  
-2 tsp dried oregano  
-½ tsp dried thyme  
-1 tsp red pepper flakes  
-Salt and pepper  
-1 c. vegetable oil  
-  
-*To serve:*  
-Pickled red onions  
-Salsa and/or Pico de Gallo  
-Tortillas   
+* #### For the Carnitas:
+  * 5-6 lbs boneless pork butt, not trimmed, cut into 2" cubes  
+  * 1 large yellow onion, halved and thinly sliced  
+  * 10 medium garlic cloves, peeled and smashed  
+  * 2 tbsp ground cumin  
+  * 2 tbsp ground coriander  
+  * 2 tsp dried oregano  
+  * ½ tsp dried thyme  
+  * 1 tsp red pepper flakes  
+  * Salt and pepper  
+  * 1 c. vegetable oil  
+  *   
+* #### To Serve:  
+  * Pickled red onions  
+  * Salsa and/or Pico de Gallo  
+  * Tortillas   
 
 </div>
 

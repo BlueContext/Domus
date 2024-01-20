@@ -17,10 +17,10 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb. carrots, washed, peeled and sliced thin on the diagonal  
-2 tbsp. butter  
-1 tsp. curry powder  
-Lemon juice to taste   
+* 1 lb. carrots, washed, peeled and sliced thin on the diagonal  
+* 2 tbsp. butter  
+* 1 tsp. curry powder  
+* Lemon juice to taste   
 
 </div>
 

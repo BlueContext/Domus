@@ -19,16 +19,16 @@ tags:
 
 <div class="ingredient-list">
 
-3 tablespoons extra-virgin olive oil  
-2-3 large leeks, trimmed and cut into 1/2-inch pieces (about 4 cups)  
-6 medium parsnips, peeled and cut into 1/2-inch pieces (about 4 cups)  
-2 teaspoons kosher salt  
-Black pepper  
-1 bay leaf  
-1 teaspoon ground turmeric  
-4 garlic cloves, minced  
-6 cups water, chicken broth or vegetable broth  
-Extra-virgin olive oil, crème fraîche or yogurt, for garnish (optional)  
+* 3 tablespoons extra-virgin olive oil  
+* 2-3 large leeks, trimmed and cut into 1/2-inch pieces (about 4 cups)  
+* 6 medium parsnips, peeled and cut into 1/2-inch pieces (about 4 cups)  
+* 2 teaspoons kosher salt  
+* Black pepper  
+* 1 bay leaf  
+* 1 teaspoon ground turmeric  
+* 4 garlic cloves, minced  
+* 6 cups water, chicken broth or vegetable broth  
+* Extra-virgin olive oil, crème fraîche or yogurt, for garnish (optional)  
 
 </div>
 

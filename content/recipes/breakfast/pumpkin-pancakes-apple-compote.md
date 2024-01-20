@@ -9,7 +9,7 @@ serves: "Serves 4"
 summary: "Perfect for an autumn brunch."
 categories:
 - All Recipes
-- Breakfast
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -18,24 +18,24 @@ tags:
 
 <div class="ingredient-list">
 
-*For Compote:*  
-2 tbsp butter  
-2 large apples (Granny Smith, Golden Delicious, Gala), peeled and cut into 1/4’ pieces  
-1 tbsp lemon juice  
-1/4 cup maple syrup  
-1/2 tsp cinnamon  
-
-*For Pancakes:*  
-1 1/2 cups flour 
-2 tsp baking powder  
-1/4 tsp baking soda  
-1/2 tsp kosher salt  
-1/2 cup pumpkin butter  
-1 1/2 cups buttermilk  
-3 tbsp sugar  
-1 tbsp melted butter, plus more for greasing pan  
-2 large eggs  
-Toasted chopped pecans, softened butter, maple syrup, etc., for serving  
+* #### For Compote:
+  * 2 tbsp butter  
+  * 2 large apples (Granny Smith, Golden Delicious, Gala), peeled and cut into 1/4’ pieces  
+  * 1 tbsp lemon juice  
+  * 1/4 cup maple syrup  
+  * 1/2 tsp cinnamon  
+  *   
+* #### For Pancakes:
+  * 1 1/2 cups flour 
+  * 2 tsp baking powder  
+  * 1/4 tsp baking soda  
+  * 1/2 tsp kosher salt  
+  * 1/2 cup pumpkin butter  
+  * 1 1/2 cups buttermilk  
+  * 3 tbsp sugar  
+  * 1 tbsp melted butter, plus more for greasing pan  
+  * 2 large eggs  
+  * Toasted chopped pecans, softened butter, maple syrup, etc., for serving  
 
 </div>
 

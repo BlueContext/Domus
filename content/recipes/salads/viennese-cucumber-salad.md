@@ -20,14 +20,14 @@ For a crunchy variation, mix the finished salad with a handful of thinly sliced 
 
 <div class="ingredient-list">
 
-2 seedless English cucumbers  
-1 tbsp salt  
-1/3 cup white wine vinegar  
-1/4 cup water  
-2 tsp sugar  
-1 garlic clove, very finely minced  
-1 tsp dill seed  
-A pinch of celery seed  
+* 2 seedless English cucumbers  
+* 1 tbsp salt  
+* 1/3 cup white wine vinegar  
+* 1/4 cup water  
+* 2 tsp sugar  
+* 1 garlic clove, very finely minced  
+* 1 tsp dill seed  
+* A pinch of celery seed  
 
 </div>
 

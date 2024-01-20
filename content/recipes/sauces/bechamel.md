@@ -20,9 +20,9 @@ The general rule is to use equal portions of butter and flour per volume of milk
 
 <div class="ingredient-list">
 
-Butter  
-Flour  
-Milk   
+* Butter  
+* Flour  
+* Milk   
 
 </div>
 

@@ -18,19 +18,19 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb chuck or sirloin, trimmed  
-3 ½ tbsp soy sauce, divided
-1/4 tsp baking soda  
-½ tsp ground black pepper  
-6 tsp vegetable oil, divided  
-12 small dried red chiles (such as Arbol), stemmed  
-1 ½ tbsp whole cumin seeds, toasted  
-5 cloves garlic, minced  
-1 large yellow onion, thinly sliced lengthwise  
-4 tsp unseasoned rice vinegar  
-1 tsp white sugar  
-2 tsp toasted sesame oil  
-1 cup cilantro leaves, coarsely chopped  
+* 1 lb chuck or sirloin, trimmed  
+* 3 ½ tbsp soy sauce, divided
+* 1/4 tsp baking soda  
+* ½ tsp ground black pepper  
+* 6 tsp vegetable oil, divided  
+* 12 small dried red chiles (such as Arbol), stemmed  
+* 1 ½ tbsp whole cumin seeds, toasted  
+* 5 cloves garlic, minced  
+* 1 large yellow onion, thinly sliced lengthwise  
+* 4 tsp unseasoned rice vinegar  
+* 1 tsp white sugar  
+* 2 tsp toasted sesame oil  
+* 1 cup cilantro leaves, coarsely chopped  
 
 </div>
 

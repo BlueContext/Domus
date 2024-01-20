@@ -19,18 +19,18 @@ tags:
 
 <div class="ingredient-list">
 
-2 tbsp butter
-2 tbsp olive oil
-2 oz pancetta, chopped
-3 oz chopped onion
-3 ribs of celery, chopped
-4 medium carrots, peeled and chopped
-12 oz ground beef chuck
-Freshly ground black pepper
-1 cup whole milk
-Whole nutmeg
-1 cup dry white wine 
-2 cups canned San Marzano tomatoes in their juices, cut up.
+* 2 tbsp butter
+* 2 tbsp olive oil
+* 2 oz pancetta, chopped
+* 3 oz chopped onion
+* 3 ribs of celery, chopped
+* 4 medium carrots, peeled and chopped
+* 12 oz ground beef chuck
+* Freshly ground black pepper
+* 1 cup whole milk
+* Whole nutmeg
+* 1 cup dry white wine 
+* 2 cups canned San Marzano tomatoes in their juices, cut up.
 
 </div>
 

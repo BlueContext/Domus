@@ -19,28 +19,28 @@ tags:
 
 <div class="ingredient-list">
 
-*For the sauce*  
-2 tbsp butter  
-1 cup thinly sliced shallots or white onions  
-1 clove garlic, peeled and minced  
-4 poblano chiles, fire roasted, peeled, seeded, and cut into 1/4” strips, 1/4th reserved for garnish  
-1 jalapeno chile, fire roasted, peeled, seeded, and chopped  
-2 cups crema Mexicana (Mexican table cream) or creme fraiche  
-Kosher salt to taste  
-  
-*For the filling:*  
-2 tbsp butter  
-1 cup sweet corn kernels, freshly cut off the cob  
-12 oz jumbo lump crab meat  
-Kosher salt to taste  
-Pinch of powdered chile de arbol or Kashmiri chili powder  
-Lime juice to taste  
-2 scallions, thinly sliced  
-  
-*For assembly:*  
-12 white corn tortillas  
-Vegetable oil as needed to soften tortillas  
-Crumbled Cotija cheese or shredded Gruyere  
+* #### For the sauce:
+  * 2 tbsp butter  
+  * 1 cup thinly sliced shallots or white onions  
+  * 1 clove garlic, peeled and minced  
+  * 4 poblano chiles, fire roasted, peeled, seeded, and cut into 1/4” strips, 1/4th reserved for garnish  
+  * 1 jalapeno chile, fire roasted, peeled, seeded, and chopped  
+  * 2 cups crema Mexicana (Mexican table cream) or creme fraiche  
+  * Kosher salt to taste  
+  *   
+* #### For the filling:
+  * 2 tbsp butter  
+  * 1 cup sweet corn kernels, freshly cut off the cob  
+  * 12 oz jumbo lump crab meat  
+  * Kosher salt to taste  
+  * Pinch of powdered chile de arbol or Kashmiri chili powder  
+  * Lime juice to taste  
+  * 2 scallions, thinly sliced  
+  *   
+* #### For assembly:
+  * 12 white corn tortillas  
+  * Vegetable oil as needed to soften tortillas  
+  * Crumbled Cotija cheese or shredded Gruyere  
 
 </div>
 

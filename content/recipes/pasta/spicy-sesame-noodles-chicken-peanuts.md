@@ -18,16 +18,16 @@ tags:
 
 <div class="ingredient-list">
 
-1½ tablespoons red-pepper flakes  
-1½ tablespoons low-sodium soy sauce  
-1½ teaspoons toasted sesame oil, plus more as needed  
-Kosher salt and black pepper  
-½ cup plus 1 tablespoon neutral oil, like grapeseed or vegetable  
-6 tablespoons roasted, salted peanuts, coarsely chopped  
-Rind of ½ orange, peeled into 2- to 3-inch strips  
-1 pound ground chicken  
-10 to 12 ounces ramen or udon noodles, preferably fresh  
-3 tablespoons finely chopped chives  
+* 1½ tablespoons red-pepper flakes  
+* 1½ tablespoons low-sodium soy sauce  
+* 1½ teaspoons toasted sesame oil, plus more as needed  
+* Kosher salt and black pepper  
+* ½ cup plus 1 tablespoon neutral oil, like grapeseed or vegetable  
+* 6 tablespoons roasted, salted peanuts, coarsely chopped  
+* Rind of ½ orange, peeled into 2- to 3-inch strips  
+* 1 pound ground chicken  
+* 10 to 12 ounces ramen or udon noodles, preferably fresh  
+* 3 tablespoons finely chopped chives  
 
 </div>
 

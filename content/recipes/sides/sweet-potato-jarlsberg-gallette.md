@@ -18,9 +18,9 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb sweet potatoes, peeled  
-2 tbsp olive oil  
-2 oz (about 1/2 cup) grated Jarlsberg cheese  
+* 1 lb sweet potatoes, peeled  
+* 2 tbsp olive oil  
+* 2 oz (about 1/2 cup) grated Jarlsberg cheese  
 
 </div>
 

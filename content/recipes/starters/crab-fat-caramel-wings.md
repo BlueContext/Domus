@@ -21,37 +21,37 @@ You might have a hard time shopping for the “magic” ingredient, but it’s e
 
 <div class="ingredient-list">
 
-*For Sauce:*  
-1/2 cup fish sauce   
-1 1/2 cups sugar   
-1/4 cup Thai crab or shrimp paste with bean oil  
-  
-*For Wings:*  
-Peanut or vegetable oil (for frying; about 10 cups)   
-1 cup all-purpose flour   
-1 teaspoon baking powder  
-1 1/2 cups cornstarch, divided  
-1/2 cup vodka  
-2 pounds chicken wings, tips removed, flats and drumettes separated  
-Kosher salt  
-Freshly ground pepper  
-  
-*To Serve:*  
-1/4 cup chopped salted, roasted peanuts  
-Fresh cilantro leaves with tender stems (for serving)  
-  
-*Special equipment:*  
-A deep-fry thermometer  
+* #### For Sauce:
+  * 1/2 cup fish sauce   
+  * 1 1/2 cups sugar   
+  * 1/4 cup Thai crab or shrimp paste with bean oil  
+  *   
+* #### For Wings:
+  * Peanut or vegetable oil (for frying; about 10 cups)   
+  * 1 cup all-purpose flour   
+  * 1 teaspoon baking powder  
+  * 1 1/2 cups cornstarch, divided  
+  * 1/2 cup vodka  
+  * 2 pounds chicken wings, tips removed, flats and drumettes separated  
+  * Kosher salt  
+  * Freshly ground pepper  
+  *   
+* #### To Serve:
+  * 1/4 cup chopped salted, roasted peanuts  
+  * Fresh cilantro leaves with tender stems (for serving)  
+  *   
+* #### Special equipment:
+  * A deep-fry thermometer  
 
 </div>
 
 ### Instructions
 
-**Make caramel sauce:**  
+#### Make caramel sauce:
 
 Bring fish sauce to a boil in a medium saucepan and cook until reduced almost by half (it will darken and become pungent), about 5 minutes. Stir in sugar and fit saucepan with thermometer. Cook until thermometer registers 230°F (mixture will become thick and dark). Whisk in crab paste and 1 tablespoons water until smooth. Reduce heat to low; keep warm until ready to dip wings. 
 
-**Fry wings:** 
+#### Fry wings:
 
 Fit a large pot with clean thermometer and pour in oil to measure 2". Heat over medium-high heat until thermometer registers 350°F. 
 
@@ -61,8 +61,8 @@ Place remaining 1/2 cup cornstarch in a shallow dish. Season chicken with salt a
 
 Working in 3 batches and returning oil to 350°F between batches, coat chicken in batter, letting excess drip back into bowl, and fry until skin is golden and chicken is crisp and cooked through, about 5 minutes. Transfer to a wire rack set inside a baking sheet to drain. 
 
-**To serve:**  
+#### To serve:
 Using tongs, add hot wings to warm caramel, turn to coat, then transfer wings to a platter. Serve wings topped with peanuts and cilantro. 
 
-**Cooks' note:**  
+#### Cooks' note:
 Caramel sauce can be made 3 days ahead. Keep airtight at room temperature. Reheat before using. 

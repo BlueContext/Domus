@@ -20,17 +20,17 @@ It’s very difficult to slice beef thin enough for this sort of dish at home. I
 
 <div class="ingredient-list">
 
-1 medium white onion, sliced  
-2 scallions, sliced finely  
-1 cup dashi (made with instant dashi powder)  
-2 tbsp sake  
-4 tbsp mirin  
-2 tbsp sugar  
-4 tbsp soy sauce  
-1 1/2 lbs thinly sliced beef (chuck or ribeye)  
-2 tbsp pickled red ginger (beni shoga)  
-4 soft-cooked or poached eggs (optional)  
-Japanese short-grain rice  
+* 1 medium white onion, sliced  
+* 2 scallions, sliced finely  
+* 1 cup dashi (made with instant dashi powder)  
+* 2 tbsp sake  
+* 4 tbsp mirin  
+* 2 tbsp sugar  
+* 4 tbsp soy sauce  
+* 1 1/2 lbs thinly sliced beef (chuck or ribeye)  
+* 2 tbsp pickled red ginger (beni shoga)  
+* 4 soft-cooked or poached eggs (optional)  
+* Japanese short-grain rice  
 
 </div>
 

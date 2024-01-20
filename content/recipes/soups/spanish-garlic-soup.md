@@ -18,17 +18,17 @@ tags:
 
 <div class="ingredient-list">
 
-6 scallions, thinly sliced, whites reserved separately  
-6-8 garlic cloves, thinly sliced  
-6 tbsp olive oil  
-4 tsp sweet or hot paprika   
-1 1/2 tsp smoked paprika  
-6 oz sourdough or other country-style bread, shaved thin (about 4 cups, divided 1 and 3)  
-2 cups water  
-4 cups chicken stock  
-Salt and black pepper  
-3 large egg yolks  
-Sherry vinegar, to taste  
+* 6 scallions, thinly sliced, whites reserved separately  
+* 6-8 garlic cloves, thinly sliced  
+* 6 tbsp olive oil  
+* 4 tsp sweet or hot paprika   
+* 1 1/2 tsp smoked paprika  
+* 6 oz sourdough or other country-style bread, shaved thin (about 4 cups, divided 1 and 3)  
+* 2 cups water  
+* 4 cups chicken stock  
+* Salt and black pepper  
+* 3 large egg yolks  
+* Sherry vinegar, to taste  
 
 </div>
 

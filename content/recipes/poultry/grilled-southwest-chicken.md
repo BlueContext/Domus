@@ -19,20 +19,21 @@ You only need a little jalapeno jelly — pour the rest of a block of cream chee
 
 <div class="ingredient-list">
   
-6 (7-8 oz) boneless, skinless chicken breasts  
-1 cup Italian salad dressing  
-1/4 cup jalapeño jelly, melted  
-  
-For Jalapeño Butter  
-1-2 fresh jalapeno peppers (depending on size)  
-2 tbsp chopped red bell pepper  
-1 clove garlic  
-1 tbsp chopped parsley or cilantro  
-1/2 tsp Worcestershire sauce  
-3 dashes Tabasco sauce  
-1/2 tsp paprika  
-1/2 tsp cayenne pepper  
-1 stick (1/2 cup) butter, softened fully to room temperature  
+* #### For the Chicken: 
+  * 6 (7-8 oz) boneless, skinless chicken breasts  
+  * 1 cup Italian salad dressing  
+  * 1/4 cup jalapeño jelly, melted  
+  *   
+* #### For Jalapeño Butter  
+  * 1-2 fresh jalapeno peppers (depending on size)  
+  * 2 tbsp chopped red bell pepper  
+  * 1 clove garlic  
+  * 1 tbsp chopped parsley or cilantro  
+  * 1/2 tsp Worcestershire sauce  
+  * 3 dashes Tabasco sauce  
+  * 1/2 tsp paprika  
+  * 1/2 tsp cayenne pepper  
+  * 1 stick (1/2 cup) butter, softened fully to room temperature  
 
 </div>
 

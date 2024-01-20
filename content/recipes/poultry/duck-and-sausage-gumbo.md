@@ -19,23 +19,23 @@ Duck is certainly delicious, but also expensive. Fortunately, this is a very fle
 
 <div class="ingredient-list">
 
-Two 5 1/2-pound ducks, excess fat discarded and ducks cut into serving pieces  
-2 pounds kielbasa (Polish smoked sausage), cut into 1/4-inch-thick rounds)  
-12 cups chicken broth  
-6 cups water  
-1/2 cup all-purpose flour  
-2 onions, chopped  
-2 celery ribs, chopped  
-1 red bell pepper, chopped  
-1 green bell pepper, chopped  
-1 teaspoon cayenne, or to taste  
-1/2 tsp thyme  
-4 cups sliced fresh okra  
-2 cups thinly sliced scallion greens  
-
-*For the rice:*  
-1 1/2 cups long-grain brown rice  
-1 1/2 cups long-grain white rice  
+* Two 5 1/2-pound ducks, excess fat discarded and ducks cut into serving pieces  
+* 2 pounds kielbasa (Polish smoked sausage), cut into 1/4-inch-thick rounds)  
+* 12 cups chicken broth  
+* 6 cups water  
+* 1/2 cup all-purpose flour  
+* 2 onions, chopped  
+* 2 celery ribs, chopped  
+* 1 red bell pepper, chopped  
+* 1 green bell pepper, chopped  
+* 1 teaspoon cayenne, or to taste  
+* 1/2 tsp thyme  
+* 4 cups sliced fresh okra  
+* 2 cups thinly sliced scallion greens  
+* 
+* #### For the rice:
+  * 1 1/2 cups long-grain brown rice  
+  * 1 1/2 cups long-grain white rice  
 
 </div>
 

@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Spanish Eggs & Potatoes (Huevos Rotos)
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Spanish Eggs & Potatoes (Huevos Rotos)
 serves: "Serves 4"
 summary: "."
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -20,16 +21,16 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb. Mexican chorizo  
-1 1/2 lbs small Yukon Gold potatoes  
-2 tbsp olive oil  
-1 large yellow onion, chopped  
-2 tbsp sherry vinegar  
-Salt and freshly ground black pepper  
-4 cloves garlic, smashed and chopped  
-1 large poblano or 2 jalapenos, stemmed, seeded and cut into strips  
-6 eggs  
-1 scallion, sliced thinly   
+* 1 lb. Mexican chorizo  
+* 1 1/2 lbs small Yukon Gold potatoes  
+* 2 tbsp olive oil  
+* 1 large yellow onion, chopped  
+* 2 tbsp sherry vinegar  
+* Salt and freshly ground black pepper  
+* 4 cloves garlic, smashed and chopped  
+* 1 large poblano or 2 jalapenos, stemmed, seeded and cut into strips  
+* 6 eggs  
+* 1 scallion, sliced thinly   
 
 </div>
 

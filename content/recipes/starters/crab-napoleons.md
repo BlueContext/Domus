@@ -21,17 +21,17 @@ This is very simple recipe, with little room to hide subpar ingredients. Use the
 
 <div class="ingredient-list">
 
-¾ lb. peekytoe or jumbo lump crab meat  
-1 Granny Smith apple  
-1 ripe tomato  
-1 ½ tbsp. chopped chives   
-4 tbsp. fresh lemon juice  
-2 ½ tbsp. sour cream  
-2 ½ tbsp mayonnaise  
-2 tsp. curry powder  
-2 tbsp. milk  
-White pepper  
-6 puff pastry rectangles (1” by 4”), baked and split in half (see note below)  
+* ¾ lb. peekytoe or jumbo lump crab meat  
+* 1 Granny Smith apple  
+* 1 ripe tomato  
+* 1 ½ tbsp. chopped chives   
+* 4 tbsp. fresh lemon juice  
+* 2 ½ tbsp. sour cream  
+* 2 ½ tbsp mayonnaise  
+* 2 tsp. curry powder  
+* 2 tbsp. milk  
+* White pepper  
+* 6 puff pastry rectangles (1” by 4”), baked and split in half (see note below)  
 
 </div>
 

@@ -9,7 +9,7 @@ serves: "Serves 6 - 8"
 summary: "Here is the perfect waffle: crisp and golden on the outside, and so light you’ll think they’re hollow."
 categories:
 - All Recipes
-- Breakfast
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -20,14 +20,14 @@ The keys to this recipe are the surprising amount of butter in the batter (this 
 
 <div class="ingredient-list">
 
-1 3/4 c. Flour  
-1 scant tbsp. Baking powder  
-1 tbsp. sugar  
-1/2 tsp. salt  
-3 eggs, separated  
-1 cup (2 sticks) butter, melted and cooled to room temperature  
-1 1/2 c. Whole milk  
-1 tsp. Vanilla extract  
+* 1 3/4 c. Flour  
+* 1 scant tbsp. Baking powder  
+* 1 tbsp. sugar  
+* 1/2 tsp. salt  
+* 3 eggs, separated  
+* 1 cup (2 sticks) butter, melted and cooled to room temperature  
+* 1 1/2 c. Whole milk  
+* 1 tsp. Vanilla extract  
 
 </div>
 

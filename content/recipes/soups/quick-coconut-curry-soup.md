@@ -17,18 +17,18 @@ tags:
 
 <div class="ingredient-list">
 
-2 tablespoons oil  
-3 garlic cloves, chopped  
-1 tablespoon fresh ginger, grated  
-3 tablespoons Thai red curry paste  
-8 oz. boneless chicken breast or thighs, sliced  
-4 cups chicken broth  
-1 cup water  
-2 tablespoons fish sauce  
-⅔ cup coconut milk  
-6 oz. dried rice vermicelli noodles  
-1 lime, juiced  
-Sliced red onion, red chilis, cilantro, scallions to garnish  
+* 2 tablespoons oil  
+* 3 garlic cloves, chopped  
+* 1 tablespoon fresh ginger, grated  
+* 3 tablespoons Thai red curry paste  
+* 8 oz. boneless chicken breast or thighs, sliced  
+* 4 cups chicken broth  
+* 1 cup water  
+* 2 tablespoons fish sauce  
+* ⅔ cup coconut milk  
+* 6 oz. dried rice vermicelli noodles  
+* 1 lime, juiced  
+* Sliced red onion, red chilis, cilantro, scallions to garnish  
 
 </div>
 

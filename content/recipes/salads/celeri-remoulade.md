@@ -18,12 +18,12 @@ tags:
 
 <div class="ingredient-list">
 
-3/4 cup good-quality mayonnaise
-2 tablespoons Dijon mustard
-1 teaspoon salt
-2 tablespoons freshly-squeezed lemon juice
-freshly-ground black pepper
-2 lbs celery root 
+* 3/4 cup good-quality mayonnaise
+* 2 tablespoons Dijon mustard
+* 1 teaspoon salt
+* 2 tablespoons freshly-squeezed lemon juice
+* freshly-ground black pepper
+* 2 lbs celery root 
 
 </div>
 

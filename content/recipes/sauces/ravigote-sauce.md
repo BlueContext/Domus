@@ -18,15 +18,15 @@ All of these can be shaped into a log and wrapped tightly in plastic wrap; this 
 
 <div class="ingredient-list">
 
-1 tbsp Dijon mustard  
-2 tsp white wine vinegar  
-1/3 c olive oil  
-1/3 cup finely chopped onion, soaked in cold water for 3 minutes and drained  
-1 tbsp minced shallot  
-1 tbsp snipped chives or minced scallions  
-2 tbsp drained capers, chopped  
-2 tbsp minced fresh parsley  
-1/4 tsp dried tarragon, crumbled  
+* 1 tbsp Dijon mustard  
+* 2 tsp white wine vinegar  
+* 1/3 c olive oil  
+* 1/3 cup finely chopped onion, soaked in cold water for 3 minutes and drained  
+* 1 tbsp minced shallot  
+* 1 tbsp snipped chives or minced scallions  
+* 2 tbsp drained capers, chopped  
+* 2 tbsp minced fresh parsley  
+* 1/4 tsp dried tarragon, crumbled  
 
 </div>
 

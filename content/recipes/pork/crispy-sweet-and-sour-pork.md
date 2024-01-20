@@ -20,22 +20,22 @@ Potato starch produces a uniquely crispy coating on the meat, and is worth seeki
 
 <div class="ingredient-list">
 
-1 pound pork loin, sliced into 1/4” slices  
-1 tablespoon light soy sauce   
-½ teaspoon salt, plus another ½ teaspoon (divided)   
-1 tablespoon Shaoxing wine or dry sherry  
-3 tablespoons water, plus 1 ½ cups (divided)  
-230 grams potato starch (about 1⅓ cup)  
-½ cup sugar (about 115 grams)  
-150ml rice vinegar, 4.5% acidity (about ½ cup)  
-1/4 teaspoon chili flake
-1 teaspoon sesame oil  
-Oil for frying  
-1 tablespoon minced ginger  
-1 tablespoon minced garlic  
-½ of a small carrot, julienned  
-4 scallions, the white parts only, cut into shreds  
-1 small handful cilantro leaves  
+* 1 pound pork loin, sliced into 1/4” slices  
+* 1 tablespoon light soy sauce   
+* ½ teaspoon salt, plus another ½ teaspoon (divided)   
+* 1 tablespoon Shaoxing wine or dry sherry  
+* 3 tablespoons water, plus 1 ½ cups (divided)  
+* 230 grams potato starch (about 1⅓ cup)  
+* ½ cup sugar (about 115 grams)  
+* 150ml rice vinegar, 4.5% acidity (about ½ cup)  
+* 1/4 teaspoon chili flake
+* 1 teaspoon sesame oil  
+* Oil for frying  
+* 1 tablespoon minced ginger  
+* 1 tablespoon minced garlic  
+* ½ of a small carrot, julienned  
+* 4 scallions, the white parts only, cut into shreds  
+* 1 small handful cilantro leaves  
 
 </div>
 

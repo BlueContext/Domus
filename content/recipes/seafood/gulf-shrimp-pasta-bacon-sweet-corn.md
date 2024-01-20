@@ -20,20 +20,20 @@ Grill the corn and roast the peppers over lump hardwood charcoal to add a delici
 
 <div class="ingredient-list">
 
-1/2 lb jumbo Gulf shrimp, peeled and deveined  
-4 slices bacon, cut into 1/4-inch pieces  
-12 ounces fresh Campanile or Radiatori cooked al dente (8 ounces dry)  
-1/2 large yellow onion, diced  
-3 ears corn, roasted on a grill or over a gas burner, and kernels cut off  
-2 roasted red peppers, cut into 1/3-inch dice  
-1 roasted poblano pepper, cut into 1/3-inch dice  
-1 roasted jalapeño, diced small  
-1 tbsp flour  
-1 cup chicken broth  
-1 cup heavy cream  
-1 tbsp chopped cilantro  
-Salt, pepper and Tabasco sauce to taste  
-1/4 cup freshly grated Parmesan cheese  
+* 1/2 lb jumbo Gulf shrimp, peeled and deveined  
+* 4 slices bacon, cut into 1/4-inch pieces  
+* 12 ounces fresh Campanile or Radiatori cooked al dente (8 ounces dry)  
+* 1/2 large yellow onion, diced  
+* 3 ears corn, roasted on a grill or over a gas burner, and kernels cut off  
+* 2 roasted red peppers, cut into 1/3-inch dice  
+* 1 roasted poblano pepper, cut into 1/3-inch dice  
+* 1 roasted jalapeño, diced small  
+* 1 tbsp flour  
+* 1 cup chicken broth  
+* 1 cup heavy cream  
+* 1 tbsp chopped cilantro  
+* Salt, pepper and Tabasco sauce to taste  
+* 1/4 cup freshly grated Parmesan cheese  
 
 </div>
 

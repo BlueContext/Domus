@@ -18,9 +18,9 @@ As a bonus, twice-baked potatoes can be made the day before, and need only be po
 
 <div class="ingredient-list">
 
-3 lbs Yukon Gold potatoes  
-Peanut oil for deep frying  
-Sea salt and black pepper to taste  
+* 3 lbs Yukon Gold potatoes  
+* Peanut oil for deep frying  
+* Sea salt and black pepper to taste  
 
 </div>
 

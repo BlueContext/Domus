@@ -105,7 +105,7 @@ ul.pagination {
     padding: $padding-16;
     background: var(--body-background);
 
-    @include fixed;
+    @include relative;
   }
 
   a,

@@ -18,16 +18,16 @@ tags:
 
 <div class="ingredient-list">
   
-1 fryer chicken (around 4.5 lbs), whole, spatchcocked  
-6 tbsp butter  
-2 tbsp oil   
-6 tbsp Dijon mustard  
-3 tbsp finely minced shallots or scallions  
-1/2 tsp thyme, basil or tarragon  
-1/4 tsp black pepper  
-1/4 tsp cayenne pepper 
-Tabasco sauce to taste  
-3 cups panko breadcrumbs  
+* 1 fryer chicken (around 4.5 lbs), whole, spatchcocked  
+* 6 tbsp butter  
+* 2 tbsp oil   
+* 6 tbsp Dijon mustard  
+* 3 tbsp finely minced shallots or scallions  
+* 1/2 tsp thyme, basil or tarragon  
+* 1/4 tsp black pepper  
+* 1/4 tsp cayenne pepper 
+* Tabasco sauce to taste  
+* 3 cups panko breadcrumbs  
 
 </div>
 

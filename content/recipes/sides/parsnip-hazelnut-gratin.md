@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-4 ounces bacon slices, chopped  
-2 lbs parsnips, peeled, trimmed, and thinly sliced lengthwise (use food processor)  
-1/2 cup hazelnuts, chopped, toasted, divided  
-2 cups heavy cream  
-1 cup chicken stock  
-1 1/2 tsp salt  
-1 tsp ground black pepper  
-2 tbsp minced fresh sage  
+* 4 ounces bacon slices, chopped  
+* 2 lbs parsnips, peeled, trimmed, and thinly sliced lengthwise (use food processor)  
+* 1/2 cup hazelnuts, chopped, toasted, divided  
+* 2 cups heavy cream  
+* 1 cup chicken stock  
+* 1 1/2 tsp salt  
+* 1 tsp ground black pepper  
+* 2 tbsp minced fresh sage  
 
 </div>
 

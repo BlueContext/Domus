@@ -17,21 +17,21 @@ tags:
 
 <div class="ingredient-list">
 
-2 clove garlic, minced  
-3 tbsp butter  
-3/4 cup finely sliced onion  
-3/4 cup finely sliced leeks  
-1 cup carrots, sliced  
-1 cup parsnips, sliced  
-1 lb mushrooms, cleaned and sliced  
-1 oz dried wild mushrooms soaked in 1 cup hot water  
-1 tsp kosher salt  
-1 tbsp minced fresh sage leaves  
-1/2 cup dry Madeira  
-1/3 cup wild rice  
-1/4 cup pearl barley   
-5 cups vegetable stock or chicken stock  
-1 or 2 scallions, thinly sliced, for garnish  
+* 2 clove garlic, minced  
+* 3 tbsp butter  
+* 3/4 cup finely sliced onion  
+* 3/4 cup finely sliced leeks  
+* 1 cup carrots, sliced  
+* 1 cup parsnips, sliced  
+* 1 lb mushrooms, cleaned and sliced  
+* 1 oz dried wild mushrooms soaked in 1 cup hot water  
+* 1 tsp kosher salt  
+* 1 tbsp minced fresh sage leaves  
+* 1/2 cup dry Madeira  
+* 1/3 cup wild rice  
+* 1/4 cup pearl barley   
+* 5 cups vegetable stock or chicken stock  
+* 1 or 2 scallions, thinly sliced, for garnish  
 
 </div>
 

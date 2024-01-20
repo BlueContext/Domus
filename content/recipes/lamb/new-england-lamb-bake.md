@@ -17,20 +17,20 @@ tags:
 
 <div class="ingredient-list">
 
-1 tablespoon oil  
-2 pounds boneless leg of lamb, cut into 1-inch cubes  
-1 large onion, chopped  
-1/4 cup all-purpose flour  
-3 cups chicken broth  
-2 large leeks (white portion only), cut into 1/2-inch slices  
-2 large carrots, sliced  
-2 tablespoons minced fresh parsley, divided  
-1/2 teaspoon dried rosemary, crushed  
-1/2 teaspoon salt  
-1/4 teaspoon pepper  
-1/4 teaspoon dried thyme  
-3 large potatoes, peeled and sliced  
-3 tablespoons butter, melted and divided  
+* 1 tablespoon oil  
+* 2 pounds boneless leg of lamb, cut into 1-inch cubes  
+* 1 large onion, chopped  
+* 1/4 cup all-purpose flour  
+* 3 cups chicken broth  
+* 2 large leeks (white portion only), cut into 1/2-inch slices  
+* 2 large carrots, sliced  
+* 2 tablespoons minced fresh parsley, divided  
+* 1/2 teaspoon dried rosemary, crushed  
+* 1/2 teaspoon salt  
+* 1/4 teaspoon pepper  
+* 1/4 teaspoon dried thyme  
+* 3 large potatoes, peeled and sliced  
+* 3 tablespoons butter, melted and divided  
 
 </div>
 

@@ -17,29 +17,30 @@ tags:
 
 <div class="ingredient-list">
 
-1 1/2 lbs beef round or chuck, sliced against the grain as thinly as possible  
-2 tbsp Shaoxing wine or dry sherry  
-1/2 tsp salt  
-½ tsp baking soda   
-1/4 cup cornstarch   
-
-*Sauce:*  
-1 tbsp loosely packed orange zest (from one large orange)  
-1/2 cup orange juice  
-3 tbsp rice vinegar   
-1 tbsp soy sauce   
-1 tsp sambal olek or chili garlic sauce (optional)  
-A pinch of white pepper  
-2 tbsp sugar   
-1 tbsp cornstarch  
-
-*Stir fry:*  
-1/2 cup peanut oil  
-1 yellow onion, cut into large squares  
-1 red or yellow bell pepper, cut into large chunks   
-1 tsp minced ginger  
-2 cloves garlic, finely minced  
-2 pieces of dried tangerine skin, broken in half (optional)  
+* #### For beef:
+  * 1 1/2 lbs beef round or chuck, sliced against the grain as thinly as possible  
+  * 2 tbsp Shaoxing wine or dry sherry  
+  * 1/2 tsp salt  
+  * ½ tsp baking soda   
+  * 1/4 cup cornstarch   
+* 
+* #### For sauce:
+  * 1 tbsp loosely packed orange zest (from one large orange)  
+  * 1/2 cup orange juice  
+  * 3 tbsp rice vinegar   
+  * 1 tbsp soy sauce   
+  * 1 tsp sambal olek or chili garlic sauce (optional)  
+  * A pinch of white pepper  
+  * 2 tbsp sugar   
+  * 1 tbsp cornstarch  
+* 
+* #### For stir fry:
+  * 1/2 cup peanut oil  
+  * 1 yellow onion, cut into large squares  
+  * 1 red or yellow bell pepper, cut into large chunks   
+  * 1 tsp minced ginger  
+  * 2 cloves garlic, finely minced  
+  * 2 pieces of dried tangerine skin, broken in half (optional)  
 
 </div>
 

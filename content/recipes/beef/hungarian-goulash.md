@@ -20,21 +20,21 @@ True goulash celebrates the delicious taste of the chronically under-appreciated
 
 <div class="ingredient-list">
 
-2 slices bacon, chopped  
-1 1/2 lbs boneless beef chuck, trimmed and cut into 1/2” cubes  
-2 tbsp oil  
-2 medium onions, chopped fine  
-2 garlic cloves, minced  
-2 tbsp paprika (sweet, or a mixture of sweet and hot)  
-1 scant tsp caraway seeds  
-Scant 1/4 cup flour   
-1/8 cup red wine vinegar  
-1/8 cup tomato paste  
-2 1/2 cups beef stock  
-2 1/2 cups water  
-Salt and black pepper to taste  
-1 large red bell pepper, chopped fine  
-2 large russet potatoes  
+* 2 slices bacon, chopped  
+* 1 1/2 lbs boneless beef chuck, trimmed and cut into 1/2” cubes  
+* 2 tbsp oil  
+* 2 medium onions, chopped fine  
+* 2 garlic cloves, minced  
+* 2 tbsp paprika (sweet, or a mixture of sweet and hot)  
+* 1 scant tsp caraway seeds  
+* Scant 1/4 cup flour   
+* 1/8 cup red wine vinegar  
+* 1/8 cup tomato paste  
+* 2 1/2 cups beef stock  
+* 2 1/2 cups water  
+* Salt and black pepper to taste  
+* 1 large red bell pepper, chopped fine  
+* 2 large russet potatoes  
 
 </div>
 

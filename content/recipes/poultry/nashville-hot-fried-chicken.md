@@ -23,35 +23,35 @@ I like to serve this with potato salad, coleslaw, and homemade sweet pickles. Yo
 
 <div class="ingredient-list">
 
-*For the marinade:*  
-1 tbsp freshly ground black pepper  
-2 tbsp kosher salt  
-2 cups buttermilk  
-1 tsp cayenne pepper  
-½ cup Louisiana-style hot sauce (Crystal preferred)  
-1 whole chicken cut into 10 pieces (cut the breasts in half crossways) plus 4 more thighs or drumsticks.  
-  
-*For the coating:*  
-2 cups all-purpose flour  
-1 cup corn starch  
-2 tsp kosher salt  
-1 tsp baking powder  
-1 tbsp ground black pepper  
-1 tsp white pepper  
-½ tsp garlic powder  
-  
-*For the dip:*  
-1 cup buttermilk  
-2 eggs, beaten  
-2 tbsp Louisiana style hot sauce   
-  
-*For the spiced oil:*  
-3-6 tbsp cayenne pepper (you can use as little as a tsp, but make sure the volume of cayenne plus paprika equals 3-4 tbsp)  
-1 heaping tbsp packed dark brown sugar  
-1 tsp chili powder  
-½ tsp garlic powder  
-½ tsp paprika  
-Peanut oil for frying.  
+* #### For the marinade:
+  * 1 tbsp freshly ground black pepper  
+  * 2 tbsp kosher salt  
+  * 2 cups buttermilk  
+  * 1 tsp cayenne pepper  
+  * ½ cup Louisiana-style hot sauce (Crystal preferred)  
+  * 1 whole chicken cut into 10 pieces (cut the breasts in half crossways) plus 4 more thighs or drumsticks.  
+  *   
+* #### For the coating:
+  * 2 cups all-purpose flour  
+  * 1 cup corn starch  
+  * 2 tsp kosher salt  
+  * 1 tsp baking powder  
+  * 1 tbsp ground black pepper  
+  * 1 tsp white pepper  
+  * ½ tsp garlic powder  
+  *   
+* #### For the dip:
+  * 1 cup buttermilk  
+  * 2 eggs, beaten  
+  * 2 tbsp Louisiana style hot sauce   
+  *   
+* #### For the spiced oil:
+  * 3-6 tbsp cayenne pepper (you can use as little as a tsp, but make sure the volume of cayenne plus paprika equals 3-4 tbsp)  
+  * 1 heaping tbsp packed dark brown sugar  
+  * 1 tsp chili powder  
+  * ½ tsp garlic powder  
+  * ½ tsp paprika  
+  * Peanut oil for frying.  
 
 </div>
 

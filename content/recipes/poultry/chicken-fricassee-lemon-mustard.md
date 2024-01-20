@@ -18,22 +18,22 @@ tags:
 
 <div class="ingredient-list">
 
-1/4 cup vegetable oil  
-1 (roughly 4-lb) free-range chicken, cut into 8 serving pieces  
-2 teaspoons salt  
-1 teaspoon black pepper  
-3/4 cup plus 2 tablespoons all-purpose flour  
-3 carrots, chopped  
-2 onions, chopped  
-5 garlic cloves, chopped  
-2 cups heavy cream  
-1 1/4 cups dry white wine  
-1/4 cup fresh lemon juice  
-1/4 cup Dijon mustard  
-1 teaspoon fresh thyme leaves  
-1 Turkish or 1/2 California bay leaf  
-1/2 cup water  
-3 tablespoons unsalted butter   
+* 1/4 cup vegetable oil  
+* 1 (roughly 4-lb) free-range chicken, cut into 8 serving pieces  
+* 2 teaspoons salt  
+* 1 teaspoon black pepper  
+* 3/4 cup plus 2 tablespoons all-purpose flour  
+* 3 carrots, chopped  
+* 2 onions, chopped  
+* 5 garlic cloves, chopped  
+* 2 cups heavy cream  
+* 1 1/4 cups dry white wine  
+* 1/4 cup fresh lemon juice  
+* 1/4 cup Dijon mustard  
+* 1 teaspoon fresh thyme leaves  
+* 1 Turkish or 1/2 California bay leaf  
+* 1/2 cup water  
+* 3 tablespoons unsalted butter   
 
 </div>
 

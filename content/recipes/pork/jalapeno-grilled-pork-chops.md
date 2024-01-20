@@ -17,25 +17,25 @@ tags:
 
 <div class="ingredient-list">
 
-*For the pork chops:*  
-5 large jalapenos, stemmed  
-5 large garlic cloves, peeled  
-1 bunch cilantro stems, cut into 1” pieces (about 1 cup)  
-2 tbsp rice vinegar  
-1/2 cup olive oil, plus more for cooking  
-1 tbsp kosher salt  
-2 tsp granulated sugar  
-8 thin-cut, bone-in pork loin chops  
-  
-*For the relish:*  
-1 large jalapeno, thinly sliced into rings  
-1 small red onion, thinly sliced into rings  
-1/3 cup rice vinegar  
-1 tsp kosher salt  
-2 tbsp granulated sugar  
-  
-*For garnish:*  
-Cilantro leaves  
+* #### For the pork chops:
+  * 5 large jalapenos, stemmed  
+  * 5 large garlic cloves, peeled  
+  * 1 bunch cilantro stems, cut into 1” pieces (about 1 cup)  
+  * 2 tbsp rice vinegar  
+  * 1/2 cup olive oil, plus more for cooking  
+  * 1 tbsp kosher salt  
+  * 2 tsp granulated sugar  
+  * 8 thin-cut, bone-in pork loin chops  
+  *   
+* #### For the relish:
+  * 1 large jalapeno, thinly sliced into rings  
+  * 1 small red onion, thinly sliced into rings  
+  * 1/3 cup rice vinegar  
+  * 1 tsp kosher salt  
+  * 2 tbsp granulated sugar  
+  *   
+* #### For garnish:
+  * Cilantro leaves  
 
 </div>
 

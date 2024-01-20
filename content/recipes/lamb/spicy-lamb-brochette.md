@@ -18,17 +18,17 @@ tags:
 
 <div class="ingredient-list">
 
-2 lbs boned leg of lamb, cut into 1” cubes  
-1 cup olive oil  
-2 tbsp chopped garlic  
-1/4 cup chopped parsley  
-1 tsp salt  
-1 tsp pepper  
-1 tsp crushed red pepper flakes  
-1 tsp dried oregano  
-1 tsp ground cumin  
-1 tsp paprika  
-Chopped parsley and a few rosemary sprigs, to garnish  
+* 2 lbs boned leg of lamb, cut into 1” cubes  
+* 1 cup olive oil  
+* 2 tbsp chopped garlic  
+* 1/4 cup chopped parsley  
+* 1 tsp salt  
+* 1 tsp pepper  
+* 1 tsp crushed red pepper flakes  
+* 1 tsp dried oregano  
+* 1 tsp ground cumin  
+* 1 tsp paprika  
+* Chopped parsley and a few rosemary sprigs, to garnish  
 
 </div>
 

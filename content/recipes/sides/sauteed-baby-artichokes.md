@@ -17,16 +17,16 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 lb frozen baby artichokes or artichoke quarters, thawed  
-1/4 cup olive oil   
-1 tsp minced garlic  
-1/4 tsp dried rosemary, crumbled  
-1/4 tsp dried oregano, crumbled  
-1/4 tsp dried basil, crumbled  
-2 tsp fresh lemon juice, or to taste  
-1/3 cup dry white wine or dry vermouth  
-1/4 tsp crushed red pepper flakes  
-1/2 tbsp finely minced fresh parsley   
+* 1/2 lb frozen baby artichokes or artichoke quarters, thawed  
+* 1/4 cup olive oil   
+* 1 tsp minced garlic  
+* 1/4 tsp dried rosemary, crumbled  
+* 1/4 tsp dried oregano, crumbled  
+* 1/4 tsp dried basil, crumbled  
+* 2 tsp fresh lemon juice, or to taste  
+* 1/3 cup dry white wine or dry vermouth  
+* 1/4 tsp crushed red pepper flakes  
+* 1/2 tbsp finely minced fresh parsley   
 
 </div>
 

@@ -26,19 +26,19 @@ Note that the original recipe calls for sherry. This recipe showcases the nutty 
 
 <div class="ingredient-list">
 
-6 boneless chicken breasts, skin removed  
-Cognac or brandy  
-White pepper  
-Ground marjoram (about a teaspoon)  
-7 tbsp butter  
-1/3 cup sherry or dry vermouth  
-3 egg yolks  
-1 ½ cups cream  
-Nutmeg  
-6 sliced of French bread, toasted until crisp  
-½ cup grated Gruyere cheese  
-½ cup buttered bread crumbs (panko is preferable)   
-6 slices of crusty baguette, toasted
+* 6 boneless chicken breasts, skin removed  
+* Cognac or brandy  
+* White pepper  
+* Ground marjoram (about a teaspoon)  
+* 7 tbsp butter  
+* 1/3 cup sherry or dry vermouth  
+* 3 egg yolks  
+* 1 ½ cups cream  
+* Nutmeg  
+* 6 sliced of French bread, toasted until crisp  
+* ½ cup grated Gruyere cheese  
+* ½ cup buttered bread crumbs (panko is preferable)   
+* 6 slices of crusty baguette, toasted
 
 </div>
 

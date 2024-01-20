@@ -23,13 +23,13 @@ Egg whites are very bland, so season the filling highly.
 
 <div class="ingredient-list">
 
-6 hard-boiled large eggs  
-2 tbsp. Mayonnaise   
-1 tbsp. Dijon mustard  
-3/4 tsp. Dry mustard  
-3 tbsp trained sweet pickle relish, minced very finely  
-2 tsp grated onions, minced very finely  
-Small capers and sweet paprika for garnish  
+* 6 hard-boiled large eggs  
+* 2 tbsp. Mayonnaise   
+* 1 tbsp. Dijon mustard  
+* 3/4 tsp. Dry mustard  
+* 3 tbsp trained sweet pickle relish, minced very finely  
+* 2 tsp grated onions, minced very finely  
+* Small capers and sweet paprika for garnish  
 
 </div>
 
@@ -41,11 +41,11 @@ Halve the eggs lengthwise. Push the yolks through a sieve into a bowl, and mix i
 
 <div class="ingredient-list">
 
-4 hard-boiled large eggs  
-3 tbsp. Mayonnaise   
-1/4 c. Sour cream  
-4 tsp. Drained and squeezed bottled horseradish  
-1 1/2 tbsp. Minced parsley leaves   
+* 4 hard-boiled large eggs  
+* 3 tbsp. Mayonnaise   
+* 1/4 c. Sour cream  
+* 4 tsp. Drained and squeezed bottled horseradish  
+* 1 1/2 tbsp. Minced parsley leaves   
 
 </div>
 

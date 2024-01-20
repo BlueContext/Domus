@@ -19,11 +19,11 @@ The seasoning and herbs can be varied, and a wide variety of dry hard cheese can
 
 <div class="ingredient-list">
 
-1 1/4 cups grated Parmigiano-Reggiano  
-2 teaspoons flour  
-1/8 teaspoon cayenne pepper  
-1 tablespoon fresh thyme leaves  
-Black pepper to taste  
+* 1 1/4 cups grated Parmigiano-Reggiano  
+* 2 teaspoons flour  
+* 1/8 teaspoon cayenne pepper  
+* 1 tablespoon fresh thyme leaves  
+* Black pepper to taste  
 
 </div>
 

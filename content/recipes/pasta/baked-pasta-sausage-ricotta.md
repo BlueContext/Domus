@@ -17,20 +17,20 @@ tags:
 
 <div class="ingredient-list">
 
-3 tbsp olive oil  
-¾ lbs hot italian sausage  
-4 cloves garlic, thinly sliced  
-1 tsp dried oregano  
-¼ tsp fennel seeds, coarsly crushed  
-Pinch red pepper flakes  
-1 (28oz) can whole peeled tomatoes with their juices  
-1 (14 oz) can crushed tomatoes  
-2 bay leaves  
-12 oz pasta such as shells, farfalle or other shaped pasta  
-8 oz fresh mozzarella, torn into bite-size pieces.  
-6 oz whole milk ricotta  
-1/3 c. grated parmesan  
-¼ c. basil leaves  
+* 3 tbsp olive oil  
+* ¾ lbs hot italian sausage  
+* 4 cloves garlic, thinly sliced  
+* 1 tsp dried oregano  
+* ¼ tsp fennel seeds, coarsly crushed  
+* Pinch red pepper flakes  
+* 1 (28oz) can whole peeled tomatoes with their juices  
+* 1 (14 oz) can crushed tomatoes  
+* 2 bay leaves  
+* 12 oz pasta such as shells, farfalle or other shaped pasta  
+* 8 oz fresh mozzarella, torn into bite-size pieces.  
+* 6 oz whole milk ricotta  
+* 1/3 c. grated parmesan  
+* ¼ c. basil leaves  
 
 </div>
 

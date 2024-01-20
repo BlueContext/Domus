@@ -20,17 +20,17 @@ Oyster sauce is an odd ingredient that can add a striking depth of savory flavor
 
 <div class="ingredient-list">
   
-2 lbs chicken thighs  
-2 tbsp oil  
-12 shiitake mushrooms, stemmed and halved  
-1 med yellow onion, thinly sliced  
-1 cup chicken stock  
-6 tbsp oyster sauce  
-1/4 cup soy sauce  
-3” piece ginger, peeled and thinly sliced  
-1 tsp cornstarch  
-Sliced scallions to serve  
-Toasted sesame seeds to serve  
+* 2 lbs chicken thighs  
+* 2 tbsp oil  
+* 12 shiitake mushrooms, stemmed and halved  
+* 1 med yellow onion, thinly sliced  
+* 1 cup chicken stock  
+* 6 tbsp oyster sauce  
+* 1/4 cup soy sauce  
+* 3” piece ginger, peeled and thinly sliced  
+* 1 tsp cornstarch  
+* Sliced scallions to serve  
+* Toasted sesame seeds to serve  
 
 </div>
 

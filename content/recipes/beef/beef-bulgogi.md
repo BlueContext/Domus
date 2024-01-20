@@ -18,23 +18,23 @@ tags:
 
 <div class="ingredient-list">
 
-*For Marinade:*  
-4 tbsp soy sauce   
-2 tbsp sesame oil   
-3 tbsp brown sugar   
-8 cloves garlic, crushed and chopped   
-1/2 asian pear or 1 small apple   
-Freshly ground black pepper   
-  
-*For Bulgogi:*  
-1/2 large yellow onion, thinly sliced lengthwise   
-3 scallions, cut into 3" lengths and then cut in half   
-1 big carrot, peeled, and then peeled into ribbons with the peeler   
-1 red bell pepper, sliced thinly   
-1 jalapeno pepper, sliced thinly lengthwise   
-1 - 1 1/2 lb. thinly sliced ribeye or chuck   
-1 tbsp sesame oil   
-1/2 tbsp toasted white sesame seeds   
+#### For Marinade:  
+* 4 tbsp soy sauce   
+* 2 tbsp sesame oil   
+* 3 tbsp brown sugar   
+* 8 cloves garlic, crushed and chopped   
+* 1/2 asian pear or 1 small apple   
+* Freshly ground black pepper   
+*   
+#### For Bulgogi:
+* 1/2 large yellow onion, thinly sliced lengthwise   
+* 3 scallions, cut into 3" lengths and then cut in half   
+* 1 big carrot, peeled, and then peeled into ribbons with the peeler   
+* 1 red bell pepper, sliced thinly   
+* 1 jalapeno pepper, sliced thinly lengthwise   
+* 1 - 1 1/2 lb. thinly sliced ribeye or chuck   
+* 1 tbsp sesame oil   
+* 1/2 tbsp toasted white sesame seeds   
 
 </div>
 

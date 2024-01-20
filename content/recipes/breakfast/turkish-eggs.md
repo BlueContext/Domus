@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Turkish Eggs (Çılbır)
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Turkish Eggs (Çılbır)
 serves: "Serves 2"
 summary: "Poached eggs with a garlicky yogurt and a drizzle of spiced oil and butter -- this is beautiful, delicious, unusual, and quite easy. Serve with toasted crusty bread."
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -20,18 +21,18 @@ tags:
 
 <div class="ingredient-list">
 
-1 cup thick yogurt (such as Greek yogurt)  
-1 clove garlic, finely grated  
-2 tbsp butter  
-1 tbsp olive oil  
-1 tbsp Aleppo pepper  
-1/2 tsp ground cumin, divided  
-1/4 tsp ground coriander  
-Salt and black pepper  
-4 large eggs  
-1 tbsp white wine vinegar  
-Chopped fresh dill or parsley leaves for garnish  
-Toasted crusty bread or warm flatbread, for serving  
+* 1 cup thick yogurt (such as Greek yogurt)  
+* 1 clove garlic, finely grated  
+* 2 tbsp butter  
+* 1 tbsp olive oil  
+* 1 tbsp Aleppo pepper  
+* 1/2 tsp ground cumin, divided  
+* 1/4 tsp ground coriander  
+* Salt and black pepper  
+* 4 large eggs  
+* 1 tbsp white wine vinegar  
+* Chopped fresh dill or parsley leaves for garnish  
+* Toasted crusty bread or warm flatbread, for serving  
 
 </div>
 

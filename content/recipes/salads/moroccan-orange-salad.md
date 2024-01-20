@@ -20,10 +20,10 @@ This is so simple that the quality of your oranges will matter. When they're at 
 
 <div class="ingredient-list">
 
-4 navel oranges  
-1/4 cup sugar  
-3 tbsp fresh lemon juice  
-1 1/2 tsp orange blossom water  
+* 4 navel oranges  
+* 1/4 cup sugar  
+* 3 tbsp fresh lemon juice  
+* 1 1/2 tsp orange blossom water  
 
 </div>
 

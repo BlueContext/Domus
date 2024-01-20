@@ -17,16 +17,16 @@ tags:
 
 <div class="ingredient-list">
 
-5 scallions, cut into 3 pieces  
-1 yellow onion, quartered  
-2 long red chiles, halved  
-3.5 ounces ginger, peeled and sliced  
-6 cloves garlic, crushed  
-1/4 cup soy sauce  
-1 cup Chinese cooking wine (Shaoxing) or dry sherry  
-1/4 cup sugar  
-4 quarts plus 1 cup water  
-1 whole chicken   
+* 5 scallions, cut into 3 pieces  
+* 1 yellow onion, quartered  
+* 2 long red chiles, halved  
+* 3.5 ounces ginger, peeled and sliced  
+* 6 cloves garlic, crushed  
+* 1/4 cup soy sauce  
+* 1 cup Chinese cooking wine (Shaoxing) or dry sherry  
+* 1/4 cup sugar  
+* 4 quarts plus 1 cup water  
+* 1 whole chicken   
 
 </div>
 

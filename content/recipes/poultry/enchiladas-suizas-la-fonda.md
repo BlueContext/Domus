@@ -19,33 +19,33 @@ tags:
 
 <div class="ingredient-list">
   
-*For the sauce:*  
-2 tbsp oil  
-1/3 cup white onion, chopped  
-2-3 serrano chiles, stemmed and chopped  
-2 cloves garlic, peeled  
-1/2 cup raw pepitas (pumpkin seeds)  
-1 lb tomatillos, husks removed, cored and quartered  
-1 cup crema Mexicana  
-Kosher salt to taste  
-  
-*For the filling:*  
-2 cups poached and shredded chicken  
-  
-*For the assembly:*  
-12 white corn tortillas  
-1 cup vegetable oil for softening the tortillas  
-2 cups Swiss cheese, shredded  
-  
-*For the garnish:*  
-6 large leaves romaine lettuce, ribs removed, shredded  
-2 medium tomatoes, cored, seeded, and chopped  
-1 small serrano chile, stemmed, seeded and minced  
-4 scallions, chopped fine  
-Cilantro leaves, to taste  
-1 tsp lemon juice  
-2 tsp oil  
-Kosher salt and black pepper to taste  
+* #### For the sauce:
+  * 2 tbsp oil  
+  * 1/3 cup white onion, chopped  
+  * 2-3 serrano chiles, stemmed and chopped  
+  * 2 cloves garlic, peeled  
+  * 1/2 cup raw pepitas (pumpkin seeds)  
+  * 1 lb tomatillos, husks removed, cored and quartered  
+  * 1 cup crema Mexicana  
+  * Kosher salt to taste  
+  *   
+* #### For the filling:
+  * 2 cups poached and shredded chicken  
+  *   
+* #### For the assembly:
+  * 12 white corn tortillas  
+  * 1 cup vegetable oil for softening the tortillas  
+  * 2 cups Swiss cheese, shredded  
+  *   
+* #### For the garnish:
+  * 6 large leaves romaine lettuce, ribs removed, shredded  
+  * 2 medium tomatoes, cored, seeded, and chopped  
+  * 1 small serrano chile, stemmed, seeded and minced  
+  * 4 scallions, chopped fine  
+  * Cilantro leaves, to taste  
+  * 1 tsp lemon juice  
+  * 2 tsp oil  
+  * Kosher salt and black pepper to taste  
 
 </div>
 

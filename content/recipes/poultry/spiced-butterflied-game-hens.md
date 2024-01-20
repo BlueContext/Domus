@@ -18,15 +18,15 @@ tags:
 
 <div class="ingredient-list">
   
-2 Cornish game hens, giblets removed and discarded  
-1 tsp salt  
-1/2 cup olive oil  
-6 hot pickled cherry peppers, halved, stemmed and seeded  
-A scant 1/4 cup of the brine from the jar of peppers  
-6 cloves of garlic, cut in half lengthwise  
-4 bay leaves (if you can find fresh bay leaves, they’d be perfect here)  
-The leaves stripped from 2 sprigs of rosemary  
-1 scant cup white wine or dry vermouth  
+* 2 Cornish game hens, giblets removed and discarded  
+* 1 tsp salt  
+* 1/2 cup olive oil  
+* 6 hot pickled cherry peppers, halved, stemmed and seeded  
+* A scant 1/4 cup of the brine from the jar of peppers  
+* 6 cloves of garlic, cut in half lengthwise  
+* 4 bay leaves (if you can find fresh bay leaves, they’d be perfect here)  
+* The leaves stripped from 2 sprigs of rosemary  
+* 1 scant cup white wine or dry vermouth  
 
 </div>
 

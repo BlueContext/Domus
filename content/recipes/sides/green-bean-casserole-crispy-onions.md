@@ -20,27 +20,27 @@ As a bonus, twice-baked potatoes can be made the day before, and need only be po
 
 <div class="ingredient-list">
 
-*For Crispy Onions:*  
-2 medium yellow onions, thinly sliced  
-1/4 cup flour  
-2 tbsp Panko bread crumbs  
-1/2 tsp salt  
-Freshly ground black pepper  
-Peanut oil for frying  
-
-*For Mushroom Sauce:*  
-3 tbsp butter  
-12 oz mushrooms, thinly sliced or coarsely chopped  
-A pinch of fresh nutmeg  
-Freshly ground black pepper  
-3/4 tsp salt  
-2 garlic cloves, minced  
-3 tbsp flour  
-1 cup chicken broth  
-1 cup heavy cream  
-
-*For Assembly:*  
-1 to 1 1/2 lbs green beans, trimmed and halved   
+* #### For Crispy Onions:
+  * 2 medium yellow onions, thinly sliced  
+  * 1/4 cup flour  
+  * 2 tbsp Panko bread crumbs  
+  * 1/2 tsp salt  
+  * Freshly ground black pepper  
+  * Peanut oil for frying  
+  * 
+* #### For Mushroom Sauce:
+  * 3 tbsp butter  
+  * 12 oz mushrooms, thinly sliced or coarsely chopped  
+  * A pinch of fresh nutmeg  
+  * Freshly ground black pepper  
+  * 3/4 tsp salt  
+  * 2 garlic cloves, minced  
+  * 3 tbsp flour  
+  * 1 cup chicken broth  
+  * 1 cup heavy cream  
+  * 
+* #### For Assembly:
+  * 1 to 1 1/2 lbs green beans, trimmed and halved   
 
 </div>
 

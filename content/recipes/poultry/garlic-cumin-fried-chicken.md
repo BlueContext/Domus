@@ -17,30 +17,30 @@ tags:
 
 <div class="ingredient-list">
 
-*For the marinade:*  
-2 tbsp. kosher salt  
-6 cloves garlic, coarsely chopped  
-1 tbsp. coarsely ground black pepper  
-1 tbsp. ground cumin  
-2 tsp. smoked paprika  
-2 tsp. dried oregano  
-2 tsp. lime zest  
-¼ cup lime juice (juice and zest of two medium limes)  
-1 whole chicken, cut into 8 pieces, plus a pack of 4 thighs or drumsticks.  
-  
-*For the coating:*  
-1 ½ cups all-purpose flour  
-1 cup corn starch  
-1 heaping tbsp. black pepper  
-1 tbsp. garlic powder  
-1 heaping tsp. baking powder  
-1 tsp. white pepper  
-1 tsp. kosher salt  
-1 tsp. ground cumin  
-¼ tsp. cayenne pepper  
-4 egg whites, lightly beaten  
-  
-3 quarts peanut oil or canola oil  
+* #### For the marinade:
+  * 2 tbsp. kosher salt  
+  * 6 cloves garlic, coarsely chopped  
+  * 1 tbsp. coarsely ground black pepper  
+  * 1 tbsp. ground cumin  
+  * 2 tsp. smoked paprika  
+  * 2 tsp. dried oregano  
+  * 2 tsp. lime zest  
+  * ¼ cup lime juice (juice and zest of two medium limes)  
+  * 1 whole chicken, cut into 8 pieces, plus a pack of 4 thighs or drumsticks.  
+  *   
+* #### For the coating:
+  * 1 ½ cups all-purpose flour  
+  * 1 cup corn starch  
+  * 1 heaping tbsp. black pepper  
+  * 1 tbsp. garlic powder  
+  * 1 heaping tsp. baking powder  
+  * 1 tsp. white pepper  
+  * 1 tsp. kosher salt  
+  * 1 tsp. ground cumin  
+  * ¼ tsp. cayenne pepper  
+  * 4 egg whites, lightly beaten  
+  *   
+* 3 quarts peanut oil or canola oil  
 
 </div>
 

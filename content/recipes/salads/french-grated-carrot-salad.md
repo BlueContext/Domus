@@ -18,13 +18,13 @@ tags:
 
 <div class="ingredient-list">
 
-7 large carrots, peeled and grated  
-1/2 bunch flat-leaf parsley, coarsely chopped  
-Juice of two lemons  
-2-3 tbsp olive oil  
-A pinch of sugar  
-Salt and freshly ground black pepper  
-A dab of Dijon mustard  
+* 7 large carrots, peeled and grated  
+* 1/2 bunch flat-leaf parsley, coarsely chopped  
+* Juice of two lemons  
+* 2-3 tbsp olive oil  
+* A pinch of sugar  
+* Salt and freshly ground black pepper  
+* A dab of Dijon mustard  
 
 </div>
 

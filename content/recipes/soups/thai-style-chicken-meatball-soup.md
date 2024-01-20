@@ -18,20 +18,20 @@ tags:
 
 <div class="ingredient-list">
 
-1 4-inch piece of fresh ginger, peeled and sliced  
-6 cloves garlic, peeled and crushed  
-1 jalapeño, stemmed  
-2 lbs ground chicken  
-1 large bunch cilantro, leaves and stems chopped (reserve some leaves for garnish)  
-3 tbsp fish sauce (divided)  
-Kosher salt  
-2 tbsp vegetable or coconut oil, more if needed  
-2 cups chicken broth  
-1 14-oz can full-fat coconut milk  
-1/2 tsp sugar  
-5 oz fresh baby spinach  
-1-2 tbsp fresh lime juice, plus lime wedges for serving (optional)  
-Steamed white rice for serving  
+* 1 4-inch piece of fresh ginger, peeled and sliced  
+* 6 cloves garlic, peeled and crushed  
+* 1 jalapeño, stemmed  
+* 2 lbs ground chicken  
+* 1 large bunch cilantro, leaves and stems chopped (reserve some leaves for garnish)  
+* 3 tbsp fish sauce (divided)  
+* Kosher salt  
+* 2 tbsp vegetable or coconut oil, more if needed  
+* 2 cups chicken broth  
+* 1 14-oz can full-fat coconut milk  
+* 1/2 tsp sugar  
+* 5 oz fresh baby spinach  
+* 1-2 tbsp fresh lime juice, plus lime wedges for serving (optional)  
+* Steamed white rice for serving  
 
 </div>
 

@@ -17,14 +17,14 @@ tags:
 
 <div class="ingredient-list">
 
-2 medium red bell peppers, four flat sides sliced off core, ribs and seeds discarded  
-2 medium yellow bell peppers, four flat sides sliced off core, ribs and seeds discarded  
-Coarse salt and ground pepper  
-1 pound orecchiette or other short pasta  
-2 teaspoons olive oil  
-1 pound sweet Italian sausage, removed from casings  
-1 tablespoon butter, cut into small pieces  
-1/3 cup grated Parmesan cheese  
+* 2 medium red bell peppers, four flat sides sliced off core, ribs and seeds discarded  
+* 2 medium yellow bell peppers, four flat sides sliced off core, ribs and seeds discarded  
+* Coarse salt and ground pepper  
+* 1 pound orecchiette or other short pasta  
+* 2 teaspoons olive oil  
+* 1 pound sweet Italian sausage, removed from casings  
+* 1 tablespoon butter, cut into small pieces  
+* 1/3 cup grated Parmesan cheese  
 
 </div>
 

@@ -18,17 +18,17 @@ tags:
 
 <div class="ingredient-list">
 
-2 cups chicken stock  
-1/2 red bell pepper, cut into julienne strips  
-1/2 cup frozen artichoke hearts, thawed and cooked in a bit of butter  
-3 tbsp olive oil  
-1 onion, minced  
-A 1/4-inch thick slice of prosciutto, cut into 1/4-inch dice  
-1 cup Arborio rice  
-1/3 cup dry white wine or vermouth  
-1/4 cup freshly grated Parmesan cheese  
-1 tbsp minced fresh parsley  
-Salt, black pepper and white pepper to taste  
+* 2 cups chicken stock  
+* 1/2 red bell pepper, cut into julienne strips  
+* 1/2 cup frozen artichoke hearts, thawed and cooked in a bit of butter  
+* 3 tbsp olive oil  
+* 1 onion, minced  
+* A 1/4-inch thick slice of prosciutto, cut into 1/4-inch dice  
+* 1 cup Arborio rice  
+* 1/3 cup dry white wine or vermouth  
+* 1/4 cup freshly grated Parmesan cheese  
+* 1 tbsp minced fresh parsley  
+* Salt, black pepper and white pepper to taste  
 
 </div>
 

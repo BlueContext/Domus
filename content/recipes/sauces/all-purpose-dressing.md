@@ -17,12 +17,12 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 cup fresh mint leaves   
-1/2 cup fresh cilantro or parsley leaves  
-3 cloves garlic  
-1/3 cup fresh lemon juice  
-3/4 cup olive oil  
-1/2 cup Greek yogurt  
+* 1/2 cup fresh mint leaves   
+* 1/2 cup fresh cilantro or parsley leaves  
+* 3 cloves garlic  
+* 1/3 cup fresh lemon juice  
+* 3/4 cup olive oil  
+* 1/2 cup Greek yogurt  
 
 </div>
 

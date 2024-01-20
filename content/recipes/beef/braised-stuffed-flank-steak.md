@@ -17,20 +17,20 @@ tags:
 
 <div class="ingredient-list">
 
-1 2-lb flank steak  
-2 tbsp butter  
-½ large onion, chopped  
-1 clove garlic  
-½ cup chopped mushrooms  
-¼ cup pistachio nuts, coarsely chopped  
-¼ cup chopped parsley  
-1 1/2 cups soft bread cubes  
-¾ tsp poultry seasoning (or a mixture of oregano and basil)  
-½ tsp salt  
-Freshly ground pepper, to taste  
-1 egg, slightly beaten  
-1 cup water, dry table wine or beef stock  
-Kitchen string for tying roast  
+* 1 2-lb flank steak  
+* 2 tbsp butter  
+* ½ large onion, chopped  
+* 1 clove garlic  
+* ½ cup chopped mushrooms  
+* ¼ cup pistachio nuts, coarsely chopped  
+* ¼ cup chopped parsley  
+* 1 1/2 cups soft bread cubes  
+* ¾ tsp poultry seasoning (or a mixture of oregano and basil)  
+* ½ tsp salt  
+* Freshly ground pepper, to taste  
+* 1 egg, slightly beaten  
+* 1 cup water, dry table wine or beef stock  
+* Kitchen string for tying roast  
 
 </div>
 

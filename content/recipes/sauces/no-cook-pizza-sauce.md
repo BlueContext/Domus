@@ -16,13 +16,13 @@ tags:
 
 <div class="ingredient-list">
 
-4 cloves garlic, coarsely chopped  
-1 (14.5 oz) cans whole or crushed tomatoes  
-2 tbsp olive oil  
-1 tsp sugar  
-3/4 tsp salt  
-1 tsp sherry vinegar or balsamic vinegar  
-Pepper to taste   
+* 4 cloves garlic, coarsely chopped  
+* 1 (14.5 oz) cans whole or crushed tomatoes  
+* 2 tbsp olive oil  
+* 1 tsp sugar  
+* 3/4 tsp salt  
+* 1 tsp sherry vinegar or balsamic vinegar  
+* Pepper to taste   
 
 </div>
 

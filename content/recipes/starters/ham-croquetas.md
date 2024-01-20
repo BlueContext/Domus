@@ -19,16 +19,16 @@ tags:
 
 <div class="ingredient-list">
 
-2 tbsp olive oil  
-2 tbsp flour  
-2 cups milk  
-Salt and pepper  
-Freshly grated nutmeg  
-1/2 cup (4 oz) finely chopped jamon de iberico, Serrano, or other dry cured ham  
-1 large egg  
-1 tsp water  
-3 cups Panko bread crumbs  
-Peanut oil for deep frying   
+* 2 tbsp olive oil  
+* 2 tbsp flour  
+* 2 cups milk  
+* Salt and pepper  
+* Freshly grated nutmeg  
+* 1/2 cup (4 oz) finely chopped jamon de iberico, Serrano, or other dry cured ham  
+* 1 large egg  
+* 1 tsp water  
+* 3 cups Panko bread crumbs  
+* Peanut oil for deep frying   
 
 </div>
 

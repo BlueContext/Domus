@@ -17,15 +17,15 @@ tags:
 
 <div class="ingredient-list">
 
-2 tbsp minced garlic  
-2 tbsp soy sauce  
-2 tbsp red wine vinegar  
-1 tbsp vegetable oil    
-1/2 tsp crushed red pepper flakes  
-1/2 tsp sugar  
-1/2 tsp salt  
-1 1/2 lb London broil or flank steak (a piece about 1 1/2 inches thick)  
-1 recipe [Ravigote Sauce]({{< ref "/recipes/sauces/ravigote-sauce.md" >}} "Ravigote Sauce")   
+* 2 tbsp minced garlic  
+* 2 tbsp soy sauce  
+* 2 tbsp red wine vinegar  
+* 1 tbsp vegetable oil    
+* 1/2 tsp crushed red pepper flakes  
+* 1/2 tsp sugar  
+* 1/2 tsp salt  
+* 1 1/2 lb London broil or flank steak (a piece about 1 1/2 inches thick)  
+* 1 recipe [Ravigote Sauce]({{< ref "/recipes/sauces/ravigote-sauce.md" >}} "Ravigote Sauce")   
 
 </div>
 

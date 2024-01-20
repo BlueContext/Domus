@@ -23,13 +23,13 @@ Don't be tempted to use more cheese - this is not a cheese dish, really. You jus
 
 <div class="ingredient-list">
 
-1 clove garlic, peeled  
-1 tbsp. softened butter  
-5 tbsp. butter, cut into small cubes and chilled  
-2 lbs. Yukon Gold potatoes, washed and sliced 1/8” thick  
-1 cup grated Gruyere cheese  
-½ cup grated Parmeggiano Regiano   
-1 ¼ cup heavy cream   
+* 1 clove garlic, peeled  
+* 1 tbsp. softened butter  
+* 5 tbsp. butter, cut into small cubes and chilled  
+* 2 lbs. Yukon Gold potatoes, washed and sliced 1/8” thick  
+* 1 cup grated Gruyere cheese  
+* ½ cup grated Parmeggiano Regiano   
+* 1 ¼ cup heavy cream   
 
 </div>
 

@@ -17,13 +17,13 @@ tags:
 
 <div class="ingredient-list">
 
-1 clove garlic, peeled and smashed  
-2 tbsp fresh lime juice  
-1 tsp Dijon mustard  
-1 tbsp fresh mint, minced  
-1/8 tsp sugar  
-1/4 tsp salt  
-1/3 c salad oil  
+* 1 clove garlic, peeled and smashed  
+* 2 tbsp fresh lime juice  
+* 1 tsp Dijon mustard  
+* 1 tbsp fresh mint, minced  
+* 1/8 tsp sugar  
+* 1/4 tsp salt  
+* 1/3 c salad oil  
 
 </div>
 

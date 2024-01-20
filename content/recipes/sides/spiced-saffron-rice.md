@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-1 1/2 c imported Basmati rice  
-2 tbsp. vegetable oil   
-A 3-inch cinnamon stick  
-7 whole cloves  
-5 green cardamom pods  
-1 tsp salt   
-1/4 tsp crumbled saffron threads  
-1 tbsp milk  
+* 1 1/2 c imported Basmati rice  
+* 2 tbsp. vegetable oil   
+* A 3-inch cinnamon stick  
+* 7 whole cloves  
+* 5 green cardamom pods  
+* 1 tsp salt   
+* 1/4 tsp crumbled saffron threads  
+* 1 tbsp milk  
 
 </div>
 

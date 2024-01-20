@@ -3,13 +3,13 @@ author: "Kevin Baker"
 linktitle: Belgian-Style Yeast Waffles
 menu:
   main:
-    parent: breakfast
+    parent: eggs
 title: Belgian-Style Yeast Waffles
 serves: "Serves 6 - 8"
 summary: "This wonderful recipe from King Arthur Flour produces light, crisp, fluffy waffles with a depth of flavor you can only get from a yeast dough. Best of all (especially for entertaining), the batter is best made the night before."
 categories:
 - All Recipes
-- Breakfast
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-1 1/2 cups lukewarm/room-temperature milk  
-6 tbsp butter, melted and cooled  
-1 tbsp sugar  
-3/4 tsp salt  
-1 tsp vanilla  
-2 large eggs  
-2 cups flour  
-1 1/2 tsp instant yeast   
+* 1 1/2 cups lukewarm/room-temperature milk  
+* 6 tbsp butter, melted and cooled  
+* 1 tbsp sugar  
+* 3/4 tsp salt  
+* 1 tsp vanilla  
+* 2 large eggs  
+* 2 cups flour  
+* 1 1/2 tsp instant yeast   
 
 </div>
 

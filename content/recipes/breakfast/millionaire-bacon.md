@@ -9,7 +9,7 @@ serves: "Serves 4 - 6"
 summary: "Baking is the way to go when making bacon for a crowd. Here, you’ll gild the lily with a magic mixture of brown sugar and spices. This is a brunch hit, and there’s never a single piece left over."
 categories:
 - All Recipes
-- Breakfast
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -20,11 +20,11 @@ tags:
 
 <div class="ingredient-list">
 
-1/4 cup packed brown sugar  
-1/2 tsp freshly ground black pepper  
-1/4 tsp cayenne pepper  
-1/4 tsp ground ginger  
-1 lb thick-cut bacon (10-12 slices)  
+* 1/4 cup packed brown sugar
+* 1/2 tsp freshly ground black pepper
+* 1/4 tsp cayenne pepper
+* 1/4 tsp ground ginger
+* 1 lb thick-cut bacon (10-12 slices)
 
 </div>
 

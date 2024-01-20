@@ -22,21 +22,22 @@ Be sure to get Longhorn cheese, as it has the perfect melting qualities without 
 
 <div class="ingredient-list">
 
-12 corn tortillas  
-1 cup vegetable oil  
-1 white onion, finely chopped  
-3 tbsp finely minced cilantro  
-4 cups grated Longhorn cheese (divided)  
-  
-*For the sauce:*  
-3 tbsp shortening  
-3 tbsp flour  
-2 tbsp chili powder (the standard, blended kind)  
-1 tbsp pure Ancho chili powder  
-1 tsp ground cumin  
-1 tsp ground coriander  
-2 cups chicken stock, plus more if needed.  
-Salt and black pepper  
+* #### For Enchiladas:
+  * 12 corn tortillas  
+  * 1 cup vegetable oil  
+  * 1 white onion, finely chopped  
+  * 3 tbsp finely minced cilantro  
+  * 4 cups grated Longhorn cheese (divided)  
+  *   
+* #### For the Sauce:  
+  * 3 tbsp shortening  
+  * 3 tbsp flour  
+  * 2 tbsp chili powder (the standard, blended kind)  
+  * 1 tbsp pure Ancho chili powder  
+  * 1 tsp ground cumin  
+  * 1 tsp ground coriander  
+  * 2 cups chicken stock, plus more if needed.  
+  * Salt and black pepper  
 
 </div>
 

@@ -19,20 +19,20 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb jumbo Gulf shrimp, peeled and deveined (tails left on)  
-2 eggs  
-2 cups milk  
-Flour  
-2 tbsp olive oil  
-3 sticks (1 1/2 cup) cold butter, cut into pieces  
-Juice of 1 large lemon  
-2 tbsp Peppadew brine from the jar  
-2 cloved minced garlic  
-1 tbsp minced shallot  
-Pinch of dried Fines Herbes  
-4 Peppadew pickled peppers, sliced very thinly  
-Salt, black pepper and Tabasco sauce to taste  
-1 1/2 tbsp minced parsley  
+* 1 lb jumbo Gulf shrimp, peeled and deveined (tails left on)  
+* 2 eggs  
+* 2 cups milk  
+* Flour  
+* 2 tbsp olive oil  
+* 3 sticks (1 1/2 cup) cold butter, cut into pieces  
+* Juice of 1 large lemon  
+* 2 tbsp Peppadew brine from the jar  
+* 2 cloved minced garlic  
+* 1 tbsp minced shallot  
+* Pinch of dried Fines Herbes  
+* 4 Peppadew pickled peppers, sliced very thinly  
+* Salt, black pepper and Tabasco sauce to taste  
+* 1 1/2 tbsp minced parsley  
 
 </div>
 

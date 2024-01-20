@@ -19,15 +19,15 @@ Be sure to let it come to room temperature — the cream cheese means that this 
 
 <div class="ingredient-list">
 
-2 tablespoons unsalted butter  
-3 medium onions, halved and thinly sliced  
-1 1/2 cups sour cream, at room temperature  
-1/2 pound cream cheese, softened  
-1 tablespoon finely chopped flat-leaf parsley  
-1/2 teaspoon onion powder  
-1/2 teaspoon Worcestershire sauce  
-Kosher salt and freshly ground pepper  
-Potato chips, for serving   
+* 2 tablespoons unsalted butter  
+* 3 medium onions, halved and thinly sliced  
+* 1 1/2 cups sour cream, at room temperature  
+* 1/2 pound cream cheese, softened  
+* 1 tablespoon finely chopped flat-leaf parsley  
+* 1/2 teaspoon onion powder  
+* 1/2 teaspoon Worcestershire sauce  
+* Kosher salt and freshly ground pepper  
+* Potato chips, for serving   
 
 </div>
 

@@ -17,27 +17,27 @@ tags:
 
 <div class="ingredient-list">
 
-8 garlic cloves  
-A 1 1/2-inch cube of fresh ginger (peeled)  
-2 red jalapeños or Fresno chilis, stemmed (green jalapeños are also fine)  
-6 tablespoons vegetable oil (you can use coconut oil for an interesting twist)  
-3 lbs. boneless lamb shoulder, cut into 1 1/2-inch chunks, patted dry  
-A 3-inch cinnamon stick  
-10 whole cloves  
-1 bay leaf  
-3 onions, finely chopped  
-1 generous tbsp ground cumin  
-1 generous tbsp ground coriander  
-1 tsp ground turmeric  
-1/2 tsp Madras hot curry powder (optional)  
-Scant 1/2 tsp garam masala (optional)  
-1/4 tsp cayenne pepper  
-1 c chopped canned tomatoes, drained  
-1/2 c plain yogurt  
-1 1/2 tsp salt  
-1 lb fresh spinach, stems removed  
-1 tbsp lemon juice  
-1 tbsp pine nuts, toasted  
+* 8 garlic cloves  
+* A 1 1/2-inch cube of fresh ginger (peeled)  
+* 2 red jalapeños or Fresno chilis, stemmed (green jalapeños are also fine)  
+* 6 tablespoons vegetable oil (you can use coconut oil for an interesting twist)  
+* 3 lbs. boneless lamb shoulder, cut into 1 1/2-inch chunks, patted dry  
+* A 3-inch cinnamon stick  
+* 10 whole cloves  
+* 1 bay leaf  
+* 3 onions, finely chopped  
+* 1 generous tbsp ground cumin  
+* 1 generous tbsp ground coriander  
+* 1 tsp ground turmeric  
+* 1/2 tsp Madras hot curry powder (optional)  
+* Scant 1/2 tsp garam masala (optional)  
+* 1/4 tsp cayenne pepper  
+* 1 c chopped canned tomatoes, drained  
+* 1/2 c plain yogurt  
+* 1 1/2 tsp salt  
+* 1 lb fresh spinach, stems removed  
+* 1 tbsp lemon juice  
+* 1 tbsp pine nuts, toasted  
 
 </div>
 

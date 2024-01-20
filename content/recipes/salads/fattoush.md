@@ -19,21 +19,21 @@ Don’t skip ingredients just because you can't find them at your market! Zaatar
 
 <div class="ingredient-list">
 
-1 lb seedless red grapes, washed and halved
-1/4 cup cider or sherry vinegar
-1/2 cup olive oil
-3 cloves garlic, finely minced
-2 tsp ground cumin
-1 tsp red pepper flakes
-1 tsp Zaatar 
-2 8-inch pita bread rounds, each split into two rounds
-1/2 cup plain whole-milk Greek yogurt
-1/3 cup finely chopped fresh dill
-1 tbsp pomegranate molasses
-2 tsp ground sumac 
-1 English cucumber, quartered lengthwise and thinly sliced
-1 romaine heart (6-7 ounces), chopped into bite-sized pieces
-1 cup fresh mint leaves, finely chopped
+* 1 lb seedless red grapes, washed and halved
+* 1/4 cup cider or sherry vinegar
+* 1/2 cup olive oil
+* 3 cloves garlic, finely minced
+* 2 tsp ground cumin
+* 1 tsp red pepper flakes
+* 1 tsp Zaatar 
+* 2 8-inch pita bread rounds, each split into two rounds
+* 1/2 cup plain whole-milk Greek yogurt
+* 1/3 cup finely chopped fresh dill
+* 1 tbsp pomegranate molasses
+* 2 tsp ground sumac 
+* 1 English cucumber, quartered lengthwise and thinly sliced
+* 1 romaine heart (6-7 ounces), chopped into bite-sized pieces
+* 1 cup fresh mint leaves, finely chopped
 
 </div>
 

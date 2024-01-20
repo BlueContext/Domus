@@ -18,20 +18,20 @@ tags:
 
 <div class="ingredient-list">
 
-4 lbs. beef short ribs cut English style (between the bones) and trimmed of excess fat  
-Flour  
-3 cups red wine  
-1/8 cup sugar  
-6 oz. canned chopped tomatoes  
-2 cups beef broth  
-2-3 large cloves garlic, peeled and minced  
-3-4 sprigs fresh thyme, leaves stripped off the stems (or ½ tsp. dried thyme)  
-2 bay leaves  
-1/3 cup canola oil  
-1 large yellow onion, peeled and chopped  
-2 medium carrots, peeled and chopped  
-2 stalks celery, cleaned and chopped  
-2 oz. dried porcini mushrooms (or ½ lb. fresh mushrooms, sliced)  
+* 4 lbs. beef short ribs cut English style (between the bones) and trimmed of excess fat  
+* Flour  
+* 3 cups red wine  
+* 1/8 cup sugar  
+* 6 oz. canned chopped tomatoes  
+* 2 cups beef broth  
+* 2-3 large cloves garlic, peeled and minced  
+* 3-4 sprigs fresh thyme, leaves stripped off the stems (or ½ tsp. dried thyme)  
+* 2 bay leaves  
+* 1/3 cup canola oil  
+* 1 large yellow onion, peeled and chopped  
+* 2 medium carrots, peeled and chopped  
+* 2 stalks celery, cleaned and chopped  
+* 2 oz. dried porcini mushrooms (or ½ lb. fresh mushrooms, sliced)  
 
 </div>
 

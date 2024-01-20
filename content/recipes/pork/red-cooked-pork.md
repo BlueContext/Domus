@@ -20,16 +20,16 @@ Potato starch produces a uniquely crispy coating on the meat, and is worth seeki
 
 <div class="ingredient-list">
 
-1 1/2 lb. pork belly meat  
-3 tablespoons vegetable oil  
-2 tablespoons sugar  
-3 cloves of garlic peeled  
-2 scallions cut into 2-inch long pieces  
-3 whole star anise  
-2 tablespoons dark soy sauce   
-1 tbsp regular soy sauce  
-1/4 cup Shaoxing rice wine  
-1 1/2 cups clear stock or water  
+* 1 1/2 lb. pork belly meat  
+* 3 tablespoons vegetable oil  
+* 2 tablespoons sugar  
+* 3 cloves of garlic peeled  
+* 2 scallions cut into 2-inch long pieces  
+* 3 whole star anise  
+* 2 tablespoons dark soy sauce   
+* 1 tbsp regular soy sauce  
+* 1/4 cup Shaoxing rice wine  
+* 1 1/2 cups clear stock or water  
 
 </div>
 

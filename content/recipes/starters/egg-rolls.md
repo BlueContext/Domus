@@ -20,21 +20,21 @@ You can buy char siu (Chinese BBQ pork) at many chinese markets and restaurants,
 
 <div class="ingredient-list">
 
-8 cups shredded savoy cabbage  
-8 cups shredded green cabbage  
-2 cups shredded carrot  
-2 cups shredded celery  
-3 scallions, chopped  
-2 1/2 tsp salt  
-2 tsp sugar  
-1 tbsp sesame oil  
-2 tbsp peanut oil, plus enough for deep-frying the egg rolls  
-1/4 tsp five-spice powder  
-1/4 tsp white pepper  
-3 cups diced char siu (Chinese BBQ pork)  
-2 cups cooked and chopped shrimp (optional)  
-1 package egg roll wrappers (about 24)  
-1 egg, beaten      
+* 8 cups shredded savoy cabbage  
+* 8 cups shredded green cabbage  
+* 2 cups shredded carrot  
+* 2 cups shredded celery  
+* 3 scallions, chopped  
+* 2 1/2 tsp salt  
+* 2 tsp sugar  
+* 1 tbsp sesame oil  
+* 2 tbsp peanut oil, plus enough for deep-frying the egg rolls  
+* 1/4 tsp five-spice powder  
+* 1/4 tsp white pepper  
+* 3 cups diced char siu (Chinese BBQ pork)  
+* 2 cups cooked and chopped shrimp (optional)  
+* 1 package egg roll wrappers (about 24)  
+* 1 egg, beaten      
 
 </div>
 

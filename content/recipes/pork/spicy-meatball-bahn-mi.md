@@ -19,33 +19,33 @@ tags:
 
 <div class="ingredient-list">
 
-*Carrot Daikon Salad:*  
-2 medium carrots, julienned  
-1 cup julienned daikon radish (or you can just use 4 carrots and omit the daikon)  
-2 tbsp sugar  
-½ tsp salt  
-3 tbsp rice vinegar  
-2 tsp toasted sesame oil  
-  
-*Meatballs:*  
-1 lb ground pork  
-2 tbsp chopped cilantro  
-1 scallion, minced  
-3 cloves garlic, minced  
-1 tbsp fish sauce  
-1 tbsp sriracha  
-2 tsp sugar  
-Salt and pepper to taste  
-1 tbsp cornstarch  
-  
-*To assemble:*  
-1 tbsp vegetable oil  
-¼ c mayonnaise  
-2 tbsp sriracha  
-1 baguette, cut into 4 equal pieces and lightly toasted (or 4 sandwich rolls – we like the Mexican bolillo type)  
-1 jalapeno, seeded and thinly sliced  
-Some thin slices of English cucumber
-A handful of fresh cilantro leaves  
+* #### Carrot Daikon Salad:
+  * 2 medium carrots, julienned  
+  * 1 cup julienned daikon radish (or you can just use 4 carrots and omit the daikon)  
+  * 2 tbsp sugar  
+  * ½ tsp salt  
+  * 3 tbsp rice vinegar  
+  * 2 tsp toasted sesame oil  
+  *   
+* #### Meatballs:
+  * 1 lb ground pork  
+  * 2 tbsp chopped cilantro  
+  * 1 scallion, minced  
+  * 3 cloves garlic, minced  
+  * 1 tbsp fish sauce  
+  * 1 tbsp sriracha  
+  * 2 tsp sugar  
+  * Salt and pepper to taste  
+  * 1 tbsp cornstarch  
+  *   
+* #### To assemble:
+  * 1 tbsp vegetable oil  
+  * ¼ c mayonnaise  
+  * 2 tbsp sriracha  
+  * 1 baguette, cut into 4 equal pieces and lightly toasted (or 4 sandwich rolls – we like the Mexican bolillo type)  
+  * 1 jalapeno, seeded and thinly sliced  
+  * Some thin slices of English cucumber
+  * A handful of fresh cilantro leaves  
 
 </div>
 

@@ -26,24 +26,24 @@ Finally, Tiger Sauce is a spicy-sweet condiment available at most grocery stores
 
 <div class="ingredient-list">
 
-1/2 lb ground beef chuck  
-1/2 lb ground veal  
-1/2 lb ground pork  
-2 tbsp olive oil  
-1 large onion, finely chopped  
-1 large red or orange bell pepper, finely diced  
-3 cloves garlic, minced  
-1 cup panko bread crumbs  
-1/3 cup Heinz Chili Sauce or ketchup  
-1 tbsp Tiger Sauce (optional)  
-2 oz finely grated Parmesan cheese (1/2 cup)  
-2 oz finely shredded Jarlsberg or Swiss cheese (1/2 cup)  
-1 tbsp dry Sherry  
-3 large eggs  
-1 tsp dried thyme  
-1 tsp smoked or ordinary paprika  
-1 tsp salt  
-1/2 tsp black pepper  
+* 1/2 lb ground beef chuck  
+* 1/2 lb ground veal  
+* 1/2 lb ground pork  
+* 2 tbsp olive oil  
+* 1 large onion, finely chopped  
+* 1 large red or orange bell pepper, finely diced  
+* 3 cloves garlic, minced  
+* 1 cup panko bread crumbs  
+* 1/3 cup Heinz Chili Sauce or ketchup  
+* 1 tbsp Tiger Sauce (optional)  
+* 2 oz finely grated Parmesan cheese (1/2 cup)  
+* 2 oz finely shredded Jarlsberg or Swiss cheese (1/2 cup)  
+* 1 tbsp dry Sherry  
+* 3 large eggs  
+* 1 tsp dried thyme  
+* 1 tsp smoked or ordinary paprika  
+* 1 tsp salt  
+* 1/2 tsp black pepper  
 
 </div>
 

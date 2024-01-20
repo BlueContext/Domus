@@ -10,7 +10,7 @@ summary: "This is my own recipe, but I can’t claim it’s an original idea. Cu
 categories:
 - All Recipes
 - Poultry
-- Salad
+- Salads
 tags:
 - Main Dish
 - Party Food
@@ -26,21 +26,21 @@ This can be made the day before, and kept covered in the refrigerator - but let 
 
 <div class="ingredient-list">
 
-4 chicken breasts (on the bone)  
-1 ½ - 2 cups mayonnaise (Duke’s preferred)  
-1 tbsp. curry powder  
-1 tsp. sugar  
-1 tsp. white vermouth  
-Tabasco sauce to taste  
-½ lemon  
-3 stalks celery, cleaned and chopped  
-1 large green apple, chopped  
-1 large red bell pepper, seeded and chopped  
-¼ of a red onion, chopped, soaked in ice water for 5 minutes, drained dry  
-1/3 cup chopped scallions  
-1-2 jalapeño peppers, seeded and chopped  
-1 cup pecan or walnut pieces, toasted and chopped  
-1 ½ cups seedless red grapes, cut in half  
+* 4 chicken breasts (on the bone)  
+* 1 ½ - 2 cups mayonnaise (Duke’s preferred)  
+* 1 tbsp. curry powder  
+* 1 tsp. sugar  
+* 1 tsp. white vermouth  
+* Tabasco sauce to taste  
+* ½ lemon  
+* 3 stalks celery, cleaned and chopped  
+* 1 large green apple, chopped  
+* 1 large red bell pepper, seeded and chopped  
+* ¼ of a red onion, chopped, soaked in ice water for 5 minutes, drained dry  
+* 1/3 cup chopped scallions  
+* 1-2 jalapeño peppers, seeded and chopped  
+* 1 cup pecan or walnut pieces, toasted and chopped  
+* 1 ½ cups seedless red grapes, cut in half  
 
 </div>
 

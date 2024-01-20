@@ -18,28 +18,28 @@ tags:
 
 <div class="ingredient-list">
   
-*For the sauce:*  
-1 lb tomatillos, husks removed, cored  
-2 serrano chiles, stemmed  
-1/2 white onion, chopped  
-3 garlic cloves, peeled  
-3/4 bunch cilantro  
-1 tbsp oil  
-1 cup crema Mexicana  
-Kosher salt to taste  
-  
-*For the filling:*  
-2 cups poached and shredded chicken  
-  
-*For the assembly:*  
-12 white corn tortillas  
-1 cup vegetable oil for softening the tortillas  
-2 cups queso asadero or queso Chihuahua, grated  
-  
-*For the garnish:*  
-1 cup crema Mexicana  
-1/2 white onion, chopped  
-1/4 bunch of cilantro, minced  
+* #### For the sauce:
+  * 1 lb tomatillos, husks removed, cored  
+  * 2 serrano chiles, stemmed  
+  * 1/2 white onion, chopped  
+  * 3 garlic cloves, peeled  
+  * 3/4 bunch cilantro  
+  * 1 tbsp oil  
+  * 1 cup crema Mexicana  
+  * Kosher salt to taste  
+  *   
+* #### For the filling:
+  * 2 cups poached and shredded chicken  
+  *   
+* #### For the assembly:
+  * 12 white corn tortillas  
+  * 1 cup vegetable oil for softening the tortillas  
+  * 2 cups queso asadero or queso Chihuahua, grated  
+  *   
+* #### For the garnish:
+  * 1 cup crema Mexicana  
+  * 1/2 white onion, chopped  
+  * 1/4 bunch of cilantro, minced  
 
 </div>
 

@@ -19,12 +19,12 @@ tags:
 
 <div class="ingredient-list">
 
-2 waxy potatoes, peeled and cut into 1-inch cubes  
-1 tablespoon salt, plus more for seasoning  
-8 ounces cavatappi  
-8 ounces young green beans (haricot vert are best), trimmed and halved  
-1/2 cup Pesto  
-Pepper  
+* 2 waxy potatoes, peeled and cut into 1-inch cubes  
+* 1 tablespoon salt, plus more for seasoning  
+* 8 ounces cavatappi  
+* 8 ounces young green beans (haricot vert are best), trimmed and halved  
+* 1/2 cup Pesto  
+* Pepper  
 
 </div>
 

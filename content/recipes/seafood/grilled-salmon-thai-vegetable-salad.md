@@ -20,19 +20,19 @@ The final dish comes together in a snap, but make sure you’ve done your prep w
 
 <div class="ingredient-list">
 
-1 recipe [Sesame Ginger Dressing]({{< ref "/recipes/sauces/sesame-ginger-dressing.md" >}} "Sesame Ginger Dressing Recipe")  
-6 (4 oz) salmon filets  
-1 cup julienned shiitake mushrooms  
-6 cups shredded fresh spinach  
-1 cup chopped roasted cashews  
-1/2 cup chopped shallots  
-1/2 cup julienned red bell pepper  
-1/2 cup julienned yellow bell pepper  
-1 cup julienned carrots  
-1 cup julienned English cucumber  
-1 cup julienned asparagus, lightly blanched  
-1/4 package wonton skins, cut into 1/4-inch strips and fried in hot oil until crispy, drained carefully  
-1 1/2 ounces (1/6th of a 10 ounce package) rice stick noodles fried in hot oil until crispy and puffed, drained carefully  
+* 1 recipe [Sesame Ginger Dressing]({{< ref "/recipes/sauces/sesame-ginger-dressing.md" >}} "Sesame Ginger Dressing Recipe")  
+* 6 (4 oz) salmon filets  
+* 1 cup julienned shiitake mushrooms  
+* 6 cups shredded fresh spinach  
+* 1 cup chopped roasted cashews  
+* 1/2 cup chopped shallots  
+* 1/2 cup julienned red bell pepper  
+* 1/2 cup julienned yellow bell pepper  
+* 1 cup julienned carrots  
+* 1 cup julienned English cucumber  
+* 1 cup julienned asparagus, lightly blanched  
+* 1/4 package wonton skins, cut into 1/4-inch strips and fried in hot oil until crispy, drained carefully  
+* 1 1/2 ounces (1/6th of a 10 ounce package) rice stick noodles fried in hot oil until crispy and puffed, drained carefully  
 
 </div>
 

@@ -20,13 +20,13 @@ This recipe is for use in savory dishes.  For a pastry suited for desserts, redu
 
 <div class="ingredient-list">
 
-1 cup water  
-6 tbsp butter   
-1 tsp salt  
-1/8 tsp black pepper  
-Pinch of nutmeg  
-1 cup flour  
-4 large eggs  
+* 1 cup water  
+* 6 tbsp butter   
+* 1 tsp salt  
+* 1/8 tsp black pepper  
+* Pinch of nutmeg  
+* 1 cup flour  
+* 4 large eggs  
 
 </div>
 

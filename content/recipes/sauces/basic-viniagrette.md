@@ -19,13 +19,13 @@ source: "The Best of Gourmet: 1988"
 
 <div class="ingredient-list">
 
-2 tbsp. white wine vinegar, or a mixture of wine vinegar and lemon juice  
-¼ tsp. salt   
-¼ tsp. Dijon mustard  
-6 tbsp. olive oil  
-1 tbsp. chopped herbs (parsley, chives, tarragon, basil, or some mixture of these, or a pinch of dried thyme leaves)  
-1 small clove garlic, peeled and minced very fine (optional)  
-Black pepper  
+* 2 tbsp. white wine vinegar, or a mixture of wine vinegar and lemon juice  
+* ¼ tsp. salt   
+* ¼ tsp. Dijon mustard  
+* 6 tbsp. olive oil  
+* 1 tbsp. chopped herbs (parsley, chives, tarragon, basil, or some mixture of these, or a pinch of dried thyme leaves)  
+* 1 small clove garlic, peeled and minced very fine (optional)  
+* Black pepper  
 
 </div>
 

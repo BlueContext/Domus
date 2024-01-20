@@ -19,18 +19,18 @@ tags:
 
 <div class="ingredient-list">
 
-1 tbsp uncooked Japanese rice  
-1 tbsp vegetable oil  
-1 lb ground pork or dark chicken meat  
-1/4 tsp sugar  
-1 tbsp fish sauce  
-Juice of 1 large or 2 small limes  
-1 red chili or Serrano, sliced  
-3 shallots, peeled and thinly sliced  
-4 scallions, minced  
-Sambal olek, to taste  
-1/4 c cilantro leaves  
-1/2 c mint leaves  
+* 1 tbsp uncooked Japanese rice  
+* 1 tbsp vegetable oil  
+* 1 lb ground pork or dark chicken meat  
+* 1/4 tsp sugar  
+* 1 tbsp fish sauce  
+* Juice of 1 large or 2 small limes  
+* 1 red chili or Serrano, sliced  
+* 3 shallots, peeled and thinly sliced  
+* 4 scallions, minced  
+* Sambal olek, to taste  
+* 1/4 c cilantro leaves  
+* 1/2 c mint leaves  
 
 </div>
 

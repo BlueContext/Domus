@@ -20,32 +20,34 @@ However, you’ll want a very sharp small knife to help you cut the pouch in the
 
 <div class="ingredient-list">
 
-2 1” thick rib veal chops, trimmed and frenched  
-1 tbsp vegetable oil   
-  
-*For the stuffing:*  
-1 small onion, minced  
-2 tbsp olive oil  
-2 tbsp minced shallot  
-2 cloves garlic, minced  
-1 yellow bell pepper, cut into 1/4” dice  
-1/4 lb. Eggplant, cut into 1/4” dice (about a cup)  
-1 roma tomato, seeded and cut into 1/4” dice  
-1 tsp Herbes de Provence  
-1/4 tsp dried sage  
-1/2 tsp dried basil  
-1/2 tbsp minced fresh parsley   
-1/2 tsp salt  
-  
-*For the sauce:*  
-1 jar roasted red bell peppers, thoroughly drained  
-2 tbsp olive oil   
-1 tsp lemon juice   
-1 tsp balsamic or sherry vinegar   
-1 tsp paprika  
-Cayenne pepper to taste  
-  
-Finely chopped fresh parsley to garnish  
+* #### The Veal:
+  * 2 1” thick rib veal chops, trimmed and frenched  
+  * 1 tbsp vegetable oil   
+  *   
+* #### For the stuffing:
+  * 1 small onion, minced  
+  * 2 tbsp olive oil  
+  * 2 tbsp minced shallot  
+  * 2 cloves garlic, minced  
+  * 1 yellow bell pepper, cut into 1/4” dice  
+  * 1/4 lb. Eggplant, cut into 1/4” dice (about a cup)  
+  * 1 roma tomato, seeded and cut into 1/4” dice  
+  * 1 tsp Herbes de Provence  
+  * 1/4 tsp dried sage  
+  * 1/2 tsp dried basil  
+  * 1/2 tbsp minced fresh parsley   
+  * 1/2 tsp salt  
+  *   
+* #### For the sauce:
+  * 1 jar roasted red bell peppers, thoroughly drained  
+  * 2 tbsp olive oil   
+  * 1 tsp lemon juice   
+  * 1 tsp balsamic or sherry vinegar   
+  * 1 tsp paprika  
+  * Cayenne pepper to taste  
+  * 
+* #### To Serve:
+  * Finely chopped fresh parsley to garnish  
 
 </div>
 

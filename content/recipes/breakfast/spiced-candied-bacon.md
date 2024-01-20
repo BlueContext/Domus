@@ -9,7 +9,7 @@ serves: "Serves 4"
 summary: "I have never had even a single piece of this bacon left over. It’s perfect if you’re making a big breakfast or brunch because it cooks in the oven, freeing up a stove-top burner and your own attention."
 categories:
 - All Recipes
-- Breakfast
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -19,10 +19,10 @@ tags:
 
 <div class="ingredient-list">
 
-2 tbsp. packed dark brown sugar  
-¼ - ½ tsp. cayenne pepper  
-½ tsp. freshly ground black pepper  
-1 lb. thick-cut bacon (about 12 slices)  
+* 2 tbsp. packed dark brown sugar  
+* ¼ - ½ tsp. cayenne pepper  
+* ½ tsp. freshly ground black pepper  
+* 1 lb. thick-cut bacon (about 12 slices)  
 
 </div>
 

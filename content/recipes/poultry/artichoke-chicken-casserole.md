@@ -18,20 +18,20 @@ tags:
 
 <div class="ingredient-list">
   
-16 oz frozen artichoke hearts, quartered (if they’re not already)    
-1 whole fryer chicken, cut into serving pieces (or 3-4 lbs chicken parts)  
-Salt, pepper, and Hungarian paprika to taste  
-6 tbsp butter, divided  
-Olive oil  
-1/4 cup minced shallots  
-1 cup sliced fresh mushrooms  
-2 tbsp flour  
-2 tbsp Cognac   
-2/3 cup chicken stock  
-1/4 cup white wine  
-1/4 cup dry sherry  
-1/2 tsp dried *fines herbes*  
-Minced parsley to serve  
+* 16 oz frozen artichoke hearts, quartered (if they’re not already)    
+* 1 whole fryer chicken, cut into serving pieces (or 3-4 lbs chicken parts)  
+* Salt, pepper, and Hungarian paprika to taste  
+* 6 tbsp butter, divided  
+* Olive oil  
+* 1/4 cup minced shallots  
+* 1 cup sliced fresh mushrooms  
+* 2 tbsp flour  
+* 2 tbsp Cognac   
+* 2/3 cup chicken stock  
+* 1/4 cup white wine  
+* 1/4 cup dry sherry  
+* 1/2 tsp dried *fines herbes*  
+* Minced parsley to serve  
 
 </div>
 

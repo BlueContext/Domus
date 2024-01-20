@@ -19,26 +19,26 @@ tags:
 
 <div class="ingredient-list">
 
-2 slices white bread  
-1/3 cup milk  
-1 large yellow onion, chopped  
-2 tbsp butter  
-3 cloves garlic, smashed  
-2 tsp grated fresh ginger  
-1 1/2 lbs lean ground beef  
-1 tsp Madras curry powder  
-1 tsp dried Fines Herbes  
-3 cloves  
-3 allspice berries  
-2 tbsp mango chutney (Mrs. Balls is traditional, but Major Grey’s is fine)  
-3 tbsp golden raisins  
-1 tablespoon white wine vinegar   
-1 tsp Worcestershire sauce  
-A few dashes of Maggi Arome (optional)  
-6 bay leaves (the imported duller-colored ones — California bay leaves are too strong)  
-1 cup half-and-half  
-2 large eggs, lightly beaten  
-1 tsp turmeric  
+* 2 slices white bread  
+* 1/3 cup milk  
+* 1 large yellow onion, chopped  
+* 2 tbsp butter  
+* 3 cloves garlic, smashed  
+* 2 tsp grated fresh ginger  
+* 1 1/2 lbs lean ground beef  
+* 1 tsp Madras curry powder  
+* 1 tsp dried Fines Herbes  
+* 3 cloves  
+* 3 allspice berries  
+* 2 tbsp mango chutney (Mrs. Balls is traditional, but Major Grey’s is fine)  
+* 3 tbsp golden raisins  
+* 1 tablespoon white wine vinegar   
+* 1 tsp Worcestershire sauce  
+* A few dashes of Maggi Arome (optional)  
+* 6 bay leaves (the imported duller-colored ones — California bay leaves are too strong)  
+* 1 cup half-and-half  
+* 2 large eggs, lightly beaten  
+* 1 tsp turmeric  
 
 </div>
 

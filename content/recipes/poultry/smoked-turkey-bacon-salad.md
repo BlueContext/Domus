@@ -10,7 +10,7 @@ summary: "This simple and delicious salad was inspired by a recipe from the New 
 categories:
 - All Recipes
 - Poultry
-- Salad
+- Salads
 tags:
 - Main Dish
 - Party Food
@@ -21,12 +21,12 @@ Serve this at or near room temperature -- cooked bacon is not at its best when i
 
 <div class="ingredient-list">
 
-8 slices thick-cut bacon, cooked crisp and crumbled  
-4 cups cubed smoked turkey  
-1 1/2 cups chopped celery  
-1/2 cup sweet pickle relish  
-1/2 to 1 cup good quality mayonnaise  
-Salt and pepper to taste  
+* 8 slices thick-cut bacon, cooked crisp and crumbled  
+* 4 cups cubed smoked turkey  
+* 1 1/2 cups chopped celery  
+* 1/2 cup sweet pickle relish  
+* 1/2 to 1 cup good quality mayonnaise  
+* Salt and pepper to taste  
 
 </div>
 

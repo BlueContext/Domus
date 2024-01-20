@@ -18,17 +18,17 @@ tags:
 
 <div class="ingredient-list">
 
-1 oz dried porcini mushrooms (about 1 cup)  
-1 cup hot water  
-5 large russet potatoes (about 3 lbs)  
-3 garlic cloves, minced finely  
-1 cup grated Gruyere cheese  
-½ cup grated Parmeggiano Regiano   
-1 tbsp butter, softened  
-2 tbsp unsalted butter, frozen and cut into tiny bits  
-2 cups milk  
-1 cup heavy cream  
-2 tbsp minced fresh chives  
+* 1 oz dried porcini mushrooms (about 1 cup)  
+* 1 cup hot water  
+* 5 large russet potatoes (about 3 lbs)  
+* 3 garlic cloves, minced finely  
+* 1 cup grated Gruyere cheese  
+* ½ cup grated Parmeggiano Regiano   
+* 1 tbsp butter, softened  
+* 2 tbsp unsalted butter, frozen and cut into tiny bits  
+* 2 cups milk  
+* 1 cup heavy cream  
+* 2 tbsp minced fresh chives  
 
 </div>
 

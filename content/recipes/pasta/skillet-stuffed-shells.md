@@ -17,20 +17,20 @@ tags:
 
 <div class="ingredient-list">
 
-18 jumbo pasta shells (about 6 oz.)  
-1 1/2 tsp. kosher salt, divided, plus more  
-2 Tbsp. extra-virgin olive oil  
-1/2 lb. crimini mushrooms, thinly sliced  
-1 tsp. freshly ground black pepper  
-1/2 cup dry white wine or vermouth  
-5 oz. baby spinach  
-6 garlic cloves, thinly sliced  
-2 Tbsp. unsalted butter  
-3 cups marinara sauce  
-1/2 tsp. crushed red pepper flakes  
-2 cups whole-milk ricotta  
-3 oz. finely grated Parmesan (about 1 cup), plus more for serving  
-2 teaspoons dried oregano, divided  
+* 18 jumbo pasta shells (about 6 oz.)  
+* 1 1/2 tsp. kosher salt, divided, plus more  
+* 2 Tbsp. extra-virgin olive oil  
+* 1/2 lb. crimini mushrooms, thinly sliced  
+* 1 tsp. freshly ground black pepper  
+* 1/2 cup dry white wine or vermouth  
+* 5 oz. baby spinach  
+* 6 garlic cloves, thinly sliced  
+* 2 Tbsp. unsalted butter  
+* 3 cups marinara sauce  
+* 1/2 tsp. crushed red pepper flakes  
+* 2 cups whole-milk ricotta  
+* 3 oz. finely grated Parmesan (about 1 cup), plus more for serving  
+* 2 teaspoons dried oregano, divided  
 
 </div>
 

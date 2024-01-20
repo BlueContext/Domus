@@ -3,13 +3,14 @@ author: "Kevin Baker"
 linktitle: Shakshuka
 menu:
   main:
-    parent: eggs
+    parent: breakfast
 title: Shakshuka
 serves: "Serves 6"
 summary: "A dish of eggs cooked in a spicy tomato-pepper sauce, this North African favorite is great anytime but perfect hangover fare."
 categories:
 - All Recipes
 - Eggs
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -19,19 +20,19 @@ tags:
 
 <div class="ingredient-list">
 
-3 tablespoons olive oil  
-1 large yellow onion, thinly sliced  
-1 large red bell pepper, seeded and thinly sliced  
-3 cloves garlic, thinly sliced  
-1 tsp cumin  
-1 tsp sweet paprika  
-1/4 tsp cayenne pepper  
-1 28-ounce can crushed tomatoes with juices  
-3/4 tsp salt  
-1/4 tsp black pepper  
-Tabasco sauce to taste.
-6 large eggs  
-Chopped cilantro to taste  
+* 3 tablespoons olive oil  
+* 1 large yellow onion, thinly sliced  
+* 1 large red bell pepper, seeded and thinly sliced  
+* 3 cloves garlic, thinly sliced  
+* 1 tsp cumin  
+* 1 tsp sweet paprika  
+* 1/4 tsp cayenne pepper  
+* 1 28-ounce can crushed tomatoes with juices  
+* 3/4 tsp salt  
+* 1/4 tsp black pepper  
+* Tabasco sauce to taste.
+* 6 large eggs  
+* Chopped cilantro to taste  
 
 </div>
 

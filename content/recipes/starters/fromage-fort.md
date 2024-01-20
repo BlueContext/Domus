@@ -22,12 +22,12 @@ The character of the dish will vary according to the cheeses you’ve got on han
 
 <div class="ingredient-list">
 
-½ lb. assorted bits of cheese (trim off any rinds or dried bits)  
-1 clove garlic  
-¼ c. dry white wine  
-1 tbsp. cognac  
-1 tbsp. softened butter  
-Tabasco sauce   
+* ½ lb. assorted bits of cheese (trim off any rinds or dried bits)  
+* 1 clove garlic  
+* ¼ c. dry white wine  
+* 1 tbsp. cognac  
+* 1 tbsp. softened butter  
+* Tabasco sauce   
 
 </div>
 

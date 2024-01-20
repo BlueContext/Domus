@@ -22,14 +22,13 @@ The egg is optional, but does make this feel more like a complete meal.
 
 <div class="ingredient-list">
 
-5 tbsp white miso  
-4 tbsp salted butter (softened to room temperature)   
-1 ½ tbsp finely grated ginger  
-4 scallions, sliced very thinly and divided in half  
-12 oz dry soba noodles  
-1 lb asparagus  
-4 eggs   
-
+* 5 tbsp white miso  
+* 4 tbsp salted butter (softened to room temperature)   
+* 1 ½ tbsp finely grated ginger  
+* 4 scallions, sliced very thinly and divided in half  
+* 12 oz dry soba noodles  
+* 1 lb asparagus  
+* 4 eggs   
 
 </div>
 

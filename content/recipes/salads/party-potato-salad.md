@@ -20,21 +20,21 @@ Sometimes, when you do the final mix you may find you want a couple more tablesp
 
 <div class="ingredient-list">
 
-5 lbs russet potatoes (about 9 medium), peeled and cut into 3/4-inch cubes.  
-1/4 cup white wine vinegar  
-2 cups mayonnaise  
-2 medium ribs celery, chopped fine  
-1 jalapeño pepper, seeded and minced (optional)  
-1/2 cup sweet pickle relish  
-1/3 cup minced red onion, soaked in cold water for 5 minutes and drained  
-2 scallions, minced very finely  
-1/4 cup minced fresh parsley  
-1 1/2 tsp celery seed  
-1 tsp powdered mustard  
-2 tbsp Dijon mustard  
-Tabasco sauce  
-4 large hard-boiled eggs, peeled and cut into a 1/4-inch dice  
-Salt and black pepper   
+* 5 lbs russet potatoes (about 9 medium), peeled and cut into 3/4-inch cubes.  
+* 1/4 cup white wine vinegar  
+* 2 cups mayonnaise  
+* 2 medium ribs celery, chopped fine  
+* 1 jalapeño pepper, seeded and minced (optional)  
+* 1/2 cup sweet pickle relish  
+* 1/3 cup minced red onion, soaked in cold water for 5 minutes and drained  
+* 2 scallions, minced very finely  
+* 1/4 cup minced fresh parsley  
+* 1 1/2 tsp celery seed  
+* 1 tsp powdered mustard  
+* 2 tbsp Dijon mustard  
+* Tabasco sauce  
+* 4 large hard-boiled eggs, peeled and cut into a 1/4-inch dice  
+* Salt and black pepper   
 
 </div>
 

@@ -5,7 +5,7 @@ menu:
     parent: stuffing
   after:
     name: stuffing
-    weight: 12
+    weight: 13
 title: Stuffing & Dressing
 bookCollapseSection: true
 ---

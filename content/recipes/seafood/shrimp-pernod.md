@@ -19,16 +19,16 @@ tags:
 
 <div class="ingredient-list">
 
-30 large shrimp, shelled and deveined  
-Flour for dredging  
-6 tbsp butter  
-6 tbsp olive oil  
-3 large garlic cloves, peeled and minced  
-1 1/2 tsp crushed red pepper  
-2 tbsp Pernod  
-2 tbsp white wine or vermouth  
-2 tsp Campari or Aperol  
-1 tbsp chopped parsley  
+* 30 large shrimp, shelled and deveined  
+* Flour for dredging  
+* 6 tbsp butter  
+* 6 tbsp olive oil  
+* 3 large garlic cloves, peeled and minced  
+* 1 1/2 tsp crushed red pepper  
+* 2 tbsp Pernod  
+* 2 tbsp white wine or vermouth  
+* 2 tsp Campari or Aperol  
+* 1 tbsp chopped parsley  
 
 </div>
 

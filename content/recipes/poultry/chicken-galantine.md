@@ -23,23 +23,24 @@ For a different flavor profile, use Italian sausage and omit the sage.
 
 <div class="ingredient-list">
   
-A 6- to 7-pound (2 ¾- to 3 1/4- kg) roasting chicken or capon, deboned (a typical 4 lb whole chicken is fine)  
-8-10 new potatoes  
-1 1/2 lemons, with a bay leaf stuck in each lemon half  
-A few large button mushrooms, hollowed out for stuffing (optional)  
-  
-For the stuffing:  
-4-5 slices of stale white bread  
-2 cloves garlic, peeled and smashed  
-10-12 fresh sage leaves  
-1 white onion, peeled and quartered  
-3 pork sausages, skins removed (or 1 lb breakfast sausage)  
-1 egg  
-  
-Equipment:   
-A sharp boning knife  
-A large ball of plain white string (butcher’s twine)  
-A trussing needle   
+* #### The Chicken & Garniture:  
+  * A 6- to 7-pound (2 ¾- to 3 1/4- kg) roasting chicken or capon, deboned (a typical 4 lb whole chicken is fine)  
+  * 8-10 new potatoes  
+  * 1 1/2 lemons, with a bay leaf stuck in each lemon half  
+  * A few large button mushrooms, hollowed out for stuffing (optional)  
+  *   
+* #### For the stuffing:  
+  * 4-5 slices of stale white bread  
+  * 2 cloves garlic, peeled and smashed  
+  * 10-12 fresh sage leaves  
+  * 1 white onion, peeled and quartered  
+  * 3 pork sausages, skins removed (or 1 lb breakfast sausage)  
+  * 1 egg  
+  *   
+* #### Equipment:   
+  * A sharp boning knife  
+  * A large ball of plain white string (butcher’s twine)  
+  * A trussing needle   
 
 </div>
 

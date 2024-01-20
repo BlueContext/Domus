@@ -17,13 +17,13 @@ tags:
 
 <div class="ingredient-list">
 
-5 or 6 cups sliced peeled carrots  
-1 tbsp sugar  
-1 1/2 cups water  
-1 1/2 tbsp butter, plus 1 additional tbsp  
-1/2 tsp salt  
-Pinch of pepper  
-2 tbsp fresh minced parsley  
+* 5 or 6 cups sliced peeled carrots  
+* 1 tbsp sugar  
+* 1 1/2 cups water  
+* 1 1/2 tbsp butter, plus 1 additional tbsp  
+* 1/2 tsp salt  
+* Pinch of pepper  
+* 2 tbsp fresh minced parsley  
 
 </div>
 

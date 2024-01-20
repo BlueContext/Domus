@@ -19,9 +19,9 @@ A probe thermometer is key, since reaching the correct internal temperature make
 
 <div class="ingredient-list">
 
-Large russet baking potatoes
-Oil
-Salt 
+* Large russet baking potatoes
+* Oil
+* Salt 
 
 </div>
 

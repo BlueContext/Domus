@@ -19,18 +19,18 @@ As a bonus, twice-baked potatoes can be made the day before, and need only be po
 
 <div class="ingredient-list">
 
-6 large baked potatoes  
-Milk or cream  
-Butter  
-Salt and pepper  
-1 egg, beaten (optional)  
-
-*Optional ingredients:*  
-Grated cheese (Gruyère, Parmesan, sharp Cheddar or pepper Jack are all good.  
-Minced scallions  
-Crisp, crumbled bacon  
-Caramelized onions  
-Minced pickled jalapeños (my Aunt Denise adds a little bit of the brine as well)  
+* 6 large baked potatoes  
+* Milk or cream  
+* Butter  
+* Salt and pepper  
+* 1 egg, beaten (optional)  
+* 
+* #### Optional ingredients:
+  * Grated cheese (Gruyère, Parmesan, sharp Cheddar or pepper Jack are all good.  
+  * Minced scallions  
+  * Crisp, crumbled bacon  
+  * Caramelized onions  
+  * Minced pickled jalapeños (my Aunt Denise adds a little bit of the brine as well)  
 
 </div>
 

@@ -12,7 +12,7 @@ categories:
 - Beef
 tags:
 - French
-- Main Dish
+- Main Dish 
 ---
 For a real, traditional “carbonnades”, use chuck or rump cut into slices roughly 2” by 4” by 1/2” thick.  However, short ribs are delicious cooked this way.
 

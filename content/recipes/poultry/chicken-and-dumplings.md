@@ -26,32 +26,33 @@ This hearty dish only needs a salad or some cheese and bread along with a bottle
 
 <div class="ingredient-list">
 
-4 pounds chicken parts (thighs only, or a mix of legs and thighs)  
-1 cup all-purpose flour, seasoned with salt and pepper  
-2 tablespoons unsalted butter  
-1 tablespoon olive oil  
-2 large leeks (white and pale green parts only), sliced thin crosswise and washed thoroughly (about 4 cups)  
-6 shallots, sliced thin (about 1 cup)  
-4 carrots, peeled, halved lengthwise, and sliced  
-2 parsnips, peeled, halved lengthwise and sliced  
-2 celery ribs with leaves, sliced  
-1 small bay leaf  
-1/2 teaspoon dried thyme, crumbled  
-3 1/2 cups chicken stock  
-1/2 cup apple cider or juice  
-
-*For Dumplings:*  
-1 1/2 cups all-purpose flour  
-1/2 cup coarse yellow cornmeal   
-1 tablespoon baking powder  
-1/2 teaspoon salt  
-2 tablespoons minced fresh dill (or about 1/2 tsp dried dill)  
-1 cup plus 3 tablespoons half-and-half  
-
-*To Finish:*  
-1 cup green peas, defrosted if frozen  
-2 tbsp minced parsley  
-3 tbsp heavy cream (optional)  
+* #### For the Chicken:
+  * 4 pounds chicken parts (thighs only, or a mix of legs and thighs)  
+  * 1 cup all-purpose flour, seasoned with salt and pepper  
+  * 2 tablespoons unsalted butter  
+  * 1 tablespoon olive oil  
+  * 2 large leeks (white and pale green parts only), sliced thin crosswise and washed thoroughly (about 4 cups)  
+  * 6 shallots, sliced thin (about 1 cup)  
+  * 4 carrots, peeled, halved lengthwise, and sliced  
+  * 2 parsnips, peeled, halved lengthwise and sliced  
+  * 2 celery ribs with leaves, sliced  
+  * 1 small bay leaf  
+  * 1/2 teaspoon dried thyme, crumbled  
+  * 3 1/2 cups chicken stock  
+  * 1/2 cup apple cider or juice  
+  * 
+* #### For Dumplings:
+  * 1 1/2 cups all-purpose flour  
+  * 1/2 cup coarse yellow cornmeal   
+  * 1 tablespoon baking powder  
+  * 1/2 teaspoon salt  
+  * 2 tablespoons minced fresh dill (or about 1/2 tsp dried dill)  
+  * 1 cup plus 3 tablespoons half-and-half  
+  * 
+* #### To Finish:
+  * 1 cup green peas, defrosted if frozen  
+  * 2 tbsp minced parsley  
+  * 3 tbsp heavy cream (optional)  
 
 </div>
 

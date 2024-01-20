@@ -21,15 +21,15 @@ Frozen udon and ramen noodles are worth dedicating some freezer space to, as the
 
 <div class="ingredient-list">
 
-2 Inari age (seasoned fried tofu pouches), drained, each cut in half to produce 4 squares  
-4 cup Dashi (made from scratch if possible, since it's a prominent flavor in this dish)    
-1/4-1/2 tsp salt  
-2 Tbsp Soy sauce  
-3 Tbsp Mirin  
-2 Tbsp Sake  
-2 packages of frozen Udon, thawed  
-4 green onions, thinly cut  
-Shichimi Togarashi (hot pepper powder)   
+* 2 Inari age (seasoned fried tofu pouches), drained, each cut in half to produce 4 squares  
+* 4 cup Dashi (made from scratch if possible, since it's a prominent flavor in this dish)    
+* 1/4-1/2 tsp salt  
+* 2 Tbsp Soy sauce  
+* 3 Tbsp Mirin  
+* 2 Tbsp Sake  
+* 2 packages of frozen Udon, thawed  
+* 4 green onions, thinly cut  
+* Shichimi Togarashi (hot pepper powder)   
 
 </div>
 

@@ -19,15 +19,15 @@ I’m sure you can see how many variations could be created by varying the vineg
 
 <div class="ingredient-list">
 
-3 egg yolks  
-¼ cup white wine vinegar or tarragon vinegar  
-¼ cup dry white vermouth   
-1 tbsp minced shallots  
-½ tsp dried tarragon   
-½ tsp black peppercorns, cracked  
-¼ tsp salt  
-4 tbsp unsalted butter, cut into cubes and chilled very cold  
-1 stick unsalted butter, melted and cooled until just warm  
+* 3 egg yolks  
+* ¼ cup white wine vinegar or tarragon vinegar  
+* ¼ cup dry white vermouth   
+* 1 tbsp minced shallots  
+* ½ tsp dried tarragon   
+* ½ tsp black peppercorns, cracked  
+* ¼ tsp salt  
+* 4 tbsp unsalted butter, cut into cubes and chilled very cold  
+* 1 stick unsalted butter, melted and cooled until just warm  
 
 </div>
 

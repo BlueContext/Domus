@@ -19,17 +19,17 @@ tags:
 
 <div class="ingredient-list">
 
-Kosher salt  
-8 ounces medium pasta shells  
-2 tablespoons olive oil  
-2 garlic cloves, minced  
-¼ teaspoon red-pepper flakes  
-10 ounces fresh baby spinach, or frozen chopped spinach, defrosted and drained  
-1 (14-ounce) can artichoke hearts, drained and roughly chopped  
-2 cups heavy cream (1 pint)  
-4 ounces grated Parmesan (about 1 cup)  
-Black pepper  
-4 ounces grated mozzarella (about 1 cup)  
+* Kosher salt  
+* 8 ounces medium pasta shells  
+* 2 tablespoons olive oil  
+* 2 garlic cloves, minced  
+* ¼ teaspoon red-pepper flakes  
+* 10 ounces fresh baby spinach, or frozen chopped spinach, defrosted and drained  
+* 1 (14-ounce) can artichoke hearts, drained and roughly chopped  
+* 2 cups heavy cream (1 pint)  
+* 4 ounces grated Parmesan (about 1 cup)  
+* Black pepper  
+* 4 ounces grated mozzarella (about 1 cup)  
 
 </div>
 

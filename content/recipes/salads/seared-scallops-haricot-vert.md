@@ -20,17 +20,17 @@ tags:
 
 <div class="ingredient-list">
 
-1/4 lb haricots verts, washed and trimmed  
-1 lb sea scallops  
-5 tbsp olive oil  
-3 yellow bell peppers, cut into 2-by-1/4 inch strips  
-3 orange bell peppers, cut into 2-by-1/4 inch strips  
-2 large shallots, minced  
-3 tbsp Sherry vinegar  
-1/2 tsp sugar  
-3 tbsp walnut oil  
-4 heads red radicchio, outer leaves only, carefully washed and dried  
-1/3 cup walnuts, toasted lightly and chopped  
+* 1/4 lb haricots verts, washed and trimmed  
+* 1 lb sea scallops  
+* 5 tbsp olive oil  
+* 3 yellow bell peppers, cut into 2-by-1/4 inch strips  
+* 3 orange bell peppers, cut into 2-by-1/4 inch strips  
+* 2 large shallots, minced  
+* 3 tbsp Sherry vinegar  
+* 1/2 tsp sugar  
+* 3 tbsp walnut oil  
+* 4 heads red radicchio, outer leaves only, carefully washed and dried  
+* 1/3 cup walnuts, toasted lightly and chopped  
 
 </div>
 

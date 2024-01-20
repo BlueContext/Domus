@@ -19,16 +19,16 @@ This is not a dressing for delicate spring greens, though — you want something
 
 <div class="ingredient-list">
 
-1 carrot  
-¼ onion  
-A 1” piece of ginger root  
-1 ½ tbsp sugar  
-1 tbsp white miso  
-¼ tsp kosher/sea salt  
-freshly ground black pepper (to taste)  
-1 tsp toasted sesame oil  
-½ cup rice vinegar  
-¼ cup neutral-flavored oil  
+* 1 carrot  
+* ¼ onion  
+* A 1” piece of ginger root  
+* 1 ½ tbsp sugar  
+* 1 tbsp white miso  
+* ¼ tsp kosher/sea salt  
+* freshly ground black pepper (to taste)  
+* 1 tsp toasted sesame oil  
+* ½ cup rice vinegar  
+* ¼ cup neutral-flavored oil  
 
 </div>
 

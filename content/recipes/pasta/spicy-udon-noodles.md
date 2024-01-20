@@ -23,27 +23,28 @@ Frozen udon and ramen noodles are worth dedicating some freezer space to, as the
 
 <div class="ingredient-list">
 
-2 packages frozen Udon noodles  
-
-*For the sauce:*  
-2 tsp sambal oelek or sriracha  
-3 tbsp soy sauce  
-2 tsp rice vinegar  
-2 tsp toasted sesame seed oil  
-2 tbsp brown sugar  
-3 cloves garlic grated  
-½ tsp ginger grated  
-  
-*For the stir-fry:*  
-1 tbsp chili oil  
-½ med onion sliced  
-1 med carrot grated, sliced or cubed  
-2 sprigs scallions sliced  
-14oz vacuumed packed udon noodles   
-½ cup mushrooms sliced  
-½ cup extra firm tofu cubed  
-½ cup bean sprouts optional  
-broccoli, bell peppers optional    
+* #### The Noodles:
+  * 2 packages frozen Udon noodles  
+  * 
+* #### For the Sauce:  
+  * 2 tsp sambal oelek or sriracha  
+  * 3 tbsp soy sauce  
+  * 2 tsp rice vinegar  
+  * 2 tsp toasted sesame seed oil  
+  * 2 tbsp brown sugar  
+  * 3 cloves garlic grated  
+  * ½ tsp ginger grated  
+  *   
+* #### For the stir-fry:
+  * 1 tbsp chili oil  
+  * ½ med onion sliced  
+  * 1 med carrot grated, sliced or cubed  
+  * 2 sprigs scallions sliced  
+  * 14oz vacuumed packed udon noodles   
+  * ½ cup mushrooms sliced  
+  * ½ cup extra firm tofu cubed  
+  * ½ cup bean sprouts optional  
+  * broccoli, bell peppers optional    
 
 </div>
 

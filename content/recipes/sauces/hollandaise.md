@@ -22,13 +22,13 @@ The key to this famous (and famously fragile) butter sauce is close attention an
 
 <div class="ingredient-list">
 
-1 cup butter, melted and cooled  
-3 egg yolks  
-1 tbsp. cold water  
-Juice from one large lemon  
-2 tbsp. cold butter, cut in half  
-Tabasco sauce  
-White pepper  
+* 1 cup butter, melted and cooled  
+* 3 egg yolks  
+* 1 tbsp. cold water  
+* Juice from one large lemon  
+* 2 tbsp. cold butter, cut in half  
+* Tabasco sauce  
+* White pepper  
 
 </div>
 

@@ -19,13 +19,13 @@ You'll really want to seek out the pickled plums called for here. They're common
 
 <div class="ingredient-list">
 
-4 tsp sugar  
-3 tbsp hot water  
-6 tbsp apricot preserves  
-2 salted pickled plum  
-1/2 tsp liquid from salted pickled plum jar  
-1/4 tsp soy sauce  
-1/2 tsp rice vinegar    
+* 4 tsp sugar  
+* 3 tbsp hot water  
+* 6 tbsp apricot preserves  
+* 2 salted pickled plum  
+* 1/2 tsp liquid from salted pickled plum jar  
+* 1/4 tsp soy sauce  
+* 1/2 tsp rice vinegar    
 
 </div>
 

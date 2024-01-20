@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-7 tbsp flour  
-7 tbsp cornstarch  
-1 tsp baking powder  
-Sea salt and black pepper to taste  
-1/3 cup Guinness Stout or another dark beer  
-1/3 cup cold club soda  
-4 (7 ounce) thick white fish fillets  
-Peanut oil for deep frying  
+* 7 tbsp flour  
+* 7 tbsp cornstarch  
+* 1 tsp baking powder  
+* Sea salt and black pepper to taste  
+* 1/3 cup Guinness Stout or another dark beer  
+* 1/3 cup cold club soda  
+* 4 (7 ounce) thick white fish fillets  
+* Peanut oil for deep frying  
 
 </div>
 

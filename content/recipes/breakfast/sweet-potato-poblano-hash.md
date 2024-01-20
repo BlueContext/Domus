@@ -9,7 +9,7 @@ serves: "Serves 6"
 summary: "A tasty, easy, and colorful brunch."
 categories:
 - All Recipes
-- Breakfast
+- Breakfast & Brunch
 tags:
 - Brunch
 - Breakfast
@@ -18,28 +18,28 @@ tags:
 
 <div class="ingredient-list">
 
-*For Hash:*  
-2 large sweet potatoes, peeled and cut into 1/2” cubes  
-2 large russet potatoes, peeled and cut into 1/2” cubes  
-4 tbsp olive oil  
-1 small onion, chopped  
-1 large clove garlic, minced  
-1 red bell pepper, seeded and cut into 1/2” dice  
-2 poblano peppers, seeded and cut into 1/2” dice  
-1/2 tsp ground cumin  
-1/2 tsp ground coriander seed  
-1/2 tsp dried Mexican oregano  
-1/4 cup chopped cilantro  
-Juice of 1 lime  
-  
-*For Crema:*  
-1 cup Mexican crema or sour cream  
-1 tsp ground cumin  
-Juice of 1 lime  
-
-*For Eggs:*  
-1 tbsp white vinegar  
-6 eggs  
+* #### For Hash:
+  * 2 large sweet potatoes, peeled and cut into 1/2” cubes  
+  * 2 large russet potatoes, peeled and cut into 1/2” cubes  
+  * 4 tbsp olive oil  
+  * 1 small onion, chopped  
+  * 1 large clove garlic, minced  
+  * 1 red bell pepper, seeded and cut into 1/2” dice  
+  * 2 poblano peppers, seeded and cut into 1/2” dice  
+  * 1/2 tsp ground cumin  
+  * 1/2 tsp ground coriander seed  
+  * 1/2 tsp dried Mexican oregano  
+  * 1/4 cup chopped cilantro  
+  * Juice of 1 lime  
+  *   
+* #### For Crema:  
+  * 1 cup Mexican crema or sour cream  
+  * 1 tsp ground cumin  
+  * Juice of 1 lime  
+  * 
+* #### For Eggs:  
+  * 1 tbsp white vinegar  
+  * 6 eggs  
 
 </div>
 
