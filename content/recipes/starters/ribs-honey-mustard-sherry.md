@@ -19,11 +19,11 @@ tags:
 
 <div class="ingredient-list">
 
-A 2 or 2.5 lb rack of baby back pork ribs (ask your butcher to saw it in half lengthwise)  
-2 to 3 cups peanut oil or olive oil  
-3/4 cup honey  
-1/3 cup grainy mustard  
-1 1/2 cup dry sherry   
+* A 2 or 2.5 lb rack of baby back pork ribs (ask your butcher to saw it in half lengthwise)  
+* 2 to 3 cups peanut oil or olive oil  
+* 3/4 cup honey  
+* 1/3 cup grainy mustard  
+* 1 1/2 cup dry sherry   
 
 </div>
 

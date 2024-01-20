@@ -18,11 +18,11 @@ tags:
 
 <div class="ingredient-list">
 
-3 oz. Cream cheese (room temperature)  
-3 oz. Roquefort (room temperature)  
-1 tsp. Cognac  
-A small pinch of cayenne  
-4 slices of pumpernickel or white bread, toasted and buttered   
+* 3 oz. Cream cheese (room temperature)  
+* 3 oz. Roquefort (room temperature)  
+* 1 tsp. Cognac  
+* A small pinch of cayenne  
+* 4 slices of pumpernickel or white bread, toasted and buttered   
 
 </div>
 

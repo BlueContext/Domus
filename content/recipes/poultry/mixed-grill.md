@@ -22,7 +22,7 @@ You can add whichever fresh or pickled vegetables to you’d like to pack into y
 <div class="ingredient-list">
   
 * 1/2 cup white vinegar, divided  
-* 1 tsp sugar, divided  
+* Sugar
 * Salt and black pepper  
 * 1 large red onion, halved and sliced thin  
 * 1 Persian or small English cucumber  
@@ -38,11 +38,10 @@ You can add whichever fresh or pickled vegetables to you’d like to pack into y
 * 1 tsp crushed Aleppo pepper  
 * 2 lbs boneless, skinless chicken thighs, trimmed and cut into 1.5” chunks  
 * 4-6 pitas  
-
 </div>
 
-### Instructions
-In a small bowl, stir together the vinegar, sugar, and 1/4 tsp salt until fully dissolved. Stir in 1 cup of the sliced onions. Cover and set aside.
+### Instructionsf
+In a small bowl, stir together 1/4 cup of the vinegar, 1 tsp sugar, and 1/4 tsp salt until fully dissolved. Stir in 1 cup of the sliced onions. Cover and set aside.
 
 In another small bowl, mix together the tahini and 2 tbsp of lemon juice, then whisk in 6 tbsp of water. Season to taste with salt and sugar. If the sauce seems bitter, add a pinch of sugar. Cover and set aside.
 

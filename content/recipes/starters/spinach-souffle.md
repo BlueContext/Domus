@@ -21,20 +21,20 @@ In that latter case, the baking time will be more like 30 minutes.
 
 <div class="ingredient-list">
 
-1 lb spinach, washed well and coarse stems discarded  
-1/2 stick (1/4 c) butter  
-1/4 c flour  
-1 1/4 tsp salt  
-1 c milk  
-1 tsp minced onion or shallot  
-1/2 c grated Gruyere  
-1/8 tsp freshly grated nutmeg  
-A small pinch of cayenne  
-A dash of Tabasco sauce  
-3 large egg yolks, beaten lightly  
-3 large egg whites at room temperature  
-1/4 tsp Cream of Tarter  
-Butter and grated Parmesan for the dish.   
+* 1 lb spinach, washed well and coarse stems discarded  
+* 1/2 stick (1/4 c) butter  
+* 1/4 c flour  
+* 1 1/4 tsp salt  
+* 1 c milk  
+* 1 tsp minced onion or shallot  
+* 1/2 c grated Gruyere  
+* 1/8 tsp freshly grated nutmeg  
+* A small pinch of cayenne  
+* A dash of Tabasco sauce  
+* 3 large egg yolks, beaten lightly  
+* 3 large egg whites at room temperature  
+* 1/4 tsp Cream of Tarter  
+* Butter and grated Parmesan for the dish.   
 
 </div>
 

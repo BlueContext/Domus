@@ -18,22 +18,22 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 lb fresh salmon fillet  
-4 tbsp butter  
-2 lemon slices  
-2 tbsp dry vermouth  
-Fresh coriander leaves for garnish  
-2 tbsp cold water plus 1/3 cup boiling water  
-1 tbsp fresh lemon juice  
-1 envelope (about 1 tbsp) of unflavored gelatin  
-1/2 lb thinly sliced smoked salmon  
-1 1/2 cups sour cream  
-1/4 teaspoon Tabasco, or to taste  
-1/4 cup finely chopped scallion  
-1 cup heavy cream  
-1/4 cup salmon roe  
-Celery leaves and/or Belgian endive for garnish  
-Assorted crudités such as cucumber, celery, jícama, daikon, and blanched snow peas, or crackers and toast points, as you like.  
+* 1/2 lb fresh salmon fillet  
+* 4 tbsp butter  
+* 2 lemon slices  
+* 2 tbsp dry vermouth  
+* Fresh coriander leaves for garnish  
+* 2 tbsp cold water plus 1/3 cup boiling water  
+* 1 tbsp fresh lemon juice  
+* 1 envelope (about 1 tbsp) of unflavored gelatin  
+* 1/2 lb thinly sliced smoked salmon  
+* 1 1/2 cups sour cream  
+* 1/4 teaspoon Tabasco, or to taste  
+* 1/4 cup finely chopped scallion  
+* 1 cup heavy cream  
+* 1/4 cup salmon roe  
+* Celery leaves and/or Belgian endive for garnish  
+* Assorted crudités such as cucumber, celery, jícama, daikon, and blanched snow peas, or crackers and toast points, as you like.  
 
 </div>
 

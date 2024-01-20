@@ -17,24 +17,24 @@ tags:
 
 <div class="ingredient-list">
 
-8 cups ¾” cubes country style French bread  
-3 medium onions, chopped  
-2 carrots, peeled and chopped  
-3 celery ribs, chopped  
-2 apples, peeled, cored and chopped  
-3 tbsp. butter  
-Livers from the turkey or ducks, diced  
-1 ½ lbs. sweet Italian sausage  
-¼ cup cognac or brandy  
-1 cup cream mixed with ½ cup milk  
-2 cups low-sodium chicken stock or broth  
-2 large eggs  
-3 cups coarsely crumbled cooked and peeled chestnuts  
-¼ cup chopped parsley  
-1 ½ tsp. dried sage, crumbled  
-1 tsp. dried thyme, crumbled  
-1 tsp. Salt  
-1/2 cup dried cranberries  
+* 8 cups ¾” cubes country style French bread  
+* 3 medium onions, chopped  
+* 2 carrots, peeled and chopped  
+* 3 celery ribs, chopped  
+* 2 apples, peeled, cored and chopped  
+* 3 tbsp. butter  
+* Livers from the turkey or ducks, diced  
+* 1 ½ lbs. sweet Italian sausage  
+* ¼ cup cognac or brandy  
+* 1 cup cream mixed with ½ cup milk  
+* 2 cups low-sodium chicken stock or broth  
+* 2 large eggs  
+* 3 cups coarsely crumbled cooked and peeled chestnuts  
+* ¼ cup chopped parsley  
+* 1 ½ tsp. dried sage, crumbled  
+* 1 tsp. dried thyme, crumbled  
+* 1 tsp. Salt  
+* 1/2 cup dried cranberries  
 
 </div>
 

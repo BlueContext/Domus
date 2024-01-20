@@ -19,10 +19,10 @@ I don’t find Robiola often, but while it’s wonderful if you can find it, the
 
 <div class="ingredient-list">
 
-3 hot or sweet Italian sausages, casings removed  
-5 ounces stracchino cheese such as Robiola (or grated Fontina or mozzarella)  
-1 tbsp. fennel seeds  
-6 slices of country style bread, cut in half     
+* 3 hot or sweet Italian sausages, casings removed  
+* 5 ounces stracchino cheese such as Robiola (or grated Fontina or mozzarella)  
+* 1 tbsp. fennel seeds  
+* 6 slices of country style bread, cut in half     
 
 </div>
 

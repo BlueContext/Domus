@@ -24,17 +24,17 @@ For some reason, people see “dark meat” and react like you’ve suggested th
 
 <div class="ingredient-list">
 
-6 boneless, skinless chicken thighs  
-3 tbsp. sake  
-2 tbsp. soy sauce  
-½ tsp. salt  
-2 tbsp. grated garlic  
-2 tbsp. grated ginger  
-1 tsp. shichimi togarashi* or ½ tsp. cayenne pepper  
-1 tbsp. yuzu kosho (a Japanese citrus-chili-salt paste)* or the zest of ½ a lemon  
-½ cup flour  
-2/3 cup potato starch* or cornstarch  
-Oil for deep frying     
+* 6 boneless, skinless chicken thighs  
+* 3 tbsp. sake  
+* 2 tbsp. soy sauce  
+* ½ tsp. salt  
+* 2 tbsp. grated garlic  
+* 2 tbsp. grated ginger  
+* 1 tsp. shichimi togarashi* or ½ tsp. cayenne pepper  
+* 1 tbsp. yuzu kosho (a Japanese citrus-chili-salt paste)* or the zest of ½ a lemon  
+* ½ cup flour  
+* 2/3 cup potato starch* or cornstarch  
+* Oil for deep frying     
 
 </div>
 
@@ -58,15 +58,15 @@ This is a recipe of my own devising, packing many intense flavors into a bright,
 
 <div class="ingredient-list">
 
-1 tbsp. soy sauce  
-1 tbsp. mirin*  
-1 tbsp. rice wine vinegar  
-1 tbsp. ponzu or chili ponzu*  
-1 scallion, sliced very fine  
-½ 1 tbsp. grated ginger  
-½ clove garlic, grated  
-½ tsp. rayu (Japanese chili oil) or sesame oil*  
-Pinch of sugar  
+* 1 tbsp. soy sauce  
+* 1 tbsp. mirin*  
+* 1 tbsp. rice wine vinegar  
+* 1 tbsp. ponzu or chili ponzu*  
+* 1 scallion, sliced very fine  
+* ½ 1 tbsp. grated ginger  
+* ½ clove garlic, grated  
+* ½ tsp. rayu (Japanese chili oil) or sesame oil*  
+* Pinch of sugar  
 
 *These can all be found at a Japanese grocery store or ordered online.  
 

@@ -21,22 +21,22 @@ However, jars of cooked chestnuts are easily found online and sometimes in groce
 
 <div class="ingredient-list">
 
-1 (1 1/4-pound) loaf country-style bread, crust discarded and bread cut into 3/4-inch cubes (8 cups)  
-1/2 pound sliced bacon, cut crosswise into 1/2-inch pieces  
-3 medium onions, coarsely chopped  
-3 celery ribs, coarsely chopped  
-1 pound bulk pork sausage  
-1 turkey (or chicken or duck) liver (optional), coarsely chopped  
-1/4 cup Cognac or other brandy  
-1 1/2 cups half-and-half  
-1 cup turkey stock or low-sodium chicken broth  
-2 large eggs  
-1 (14- to 15-oz) jar peeled cooked whole chestnuts, coarsely crumbled (3 cups)  
-1/4 cup coarsely chopped fresh flat-leaf parsley  
-1 1/2 teaspoons dried sage, crumbled  
-1 teaspoon dried thyme, crumbled  
-3/4 teaspoon salt  
-1/2 teaspoon black pepper  
+* 1 (1 1/4-pound) loaf country-style bread, crust discarded and bread cut into 3/4-inch cubes (8 cups)  
+* 1/2 pound sliced bacon, cut crosswise into 1/2-inch pieces  
+* 3 medium onions, coarsely chopped  
+* 3 celery ribs, coarsely chopped  
+* 1 pound bulk pork sausage  
+* 1 turkey (or chicken or duck) liver (optional), coarsely chopped  
+* 1/4 cup Cognac or other brandy  
+* 1 1/2 cups half-and-half  
+* 1 cup turkey stock or low-sodium chicken broth  
+* 2 large eggs  
+* 1 (14- to 15-oz) jar peeled cooked whole chestnuts, coarsely crumbled (3 cups)  
+* 1/4 cup coarsely chopped fresh flat-leaf parsley  
+* 1 1/2 teaspoons dried sage, crumbled  
+* 1 teaspoon dried thyme, crumbled  
+* 3/4 teaspoon salt  
+* 1/2 teaspoon black pepper  
 
 </div>
 

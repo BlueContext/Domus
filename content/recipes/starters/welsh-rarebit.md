@@ -17,17 +17,17 @@ tags:
 
 <div class="ingredient-list">
 
-8oz sharp cheddar, shredded  
-2 tbsp all-purpose flour  
-2 tbsp salted butter  
-½ tsp. Black pepper  
-¼ tsp. Cayenne  
-1 tsp. Dijon mustard  
-½ tsp. Dry mustard  
-½ tsp. Worcestershire sauce  
-1 c. brown ale  
-4 thick slices of toasted or grilled bread  
-Minced chives or parsley  
+* 8oz sharp cheddar, shredded  
+* 2 tbsp all-purpose flour  
+* 2 tbsp salted butter  
+* ½ tsp. Black pepper  
+* ¼ tsp. Cayenne  
+* 1 tsp. Dijon mustard  
+* ½ tsp. Dry mustard  
+* ½ tsp. Worcestershire sauce  
+* 1 c. brown ale  
+* 4 thick slices of toasted or grilled bread  
+* Minced chives or parsley  
 
 </div>
 
