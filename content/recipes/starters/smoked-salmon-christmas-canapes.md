@@ -20,12 +20,12 @@ These are a bit fussy to make, but they’re cute in an old-fashioned way. I wou
 
 <div class="ingredient-list">
 
-1/2 lb thinly sliced smoked salmon  
-10 slices very thin bread  
-3 tbsp butter, softened  
-1 tbsp drained capers or green pepper corns  
-1 small white onion, halved and sliced very thinly lengthwise, soaked in ice water, drained and dried  
-Dill sprigs or fennel fronds for garnish   
+* 1/2 lb thinly sliced smoked salmon  
+* 10 slices very thin bread  
+* 3 tbsp butter, softened  
+* 1 tbsp drained capers or green pepper corns  
+* 1 small white onion, halved and sliced very thinly lengthwise, soaked in ice water, drained and dried  
+* Dill sprigs or fennel fronds for garnish   
 
 </div>
 

@@ -19,13 +19,13 @@ Be sure to let it come to room temperature — the cream cheese means that this 
 
 <div class="ingredient-list">
 
-1/2 lb sharp Cheddar cheese, finely grated  
-8 oz cream cheese  
-1/4 cup Port wine  
-1 tbsp Worcestershire sauce  
-1/4 tsp cayenne pepper  
-1/2 tsp seasoned salt (I use Tony Chachere’s Creole Seasoning)  
-1 cup sliced almonds  
+* 1/2 lb sharp Cheddar cheese, finely grated  
+* 8 oz cream cheese  
+* 1/4 cup Port wine  
+* 1 tbsp Worcestershire sauce  
+* 1/4 tsp cayenne pepper  
+* 1/2 tsp seasoned salt (I use Tony Chachere’s Creole Seasoning)  
+* 1 cup sliced almonds  
 
 </div>
 

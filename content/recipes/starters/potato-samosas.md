@@ -22,27 +22,27 @@ There are great videos on YouTube that show you how to fold samosas using spring
 
 <div class="ingredient-list">
 
-*Filling:*  
-3 medium russet potatoes (1 pound)  
- Fine sea salt  
-2 tsp canola oil  
-1 tsp cumin seeds  
-1 tsp coriander seeds  
-1 tsp ground red chile  
-¼ tsp turmeric powder  
-½ tsp coriander powder   
-½ tsp cumin powder  
-1 tsp amchoor powder  
-½ cup frozen peas  
-½ tsp garam masala  
-1 to 2 jalapeño or Serrano chiles, stemmed and minced  
-2 tbsp finely chopped fresh cilantro  
-  
-*Assembly and Cooking:*  
-14 spring roll wrappers (frozen wrappers such has TYJ brand Spring Roll Pastry; 8 inches square)  
-3 tbsp all-purpose flour  
-Oil for deep-frying  
-Mint Chutney (see below)  
+* #### For Filling:  
+  * 3 medium russet potatoes (1 pound)  
+  *  Fine sea salt  
+  * 2 tsp canola oil  
+  * 1 tsp cumin seeds  
+  * 1 tsp coriander seeds  
+  * 1 tsp ground red chile  
+  * ¼ tsp turmeric powder  
+  * ½ tsp coriander powder   
+  * ½ tsp cumin powder  
+  * 1 tsp amchoor powder  
+  * ½ cup frozen peas  
+  * ½ tsp garam masala  
+  * 1 to 2 jalapeño or Serrano chiles, stemmed and minced  
+  * 2 tbsp finely chopped fresh cilantro  
+  *   
+* #### For Assembly and Cooking:
+  * 14 spring roll wrappers (frozen wrappers such has TYJ brand Spring Roll Pastry; 8 inches square)  
+  * 3 tbsp all-purpose flour  
+  * Oil for deep-frying  
+  * Mint Chutney (see below)  
 
 </div>
 
@@ -65,15 +65,15 @@ Serve hot or warm with the mint chutney for dipping.
 
 <div class="ingredient-list">
 
-1 cup loosely packed cilantro with stems  
-2 cups loosely packed mint leaves  
-2 tsp cumin seeds or 1 tsp cumin powder  
-1-2 jalapeño or serrano chiles  
-1 tsp granulated sugar  
-1 tsp fine sea salt  
-¼ cup fresh lemon juice  
-¼ cup Greek yogurt or water  
-1 garlic clove, smashed  
+* 1 cup loosely packed cilantro with stems  
+* 2 cups loosely packed mint leaves  
+* 2 tsp cumin seeds or 1 tsp cumin powder  
+* 1-2 jalapeño or serrano chiles  
+* 1 tsp granulated sugar  
+* 1 tsp fine sea salt  
+* ¼ cup fresh lemon juice  
+* ¼ cup Greek yogurt or water  
+* 1 garlic clove, smashed  
 
 </div>
 

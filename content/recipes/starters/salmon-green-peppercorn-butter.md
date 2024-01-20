@@ -18,18 +18,18 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 lbs salmon fillet with the skin attached  
-1 tsp fennel seeds, crushed coarsely  
-1 anchovy fillet  
-1 tbsp tomato paste  
-1 tbsp bottled green peppercorns, drained  
-1/2 tsp finely grated lemon zest  
-2 tbsp Pernod  
-1/2 tsp salt  
-1 1/4 sticks (10 tbsp) butter  
-2 tsp fresh lemon juice, or to taste  
-A decoratively cut lemon since and some fennel fronds for garnish if desired  
-Fennel crudite and crackers to serve    
+* 1/2 lbs salmon fillet with the skin attached  
+* 1 tsp fennel seeds, crushed coarsely  
+* 1 anchovy fillet  
+* 1 tbsp tomato paste  
+* 1 tbsp bottled green peppercorns, drained  
+* 1/2 tsp finely grated lemon zest  
+* 2 tbsp Pernod  
+* 1/2 tsp salt  
+* 1 1/4 sticks (10 tbsp) butter  
+* 2 tsp fresh lemon juice, or to taste  
+* A decoratively cut lemon since and some fennel fronds for garnish if desired  
+* Fennel crudite and crackers to serve    
 
 </div>
 

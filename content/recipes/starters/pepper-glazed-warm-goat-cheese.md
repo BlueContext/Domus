@@ -20,14 +20,14 @@ If you can find a good pepper jelly, that can stand in for the apricot preserves
 
 <div class="ingredient-list">
 
-1 lb. creamy fresh goat cheese (chèvre) softened to room temperature  
-6 tbsp. apricot preserves  
-4 Peppadew peppers, finely chopped  
-1 pickled jalapeño, seeded and finely minced  
-2 tbsp. minced cocktail onions  
-2 tbsp. Dijon mustard  
-1 1/2 tsp. dry sherry  
-Pita chips and toasted baguette slices to serve   
+* 1 lb. creamy fresh goat cheese (chèvre) softened to room temperature  
+* 6 tbsp. apricot preserves  
+* 4 Peppadew peppers, finely chopped  
+* 1 pickled jalapeño, seeded and finely minced  
+* 2 tbsp. minced cocktail onions  
+* 2 tbsp. Dijon mustard  
+* 1 1/2 tsp. dry sherry  
+* Pita chips and toasted baguette slices to serve   
 
 </div>
 

@@ -23,20 +23,20 @@ Finally, the any mixture of mushrooms that you like will work well here. White b
 
 <div class="ingredient-list">
 
-1/4 lb. Oyster mushrooms, torn into clumps  
-1/4 lb. Shiitake mushrooms, stemmed and sliced  
-1/4 lb. Portobello mushrooms, stemmed and very coarsely chopped bite-size  
-1/4 lb. Chanterelle mushrooms  
-1/2 red onion, thinly sliced  
-2-3 cloves garlic, finely minced  
-2 tbsp. Olive oil  
-1 tsp chopped fresh rosemary  
-2 tsp chopped fresh sage  
-2 tsp chopped fresh parsley  
-1 tsp chopped fresh thyme  
-1 tbsp balsamic vinegar  
-1/2 cup dry white wine or dry vermouth  
-8 slices of crusty bread, toasted on the grill     
+* 1/4 lb. Oyster mushrooms, torn into clumps  
+* 1/4 lb. Shiitake mushrooms, stemmed and sliced  
+* 1/4 lb. Portobello mushrooms, stemmed and very coarsely chopped bite-size  
+* 1/4 lb. Chanterelle mushrooms  
+* 1/2 red onion, thinly sliced  
+* 2-3 cloves garlic, finely minced  
+* 2 tbsp. Olive oil  
+* 1 tsp chopped fresh rosemary  
+* 2 tsp chopped fresh sage  
+* 2 tsp chopped fresh parsley  
+* 1 tsp chopped fresh thyme  
+* 1 tbsp balsamic vinegar  
+* 1/2 cup dry white wine or dry vermouth  
+* 8 slices of crusty bread, toasted on the grill     
 
 </div>
 

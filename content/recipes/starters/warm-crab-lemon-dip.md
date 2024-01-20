@@ -19,20 +19,20 @@ tags:
 
 <div class="ingredient-list">
 
-1/2 cup butter  
-2 cloves garlic, crushed  
-3 shallots, thinly sliced  
-1 tsp mustard powder  
-1/2 tsp cayenne pepper  
-1/2 c whipping cream  
-2/3 c cream cheese  
-1/2 c grated white cheddar  
-11 oz can jumbo lump crabmeat, drained  
-2 tbsp lemon juice  
-1 tsp Worcestershire sauce  
-3 tsp finely chopped fresh tarragon  
-1/2 cup fresh bread crumbs (easily made by tossing a couple of slices of white bread into the food processor and pulsing until finely ground)  
-1 tbsp finely minced fresh parsley  
+* 1/2 cup butter  
+* 2 cloves garlic, crushed  
+* 3 shallots, thinly sliced  
+* 1 tsp mustard powder  
+* 1/2 tsp cayenne pepper  
+* 1/2 c whipping cream  
+* 2/3 c cream cheese  
+* 1/2 c grated white cheddar  
+* 11 oz can jumbo lump crabmeat, drained  
+* 2 tbsp lemon juice  
+* 1 tsp Worcestershire sauce  
+* 3 tsp finely chopped fresh tarragon  
+* 1/2 cup fresh bread crumbs (easily made by tossing a couple of slices of white bread into the food processor and pulsing until * finely ground)  
+* 1 tbsp finely minced fresh parsley  
 
 </div>
 

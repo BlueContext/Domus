@@ -19,13 +19,13 @@ These are a bit of a project, but they’re absolutely addictive. Use best-quali
 
 <div class="ingredient-list">
 
-Flour for work surface  
-1 14-oz package all-butter puff pastry (such as Dufour)  
-1 large egg, lightly beaten  
-1 oz Parmesan cheese, grated (or 1/2 cup)  
-1/4 tsp salt  
-1/2 tsp poppy seeds  
-1/2 tsp cayenne  
+* Flour for work surface  
+* 1 14-oz package all-butter puff pastry (such as Dufour)  
+* 1 large egg, lightly beaten  
+* 1 oz Parmesan cheese, grated (or 1/2 cup)  
+* 1/4 tsp salt  
+* 1/2 tsp poppy seeds  
+* 1/2 tsp cayenne  
 
 </div>
 

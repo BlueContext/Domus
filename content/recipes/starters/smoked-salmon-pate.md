@@ -18,14 +18,14 @@ tags:
 
 <div class="ingredient-list">
 
-1 1/4 lbs smoked salmon  
-3 sticks (1 1/2 c) softened butter  
-1 tbsp fresh lemon juice, or to taste  
-1/3 c heavy cream  
-A pinch of allspice  
-1/8 tsp cayenne  
-Tabasco sauce to taste  
-Toast points or crackers to serve   
+* 1 1/4 lbs smoked salmon  
+* 3 sticks (1 1/2 c) softened butter  
+* 1 tbsp fresh lemon juice, or to taste  
+* 1/3 c heavy cream  
+* A pinch of allspice  
+* 1/8 tsp cayenne  
+* Tabasco sauce to taste  
+* Toast points or crackers to serve   
 
 </div>
 

@@ -18,21 +18,21 @@ tags:
 
 <div class="ingredient-list">
 
-1 tbsp brown sugar  
-1 1/2 tbsp fish sauce  
-1 lb. ground chicken  
-1 c. peanuts, toasted until fragrant and chopped  
-1/2 c breadcrumbs (Panko or fresh)  
-1 tbsp Thai red curry paste  
-1 tbsp lime juice  
-3 fresh kaffir lime leaves, sliced into very fine shreds  
-1 3” piece lemongrass, tough layers removed, tender part minced finely  
-1” piece of ginger, peeled and finely minced  
-1 Thai birdseye chili (or Serrano pepper), stemmed and finely minced   
-2 tbsp sweet chili sauce  
-2 tbsp chopped cilantro  
-1/2 c vegetable oil  
-Extra sweet chili sauce for serving.   
+* 1 tbsp brown sugar  
+* 1 1/2 tbsp fish sauce  
+* 1 lb. ground chicken  
+* 1 c. peanuts, toasted until fragrant and chopped  
+* 1/2 c breadcrumbs (Panko or fresh)  
+* 1 tbsp Thai red curry paste  
+* 1 tbsp lime juice  
+* 3 fresh kaffir lime leaves, sliced into very fine shreds  
+* 1 3” piece lemongrass, tough layers removed, tender part minced finely  
+* 1” piece of ginger, peeled and finely minced  
+* 1 Thai birdseye chili (or Serrano pepper), stemmed and finely minced   
+* 2 tbsp sweet chili sauce  
+* 2 tbsp chopped cilantro  
+* 1/2 c vegetable oil  
+* Extra sweet chili sauce for serving.   
 
 </div>
 

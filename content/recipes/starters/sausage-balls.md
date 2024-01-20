@@ -18,11 +18,11 @@ tags:
 
 <div class="ingredient-list">
 
-1 lb. sharp cheddar cheese, grated, at room temperature  
-1 lb. raw hot bulk sausage (Jimmy Dean is best)  
-3 c. Bisquick baking mix  
-3 tbsp. butter, melted  
-½ tsp. cayenne pepper   
+* 1 lb. sharp cheddar cheese, grated, at room temperature  
+* 1 lb. raw hot bulk sausage (Jimmy Dean is best)  
+* 3 c. Bisquick baking mix  
+* 3 tbsp. butter, melted  
+* ½ tsp. cayenne pepper   
 
 </div>
 

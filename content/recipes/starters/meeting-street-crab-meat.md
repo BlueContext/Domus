@@ -21,14 +21,14 @@ Baked in a single dish and served with toasts or crackers, it makes a pleasant a
 
 <div class="ingredient-list">
 
-1 lb jumbo lump crab meat, picked over for shell fragments  
-4 tbsp butter  
-1 tbsp finely minced shallot or scallion  
-4 tbsp flour  
-1 cup cream  
-4 tbsp dry sherry  
-Salt, white pepper, and cayenne to taste  
-3/4 cup shredded Gruyère or sharp white cheddar  
+* 1 lb jumbo lump crab meat, picked over for shell fragments  
+* 4 tbsp butter  
+* 1 tbsp finely minced shallot or scallion  
+* 4 tbsp flour  
+* 1 cup cream  
+* 4 tbsp dry sherry  
+* Salt, white pepper, and cayenne to taste  
+* 3/4 cup shredded Gruyère or sharp white cheddar  
 
 </div>
 

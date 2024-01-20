@@ -21,20 +21,20 @@ This incredibly rich spread of braised pork and pork fat is a sort of pate and, 
 
 <div class="ingredient-list">
 
-1 ½ lb. boneless pork shoulder, cut into 2” cubes  
-1 ½ lb. pork belly, skin removed, cut into cubes  
-Olive oil  
-1 cup Vouvray or other dry white wine  
-1 carrot, cut into 4 pieces  
-1 white onion, cut in quarters  
-10 sprigs of fresh thyme  
-1 tbsp. whole black peppercorns  
-1 bay leaf  
-6 garlic cloves, peeled and smashed  
-½ tsp. freshly ground black pepper  
-½ tsp. ground coriander  
-¼ tsp. ground cinnamon  
-½ tsp. ground allspice  
+* 1 ½ lb. boneless pork shoulder, cut into 2” cubes  
+* 1 ½ lb. pork belly, skin removed, cut into cubes  
+* Olive oil  
+* 1 cup Vouvray or other dry white wine  
+* 1 carrot, cut into 4 pieces  
+* 1 white onion, cut in quarters  
+* 10 sprigs of fresh thyme  
+* 1 tbsp. whole black peppercorns  
+* 1 bay leaf  
+* 6 garlic cloves, peeled and smashed  
+* ½ tsp. freshly ground black pepper  
+* ½ tsp. ground coriander  
+* ¼ tsp. ground cinnamon  
+* ½ tsp. ground allspice  
 
 </div>
 
