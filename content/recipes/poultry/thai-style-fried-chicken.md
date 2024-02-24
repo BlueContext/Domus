@@ -32,7 +32,7 @@ tags:
 * Peanut oil for deep frying
 * Fried shallots (make your own, or buy at an Asian grocery), optional.
 * Lime wedges to serve
-* [Sweet chili sauce]({{< ref "/recipes/sauces/thai-sweet-chili-sauce.md >}} "Thai Sweet Chili Sauce") to serve  
+* [Sweet chili sauce]({{< ref "/recipes/sauces/thai-sweet-chili-sauce.md" >}} "Thai Sweet Chili Sauce") to serve  
 
 </div>
 
