@@ -31,8 +31,8 @@ Use lump hardwood charcoal, and none of that terrible starter fluid. Your reward
 * 1 tsp white peppercorns  
 * 1 whole chicken  
 * Lime wedges to serve  
-* [Chili-Lime Dipping Sauce]({{< ref "recipes/sauces/chili-lime-sauce.md" >}}, "Chili-Lime Dipping Sauce") to serve
-* [Tamarind Chili Dipping Sauce]({{< ref "recipes/sauces/chili-tamarind-sauce.md" >}}, "Tamarind Chili Dipping Sauce") to serve
+* [Chili-Lime Dipping Sauce]({{< ref "recipes/sauces/chile-lime-sauce.md" >}}, "Chili-Lime Dipping Sauce") to serve
+* [Tamarind Chili Dipping Sauce]({{< ref "recipes/sauces/chile-tamarind-sauce.md" >}}, "Tamarind Chili Dipping Sauce") to serve
 
 </div>
 
