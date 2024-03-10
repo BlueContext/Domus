@@ -28,7 +28,7 @@ tags:
   * 1 tbsp olive oil  
   * 1 tbsp white vinegar  
   * Juice and zest of 1 lemon  
-  * 1 fryer chicken (around 4 lbs), whole, rinsed and spatchcocked   
+  * 1 fryer chicken (around 4 lbs), whole, rinsed and spatchcock  
   * 1 medium onion, sliced  
   *   
 * #### For the green sauce:
