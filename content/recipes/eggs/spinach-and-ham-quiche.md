@@ -22,7 +22,7 @@ When seasoning various components of the filling, keep in mind that the cheese a
 
 <div class="ingredient-list">
 
-* 1 recipe [Pâte Brisée]({{ < ref "/recipes/basic-doughs-and-batters/pate-brisee.md" >}} "Pâte Brisée")
+* [1/2 recipe Pâte Brisée]({{< ref "/recipes/basic-doughs-and-batters/pate-brisee.md" >}} "Pâte Brisée")
 * A 9" tart pan with fluted sides and a removable bottom
 * 1 sheet of baking parchment
 * Dried beans or pie weights
