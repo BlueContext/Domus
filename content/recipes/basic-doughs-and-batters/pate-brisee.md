@@ -31,5 +31,4 @@ The mixture of all-purpose flour and cake flour in this recipe is an approximati
 
 ### Instructions
 Combine the flours in a large bowl, and make a well in the center. Put the eggs, water and salt into the well. Work the softened butter into the wet ingredients with your fingers. Gradually cut the butter mixture into the flour with a pastry knife or spatula until the dough comes together.
-T
-urn the dough out onto a board. Using the heel of your hand, push bits of the dough (about 2 tablespoons) out in a smear, and then scrape back into the dough. The object is to coat every particle of flour with fat.  This method is known as fraiser. Scrape into a ball, divide, into two halves, and shape each half into a disk. Wrap with plastic wrap and refrigerate  for at least 30 minutes.
+Turn the dough out onto a board. Using the heel of your hand, push bits of the dough (about 2 tablespoons) out in a smear, and then scrape back into the dough. The object is to coat every particle of flour with fat.  This method is known as fraiser. Scrape into a ball, divide, into two halves, and shape each half into a disk. Wrap with plastic wrap and refrigerate  for at least 30 minutes.
