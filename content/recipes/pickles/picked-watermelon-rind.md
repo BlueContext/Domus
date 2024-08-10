@@ -5,7 +5,7 @@ menu:
   main:
     parent: pickles
 title:  Pickled Watermelon Rind
-serves: "Makes 10 pint"
+serves: "Makes 10 pints"
 summary: "Translucent pale green with bits of red, this makes a beautiful relish at the holiday table. The flavor is sweet – sweeter than a sweet pickle – and tangy, scented with clove and cinnamon. This is an old southern favorite and well worth trying! The whole spices are important for the flavor, but best picked out before serving. This is a bit of a project, but worth trying."
 categories:
 - All Recipes
