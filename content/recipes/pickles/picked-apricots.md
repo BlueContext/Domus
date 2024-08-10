@@ -18,11 +18,11 @@ tags:
 
 <div class="ingredient-list"> 
 
-* ¾ c. white wine vinegar
-* ¾ c. water
+* ¾ cup white wine vinegar
+* ¾ cup water
 * 3 tbsp. Turbinado sugar
 * 1 tbsp. yellow mustard seeds
-* 2 c. dried apricots 
+* 2 cups dried apricots 
 
 </div>
 

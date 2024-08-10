@@ -19,8 +19,8 @@ tags:
 <div class="ingredient-list"> 
 
 * 1 large red onion, sliced very thinly
-* ½ c. sugar
-* ½ c. white wine vinegar
+* ½ cup sugar
+* ½ cup white wine vinegar
 * 1 ½ tsp. salt
 * ½ tsp. whole black peppercorns
 * 1 allspice berry
