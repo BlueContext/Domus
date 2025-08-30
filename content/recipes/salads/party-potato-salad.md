@@ -13,6 +13,7 @@ categories:
 tags:
 - Party Food
 - Classics
+- Southern Favorites
 ---
 Sometimes, when you do the final mix you may find you want a couple more tablespoons of mayonnaise — simply add a tablespoon at a time until you have a consistency you like.
 
@@ -23,15 +24,16 @@ Sometimes, when you do the final mix you may find you want a couple more tablesp
 * 5 lbs russet potatoes (about 9 medium), peeled and cut into 3/4-inch cubes.  
 * 1/4 cup white wine vinegar  
 * 2 cups mayonnaise  
-* 2 medium ribs celery, chopped fine  
+* 2-3 medium ribs celery, chopped fine  
 * 1 jalapeño pepper, seeded and minced (optional)  
 * 1/2 cup sweet pickle relish  
 * 1/3 cup minced red onion, soaked in cold water for 5 minutes and drained  
 * 2 scallions, minced very finely  
 * 1/4 cup minced fresh parsley  
-* 1 1/2 tsp celery seed  
-* 1 tsp powdered mustard  
-* 2 tbsp Dijon mustard  
+* 1 1/2 tsp. celery seed  
+* 1 1/2 tsp. powdered mustard  
+* 2 tbsp. Dijon mustard  
+* 1 tbsp. whole grain mustard
 * Tabasco sauce  
 * 4 large hard-boiled eggs, peeled and cut into a 1/4-inch dice  
 * Salt and black pepper   

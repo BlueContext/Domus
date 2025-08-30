@@ -15,6 +15,8 @@ tags:
 - Hors d'oeuvres 
 - Eggs
 - Party Food
+- Classics
+- Southern Favorites
 ---
 Egg whites are very bland, so season the filling highly. 
 
@@ -24,10 +26,11 @@ Egg whites are very bland, so season the filling highly.
 <div class="ingredient-list">
 
 * 6 hard-boiled large eggs  
-* 2 tbsp. Mayonnaise   
+* 2 tbsp. mayonnaise   
+* 1 tbsp. softened butter
 * 1 tbsp. Dijon mustard  
-* 3/4 tsp. Dry mustard  
-* 3 tbsp trained sweet pickle relish, minced very finely  
+* 3/4 tsp. dry mustard  
+* 3 tbsp strained sweet pickle relish, minced very finely  
 * 2 tsp grated onions, minced very finely  
 * Small capers and sweet paprika for garnish  
 
@@ -42,10 +45,10 @@ Halve the eggs lengthwise. Push the yolks through a sieve into a bowl, and mix i
 <div class="ingredient-list">
 
 * 4 hard-boiled large eggs  
-* 3 tbsp. Mayonnaise   
-* 1/4 c. Sour cream  
-* 4 tsp. Drained and squeezed bottled horseradish  
-* 1 1/2 tbsp. Minced parsley leaves   
+* 3 tbsp. mayonnaise   
+* 1/4 c. sour cream  
+* 4 tsp. drained and squeezed bottled horseradish  
+* 1 1/2 tbsp. minced parsley leaves   
 
 </div>
 
