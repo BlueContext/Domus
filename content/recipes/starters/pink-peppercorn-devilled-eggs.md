@@ -15,6 +15,7 @@ tags:
 - Hors d'oeuvres 
 - Eggs
 - Party Food
+- Southern Favorites
 ---
 Everybody likes deviled eggs, and once you master hard-boiling the eggs they’re a snap to make (see my note below). 
 
@@ -27,14 +28,14 @@ Using the same basic ratio of mayonnaise and butter to 1 dozen egg yolks, this f
 * #### For Eggs:
   * 1 dozen eggs, hard-boiled, chilled and peeled  
   * A handful of baby arugula, spring greens mix, or microgreens  
-  * 2 tbsp softened butter  
+  * 2 tbsp. softened butter  
   * A scant 1/4 cup mayonnaise  
-  * A scant tbsp of Dijon mustard  
+  * 1 tbsp. of Dijon mustard  
   * 1 cornichon, minced as finely as you possibly can  
   * 1 spoonful of the cornichon pickling brine  
-  * 1 small (or 1/2 large) shallot, minced as finely as possible  
+  * 1/2 shallot, minced as finely as possible  
   * 4 slices pickled jalapenos, minced as finely as possible  
-  * 2 tsp freshly ground pink peppercorns  
+  * 2 tsp. freshly ground pink peppercorns  
   * Salt, black pepper, Tabasco sauce, and seasoned salt to taste  
   * 1/4 cup pickled pink peppercorns (see below)  
   * 
@@ -43,7 +44,7 @@ Using the same basic ratio of mayonnaise and butter to 1 dozen egg yolks, this f
   * 1/2 cup white wine vinegar  
   * 1/2 cup sugar  
   * 1/4 cup water  
-  * 1 tsp salt  
+  * 1 tsp. salt  
 
 </div>
 
