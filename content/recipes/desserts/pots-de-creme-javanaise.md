@@ -6,7 +6,7 @@ menu:
     parent: desserts
 title:  Pots de Creme Javanaise
 serves: "Serves 6"
-summary: ""
+summary: "A rich and delicious classical French dessert that can be prepared well in advance."
 categories:
 - All Recipes
 - Desserts
