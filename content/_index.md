@@ -15,7 +15,7 @@ I always have. Feeding myself and my loved ones has always seemed like more of a
 
 ## This is my site
 
-This is just a place for me to stash my recipes and thoughts on cooking. It has a secondary purpose of letting me tinker with static web sites and the [Hugo framework](https://gohugo.io/ "Hugo"). My goal is for this is be and remain simple, fast and as easy as a printed book.
+This is just a place for me to stash my recipes. It has a secondary purpose of letting me tinker with static web sites and the [Hugo framework](https://gohugo.io/ "Hugo"). My goal is for this is be and remain as simple and readable as a printed book.
 {{< /columns >}}
 
 
