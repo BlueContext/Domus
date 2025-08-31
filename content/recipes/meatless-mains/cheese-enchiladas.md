@@ -15,6 +15,7 @@ tags:
 - Tex-Mex
 - Main Dish
 - Classics
+- Texas Classics
 ---
 Be sure to get Longhorn cheese, as it has the perfect melting qualities without being oily. Buy a block of cheese and grate it yourself — pre-grated cheese has anti-clumping additives that interfere with smooth melting.
 

@@ -12,6 +12,8 @@ categories:
 - Desserts
 tags: 
 - Blueberry
+- Texas Classics
+- Southern Favorites
 ---
 
 ### Ingredients
