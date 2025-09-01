@@ -3,13 +3,15 @@
   {{ if eq $taxonomy "categories"  }}
   <div class="taxonomy">
     {{ range $n, $term := $terms }}{{ if gt $n 1 }}, {{ end }}
-      {{ if $n }}<a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>{{ end }}
+      <!-- {{ if $n }}<a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>{{ end }} -->
+        {{ if $n }}<span>{{ $term.Title }}</span>{{ end}}
     {{- end }}
   </div>
 {{ else }}
   <div class="taxonomy">
     {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
-      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a> 
+      <!-- <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>  -->
+       <span>{{ $term.Title }}</span>
     {{- end }}
   </div>
 {{ end }}
