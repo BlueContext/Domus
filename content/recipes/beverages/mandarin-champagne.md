@@ -6,7 +6,7 @@ menu:
     parent: beverages
 title: Mandarin Champagne Cocktail
 serves: "Serves 1"
-summary: ""
+summary: "."
 categories:
 - All Recipes
 - Beverages

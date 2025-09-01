@@ -11,7 +11,6 @@ categories:
 - All Recipes
 - Sauces
 tags:
-- Sauces
 ---
 
 ### Ingredients

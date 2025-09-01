@@ -6,7 +6,7 @@ menu:
     parent: pickles
 title:  Sweet Red Pepper Relish
 serves: "Makes 1 1/2 pints"
-summary: ""
+summary: "."
 categories:
 - All Recipes
 - Relish

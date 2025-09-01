@@ -6,7 +6,7 @@ menu:
     parent: beverages
 title: Irish Coffee
 serves: "Serves 4"
-summary: ""
+summary: "."
 categories:
 - All Recipes
 - Beverages

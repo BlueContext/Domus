@@ -6,7 +6,7 @@ menu:
     parent: beverages
 title: Champagne Punch
 serves: "Makes enough for a party"
-summary: ""
+summary: "."
 categories:
 - All Recipes
 - Beverages
