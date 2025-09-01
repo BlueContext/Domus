@@ -1,4 +1,4 @@
----
+<!-- ---
 menu:
   after:
     name: blog
@@ -7,4 +7,4 @@ menu:
     parent: content
 title: Blog
 bookHidden: true
----
+--- -->
