@@ -1,4 +1,4 @@
-<!-- {{ range $taxonomy, $_ := .Site.Taxonomies }}
+{{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
     {{ if eq $taxonomy "categories"  }}
       <div class="taxonomy">
@@ -14,7 +14,7 @@
       </div>
     {{ end }}
   {{ end }}
-{{ end }} -->
+{{ end }} 
 
 {{ if .Params.image }}
 <p>
