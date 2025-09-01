@@ -6,7 +6,7 @@ menu:
     parent: pickles
 title:  Pear Chutney
 serves: "Makes 5 pints"
-summary: ""
+summary: "."
 categories:
 - All Recipes
 - Relish

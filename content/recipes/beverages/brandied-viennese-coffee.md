@@ -6,7 +6,7 @@ menu:
     parent: beverages
 title: Brandied Viennese Coffee
 serves: "Serves 4"
-summary: ""
+summary: "."
 categories:
 - All Recipes
 - Beverages

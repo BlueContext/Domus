@@ -6,7 +6,7 @@ menu:
     parent: pasta
 title:  Spaghetti & Meatballs
 serves: "Serves 6"
-summary: "TThese are the best meatballs you’ll ever have. The mixture of beef, veal and pork is critical to achieving a perfect texture and flavor."
+summary: "These are the best meatballs you’ll ever have. The mixture of beef, veal and pork is critical to achieving a perfect texture and flavor."
 categories:
 - All Recipes
 - Pasta & Noodles

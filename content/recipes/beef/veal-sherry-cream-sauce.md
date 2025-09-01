@@ -6,7 +6,7 @@ menu:
     parent: beef
 title: Veal with Sherry Cream Sauce
 serves: "Serves 4"
-summary: ""
+summary: "."
 categories:
 - All Recipes
 - Beef

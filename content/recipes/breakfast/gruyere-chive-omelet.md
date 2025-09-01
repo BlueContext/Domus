@@ -6,7 +6,7 @@ menu:
     parent: breakfast
 title: Gruyere & Chive Omelet
 serves: "Serves 4"
-summary: "Every bite of this omelet full of crunchy, mustardy croutons is a masterpiece of texture and flavor."
+summary: "."
 categories:
 - All Recipes
 - Eggs
