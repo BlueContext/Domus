@@ -19,6 +19,7 @@ The crème de cassis is optional, but something of a secret ingredient here. It'
 ### Ingredients
 
 <div class="ingredient-list">
+
 * 4 cups fresh blueberries, washed and dried 
 * 1/2 cup sugar, plus extra for sprinkling  
 * 1/2 cup flour  
