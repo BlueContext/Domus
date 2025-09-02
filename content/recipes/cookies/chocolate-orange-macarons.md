@@ -15,7 +15,6 @@ tags:
 - Christmas Cookies
 - French
 ---
-A few days before you make the cookies, get a good 6 cups of confectioner's sugar and a vanilla bean or two.  Split the vanilla bean(s) lengthwise, and pack them in an airtight container with the powdered sugar.  Over the next few days, the flavor and aroma from the vanilla beans will suffuse the sugar, giving you a fantastic vanilla sugar coat the finished cookies with. 
 
 ### Ingredients
 
