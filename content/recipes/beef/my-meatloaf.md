@@ -34,8 +34,7 @@ Finally, Tiger Sauce is a spicy-sweet condiment available at most grocery stores
 * 1 large red or orange bell pepper, finely diced  
 * 3 cloves garlic, minced  
 * 1 cup panko bread crumbs  
-* 1/3 cup Heinz Chili Sauce or ketchup  
-* 1 tbsp Tiger Sauce (optional)  
+* 1/3 cup Heinz Chili Sauce or ketchup   
 * 2 oz finely grated Parmesan cheese (1/2 cup)  
 * 2 oz finely shredded Jarlsberg or Swiss cheese (1/2 cup)  
 * 1 tbsp dry Sherry  
