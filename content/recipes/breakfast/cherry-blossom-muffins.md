@@ -11,6 +11,7 @@ categories:
 - All Recipes
 - Breads
 - Breakfast & Brunch
+- Cakes & Muffins
 tags:
 - Brunch
 - Breakfast
