@@ -3,16 +3,19 @@ author: "Kevin Baker"
 linktitle: Orange Muffins
 menu:
   main:
-    parent: cakes
+    parent: breakfast
 title: Orange Muffins
 serves: "Makes 12 muffins"
 summary: "These are fragrant and not overly sweet, with crispy edges and a tasty streusel topping. This easy recipe comes from a church cookbook published by the Church of Reconciliation (Episcopal) in San Antonio in the early 70s."
 categories:
 - All Recipes
+- Breads
+- Breakfast & Brunch
 - Cakes & Muffins
 tags:
 - Orange
 - Brunch
+- Breakfast
 ---
 
 ### Ingredients

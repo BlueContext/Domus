@@ -1,11 +1,11 @@
 ---
-linktitle: Cookies
+linktitle: Cookies & Bars
 menu:
   main:
     parent: cookies
   after:
     name: cookies
     weight: 18
-title: Cookies
+title: Cookies & Bars
 bookCollapseSection: true
 ---
