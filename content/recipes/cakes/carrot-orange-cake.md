@@ -36,14 +36,13 @@ tags:
   * 1 1/2 tsp. vanilla
   * 1 tsp. grated orange zest
 
-  * 
 * #### For the Frosting:
   * 8 oz cream cheese, room temperature
   * 1 stick unsalted butter, room temperature
   * 1 lb (3 3/4 cups) confectioners' sugar
   * 1-2 tbsp fresh lemon juice (to taste)
   * Toasted finely chopped pecans for topping (optional)
-  * 
+
 </div>
 
 ### Instructions
